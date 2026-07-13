@@ -1,0 +1,21 @@
+index.html
+  s_9b6ac5d4cc4d14::t_e0ce6f1a0d48f6 6
+public/robots.txt
+  s_9b6ac5d4cc4d14::t_1fe2505e0548ab 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "ddf96e33cdffa83c8f8feec375afe62bbf601a08",
+  "prompts": {},
+  "sessions": {
+    "s_9b6ac5d4cc4d14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ea4317fe-41e2-4e69-b384-e028ba12fbe7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    }
+  }
+}
