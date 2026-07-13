@@ -1,0 +1,11 @@
+# Intent versus reality
+
+Session: 20260712-233722
+
+| intent_id | Expected truth | Observed reality | Diff | Violated invariant | Intent source | Supporting observations | Status | Claim ids |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I1 | Every company currently displayed by the site is searched for public or browsable sample data. | All 132 companies received exact-name and organization-level countersearch; at least 50 expose attributable data surfaces. | No remaining coverage gap in the current company corpus. | Company coverage. | User request. | Company collections report. | true | C1 |
+| I2 | Discovery is also benchmark-first and environment-first, so publishers absent from the company list are found. | Sixteen independent ecosystem axes plus three root waves surfaced hundreds of additional data-bearing releases. | Prior breadth gap is removed for the current verification date. | Ecosystem coverage. | User correction. | Synthesis and worker reports. | true | C2 |
+| I3 | Every catalog entry has a canonical URL, clear publisher attribution, a useful description, and an explicit access state. | The deterministic importer and compiler reconcile 1,360 candidates into 1,083 retained public surfaces, 213 aliases, and 64 exclusions; schema checks require useful family descriptions and surface-local access/provenance. | None for the verified 2026-07-12 registry. | Data integrity. | User request and site evidence contract. | Worker reports, decision manifest, generated corpus, and skeptic audit. | true | C3 |
+| I4 | Mercor APEX-Agents, OpenAI GDPval, and Aviro C4 Samples are included. | All three canonical URLs are known. | None observed. | Required minimum. | User request. | Direct pages. | true | C4 |
+| I5 | The final registry is deduplicated by dataset identity rather than treating viewers, repositories, papers, and leaderboards as separate datasets. | The compiler groups 1,083 public surfaces into 925 dataset families, preserves legitimate companion links within each family, and rejects normalized duplicate URLs. | None for the verified 2026-07-12 registry. | Canonical identity. | Research design. | Decision manifest, generated corpus, and deterministic/offline checks. | true | C5 |

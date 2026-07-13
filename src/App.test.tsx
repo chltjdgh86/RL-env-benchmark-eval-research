@@ -1,4 +1,4 @@
-import { render, screen } from "@testing-library/react"
+import { fireEvent, render, screen, waitFor } from "@testing-library/react"
 import { axe } from "jest-axe"
 import { App } from "./App"
 
@@ -22,6 +22,44 @@ describe("App scaffold", () => {
     expect(screen.getByRole("link", { name: "Field guide" })).toHaveAttribute(
       "aria-current",
       "page",
+    )
+  })
+
+  it("renders the dedicated dataset route with its query", async () => {
+    window.history.replaceState({}, "", "#/datasets?q=GDPval")
+    render(<App />)
+
+    expect(
+      await screen.findByRole("heading", { level: 2, name: "The dataset registry" }),
+    ).toBeVisible()
+    expect(screen.getByRole("searchbox", { name: "Search datasets" })).toHaveValue("GDPval")
+    expect(screen.getByRole("heading", { name: "GDPval" })).toBeVisible()
+    expect(
+      screen.queryByText("Filter by segment, business model, or company"),
+    ).not.toBeInTheDocument()
+  })
+
+  it("keeps dataset search synchronized with the route hash", async () => {
+    window.history.replaceState({}, "", "#/datasets?q=GDPval")
+    render(<App />)
+
+    const search = await screen.findByRole("searchbox", { name: "Search datasets" })
+    fireEvent.change(search, { target: { value: "Browserbase Stagehand" } })
+    expect(window.location.hash).toBe("#/datasets?q=Browserbase%20Stagehand")
+  })
+
+  it("updates shell navigation from the replaced dataset query state", async () => {
+    window.history.replaceState({}, "", "#/datasets?q=GDPval")
+    render(<App />)
+
+    const search = await screen.findByRole("searchbox", { name: "Search datasets" })
+    fireEvent.change(search, { target: { value: "Browserbase Stagehand" } })
+
+    await waitFor(() =>
+      expect(screen.getByRole("link", { name: "Companies" })).toHaveAttribute(
+        "href",
+        "#/companies?q=Browserbase%20Stagehand",
+      ),
     )
   })
 

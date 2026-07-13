@@ -1,14 +1,15 @@
 import { expect, type Page, test } from "@playwright/test"
 
-const atlasRoutes = ["guide", "companies", "showcase"] as const
+const atlasRoutes = ["guide", "companies", "datasets", "showcase"] as const
 const routeHeadings = {
   guide: "The post-training economy, explained",
   companies: "The company landscape",
+  datasets: "The dataset registry",
   showcase: "Primitive showcase",
 } satisfies Record<(typeof atlasRoutes)[number], string>
 const visualEvidencePath = ".omo/visual-qa/current"
 
-const captureViewportEvidence = async (page: Page, path: string) => {
+const captureViewportEvidence = async (page: Page, path: string, maximumSegments?: number) => {
   const viewportHeight = page.viewportSize()?.height ?? 900
   const documentHeight = await page.evaluate(() => document.documentElement.scrollHeight)
   const offsets = [
@@ -21,7 +22,7 @@ const captureViewportEvidence = async (page: Page, path: string) => {
 
   await page.evaluate(() => window.scrollTo(0, 0))
   await page.screenshot({ path, fullPage: false })
-  for (const offset of offsets.slice(1)) {
+  for (const offset of offsets.slice(1, maximumSegments)) {
     await page.evaluate((scrollOffset) => window.scrollTo(0, scrollOffset), offset)
     await page.screenshot({
       path: path.replace(/\.png$/u, `-segment-${offset}.png`),
@@ -59,7 +60,11 @@ for (const route of atlasRoutes) {
     expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
     await expect(page.getByRole("heading", { level: 1, name: "RL Economy Atlas" })).toHaveCount(1)
     await expect(page.getByRole("heading", { level: 2, name: routeHeadings[route] })).toBeVisible()
-    await captureViewportEvidence(page, `${visualEvidencePath}/desktop-${route}-1280x900.png`)
+    await captureViewportEvidence(
+      page,
+      `${visualEvidencePath}/desktop-${route}-1280x900.png`,
+      route === "datasets" ? 2 : undefined,
+    )
   })
 
   test(`${route} reflows without document overflow at 320px`, async ({ page }) => {
@@ -77,6 +82,10 @@ for (const route of atlasRoutes) {
     expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
     await expect(page.getByRole("heading", { level: 1, name: "RL Economy Atlas" })).toHaveCount(1)
     await expect(page.getByRole("heading", { level: 2, name: routeHeadings[route] })).toBeVisible()
-    await captureViewportEvidence(page, `${visualEvidencePath}/mobile-${route}-320x900.png`)
+    await captureViewportEvidence(
+      page,
+      `${visualEvidencePath}/mobile-${route}-320x900.png`,
+      route === "datasets" ? 2 : undefined,
+    )
   })
 }

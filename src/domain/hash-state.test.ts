@@ -32,7 +32,7 @@ describe("canonical hash grammar", () => {
     // Given the public hash constants
     // When their values are read
     // Then they match the complete route contract
-    expect(HASH_SECTIONS).toEqual(["guide", "companies", "showcase"])
+    expect(HASH_SECTIONS).toEqual(["guide", "companies", "datasets", "showcase"])
     expect(HASH_QUERY_KEYS).toEqual([
       "q",
       "company",
@@ -76,6 +76,14 @@ describe("canonical hash grammar", () => {
 
     // Then values use strict percent encoding rather than form or fragment syntax
     expect(serialized).toBe("#/companies?q=R%26D%20%2F%20%28pilot%29%21")
+  })
+
+  it("round-trips the dataset route with its initial search query", () => {
+    const result = parseHash("#/datasets?q=browser%20tasks", references)
+
+    expect(result.warnings).toEqual([])
+    expect(result.state.section).toBe("datasets")
+    expect(serializeHash(result.state)).toBe("#/datasets?q=browser%20tasks")
   })
 
   it("preserves a valid encoded UTF-8 BOM inside a query value", () => {

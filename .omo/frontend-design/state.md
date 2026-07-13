@@ -1,6 +1,6 @@
 # Frontend Design State: The RL Economy Atlas
 
-Last updated: 2026-07-11  
+Last updated: 2026-07-13
 Mode: Auto within the approved build request  
 Phase: Design contract complete; primitive implementation and verification pending
 
@@ -26,6 +26,7 @@ Build a responsive, source-first research atlas that lets a reader understand th
 | Implementation stack | Static Vite + React + strict TypeScript, local versioned corpus | Approved project plan; no backend, auth, CMS, analytics, or live scraper |
 | Factual cutoff | Current-state evidence cutoff is 2026-07-11 | Prevents silent drift; future refreshes must update the date and affected source observations |
 | Post-cutoff supplement | 2026-07-12 user/Exa discoveries are a labeled supplemental census and cannot establish cutoff-current status or scores without dated pre-cutoff evidence | Keeps the locked cutoff honest while allowing new leads to remain searchable as time-unknown, historical/acquired, or unresolved records |
+| Dataset registry | Dedicated `#/datasets` route; public artifacts verified 2026-07-12; 925 families and 1,083 surfaces with coverage outcomes for 132 companies | Keeps dataset discovery exhaustive and auditable without allowing the artifact index to mutate cutoff-current company claims or scores |
 | Motion | Evidence opacity trace and compact rail reveal only | Motion must explain relationship or state; reduced motion makes all transitions immediate |
 
 ## Source Inputs
@@ -309,3 +310,16 @@ No debt is accepted at this stage. Critical and Major issues are blockers, not d
 ## Retrospective
 
 Pending implementation and final verification. Record fix rounds, reference-fidelity lessons, persona outcomes, final debt health, and evidence paths here after the production surface passes review.
+
+## Dataset Registry Extension · 2026-07-13
+
+- Route: `#/datasets`; navigation label `Datasets`; company-global facets stay hidden on this route.
+- Composition: exhaustive category registers with rule-separated family records, full descriptions, and distinct public source links; no card grid, shadow, radius, gradient, or logo wall.
+- Controls: local search plus category, artifact, access, and provenance checkboxes; category is family-scoped, while artifact/access/provenance must match the same public surface; OR within facets and AND across; one reversible reset and an explicit empty state.
+- Evidence: 925 deduplicated families and 1,083 public surfaces verified 2026-07-12; a collapsed ledger distinguishes attributed companies from exact-name no-hit searches across all 132 companies.
+- Surface detail: each source link carries its own kind, access, provenance, artifact labels, hostname, verification date, optional version, and an accessible new-tab notice.
+- State and focus: query state is replace-synchronized to the hash URL; the route is lazy-loaded; route changes focus the H1; filters retain initiating-control focus; one polite live region owns result announcements.
+- Typography: Barlow Condensed, Newsreader Variable, and IBM Plex Mono are bundled from version-pinned packages; the page makes no third-party font requests.
+- Performance policy: render every family semantically and use only progressive `content-visibility` paint containment. No pagination or virtualization may make the researched corpus undiscoverable.
+- Responsive policy: one record column through medium widths, two editorial columns at wide widths; facet grid moves one to two to four columns; all controls retain the existing 44px target contract.
+- Required QA: default, query, facet, and zero-result states at 320, 375, 768, and 1280 CSS px; text spacing, 200% and 400%-equivalent reflow, reduced motion, forced colors, keyboard, axe, and page-width checks.

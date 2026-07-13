@@ -20,6 +20,16 @@ export default defineConfig({
   fullyParallel: false,
   retries: 0,
   reporter: "line",
+  ...(process.env["PLAYWRIGHT_BASE_URL"] === undefined
+    ? {
+        webServer: {
+          command: "bun run build && bun run preview --host 127.0.0.1 --port 4173 --strictPort",
+          reuseExistingServer: false,
+          timeout: 120_000,
+          url: "http://127.0.0.1:4173",
+        },
+      }
+    : {}),
   use: {
     baseURL: process.env["PLAYWRIGHT_BASE_URL"] ?? "http://127.0.0.1:4173",
     launchOptions: selectedExecutable === undefined ? {} : { executablePath: selectedExecutable },

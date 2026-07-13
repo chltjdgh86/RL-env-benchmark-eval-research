@@ -10,7 +10,16 @@ export function SkipLink({
   targetId = "main-content",
 }: SkipLinkProps) {
   return (
-    <a className="skip-link" href={`#${targetId}`}>
+    <a
+      className="skip-link"
+      href={`#${targetId}`}
+      onClick={(event) => {
+        event.preventDefault()
+        const target = document.getElementById(targetId)
+        target?.focus({ preventScroll: true })
+        target?.scrollIntoView?.({ block: "start" })
+      }}
+    >
       {children}
     </a>
   )
@@ -101,7 +110,9 @@ export function Masthead({
   return (
     <header className="dossier-header">
       <p className="kicker">{edition}</p>
-      <Heading className="atlas-type">{title}</Heading>
+      <Heading className="atlas-type" tabIndex={headingLevel === 1 ? -1 : undefined}>
+        {title}
+      </Heading>
       <p className="deck">{strapline}</p>
       {corpusStatus === undefined ? null : (
         <p aria-live="polite" className="evidence-text" role="status">

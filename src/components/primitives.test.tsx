@@ -72,6 +72,24 @@ describe("editorial primitives", () => {
     expect(skipLink).toHaveAttribute("href", "#main-content")
   })
 
+  it("focuses the skip target without replacing the application route", async () => {
+    const user = userEvent.setup()
+    window.history.replaceState({}, "", "#/datasets")
+    render(
+      <>
+        <SkipLink />
+        <main id="main-content" tabIndex={-1}>
+          Registry
+        </main>
+      </>,
+    )
+
+    await user.click(screen.getByRole("link", { name: "Skip to main content" }))
+
+    expect(screen.getByRole("main")).toHaveFocus()
+    expect(window.location.hash).toBe("#/datasets")
+  })
+
   it("renders a numbered section ribbon as a real heading", () => {
     // Given: a ruled atlas section with a supporting action.
     render(

@@ -2,6 +2,7 @@
 
 Status: implementation contract  
 Evidence cutoff: 2026-07-11  
+Dataset verification date: 2026-07-12
 Reference-fidelity target: `.omo/frontend-design/references/rl-economy-atlas-concept.png`
 
 This file is the source of truth for visual and interaction decisions. Any new color, type size, spacing value, reusable primitive, or motion rule must be declared here before application code uses it.
@@ -15,6 +16,7 @@ This file is the source of truth for visual and interaction decisions. Any new c
 - **Reference extraction:** the selected concept uses a wide masthead, a left atlas rail, a large semantic market-map canvas, a narrow evidence/context rail, and two rule-separated comparison tables below. The memorable moment is an orange radial evidence network converging on a black center. It uses cream paper, near-black ink, electric orange, condensed display lettering, compact mono evidence markers, square controls, and no shadows or rounded cards.
 - **Content caveat:** names, counts, dates, evidence IDs, and example companies shown in the generated concept are layout placeholders. The implementation must render only the verified research corpus. The image is a visual contract, not a factual source.
 - **Post-cutoff discovery supplement:** company leads supplied or searched on 2026-07-12 may appear in a visibly labeled supplemental census, but they cannot establish cutoff-current status, buyer evidence, or strategy scores without a dated pre-cutoff source. Post-cutoff-only and unresolved records render as `TIME UNKNOWN`, historical/acquired context, or explicit research leads; they are never silently backdated to the 2026-07-11 evidence cutoff.
+- **Dataset evidence surface:** the public-dataset registry was verified on 2026-07-12 and remains separate from cutoff-current company claims. It may establish a public artifact and its access surface, but not adoption, efficacy, revenue, buyer evidence, or company status.
 
 ## 1. Atmosphere & Identity
 
@@ -142,7 +144,7 @@ Three families are intentional. The atlas needs a condensed structural voice, a 
 ### Font stacks
 
 - **Display and UI:** `"Barlow Condensed", "Arial Narrow", sans-serif` — masthead, navigation, section ribbons, controls, table headings.
-- **Editorial body:** `"Newsreader", Georgia, serif` — paragraphs, dossier narrative, explanatory decks, quotations.
+- **Editorial body:** `"Newsreader Variable", Georgia, serif` — paragraphs, dossier narrative, explanatory decks, quotations.
 - **Evidence and figures:** `"IBM Plex Mono", "SFMono-Regular", Consolas, monospace` — source IDs, dates, metrics, timeline ticks, small technical labels.
 
 Use self-hosted WOFF2 assets or `@fontsource` packages with `font-display: swap`. Load only required weights and character subsets. The fallback layout must remain usable without web fonts.
@@ -509,6 +511,19 @@ Depth is communicated by rule weight and inversion, not by simulated elevation.
 - No `box-shadow`, `filter: drop-shadow`, blur, glass, translucent overlay, or nested framed card stack.
 - Drawers and dialogs use a 2px ink boundary plus an opaque paper backdrop. The page scrim may use solid/semitransparent ink; it is not blurred.
 - Print styles remove sticky positioning and texture, expand disclosures, preserve evidence labels, and print source URLs after source titles.
+
+### Dataset registry composition
+
+- `#/datasets` is an exhaustive editorial index, not a dashboard. Families sit in rule-separated category registers; related repositories, viewers, downloads, and leaderboards remain source links inside the family record.
+- Search and the four dataset facets use the existing square control, focus, rule, paper, and selected-state treatments. Category is family-scoped. Artifact, access, and provenance remain orthogonal but must match the same public surface; selection is OR within one facet and AND across facets.
+- Every public surface exposes its own kind, access, provenance, artifact labels, hostname, verification date, and version when known. Links that open a new tab say so in their accessible names.
+- The collapsed company-coverage ledger reports attributed and exact-name no-hit outcomes across all 132 companies. A no-hit is a bounded search result, never proof that no dataset exists.
+- Every family keeps its complete description and link labels in the DOM. `content-visibility: auto` may reduce paint work, but it must not virtualize, truncate, paginate, or remove records from keyboard and assistive-technology access.
+- Wide layouts may use two editorial columns inside a category. Compact layouts collapse to one column, preserve 44px filter targets, and never introduce page-level horizontal scrolling.
+- Results always state family and public-surface totals. Zero results use a visible recovery message and the same reset control; filter changes retain focus at the initiating control.
+- Only one polite live region announces result changes. The filter disclosure says `Show filters` or `Hide filters`; route changes move focus to the page H1, while query state is replace-synchronized to the hash URL.
+- The dataset route and corpus load lazily. Bundled, version-pinned fonts prevent third-party font requests and preserve the declared typographic roles.
+- The registry introduces no new color, type, spacing, elevation, radius, or motion token. Rules and typographic roles carry hierarchy; cards, shadows, pills, gradients, and decorative dataset logos remain prohibited.
 
 ## 8. Accessibility Constraints & Accepted Debt
 

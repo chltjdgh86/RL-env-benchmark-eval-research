@@ -15,7 +15,7 @@ import type {
 } from "./enums"
 import type { BuyerEvidenceId, ClaimId, CompanyId, SourceId } from "./ids"
 
-export const HASH_SECTIONS = ["guide", "companies", "showcase"] as const
+export const HASH_SECTIONS = ["guide", "companies", "datasets", "showcase"] as const
 export const HASH_QUERY_KEYS = [
   "q",
   "company",

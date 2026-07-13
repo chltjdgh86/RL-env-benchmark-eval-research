@@ -18,7 +18,7 @@
   --paper-inverse: #fbf8f0;
 
   --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
-  --font-body: "Newsreader", Georgia, serif;
+  --font-body: "Newsreader Variable", Georgia, serif;
   --font-evidence: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
   --type-atlas: clamp(2.5rem, 4.5vw, 4.25rem);
   --type-display: clamp(2rem, 3.4vw, 3.25rem);

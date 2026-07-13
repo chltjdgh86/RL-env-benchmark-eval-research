@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "research:check": "node scripts/research/check-corpus.mjs",
+    "research:datasets:check": "node scripts/research/import-dataset-evidence.mjs --check && node scripts/research/build-dataset-registry.mjs --check && node scripts/research/check-dataset-links.mjs --offline",
     "research:render": "node scripts/research/render-synthesis.mjs --check",
     "research:fallback": "node scripts/research/render-public-fallback.mjs --check",
     "research:semantic-audit": "node scripts/qa/render-semantic-audit.mjs --check",
@@ -17,14 +18,18 @@
     "check:rendered-claims": "node scripts/qa/check-rendered-claims.mjs",
     "check:semantic-audit": "node scripts/qa/render-semantic-audit.mjs --check && node scripts/qa/check-semantic-audit.mjs",
     "check:links": "node scripts/research/check-links.mjs",
+    "check:dataset-links": "node scripts/research/check-dataset-links.mjs --strict-live",
     "check:seo": "node scripts/qa/check-seo.mjs",
     "check:devtools": "node scripts/qa/check-devtools.mjs",
     "doctor": "react-doctor .",
     "build": "node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build",
     "preview": "vite preview",
-    "verify:all": "bun run research:check && bun run research:render && bun run check:semantic-audit && bun run typecheck && bun run lint && bun run check:no-excuses && bun run test:unit && bun run build && bun run check:devtools"
+    "verify:all": "bun run research:check && bun run research:datasets:check && bun run research:render && bun run check:semantic-audit && bun run typecheck && bun run lint && bun run check:no-excuses && bun run test:unit && bun run build && bun run check:devtools"
   },
   "dependencies": {
+    "@fontsource-variable/newsreader": "5.2.10",
+    "@fontsource/barlow-condensed": "5.2.8",
+    "@fontsource/ibm-plex-mono": "5.2.7",
     "react": "19.2.7",
     "react-dom": "19.2.7",
     "zod": "4.4.3"

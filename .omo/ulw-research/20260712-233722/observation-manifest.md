@@ -1,0 +1,16 @@
+# Observation manifest
+
+| observation_id | Source path or URL | Evidence layer | Observer group | Independence basis | Observer | Observed at | Valid at | Artifact path | Quote or line anchor | Contamination notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| O1 | https://github.com/GAIR-NLP/AgencyBench + https://huggingface.co/datasets/GAIR/AgencyBench | primary | root ecosystem | exact follow-up from broad search | root | 2026-07-12 | 2026-07-12 | Exa result | official repo links dataset | live source may evolve |
+| O2 | https://huggingface.co/datasets/kendx/Harbor-Adapter | primary dataset card | root ecosystem | direct data-page discovery | root | 2026-07-12 | 2026-07-12 | Exa result | manifests and archived trajectories | independent publisher; attribution audit needed |
+| O3 | https://huggingface.co/datasets/NAIL-Group/ClawBench + https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace | primary | root ecosystem | companion counter-search | root | 2026-07-12 | 2026-07-12 | Exa result | task definitions vs raw traces | versioned family |
+| O4 | https://github.com/FinWorkBench/Finch + https://huggingface.co/datasets/FinWorkBench/Finch | primary | root ecosystem | repo and data page | root | 2026-07-12 | 2026-07-12 | Exa result | JSONL tasks and artifacts | current branch noted |
+| O5 | https://github.com/fdabench/FDAbench | primary | root ecosystem | repo links three official HF releases | root | 2026-07-12 | 2026-07-12 | Exa result | Lite, Full, File | companion surfaces need separate rows or grouped links |
+| O6 | https://github.com/ucsb-mlsec/DevOps-Gym | primary | root ecosystem | exact canonical search | root | 2026-07-12 | 2026-07-12 | Exa result | public benchmark and datasets | counts may drift |
+| O7 | https://huggingface.co/datasets/ign1s/AgentLongBench | primary dataset card | root ecosystem | code-to-data companion search | root | 2026-07-12 | 2026-07-12 | Exa result | data-only companion | publisher differs from repo org |
+| O8 | https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data | primary | root plus CUA axis | independent corroboration | root | 2026-07-12 | 2026-07-12 | Exa result | cross-platform GUI trajectories | large public release |
+| O9 | https://github.com/ServiceNow/EnterpriseOps-Gym + https://huggingface.co/datasets/ServiceNow-AI/EnterpriseOps-Gym | primary | root plus MCP axis | independent corroboration | root,mcp | 2026-07-12 | 2026-07-12 | Exa result | live MCP enterprise tasks | task count needs final canonical value |
+| O10 | https://github.com/xlang-ai/OSWorld-V2 + https://osworld-v2.xlang.ai/ | primary | root plus CUA axis | independent corroboration | root,cua | 2026-07-12 | 2026-07-12 | Exa result | public browser/assets, gated classes | very recent release |
+| O11 | https://huggingface.co/datasets/xlangai/AgentNet | primary | root plus CUA axis | independent corroboration | root,cua | 2026-07-12 | 2026-07-12 | Exa result | 22.6K desktop tasks | data card claim |
+| O12 | https://huggingface.co/datasets/ScaleAI/mrt + https://github.com/scaleapi/mrt | primary | root safety | repo/data corroboration | root | 2026-07-12 | 2026-07-12 | Exa result | monitoring trajectories and task pairs | grouped experiment corpus |

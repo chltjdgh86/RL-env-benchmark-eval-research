@@ -1,4 +1,4 @@
-import { render, screen, within } from "@testing-library/react"
+import { act, render, screen, waitFor, within } from "@testing-library/react"
 import { researchIndex } from "../data/research"
 import { AtlasShell } from "./AtlasShell"
 
@@ -49,16 +49,39 @@ describe("AtlasShell hash restoration", () => {
     expect(screen.getByText("Market fact-sheet · evidence as of 11 July 2026")).toBeVisible()
   })
 
+  it("keeps company facets off the dataset registry", () => {
+    window.history.replaceState({}, "", "#/datasets?q=browser")
+    render(<AtlasShell index={researchIndex} renderSection={(state) => <p>{state.section}</p>} />)
+
+    expect(screen.getByRole("link", { name: "Datasets" })).toHaveAttribute("aria-current", "page")
+    expect(
+      screen.queryByText("Filter by segment, business model, or company"),
+    ).not.toBeInTheDocument()
+  })
+
   it("exposes exactly the retained atlas sections in navigation", () => {
     window.history.replaceState({}, "", "#/guide")
     render(<AtlasShell index={researchIndex} renderSection={(state) => <p>{state.section}</p>} />)
 
     const navigation = screen.getByRole("navigation", { name: "Atlas sections" })
-    expect(within(navigation).getAllByRole("link")).toHaveLength(2)
+    expect(within(navigation).getAllByRole("link")).toHaveLength(3)
     expect(
       within(navigation)
         .getAllByRole("link")
         .map((link) => link.textContent),
-    ).toEqual(["Field guide", "Companies"])
+    ).toEqual(["Field guide", "Companies", "Datasets"])
+  })
+
+  it("moves focus to the atlas heading after a section route change", async () => {
+    window.history.replaceState({}, "", "#/guide")
+    render(<AtlasShell index={researchIndex} renderSection={(state) => <p>{state.section}</p>} />)
+    const heading = screen.getByRole("heading", { level: 1, name: "RL Economy Atlas" })
+
+    act(() => {
+      window.history.replaceState({}, "", "#/datasets")
+      window.dispatchEvent(new HashChangeEvent("hashchange"))
+    })
+
+    await waitFor(() => expect(heading).toHaveFocus())
   })
 })

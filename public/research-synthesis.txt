@@ -9,6 +9,7 @@
 - Strategy method: 70 executed positive/countersearch receipts across 5 vertical candidates and 7 fixed dimensions. Every lane was searched on 2026-07-12 against the 2026-07-11 cutoff; zero lanes remain `open_unverified`. The four business-entry models remain qualitative hypotheses.
 - Provenance: root seed SHA-256 `b3a7652702e7d08759084eded15f9fdee23c638c122c6862aab791a99a41f001`; 77 seed sources and 218 cited seed anchors are mapped or rejected in the migration ledger.
 - The 63-record adjacent census is quota-bounded and cutoff-locked. A separate post-cutoff discovery register reconciles 50 inputs into 47 additions, 2 core merges, and 1 unresolved lead without altering core scores or quotas.
+- A second post-cutoff discovery register (completeness sweep) adds 12 further entities from 12 verified sweep inputs, also without altering core scores or quotas.
 - An official offer page proves only that an offer was advertised, not adoption, efficacy, revenue, or active legal status.
 
 ## Highest-signal market findings
@@ -373,7 +374,7 @@
 
 > Observed 2026-07-12, after the 2026-07-11 evidence cutoff. These entries are not cutoff-current claims and remain outside the canonical claim graph until exact locators are captured.
 
-| Entity | Kind | Segment | Temporal treatment | Status | Candidate evidence | Canonical ready | 
+| Entity | Kind | Segment | Temporal treatment | Status | Candidate evidence | Canonical ready |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Kled AI](https://kled.ai) | company | training data workforce | historical offer only | unknown | [Kled V2 2025](https://www.kled.ai/datasets): “Kled V2 is now fully out of beta with no waitlist. Anyone can sign up instantly and begin earning by uploading their data.” | no |
 | [Luel](https://luel.ai) | company | training data workforce | historical offer only | unknown | [Luel raises $31.2M seed round led by General Catalyst and Lightspeed to build the global ground truth infrastructure for human data &#124; Luel](https://www.luel.ai/marketplace/video): “Luel matches vetted contributors, runs every submission through a proprietary quality-assurance pipeline, and delivers the finished dataset quickly.” | no |
@@ -424,6 +425,25 @@
 | [Snorkel AI](https://snorkel.ai) | company | training data workforce | historical offer only | unknown | [Data development &#124; Snorkel AI](https://snorkel.ai/data-development/): “Snorkel builds the human expert-authored datasets, evaluation environments, and benchmarks calibrated to push the limits of frontier model capability.” | no |
 
 Core merges: Refresh → co_refresh; Halluminate → co_halluminate. Unresolved: Originator (The waitlist-only first-party site does not disclose a concrete offer, delivery form, or explicit computer/browser-use scope. No taxonomy record was inferred.).
+
+## Post-cutoff supplemental discovery register 2 (completeness sweep)
+
+> Observed 2026-07-12 via a multi-modal discovery sweep (market maps, YC directory, funding press, competitor adjacency), after the 2026-07-11 evidence cutoff. These entries are not cutoff-current claims and remain outside the canonical claim graph until exact locators are captured.
+
+| Entity | Kind | Segment | Temporal treatment | Status | Candidate evidence | Canonical ready |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Vetto](https://vetto.ai) | company | training data workforce | time unknown | unknown | [Vetto — Data is an interface](https://vetto.ai/): “A research partner for post-training data — not just an annotation platform.” | no |
+| [Traverse](https://www.traverse.so) | company | environment computer use runtime | time unknown | unknown | [Traverse.so &#124; RL Environments for Frontier AI Labs](https://www.traverse.so/): “We give frontier AI labs training data that enables their models to acquire taste and handle ambiguous scenarios.” | no |
+| [Cartpole](https://cartpole.com) | company | environment computer use runtime | time unknown | unknown | [Cartpole: Building reinforcement learning environments &#124; Y Combinator](https://www.ycombinator.com/companies/cartpole): “Creating reinforcement learning environments for training frontier models” | no |
+| [Markov](https://www.markovstudios.com) | company | training data workforce | time unknown | unknown | [Markov: Data for computer-use ai &#124; Y Combinator](https://www.ycombinator.com/companies/markov): “We source high quality tasks and data to train the next generation of computer use AI models.” | no |
+| [Osmosis](https://osmosis.ai) | company | post training rl infrastructure | historical offer only | unknown | [Osmosis &#124; Forward Deployed Reinforcement Learning Platform](https://osmosis.ai/): “Forward Deployed Reinforcement Learning Platform” | no |
+| [RunRL](https://runrl.com) | company | post training rl infrastructure | historical offer only | unknown | [RunRL: Reinforcement learning as a service &#124; Y Combinator](https://www.ycombinator.com/companies/runrl): “Reinforcement learning as a service” | no |
+| [Applied Compute](https://appliedcompute.com) | company | post training rl infrastructure | historical offer only | unknown | [Applied Compute](https://appliedcompute.com/): “Applied Compute is the cloud for model training, inference, and continuous improvement.” | no |
+| [Adaptive ML](https://www.adaptive-ml.com) | company | post training rl infrastructure | acquired historical | acquired closed | [Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development](https://www.datadoghq.com/about/latest-news/press-releases/datadog-acquires-adaptive-ml-to-accelerate-its-investment-in-ai-research-and-development/): “world&#39;s first Reinforcement Learning Operations &#40;RLOps&#41; platform” | no |
+| [Veris AI](https://www.veris.ai) | company | environment computer use runtime | historical offer only | unknown | [Train your agents like you train your people &#124; Veris AI](https://www.veris.ai/): “Build Agents that Learn: Synthetic Feedback, Real Rewards, Safe Sandbox Environments” | no |
+| [Aboda AI](https://www.aboda.ai) | company | training data workforce | historical offer only | unknown | [Aboda AI &#124; AI Datasets for Ground Truth](https://www.aboda.ai/): “We have created huge quantities of data for leading AI labs, solving the world&#39;s most difficult tasks.” | no |
+| [The LLM Data Company](https://www.llmdata.com) | company | eval observability assurance | historical offer only | unknown | [The LLM Data Company](https://www.llmdata.com/): “Post-Training Models for Production Agents” | no |
+| [Origin Lab](https://originlab.ai) | company | training data workforce | historical offer only | unknown | [Origin Lab raises $8M to help video game companies sell data to world-model builders](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/): “Premium, Rights-Cleared Multimodal Content for AI Training” | no |
 
 ## Newcomer model countersearch
 

@@ -4,6 +4,9 @@
     "": {
       "name": "rl-economy-atlas",
       "dependencies": {
+        "@fontsource-variable/newsreader": "5.2.10",
+        "@fontsource/barlow-condensed": "5.2.8",
+        "@fontsource/ibm-plex-mono": "5.2.7",
         "react": "19.2.7",
         "react-dom": "19.2.7",
         "zod": "4.4.3",
@@ -137,6 +140,12 @@
     "@eslint/plugin-kit": ["@eslint/plugin-kit@0.7.2", "", { "dependencies": { "@eslint/core": "^1.2.1", "levn": "^0.4.1" } }, "sha512-+CNAzxglkrpNf/kKywqQfk74QjtceuOE7Qm+AF8miRvPF/wmmK5+OJOgVh3AVTT3RP2mH3+FOaxlE5v72owk0A=="],
 
     "@exodus/bytes": ["@exodus/bytes@1.15.1", "", { "peerDependencies": { "@noble/hashes": "^1.8.0 || ^2.0.0" }, "optionalPeers": ["@noble/hashes"] }, "sha512-S6mL0yNB/Abt9Ei4tq8gDhcczc4S3+vQ4ra7vxnAf+YHC02srtqxKKZghx2Dq6p0e66THKwR6r8N6P95wEty7Q=="],
+
+    "@fontsource-variable/newsreader": ["@fontsource-variable/newsreader@5.2.10", "", {}, "sha512-MdI2iRwrqWpMOU/2aV2BgfZ4dJNlj/XlYaY8Zb7t87mWqHskYW0XiUANkt1cyOCiEfW2VQ0bQ5vZgGPp6B2B4w=="],
+
+    "@fontsource/barlow-condensed": ["@fontsource/barlow-condensed@5.2.8", "", {}, "sha512-cmCWNfh7oCmfarGDlhiJRkl4HOgt9aOqki7IYtDOaI3qLCeEO/8VjiZeAx/2PEPf4K36YxXDjAlOWwW/anQUZA=="],
+
+    "@fontsource/ibm-plex-mono": ["@fontsource/ibm-plex-mono@5.2.7", "", {}, "sha512-MKAb8qV+CaiMQn2B0dIi1OV3565NYzp3WN5b4oT6LTkk+F0jR6j0ZN+5BKJiIhffDC3rtBULsYZE65+0018z9w=="],
 
     "@formatjs/ecma402-abstract": ["@formatjs/ecma402-abstract@2.3.6", "", { "dependencies": { "@formatjs/fast-memoize": "2.2.7", "@formatjs/intl-localematcher": "0.6.2", "decimal.js": "^10.4.3", "tslib": "^2.8.0" } }, "sha512-HJnTFeRM2kVFVr5gr5kH1XP6K0JcJtE7Lzvtr3FS/so5f1kpsqqqxy5JF+FRaO6H2qmcMfAUIox7AJteieRtVw=="],
 
