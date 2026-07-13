@@ -1,0 +1,37 @@
+$ bun run research:check && bun run research:render && bun run typecheck && bun run lint && bun run check:no-excuses && bun run test:unit && bun run build && bun run check:devtools
+$ node scripts/research/check-corpus.mjs
+CORPUS_OK sources=133 observations=133 claims=529 companies=10 adjacent=63 receipts=70 responses=17 open_leads=0 open_receipt_lanes=70
+$ node scripts/research/render-synthesis.mjs --check
+SYNTHESIS_OK bytes=314441 receipts=70 sources=133
+$ tsc -b --pretty false
+$ biome check .
+Checked 54 files in 11ms. No fixes applied.
+$ node scripts/qa/check-no-excuses.mjs
+NO_EXCUSES_OK:16
+$ vitest run
+
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+
+ Test Files  2 passed (2)
+      Tests  21 passed (21)
+   Start at  05:40:42
+   Duration  682ms (transform 66ms, setup 67ms, import 217ms, tests 266ms, environment 521ms)
+
+$ node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build
+INDEX_SCAFFOLD_OK
+BUN_LOCK_OK:4FFBFD7D319E5632-f91826dbf5c34b4a-42150121871940E9-a216b109e26709d0
+vite v8.1.4 building client environment for production...
+[2Ktransforming...✓ 16 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                             0.56 kB │ gzip:  0.35 kB
+dist/assets/App-Bh7mwr7f.js                 0.23 kB │ gzip:  0.19 kB
+dist/assets/rolldown-runtime-Bh1tDfsg.js    0.56 kB │ gzip:  0.36 kB
+dist/assets/index-BKX8hzvf.js               2.96 kB │ gzip:  1.47 kB
+dist/assets/react-CES6V0Ih.js               7.53 kB │ gzip:  2.88 kB
+dist/assets/client-B1wNCoiO.js            182.37 kB │ gzip: 57.34 kB
+
+✓ built in 45ms
+$ node scripts/qa/check-devtools.mjs
+DEVTOOLS_PRODUCTION_CLEAN

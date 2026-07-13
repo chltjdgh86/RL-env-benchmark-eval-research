@@ -1,0 +1,104 @@
+STATIC_AUDIT:BEGIN
+FEATURE_DIRECTORIES
+src/features/companies
+src/features/field-guide
+src/features/playbook-sources
+src/features/shared
+HASH_SECTIONS_REFERENCES
+src/domain/hash-types.ts:18:export const HASH_SECTIONS = ["guide", "companies", "showcase"] as const
+src/domain/hash-types.ts:39:export const HashSectionSchema = z.enum(HASH_SECTIONS)
+src/app/AtlasShell.tsx:6:  HASH_SECTIONS,
+src/app/AtlasShell.tsx:15:const sectionLabels: Readonly<Record<HashSection, string>> = {
+src/app/AtlasShell.tsx:48:  const navItems = HASH_SECTIONS.filter((item) => item !== "showcase").map((item) => ({
+src/app/AtlasShell.tsx:55:    label: sectionLabels[item],
+src/domain/hash-state.test.ts:5:  HASH_SECTIONS,
+src/domain/hash-state.test.ts:35:    expect(HASH_SECTIONS).toEqual(["guide", "companies", "showcase"])
+src/domain/hash-state.ts:4:  HASH_SECTIONS,
+SEARCHFIELD_CONSUMERS
+src/components/primitives.test.tsx:19:  SearchField,
+src/components/primitives.test.tsx:46:      "SearchField",
+src/components/primitives.test.tsx:165:      <SearchField
+src/components/primitives.test.tsx:183:    render(<SearchField initialValue="Mercor" label="Search companies" onSubmit={() => {}} />)
+src/components/controls.tsx:4:type SearchFieldProps = {
+src/components/controls.tsx:13:export function SearchField({
+src/components/controls.tsx:20:}: SearchFieldProps) {
+src/components/PrimitiveShowcase.tsx:16:  SearchField,
+src/components/PrimitiveShowcase.tsx:86:        <SearchField
+src/components/index.ts:16:  SearchField,
+src/components/foundation.tsx:2:export { FilterTray, SearchField } from "./controls"
+HASH_Q_PARSING
+src/domain/citations.ts:179:  const params = new URLSearchParams(query)
+src/domain/hash-types.ts:53:  readonly q: SearchQuery
+src/app/AtlasShell.test.tsx:13:            {state.section} · {state.q}
+src/features/companies/CompaniesPage.tsx:36:  const query = normalizeSearchTerms(filters.q ?? "")
+src/App.tsx:15:    q: state.q,
+src/features/companies/companies.test.tsx:104:    render(<CompaniesPage filters={{ q: "Kled AI" }} />)
+src/domain/selectors.ts:185:      matchesDocument(index, company.companyId, filters.q),
+src/domain/selectors.ts:202:      matchesDocument(index, record.adjacentId, filters.q)
+src/domain/selectors.ts:222:    return matchesDocument(index, claim.claimId, filters.q)
+src/domain/selectors.ts:247:    return matchesDocument(index, source.sourceId, filters.q)
+src/domain/hash-codec.ts:228:  const q = normalizeSearch(state.q)
+src/domain/hash-state.test.ts:90:    expect(result.state.q).toBe("buyer+signal")
+src/domain/selectors.fixtures.test.ts:19:    const whenSelected = selectCompanies(index, { q: givenPublisherAndObservationQuery })
+src/domain/selectors.fixtures.test.ts:27:    const whenSelected = selectCompanies(index, { q: givenLocatorQuery })
+REMOVED_FEATURE_DIRECTORY
+PASS:overview-industries directory absent
+REMOVED_ROUTE_REFERENCES_IN_SRC
+PASS:no removed route references in src
+REMOVED_OVERVIEW_CLAIM_SCOPE_REFERENCES
+PASS:no overview claim scope reference in src or scripts/qa
+FIELD_GUIDE_EXCERPTS
+19-  "What buyers actually confirm",
+20-  "How to read claims here",
+21:  "Where to go deeper",
+22-] as const
+23-
+--
+28-}
+29-
+30:const environmentPlatforms = [
+31-  {
+32-    name: "Scale AI",
+--
+66-] as const satisfies readonly EnvironmentEntry[]
+67-
+68:const environmentSpecialists = [
+69-  {
+70-    name: "Deeptune",
+--
+585-        <h3>Data-and-talent platforms with environment offers</h3>
+586-        <ul>
+587:          {environmentPlatforms.map((company) => (
+588-            <li key={company.name}>
+589-              <a href={company.url} rel="noreferrer" target="_blank">
+--
+596-        <h3>Environment specialists</h3>
+597-        <ul>
+598:          {environmentSpecialists.map((company) => (
+599-            <li key={company.name}>
+600-              <a href={company.url} rel="noreferrer" target="_blank">
+--
+608-          Descriptions for the younger specialists come from their own public materials and have the
+609-          usual self-reporting caveats. Browse every company with sources on the{" "}
+610:          <a href="#/companies">Companies page</a>.
+611-        </p>
+612-      </section>
+--
+829-
+830-      <section id="guide-part-11">
+831:        <PartHeading number={11} title="Where to go deeper" />
+832-        <p>
+833-          Every statement in this guide is backed by the atlas's evidence layer. The deeper routes:
+--
+835-        <ul className="guide-links">
+836-          <li>
+837:            <a href="#/companies">Companies</a> — the unified company landscape
+838-          </li>
+839-        </ul>
+COMPANIES_INTRO_EXCERPT
+src/features/companies/CompaniesPage.tsx-64-  return (
+src/features/companies/CompaniesPage.tsx-65-    <section aria-labelledby="companies-title" className="feature-page">
+src/features/companies/CompaniesPage.tsx:66:      <SectionIntro eyebrow="Companies" title="The company landscape" titleId="companies-title">
+src/features/companies/CompaniesPage.tsx-67-        <p>
+src/features/companies/CompaniesPage.tsx-68-          Every tracked company, one card each — sector, business models, site, and what it does.
+STATIC_AUDIT:PASS

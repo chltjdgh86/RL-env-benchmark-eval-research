@@ -1,0 +1,1 @@
+DEVTOOLS_PRODUCTION_LEAK:scripts/qa/fixtures/dist-with-devtools/assets/index.js:react-scan

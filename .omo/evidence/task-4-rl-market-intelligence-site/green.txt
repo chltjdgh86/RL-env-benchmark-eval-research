@@ -1,0 +1,9 @@
+
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+
+ Test Files  4 passed (4)
+      Tests  38 passed (38)
+   Start at  06:11:22
+   Duration  609ms (transform 266ms, setup 137ms, import 431ms, tests 28ms, environment 1.11s)
+

@@ -1,0 +1,7 @@
+$ vite --host "127.0.0.1" --port "4173"
+
+  VITE v8.1.4  ready in 62 ms
+
+  ➜  Local:   http://127.0.0.1:4173/
+3:34:27 PM [vite] (client) hmr update /src/features/companies/CompaniesPage.tsx
+error: script "dev" exited with code 143

@@ -1,0 +1,43 @@
+RL Economy Atlas final local verification, 2026-07-12
+
+Canonical corpus
+- bun run research:check: exit 0.
+- Counts: 235 sources, 235 observations, 561 claims, 10 named-company dossiers, 9 industries, 63 bounded adjacent records, 10 buyer-evidence records, 25 analyses, 31 strategies, 70 strategy receipts, and 17 competitor responses.
+- Open public leads: 0. Open receipt lanes: 0.
+- Scorecard: 32 measured cells and three conservatively missing cells; all five vertical candidates are no-go.
+- Receipt closures: 61 evidence_found, seven no_public_evidence, and two rights_blocker.
+
+Supplemental roster and Exa provenance
+- EXA_INPUTS_IMPORTED: 11 persisted raw Exa packets, 50 supplemental inputs.
+- Reconciliation: 47 additions, two core merges (Refresh and Halluminate), one unresolved lead (Originator), and no core-score or quota changes.
+- Exact roster test: all 34 user-supplied names and all 28 screenshot names resolve to a core, adjacent, supplemental, merge, or explicit unresolved record; zero omissions.
+- Originator remains unresolved because the public surface does not substantiate a concrete offering or computer/browser-use scope.
+
+Semantic audit
+- 35 rendered claim/observation/source relationships audited and hash-locked; all remain context_only rather than being promoted to direct support.
+- 12 of those relationships are high-risk.
+- All 70 strategy receipts audited against their exact linked cells, source/observation pairs, closures, imputation rules, and candidate outcomes.
+- rejectedEntailments is empty.
+- Independent review is incomplete: the 12 high-risk relationships have one local receipt rather than two independent reviewer-group receipts, and final independent F4 approval is not represented.
+
+Automated verification
+- bun run verify:all: exit 0.
+- TypeScript: exit 0. Biome: 142 files checked, zero errors. No-excuses: 98 checks passed.
+- Frontend/domain unit tests: 19 files, 145 tests passed.
+- Research/validator tests: 85 tests passed.
+- Production build: exit 0; devtools production scan clean.
+- Rendered claims, no-JS fallback, SEO, and semantic-audit drift checks: exit 0.
+
+Browser and source-link QA
+- Playwright Chromium: 33 tests passed in 7.9 seconds, covering all ten routes at desktop/mobile widths, accessibility, text spacing, 400 percent scale, focus restoration, reduced motion, forced colors, and read-only score surfaces.
+- Manual route sweep: every route stayed within its viewport and had one H1; Companies search/facet state serialized into the hash and cleared reversibly; no browser warning/error logs.
+- Live link audit at 2026-07-12T15:40:30.011Z: 235 checked, 216 reachable, 19 unavailable, 22 advisory access-state mismatches, and three unrelated redirects; exit 0 with controlsBypassed=false.
+
+Environment contract
+- Codex config retains model_context_window=272000 and model_auto_compact_token_limit=240000.
+- codex-cli 0.144.1 parses the config successfully.
+- codex mcp list reports Exa enabled with OAuth.
+
+Known non-blocking diagnostics
+- React Doctor: zero errors, 74 advisory warnings (80/100). Most are bounded collection lookup suggestions, current-working Zod 4 schema deprecation heuristics, or deliberate barrel/public-surface choices; no migration was performed during final research verification.
+- Vite reports a greater-than-500-kB raw App chunk; the production App chunk is approximately 143.74 kB gzip.

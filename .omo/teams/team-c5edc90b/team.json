@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 3,
+  "transport": "multi_agent_v2",
+  "teamId": "3d8a8e42-ceea-4a79-aa41-afe69986a947",
+  "teamName": "rl-market-intelligence",
+  "sessionName": "2026-07-11-due-diligence",
+  "sessionId": "team-c5edc90b",
+  "threadTitleConvention": null,
+  "status": "active",
+  "createdAt": "2026-07-11T07:49:33.727Z",
+  "updatedAt": "2026-07-11T07:53:10.103Z",
+  "archivedAt": null,
+  "leader": {
+    "kind": "main-session",
+    "sessionId": null,
+    "agentPath": "/root"
+  },
+  "communication": {
+    "memberLanguage": "english",
+    "replyToUserInUserLanguage": true
+  },
+  "worktree": {
+    "enabled": false,
+    "baseBranch": "dev",
+    "root": "/Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/teams/team-c5edc90b/worktrees"
+  },
+  "paths": {
+    "dir": "/Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/teams/team-c5edc90b",
+    "team": "/Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/teams/team-c5edc90b/team.json",
+    "guide": "/Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/teams/team-c5edc90b/guide.md",
+    "artifacts": "/Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/teams/team-c5edc90b/artifacts"
+  },
+  "members": [
+    {
+      "id": "A",
+      "name": "scale-ai-dossier",
+      "focus": "Scale AI origin, product evolution, current offer, customers, GTM, economics, controversies, and present positioning",
+      "lens": "ownership",
+      "deliverable": "Source-backed Scale AI dossier with chronology, current-state checks, contradictions, claim candidates, and EXPAND leads",
+      "taskName": "scale_ai_dossier",
+      "agentPath": "/root/scale_ai_dossier",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "B",
+      "name": "mercor-dossier",
+      "focus": "Mercor origin, recruiting-to-expert-data evolution, current offer, buyers, workforce, GTM, and economics",
+      "lens": "ownership",
+      "deliverable": "Source-backed Mercor dossier with chronology, current-state checks, contradictions, claim candidates, and EXPAND leads",
+      "taskName": "mercor_dossier",
+      "agentPath": "/root/mercor_dossier",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "C",
+      "name": "micro1-dossier",
+      "focus": "Micro1 origin, human-data and recruiting offer, buyers, workforce model, GTM, financing, and present positioning",
+      "lens": "ownership",
+      "deliverable": "Source-backed Micro1 dossier with chronology, current-state checks, contradictions, claim candidates, and EXPAND leads",
+      "taskName": "micro1_dossier",
+      "agentPath": "/root/micro1_dossier",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "D",
+      "name": "turing-dossier",
+      "focus": "Turing origin, talent-cloud to AI training-services evolution, products, customers, GTM, workforce, and economics",
+      "lens": "ownership",
+      "deliverable": "Source-backed Turing dossier with chronology, current-state checks, contradictions, claim candidates, and EXPAND leads",
+      "taskName": "turing_dossier",
+      "agentPath": "/root/turing_dossier",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "E",
+      "name": "afterquery-dossier",
+      "focus": "AfterQuery identity, origin, evaluations/environments/benchmark offer, customers, founders, GTM, and current status",
+      "lens": "ownership",
+      "deliverable": "Identity-resolved source-backed AfterQuery dossier with uncertainty labels, claim candidates, and EXPAND leads",
+      "taskName": "afterquery_dossier",
+      "agentPath": "/root/afterquery_dossier",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "F",
+      "name": "fleet-ai-dossier",
+      "focus": "Fleet.ai identity disambiguation, origin, offer, customers, GTM, current status, and relevance to AI training/evaluation",
+      "lens": "ownership",
+      "deliverable": "Identity-resolved source-backed Fleet.ai dossier with uncertainty labels, claim candidates, and EXPAND leads",
+      "taskName": "fleet_ai_dossier",
+      "agentPath": "/root/fleet_ai_dossier",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "G",
+      "name": "emerging-dossiers",
+      "focus": "Deeptune, refresh.dev, Vibrant Labs, and Halluminate identity, origin, offers, founders, buyers, GTM, funding, and current status",
+      "lens": "ownership",
+      "deliverable": "Four source-backed emerging-company dossiers with identity caveats, current checks, claim candidates, and EXPAND leads",
+      "taskName": "emerging_dossiers",
+      "agentPath": "/root/emerging_dossiers",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "H",
+      "name": "technical-market-map",
+      "focus": "RLHF, RLAIF, DPO, RLVR, environments, computer-use training, evaluations, synthetic/expert data, and AX consulting taxonomy and value chain",
+      "lens": "area",
+      "deliverable": "Technically rigorous industry taxonomy, value-chain map, definitions, boundaries, key buyers/suppliers, citations, claims, and EXPAND leads",
+      "taskName": "technical_market_map",
+      "agentPath": "/root/technical_market_map",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "I",
+      "name": "adjacent-landscape",
+      "focus": "Adjacent and comparable suppliers across data, post-training, evals, environments, computer use, agent testing, expert networks, and AX services",
+      "lens": "area",
+      "deliverable": "Segmented competitor landscape with 25+ relevant companies, differentiators, evidence, claim candidates, and EXPAND leads",
+      "taskName": "adjacent_landscape",
+      "agentPath": "/root/adjacent_landscape",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "J",
+      "name": "gtm-patterns",
+      "focus": "Go-to-market patterns: founder-led sales, research relationships, procurement, pilots, land-and-expand, partnerships, content, talent acquisition, and channel strategy",
+      "lens": "perspective",
+      "deliverable": "Cross-company GTM pattern analysis with evidence, funnel diagrams, buyer journeys, claim candidates, and EXPAND leads",
+      "taskName": "gtm_patterns",
+      "agentPath": "/root/gtm_patterns",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "K",
+      "name": "operating-economics",
+      "focus": "Operating models, workforce supply, quality systems, security, unit-economics drivers, pricing signals, margin structure, and defensibility",
+      "lens": "perspective",
+      "deliverable": "Evidence-backed operating/economic comparison with stated unknowns, claim candidates, and EXPAND leads",
+      "taskName": "operating_economics",
+      "agentPath": "/root/operating_economics",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "L",
+      "name": "buyer-demand",
+      "focus": "Buyer personas and demand formation at frontier labs, enterprises, governments, model builders, agent startups, and regulated sectors",
+      "lens": "perspective",
+      "deliverable": "Buyer-needs and procurement map with jobs-to-be-done, budgets/timing evidence, objections, claim candidates, and EXPAND leads",
+      "taskName": "buyer_demand",
+      "agentPath": "/root/buyer_demand",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "M",
+      "name": "market-history",
+      "focus": "Industry history from crowdsourced labeling through RLHF, expert data, RLVR, environments, evaluations, computer use, and agent transformation consulting",
+      "lens": "area",
+      "deliverable": "Source-backed market timeline with inflection points, technical catalysts, commercial shifts, claim candidates, and EXPAND leads",
+      "taskName": "market_history",
+      "agentPath": "/root/market_history",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "N",
+      "name": "newcomer-strategy",
+      "focus": "New-entry wedges, sequencing, differentiation, capability roadmap, partnerships, pricing, GTM experiments, and defensibility",
+      "lens": "perspective",
+      "deliverable": "Evidence-derived newcomer strategy with 3+ models, 90-day/12-month roadmap, risks, claim candidates, and EXPAND leads",
+      "taskName": "newcomer_strategy",
+      "agentPath": "/root/newcomer_strategy",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": "/Users/sung/src/frist/RL-env-benchmark-eval-research",
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "active"
+    },
+    {
+      "id": "O",
+      "name": "skeptic-countersearch",
+      "focus": "Red-team company and market claims, search for disconfirming evidence, hype, weak attribution, identity confusion, legal/ethical risk, and internal-build substitutes",
+      "lens": "perspective",
+      "deliverable": "Counter-evidence ledger, contested claims, stronger alternatives, source-quality critique, and EXPAND leads",
+      "taskName": "skeptic_countersearch",
+      "agentPath": "/root/skeptic_countersearch",
+      "threadId": null,
+      "threadTitle": null,
+      "cwd": null,
+      "worktree": {
+        "path": null,
+        "branch": null
+      },
+      "status": "pending"
+    }
+  ],
+  "log": [
+    {
+      "ts": "2026-07-11T07:49:33.727Z",
+      "event": "created",
+      "detail": "team rl-market-intelligence"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.045Z",
+      "event": "add-member",
+      "detail": "member A (ownership): Scale AI origin, product evolution, current offer, customers, GTM, economics, controversies, and present positioning"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.073Z",
+      "event": "add-member",
+      "detail": "member B (ownership): Mercor origin, recruiting-to-expert-data evolution, current offer, buyers, workforce, GTM, and economics"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.101Z",
+      "event": "add-member",
+      "detail": "member C (ownership): Micro1 origin, human-data and recruiting offer, buyers, workforce model, GTM, financing, and present positioning"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.128Z",
+      "event": "add-member",
+      "detail": "member D (ownership): Turing origin, talent-cloud to AI training-services evolution, products, customers, GTM, workforce, and economics"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.156Z",
+      "event": "add-member",
+      "detail": "member E (ownership): AfterQuery identity, origin, evaluations/environments/benchmark offer, customers, founders, GTM, and current status"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.184Z",
+      "event": "add-member",
+      "detail": "member F (ownership): Fleet.ai identity disambiguation, origin, offer, customers, GTM, current status, and relevance to AI training/evaluation"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.213Z",
+      "event": "add-member",
+      "detail": "member G (ownership): Deeptune, refresh.dev, Vibrant Labs, and Halluminate identity, origin, offers, founders, buyers, GTM, funding, and current status"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.241Z",
+      "event": "add-member",
+      "detail": "member H (area): RLHF, RLAIF, DPO, RLVR, environments, computer-use training, evaluations, synthetic/expert data, and AX consulting taxonomy and value chain"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.268Z",
+      "event": "add-member",
+      "detail": "member I (area): Adjacent and comparable suppliers across data, post-training, evals, environments, computer use, agent testing, expert networks, and AX services"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.296Z",
+      "event": "add-member",
+      "detail": "member J (perspective): Go-to-market patterns: founder-led sales, research relationships, procurement, pilots, land-and-expand, partnerships, content, talent acquisition, and channel strategy"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.322Z",
+      "event": "add-member",
+      "detail": "member K (perspective): Operating models, workforce supply, quality systems, security, unit-economics drivers, pricing signals, margin structure, and defensibility"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.351Z",
+      "event": "add-member",
+      "detail": "member L (perspective): Buyer personas and demand formation at frontier labs, enterprises, governments, model builders, agent startups, and regulated sectors"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.378Z",
+      "event": "add-member",
+      "detail": "member M (area): Industry history from crowdsourced labeling through RLHF, expert data, RLVR, environments, evaluations, computer use, and agent transformation consulting"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.405Z",
+      "event": "add-member",
+      "detail": "member N (perspective): New-entry wedges, sequencing, differentiation, capability roadmap, partnerships, pricing, GTM experiments, and defensibility"
+    },
+    {
+      "ts": "2026-07-11T07:50:45.432Z",
+      "event": "add-member",
+      "detail": "member O (perspective): Red-team company and market claims, search for disconfirming evidence, hype, weak attribution, identity confusion, legal/ethical risk, and internal-build substitutes"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.737Z",
+      "event": "bind-agent",
+      "detail": "member A -> agent /root/scale_ai_dossier"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.766Z",
+      "event": "bind-agent",
+      "detail": "member B -> agent /root/mercor_dossier"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.795Z",
+      "event": "bind-agent",
+      "detail": "member C -> agent /root/micro1_dossier"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.824Z",
+      "event": "bind-agent",
+      "detail": "member D -> agent /root/turing_dossier"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.853Z",
+      "event": "bind-agent",
+      "detail": "member E -> agent /root/afterquery_dossier"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.881Z",
+      "event": "bind-agent",
+      "detail": "member F -> agent /root/fleet_ai_dossier"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.908Z",
+      "event": "bind-agent",
+      "detail": "member G -> agent /root/emerging_dossiers"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.937Z",
+      "event": "bind-agent",
+      "detail": "member H -> agent /root/technical_market_map"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.965Z",
+      "event": "bind-agent",
+      "detail": "member I -> agent /root/adjacent_landscape"
+    },
+    {
+      "ts": "2026-07-11T07:53:09.994Z",
+      "event": "bind-agent",
+      "detail": "member J -> agent /root/gtm_patterns"
+    },
+    {
+      "ts": "2026-07-11T07:53:10.021Z",
+      "event": "bind-agent",
+      "detail": "member K -> agent /root/operating_economics"
+    },
+    {
+      "ts": "2026-07-11T07:53:10.048Z",
+      "event": "bind-agent",
+      "detail": "member L -> agent /root/buyer_demand"
+    },
+    {
+      "ts": "2026-07-11T07:53:10.076Z",
+      "event": "bind-agent",
+      "detail": "member M -> agent /root/market_history"
+    },
+    {
+      "ts": "2026-07-11T07:53:10.103Z",
+      "event": "bind-agent",
+      "detail": "member N -> agent /root/newcomer_strategy"
+    }
+  ]
+}

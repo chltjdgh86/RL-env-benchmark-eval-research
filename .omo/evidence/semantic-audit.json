@@ -1,0 +1,55 @@
+{
+  "auditVersion": 1,
+  "reviewedAt": "2026-07-12",
+  "reviewerGroup": "root-local-semantic-audit",
+  "renderedClaimRelationships": {
+    "count": 10,
+    "highRiskCount": 0,
+    "inputHash": "4133144fc1e3a05e1523eda798deec439d29ca14113ac651db5be45ea0855c32",
+    "observedRelationCounts": {
+      "context_only": 10
+    }
+  },
+  "strategyReceipts": {
+    "count": 70,
+    "inputHash": "ee403f4ff9d3083ce076a8fc2b514861c22513eba63240946728dc8239d64f2b",
+    "closureCounts": {
+      "evidence_found": 61,
+      "no_public_evidence": 7,
+      "rights_blocker": 2
+    },
+    "candidateScores": {
+      "regulated_financial_operations": {
+        "decisionStatus": "no_go",
+        "rawWeightedScore": 51,
+        "rightsBlocker": true
+      },
+      "insurance_operations": {
+        "decisionStatus": "no_go",
+        "rawWeightedScore": 24,
+        "rightsBlocker": true
+      },
+      "healthcare_administration": {
+        "decisionStatus": "no_go",
+        "rawWeightedScore": 61,
+        "rightsBlocker": false
+      },
+      "enterprise_software_support": {
+        "decisionStatus": "no_go",
+        "rawWeightedScore": 62,
+        "rightsBlocker": true
+      },
+      "public_sector_administration": {
+        "decisionStatus": "no_go",
+        "rawWeightedScore": 61,
+        "rightsBlocker": false
+      }
+    }
+  },
+  "rejectedEntailments": [],
+  "independentReviewComplete": false,
+  "unresolvedReviewRequirements": [
+    "0 high-risk rendered relationships have one local semantic receipt, not two independent reviewer-group receipts.",
+    "The 70 strategy receipts have one local semantic review; final independent F4 approval is not represented."
+  ]
+}

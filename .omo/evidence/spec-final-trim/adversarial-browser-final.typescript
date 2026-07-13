@@ -1,0 +1,13 @@
+^D{
+  "browserErrors": [],
+  "normalizedQuery": {
+    "hash": "#/companies?q=Scale%20AI",
+    "scaleCardVisible": true
+  },
+  "retiredRoute": {
+    "alert": "Recovered URL state · invalid_section",
+    "hash": "#/guide?q=Scale",
+    "heading": "The post-training economy, explained"
+  },
+  "verdict": "PASS"
+}

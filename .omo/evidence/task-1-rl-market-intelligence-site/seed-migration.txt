@@ -1,0 +1,10 @@
+command=node scripts/research/check-corpus.mjs --check-seed-migration
+exit_code=0
+CORPUS_OK sources=234 observations=234 claims=562 companies=10 adjacent=63 receipts=70 responses=17 open_leads=0 open_receipt_lanes=0
+seed_sources_mapped=77/77
+seed_claim_anchors_mapped=49/218
+seed_claim_anchors_explicitly_not_mapped=169/218
+open_leads=0
+line_47=clm_dpo-definition,clm_analysis-history-dpo-objective
+line_292=clm_deeptune-risk
+all_claim_mapping_rows_have_reason=true

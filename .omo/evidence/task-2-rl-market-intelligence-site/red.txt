@@ -1,0 +1,23 @@
+MISSING_SECTION:Accessibility/Debt
+ENUM_DISPLAY_TABLE_DRIFT
+MISSING_TOKEN:--paper
+MISSING_TOKEN:--ink
+MISSING_TOKEN:--accent
+MISSING_TOKEN:--type-atlas
+MISSING_TOKEN:--space-4
+MISSING_TOKEN:--control-min
+MISSING_TOKEN:--motion-fast
+MISSING_PRIMITIVE:EvidenceTagSet
+MISSING_PRIMITIVE:StrategyHypothesis
+MISSING_PRIMITIVE:Scorecard
+MISSING_STATE:loading
+MISSING_STATE:empty
+MISSING_STATE:error
+MISSING_STATE:focus
+MISSING_ROUTE:#/showcase
+MISSING_CONTRACT:320px
+MISSING_CONTRACT:actual 400%
+MISSING_CONTRACT:WCAG text-spacing
+MISSING_CONTRACT:No design or accessibility debt is accepted
+MISSING_CONTRACT:There is no weight-editing
+MISSING_CONTRACT:There is no scoring, weighting, ranking, winner, selected, or user-editable state

@@ -1,0 +1,15 @@
+^D
+Running 7 tests using 1 worker
+
+
+(node:92199) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1/7] [chromium] › e2e/routes.spec.ts:33:1 › Showcase keeps the atlas title as the only level-one heading
+[2/7] [chromium] › e2e/routes.spec.ts:47:3 › guide stays within the 1280px document width
+[3/7] [chromium] › e2e/routes.spec.ts:65:3 › guide reflows without document overflow at 320px
+[4/7] [chromium] › e2e/routes.spec.ts:47:3 › companies stays within the 1280px document width
+[5/7] [chromium] › e2e/routes.spec.ts:65:3 › companies reflows without document overflow at 320px
+[6/7] [chromium] › e2e/routes.spec.ts:47:3 › showcase stays within the 1280px document width
+[7/7] [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px
+  7 passed (5.4s)

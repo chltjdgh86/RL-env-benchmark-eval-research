@@ -1,0 +1,167 @@
+src/styles/app.css:142:.corpus-claim > p {
+src/styles/app.css:146:.corpus-claim > p:last-child {
+src/styles/app.css:150:.corpus-claim summary,
+src/styles/app.css:260:.landscape-grid,
+src/styles/app.css:629:  .landscape-grid,
+src/styles/app.css:678:  .landscape-grid {
+src/features/companies/SupplementalRegister.tsx:37:            <h4>{record.name}</h4>
+src/features/companies/CompaniesPage.tsx:32:        <div className="landscape-grid">
+src/features/companies/CompaniesPage.tsx:44:export function renderClaimScope() {
+src/features/companies/companies.test.tsx:43:        '[aria-labelledby="named-company-title"] .landscape-grid > .landscape-record',
+src/features/companies/companies.test.tsx:47:    expect(container.querySelectorAll(".company-dossier")).toHaveLength(0)
+src/features/companies/CompanyDossier.tsx:15:      <h4>{company.name}</h4>
+src/features/companies/CoreLandscape.tsx:21:      <div className="landscape-grid">
+src/features/companies/CoreLandscape.tsx:25:            <h4>{record.name}</h4>
+
+--- CompanyDossier ---
+import type { ResearchIndex } from "../../data/research"
+import { BUSINESS_MODEL_LABELS } from "../../domain/display-labels"
+import type { Company } from "../../domain/entity-schema"
+import { CorpusClaim } from "../shared/CorpusClaim"
+
+type CompanyDossierProps = {
+  readonly company: Company
+  readonly index: ResearchIndex
+}
+
+export function CompanyDossier({ company, index }: CompanyDossierProps) {
+  return (
+    <article className="landscape-record" id={`company-${company.companyId}`}>
+      <p className="kicker">Named dossier · {company.entityStatus.replaceAll("_", " ")}</p>
+      <h4>{company.name}</h4>
+      <p className="evidence-text">
+        {company.primarySegment.replaceAll("_", " ")} ·{" "}
+        {company.businessModelIds.map((model) => BUSINESS_MODEL_LABELS[model]).join(" · ")}
+      </p>
+      <a href={company.canonicalDomain} rel="noreferrer" target="_blank">
+        {new URL(company.canonicalDomain).hostname}
+      </a>
+      <CorpusClaim claimId={company.identityClaimId} index={index} />
+      {company.claimGroups.currentOffer.map((claimId) => (
+        <CorpusClaim claimId={claimId} index={index} key={claimId} />
+      ))}
+      {company.claimGroups.milestones.map((claimId) => (
+        <CorpusClaim claimId={claimId} index={index} key={claimId} />
+      ))}
+      {company.claimGroups.risks.map((claimId) => (
+        <CorpusClaim claimId={claimId} index={index} key={claimId} />
+      ))}
+    </article>
+  )
+}
+
+--- CompaniesPage ---
+import { researchIndex } from "../../data/research"
+import type { ResearchFilters } from "../../domain/selectors"
+import { selectAdjacent, selectCompanies } from "../../domain/selectors"
+import { CorpusClaim } from "../shared/CorpusClaim"
+import { SectionIntro } from "../shared/SectionIntro"
+import { CompanyDossier } from "./CompanyDossier"
+import { CoreLandscape } from "./CoreLandscape"
+import { SupplementalRegister } from "./SupplementalRegister"
+
+export function CompaniesPage({ filters = {} }: { readonly filters?: ResearchFilters }) {
+  const companies = selectCompanies(researchIndex, filters)
+  const adjacent = selectAdjacent(researchIndex, filters)
+  return (
+    <section className="feature-page">
+      <SectionIntro eyebrow="04 · Company intelligence" title="Every company, one card.">
+        <p>
+          Ten named companies and the wider adjacent landscape, one card each. Post-cutoff
+          discoveries are listed separately at the end.
+        </p>
+      </SectionIntro>
+      <section aria-labelledby="named-company-title">
+        <header className="section-heading-row">
+          <div>
+            <p className="kicker">Named-company dossiers</p>
+            <h3 id="named-company-title">{companies.length} of 10 matches</h3>
+          </div>
+          <p>
+            One card per company: identity, current offer, milestones, and risks, each with its
+            sources.
+          </p>
+        </header>
+        <div className="landscape-grid">
+          {companies.map((company) => (
+            <CompanyDossier company={company} index={researchIndex} key={company.companyId} />
+          ))}
+        </div>
+      </section>
+      <CoreLandscape index={researchIndex} records={adjacent} />
+      <SupplementalRegister query={filters.q} />
+    </section>
+  )
+}
+
+export function renderClaimScope() {
+  return (
+    <div data-claim-scope="companies">
+      {researchIndex.corpus.companies.map((company) => (
+        <CorpusClaim
+          claimId={company.identityClaimId}
+          index={researchIndex}
+          key={company.companyId}
+        />
+      ))}
+    </div>
+  )
+}
+
+--- styles relevant ---
+139-  gap: var(--space-3);
+140-}
+141-
+142:.corpus-claim > p {
+143-  margin-block-end: var(--space-3);
+144-}
+145-
+146:.corpus-claim > p:last-child {
+147-  margin-block-end: var(--space-0);
+148-}
+149-
+150:.corpus-claim summary,
+151:.landscape-record summary,
+152-.response-record summary,
+153-.receipt-record summary,
+154-.method-disclosure summary,
+155-.industry-dossier > details > summary {
+156-  min-block-size: var(--control-min);
+157-  padding-block: var(--space-2);
+158-  font-family: var(--font-display);
+159-  font-weight: 600;
+--
+240-  margin-block-end: var(--space-4);
+241-}
+242-
+243:h4 {
+244-  margin-block: var(--space-0) var(--space-3);
+245-  color: var(--ink-hard);
+246-  font-family: var(--font-display);
+247-  font-size: var(--type-deck);
+248-  font-weight: 650;
+249-  line-height: 1.12;
+250-}
+251-
+--
+257-  border-block-end: var(--rule-default) solid var(--rule-strong);
+258-}
+259-
+260:.landscape-grid,
+261-.supplemental-grid,
+262-.economics-grid,
+263-.response-grid,
+264-.receipt-grid {
+265-  display: grid;
+266-  gap: var(--space-4);
+267-}
+268-
+269:.landscape-record,
+270-.supplemental-record,
+271-.economic-model,
+272-.response-record,
+273-.receipt-record,
+274-.buyer-record {
+275-  min-inline-size: 0;
+276-  padding: var(--space-3);
+277-  border-block-start: var(--rule-default) solid var(--rule-strong);

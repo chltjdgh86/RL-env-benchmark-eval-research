@@ -1,0 +1,29 @@
+^D{
+  "browserErrors": [],
+  "state": {
+    "documentWidth": {
+      "client": 320,
+      "scroll": 320
+    },
+    "h1": [
+      "RL Economy Atlas"
+    ],
+    "h2": [
+      "Primitive showcase",
+      "01 Navigation and orientation",
+      "Showcase sections",
+      "Dossier identity",
+      "How to read this view",
+      "02 Controls and disclosure",
+      "03 Evidence and data",
+      "04 Empty and error states",
+      "No matches",
+      "Fixture unavailable"
+    ],
+    "nav": [
+      "Field guide",
+      "Companies"
+    ]
+  },
+  "verdict": "PASS"
+}

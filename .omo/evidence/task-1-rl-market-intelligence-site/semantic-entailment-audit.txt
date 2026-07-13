@@ -1,0 +1,21 @@
+Semantic entailment audit, 2026-07-12
+
+Scope
+- All claim evidence links with supportRelation supports or partially_supports.
+- Positive links joined to canonical observations and sources.
+
+Result
+- positive_links=60
+- unique_positive_observations=60
+- positive_legacy_links=0
+- positive_secondary_only_links=0
+- maximum_positive_observation_reuse=1
+- exa_paragraph_pseudo_locators=0
+- excerpts_over_25_words=0
+- src_s54_positive_links=0
+
+Interpretation
+- Every positive link is tied to one claim-specific obs_exa-* observation.
+- No positive observation is reused across claims.
+- Legacy title-only, interstitial, inaccessible search-index, and cookie-chrome observations remain context-only or negative rather than source-entailed support.
+- Exa paragraph locator text is the exact retained excerpt, so the renderer does not duplicate a locally authored quote label.

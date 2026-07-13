@@ -1,0 +1,110 @@
+TAP version 13
+# Subtest: preserves the child exit code while capturing its output
+ok 1 - preserves the child exit code while capturing its output
+  ---
+  duration_ms: 48.484083
+  ...
+# Subtest: terminates the captured child when the wrapper receives SIGTERM
+ok 2 - terminates the captured child when the wrapper receives SIGTERM
+  ---
+  duration_ms: 322.669083
+  ...
+# Subtest: rejects an expected marker that appears only in an echoed source line
+ok 3 - rejects an expected marker that appears only in an echoed source line
+  ---
+  duration_ms: 48.922542
+  ...
+# Subtest: accepts an expected marker emitted by the failing behavior
+ok 4 - accepts an expected marker emitted by the failing behavior
+  ---
+  duration_ms: 46.214834
+  ...
+# Subtest: allows a feature scope manifest before its modules are integrated
+ok 5 - allows a feature scope manifest before its modules are integrated
+  ---
+  duration_ms: 0.806333
+  ...
+# Subtest: rejects a feature scope manifest that claims a foreign path
+ok 6 - rejects a feature scope manifest that claims a foreign path
+  ---
+  duration_ms: 0.191417
+  ...
+# Subtest: rejects an empty feature scope manifest
+ok 7 - rejects an empty feature scope manifest
+  ---
+  duration_ms: 0.092875
+  ...
+# Subtest: rejects an undeclared token when a fixture uses one
+ok 8 - rejects an undeclared token when a fixture uses one
+  ---
+  duration_ms: 1.560292
+  ...
+# Subtest: rejects a contract fixture without the loading state
+ok 9 - rejects a contract fixture without the loading state
+  ---
+  duration_ms: 1.032416
+  ...
+# Subtest: rejects a contract fixture without the canonical showcase route
+ok 10 - rejects a contract fixture without the canonical showcase route
+  ---
+  duration_ms: 0.708459
+  ...
+# Subtest: rejects a dev-tool import stored only in a production source map
+ok 11 - rejects a dev-tool import stored only in a production source map
+  ---
+  duration_ms: 23.125667
+  ...
+# Subtest: rejects a dev-tool import in executable production JavaScript
+ok 12 - rejects a dev-tool import in executable production JavaScript
+  ---
+  duration_ms: 23.612375
+  ...
+# Subtest: rejects structural no-excuse violations
+ok 13 - rejects structural no-excuse violations
+  ---
+  duration_ms: 40.993875
+  ...
+# Subtest: does not count a claim marker without rendered assertion text
+ok 14 - does not count a claim marker without rendered assertion text
+  ---
+  duration_ms: 351.708333
+  ...
+# Subtest: accepts exact claim IDs from executable rendered markup
+ok 15 - accepts exact claim IDs from executable rendered markup
+  ---
+  duration_ms: 337.00925
+  ...
+# Subtest: accepts generic collection metadata without inventing a deployment canonical
+ok 16 - accepts generic collection metadata without inventing a deployment canonical
+  ---
+  duration_ms: 23.569042
+  ...
+# Subtest: rejects an unverified deployment canonical
+ok 17 - rejects an unverified deployment canonical
+  ---
+  duration_ms: 24.106458
+  ...
+# Subtest: rejects metadata that omits the dataset or collection type
+ok 18 - rejects metadata that omits the dataset or collection type
+  ---
+  duration_ms: 21.882125
+  ...
+# Subtest: serves a freshly built owned preview when the default port has a decoy
+ok 19 - serves a freshly built owned preview when the default port has a decoy
+  ---
+  duration_ms: 346.702209
+  ...
+# Subtest: terminates the preview and command trees when the wrapper receives SIGTERM
+ok 20 - terminates the preview and command trees when the wrapper receives SIGTERM
+  ---
+  duration_ms: 705.052
+  ...
+1..20
+# tests 20
+# suites 0
+# pass 20
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1096.463375

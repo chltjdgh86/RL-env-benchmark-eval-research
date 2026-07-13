@@ -1,0 +1,685 @@
+[
+  {
+    "companyId": "co_scale-ai",
+    "name": "Scale AI",
+    "aliases": [
+      "Scale"
+    ],
+    "canonicalDomain": "https://scale.com",
+    "identityClaimId": "clm_scale-ai-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf",
+      "ind_rl-environments",
+      "ind_evaluations-assurance"
+    ],
+    "primarySegment": "training_data_workforce",
+    "businessModelIds": [
+      "managed_data_bpo",
+      "expert_environment_services",
+      "proprietary_data_acquisition"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_scale-ai-origin"
+      ],
+      "initialWedge": [
+        "clm_scale-ai-initial-wedge"
+      ],
+      "evolution": [
+        "clm_scale-ai-evolution"
+      ],
+      "currentOffer": [
+        "clm_scale-ai-current-offer",
+        "clm_scale-ai-market-classification"
+      ],
+      "buyers": [
+        "clm_scale-ai-buyers"
+      ],
+      "gtm": [
+        "clm_scale-ai-gtm"
+      ],
+      "operatingModel": [
+        "clm_scale-ai-operating-model"
+      ],
+      "economics": [
+        "clm_scale-ai-economics"
+      ],
+      "milestones": [
+        "clm_scale-ai-milestone"
+      ],
+      "risks": [
+        "clm_scale-ai-risk"
+      ],
+      "currentStatus": [
+        "clm_scale-ai-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_scale-ai-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_scale-ai"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_scale-ai-economics",
+      "clm_scale-ai-milestone"
+    ]
+  },
+  {
+    "companyId": "co_mercor",
+    "name": "Mercor",
+    "aliases": [],
+    "canonicalDomain": "https://www.mercor.com",
+    "identityClaimId": "clm_mercor-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf",
+      "ind_rl-environments",
+      "ind_evaluations-assurance"
+    ],
+    "primarySegment": "expert_talent_network",
+    "businessModelIds": [
+      "expert_marketplace",
+      "managed_data_bpo",
+      "expert_environment_services"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_mercor-origin"
+      ],
+      "initialWedge": [
+        "clm_mercor-initial-wedge"
+      ],
+      "evolution": [
+        "clm_mercor-evolution"
+      ],
+      "currentOffer": [
+        "clm_mercor-current-offer",
+        "clm_mercor-market-classification"
+      ],
+      "buyers": [
+        "clm_mercor-buyers"
+      ],
+      "gtm": [
+        "clm_mercor-gtm"
+      ],
+      "operatingModel": [
+        "clm_mercor-operating-model"
+      ],
+      "economics": [
+        "clm_mercor-economics"
+      ],
+      "milestones": [
+        "clm_mercor-milestone"
+      ],
+      "risks": [
+        "clm_mercor-risk"
+      ],
+      "currentStatus": [
+        "clm_mercor-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_mercor-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_mercor"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_mercor-economics",
+      "clm_mercor-milestone"
+    ]
+  },
+  {
+    "companyId": "co_micro1",
+    "name": "Micro1",
+    "aliases": [
+      "micro1"
+    ],
+    "canonicalDomain": "https://www.micro1.ai",
+    "identityClaimId": "clm_micro1-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf",
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_evaluations-assurance"
+    ],
+    "primarySegment": "training_data_workforce",
+    "businessModelIds": [
+      "managed_data_bpo",
+      "expert_marketplace",
+      "expert_environment_services"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_micro1-origin"
+      ],
+      "initialWedge": [
+        "clm_micro1-initial-wedge"
+      ],
+      "evolution": [
+        "clm_micro1-evolution"
+      ],
+      "currentOffer": [
+        "clm_micro1-current-offer",
+        "clm_micro1-market-classification"
+      ],
+      "buyers": [
+        "clm_micro1-buyers"
+      ],
+      "gtm": [
+        "clm_micro1-gtm"
+      ],
+      "operatingModel": [
+        "clm_micro1-operating-model"
+      ],
+      "economics": [
+        "clm_micro1-economics"
+      ],
+      "milestones": [
+        "clm_micro1-milestone"
+      ],
+      "risks": [
+        "clm_micro1-risk"
+      ],
+      "currentStatus": [
+        "clm_micro1-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_micro1-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_micro1"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_micro1-economics",
+      "clm_micro1-milestone"
+    ]
+  },
+  {
+    "companyId": "co_turing",
+    "name": "Turing",
+    "aliases": [
+      "Turing.com"
+    ],
+    "canonicalDomain": "https://www.turing.com",
+    "identityClaimId": "clm_turing-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf",
+      "ind_rl-environments",
+      "ind_evaluations-assurance",
+      "ind_ax"
+    ],
+    "primarySegment": "training_data_workforce",
+    "businessModelIds": [
+      "expert_marketplace",
+      "managed_data_bpo",
+      "expert_environment_services",
+      "proprietary_data_acquisition"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_turing-origin"
+      ],
+      "initialWedge": [
+        "clm_turing-initial-wedge"
+      ],
+      "evolution": [
+        "clm_turing-evolution"
+      ],
+      "currentOffer": [
+        "clm_turing-current-offer",
+        "clm_turing-market-classification"
+      ],
+      "buyers": [
+        "clm_turing-buyers"
+      ],
+      "gtm": [
+        "clm_turing-gtm"
+      ],
+      "operatingModel": [
+        "clm_turing-operating-model"
+      ],
+      "economics": [
+        "clm_turing-economics"
+      ],
+      "milestones": [
+        "clm_turing-milestone"
+      ],
+      "risks": [
+        "clm_turing-risk"
+      ],
+      "currentStatus": [
+        "clm_turing-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_turing-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_turing"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_turing-economics",
+      "clm_turing-milestone"
+    ]
+  },
+  {
+    "companyId": "co_afterquery",
+    "name": "AfterQuery",
+    "aliases": [
+      "After Query"
+    ],
+    "canonicalDomain": "https://www.afterquery.com",
+    "identityClaimId": "clm_afterquery-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf",
+      "ind_rlvr",
+      "ind_rl-environments",
+      "ind_computer-use"
+    ],
+    "primarySegment": "expert_talent_network",
+    "businessModelIds": [
+      "managed_data_bpo",
+      "expert_environment_services",
+      "proprietary_data_acquisition"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_afterquery-origin"
+      ],
+      "initialWedge": [
+        "clm_afterquery-initial-wedge"
+      ],
+      "evolution": [
+        "clm_afterquery-evolution"
+      ],
+      "currentOffer": [
+        "clm_afterquery-current-offer",
+        "clm_afterquery-market-classification"
+      ],
+      "buyers": [
+        "clm_afterquery-buyers",
+        "clm_afterquery-buyer-nvidia"
+      ],
+      "gtm": [
+        "clm_afterquery-gtm"
+      ],
+      "operatingModel": [
+        "clm_afterquery-operating-model"
+      ],
+      "economics": [
+        "clm_afterquery-economics"
+      ],
+      "milestones": [
+        "clm_afterquery-milestone"
+      ],
+      "risks": [
+        "clm_afterquery-risk"
+      ],
+      "currentStatus": [
+        "clm_afterquery-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_afterquery-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_afterquery"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_afterquery-economics",
+      "clm_afterquery-milestone"
+    ]
+  },
+  {
+    "companyId": "co_fleet-ai",
+    "name": "Fleet AI",
+    "aliases": [
+      "Fleet",
+      "Fleet Context"
+    ],
+    "canonicalDomain": "https://www.fleetai.com",
+    "identityClaimId": "clm_fleet-ai-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_evaluations-assurance"
+    ],
+    "primarySegment": "environment_computer_use_runtime",
+    "businessModelIds": [
+      "expert_environment_services",
+      "runtime_infrastructure"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_fleet-ai-origin"
+      ],
+      "initialWedge": [
+        "clm_fleet-ai-initial-wedge"
+      ],
+      "evolution": [
+        "clm_fleet-ai-evolution"
+      ],
+      "currentOffer": [
+        "clm_fleet-ai-current-offer",
+        "clm_fleet-ai-market-classification"
+      ],
+      "buyers": [
+        "clm_fleet-ai-buyers"
+      ],
+      "gtm": [
+        "clm_fleet-ai-gtm"
+      ],
+      "operatingModel": [
+        "clm_fleet-ai-operating-model"
+      ],
+      "economics": [
+        "clm_fleet-ai-economics"
+      ],
+      "milestones": [
+        "clm_fleet-ai-milestone"
+      ],
+      "risks": [
+        "clm_fleet-ai-risk"
+      ],
+      "currentStatus": [
+        "clm_fleet-ai-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_fleet-ai-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_fleet-ai"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_fleet-ai-economics",
+      "clm_fleet-ai-milestone"
+    ]
+  },
+  {
+    "companyId": "co_deeptune",
+    "name": "Deeptune",
+    "aliases": [],
+    "canonicalDomain": "https://deeptune.com",
+    "identityClaimId": "clm_deeptune-identity",
+    "entityStatus": "acquisition_announced",
+    "industryIds": [
+      "ind_rlvr",
+      "ind_rl-environments",
+      "ind_computer-use"
+    ],
+    "primarySegment": "environment_computer_use_runtime",
+    "businessModelIds": [
+      "expert_environment_services",
+      "runtime_infrastructure"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_deeptune-origin"
+      ],
+      "initialWedge": [
+        "clm_deeptune-initial-wedge"
+      ],
+      "evolution": [
+        "clm_deeptune-evolution"
+      ],
+      "currentOffer": [
+        "clm_deeptune-current-offer",
+        "clm_deeptune-market-classification"
+      ],
+      "buyers": [
+        "clm_deeptune-buyers"
+      ],
+      "gtm": [
+        "clm_deeptune-gtm"
+      ],
+      "operatingModel": [
+        "clm_deeptune-operating-model"
+      ],
+      "economics": [
+        "clm_deeptune-economics"
+      ],
+      "milestones": [
+        "clm_deeptune-milestone"
+      ],
+      "risks": [
+        "clm_deeptune-risk"
+      ],
+      "currentStatus": [
+        "clm_deeptune-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_deeptune-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_deeptune"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_deeptune-economics",
+      "clm_deeptune-milestone"
+    ]
+  },
+  {
+    "companyId": "co_refresh",
+    "name": "Refresh",
+    "aliases": [
+      "Operative AI",
+      "Operative"
+    ],
+    "canonicalDomain": "https://refresh.dev",
+    "identityClaimId": "clm_refresh-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_rlvr",
+      "ind_rl-environments",
+      "ind_computer-use"
+    ],
+    "primarySegment": "environment_computer_use_runtime",
+    "businessModelIds": [
+      "expert_environment_services",
+      "runtime_infrastructure"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_refresh-origin"
+      ],
+      "initialWedge": [
+        "clm_refresh-initial-wedge"
+      ],
+      "evolution": [
+        "clm_refresh-evolution"
+      ],
+      "currentOffer": [
+        "clm_refresh-current-offer",
+        "clm_refresh-market-classification"
+      ],
+      "buyers": [
+        "clm_refresh-buyers"
+      ],
+      "gtm": [
+        "clm_refresh-gtm"
+      ],
+      "operatingModel": [
+        "clm_refresh-operating-model"
+      ],
+      "economics": [
+        "clm_refresh-economics"
+      ],
+      "milestones": [
+        "clm_refresh-milestone"
+      ],
+      "risks": [
+        "clm_refresh-risk"
+      ],
+      "currentStatus": [
+        "clm_refresh-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_refresh-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_refresh"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_refresh-economics",
+      "clm_refresh-milestone"
+    ]
+  },
+  {
+    "companyId": "co_vibrant-labs",
+    "name": "Vibrant Labs",
+    "aliases": [
+      "Exploding Gradients",
+      "Ragas"
+    ],
+    "canonicalDomain": "https://vibrantlabs.com",
+    "identityClaimId": "clm_vibrant-labs-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_rlvr",
+      "ind_rl-environments",
+      "ind_evaluations-assurance"
+    ],
+    "primarySegment": "eval_observability_assurance",
+    "businessModelIds": [
+      "eval_observability_saas",
+      "expert_environment_services"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_vibrant-labs-origin"
+      ],
+      "initialWedge": [
+        "clm_vibrant-labs-initial-wedge"
+      ],
+      "evolution": [
+        "clm_vibrant-labs-evolution"
+      ],
+      "currentOffer": [
+        "clm_vibrant-labs-current-offer",
+        "clm_vibrant-labs-market-classification"
+      ],
+      "buyers": [
+        "clm_vibrant-labs-buyers"
+      ],
+      "gtm": [
+        "clm_vibrant-labs-gtm"
+      ],
+      "operatingModel": [
+        "clm_vibrant-labs-operating-model"
+      ],
+      "economics": [
+        "clm_vibrant-labs-economics"
+      ],
+      "milestones": [
+        "clm_vibrant-labs-milestone"
+      ],
+      "risks": [
+        "clm_vibrant-labs-risk"
+      ],
+      "currentStatus": [
+        "clm_vibrant-labs-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_vibrant-labs-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_vibrant-labs"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_vibrant-labs-economics",
+      "clm_vibrant-labs-milestone"
+    ]
+  },
+  {
+    "companyId": "co_halluminate",
+    "name": "Halluminate",
+    "aliases": [],
+    "canonicalDomain": "https://www.halluminate.ai",
+    "identityClaimId": "clm_halluminate-identity",
+    "entityStatus": "active",
+    "industryIds": [
+      "ind_rlvr",
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_evaluations-assurance"
+    ],
+    "primarySegment": "environment_computer_use_runtime",
+    "businessModelIds": [
+      "expert_marketplace",
+      "expert_environment_services"
+    ],
+    "claimGroups": {
+      "origin": [
+        "clm_halluminate-origin"
+      ],
+      "initialWedge": [
+        "clm_halluminate-initial-wedge"
+      ],
+      "evolution": [
+        "clm_halluminate-evolution"
+      ],
+      "currentOffer": [
+        "clm_halluminate-current-offer",
+        "clm_halluminate-market-classification"
+      ],
+      "buyers": [
+        "clm_halluminate-buyers"
+      ],
+      "gtm": [
+        "clm_halluminate-gtm"
+      ],
+      "operatingModel": [
+        "clm_halluminate-operating-model"
+      ],
+      "economics": [
+        "clm_halluminate-economics"
+      ],
+      "milestones": [
+        "clm_halluminate-milestone"
+      ],
+      "risks": [
+        "clm_halluminate-risk"
+      ],
+      "currentStatus": [
+        "clm_halluminate-current-status"
+      ],
+      "contradictions": [],
+      "unknowns": [
+        "clm_halluminate-unknowns"
+      ]
+    },
+    "buyerEvidenceIds": [
+      "buy_halluminate"
+    ],
+    "comparisonMetricClaimIds": [
+      "clm_halluminate-economics",
+      "clm_halluminate-milestone"
+    ]
+  }
+]

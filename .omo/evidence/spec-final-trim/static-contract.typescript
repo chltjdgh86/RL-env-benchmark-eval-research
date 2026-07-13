@@ -1,0 +1,3 @@
+^D18:export const HASH_SECTIONS = ["guide", "companies", "showcase"] as const
+3:import { Masthead, SkipLink, UtilityNav } from "../components"
+68:          <UtilityNav ariaLabel="Atlas sections" items={navItems} />

@@ -1,0 +1,44 @@
+# Interstitial evidence debug audit
+Started: 2026-07-12
+Goal: prevent WAF, anti-bot, access-denial, and transport-only captures from masquerading as substantive claim support.
+
+## Environment snapshot
+- Runtime: Node.js v22.14.0 at /Users/sung/.proto/tools/node/22.14.0/bin/node
+- Entry points: scripts/research/check-corpus.mjs and node:test fixture files
+- Git metadata: absent in this workspace; cleanup uses a scoped file inventory and fresh generated-artifact checks.
+- References read: debugging/references/runtimes/node.md, debugging/references/methodology/00-setup.md, debugging/references/methodology/02-investigate.md
+
+## Hypotheses and baseline evidence
+1. CONFIRMED: observation validation checks only nonblank locator/excerpt shape and word count, so interstitial prose passes. Distinguishing evidence: `node scripts/research/check-corpus.mjs` exited 0 with `CORPUS_OK sources=133 observations=133 claims=555 companies=10 adjacent=63 receipts=70 responses=17 open_leads=0` while the canonical observations still contained `Pardon Our Interruption`, `Just a moment...`, `403 Forbidden`, `Checking your browser...`, and `Access Denied`.
+2. CONFIRMED: the fixture suite has no anti-interstitial case. Distinguishing evidence: `node --test scripts/research/check-corpus.fixtures.test.mjs` exited 0 with 15 tests passing before the repair.
+3. CONFIRMED: access metadata and support relationships promote transport captures into evidence. Distinguishing evidence: the corpus scan found positive support from interstitial observations, including Turing `obs_s20`/`obs_s21`/`obs_s22`, Find a Tender `obs_s56`/`obs_s77`, Mercor paywall `obs_s12`, GLG `obs_adj-glg`, QuantumBlack `obs_adj-quantumblack-ai-by-mckinsey`, and TTEC `obs_adj-ttec`; GLG, QuantumBlack, and TTEC were stored as `access=open`.
+
+## Artifacts in repair scope
+- [x] scripts/research/check-corpus.fixtures.test.mjs: failing-first regression fixtures pass.
+- [x] scripts/research/corpus-validator.mjs: interstitial and access/capture guards pass.
+- [x] scripts/research/build-corpus.mjs: honest access, semantic locator overrides, and degraded-claim semantics are generated.
+- [x] research/migrations/source-locator-snapshots.json: interstitial captures were replaced; transport metadata is context-only.
+- [x] research/corpus/*.json and research/schemas/corpus.schema.json: deterministic build outputs regenerated.
+- [x] research/synthesis/SYNTHESIS.md: deterministic render output regenerated and drift-free.
+- [x] .omo/evidence/task-1-rl-market-intelligence-site/*.txt: fresh verification receipts recorded.
+
+## Cleanup rule
+No debugger statements, inspector ports, temporary files, or environment overrides are used. Final verification must show the scoped artifact inventory above and no interstitial locator/excerpt text anywhere in canonical or generated research.
+- [x] tmux session `task1-corpus-qa` for the final CLI manual-QA transcript; captured and killed.
+
+## Root-cause confirmation and final verification
+- CONFIRMED: `src_s20` became `secondary_only` while Turing cutoff claims still used `temporal=current` and positive support. Canonical generation now emits low-confidence, unknown-temporal, context-only claims with no live-page exception.
+- CONFIRMED: downgrading transport-only `src_s67` removed the only independent positive evidence from three AX-studio claims. Those claim bundles are now canonically context-only.
+- REFUTED: transport downgrade application was incomplete. Runtime inspection showed `src_s67:context_only`; the remaining failures were downstream currentness and independence invariants.
+- `node --test scripts/research/*.test.mjs`: 75 passed, 0 failed.
+- `node scripts/research/check-corpus.mjs`: `CORPUS_OK sources=234 observations=234 claims=562 companies=10 adjacent=63 receipts=70 responses=17 open_leads=0 open_receipt_lanes=0`.
+- Interstitial jq scan: PASS with 0 matches.
+- Directional transport-link jq scan: PASS with 0 positive or directional links.
+- `node scripts/research/render-synthesis.mjs --check`: `SYNTHESIS_OK bytes=404655 receipts=70 sources=234`.
+
+### Manual QA — corpus CLI
+- Scenario: regenerated the corpus, validated it through the production CLI, and checked synthesis drift in one clean session.
+- Command: `node scripts/research/build-corpus.mjs && node scripts/research/check-corpus.mjs && node scripts/research/render-synthesis.mjs --check`
+- Observed: `CORPUS_OK sources=234 observations=234 claims=562 companies=10 adjacent=63 receipts=70 responses=17 open_leads=0 open_receipt_lanes=0`; `SYNTHESIS_OK bytes=404655 receipts=70 sources=234`; `MANUAL_QA_EXIT=0`.
+- Bad-input coverage: the full fixture suite exercises unknown sources, unavailable adjacent offers, interstitial evidence, open transport captures, and positive transport support; all 20 tests pass.
+- Cleanup: the tmux session was killed; no inspector, temporary fixture, debugger statement, or environment override was created.

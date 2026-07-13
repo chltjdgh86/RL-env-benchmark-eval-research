@@ -1,0 +1,1 @@
+STATIC_CONTRACT_OK scripts=18 marker=1

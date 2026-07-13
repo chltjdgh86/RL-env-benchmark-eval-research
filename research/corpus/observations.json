@@ -1,0 +1,3057 @@
+[
+  {
+    "observationId": "obs_s01",
+    "sourceId": "src_s01",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Scale is an API for human labor"
+    },
+    "excerpt": "Scale is an API for human labor",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s02",
+    "sourceId": "src_s02",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Our mission is to develop reliable AI systems for the world's most important decisions."
+    },
+    "excerpt": "Our mission is to develop reliable AI systems for the world's most important decisions.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s03",
+    "sourceId": "src_s03",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Reliable AI for the world’s most important decisions"
+    },
+    "excerpt": "Reliable AI for the world’s most important decisions",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s04",
+    "sourceId": "src_s04",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “13.80 billion” — https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm"
+    },
+    "excerpt": "minority investments in Scale AI for $ 13.80 billion, which was closed during 2025, and our investment in Jio Platforms Limited of $5.82 billion as",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.sec.gov"
+  },
+  {
+    "observationId": "obs_s05",
+    "sourceId": "src_s05",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Scale’s Series F: Expanding the Data Foundry for AI"
+    },
+    "excerpt": "Scale’s Series F: Expanding the Data Foundry for AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s06",
+    "sourceId": "src_s06",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “2 billion” — https://news.bloomberglaw.com/artificial-intelligence/scale-ai-expects-to-more-than-double-sales-to-2-billion-in-2025"
+    },
+    "excerpt": "to More Than Double Sales to $ 2 Billion in 2025 Skip to content Bloomberg the Company & Its Products The Company & its Products",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at news.bloomberglaw.com"
+  },
+  {
+    "observationId": "obs_s07",
+    "sourceId": "src_s07",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal"
+    },
+    "excerpt": "Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.forbes.com"
+  },
+  {
+    "observationId": "obs_s08",
+    "sourceId": "src_s08",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Introducing Mercor: Redefining Hiring With AI"
+    },
+    "excerpt": "Introducing Mercor: Redefining Hiring With AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s09",
+    "sourceId": "src_s09",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H2 — A note from Brendan & Adarsh"
+    },
+    "excerpt": "A note from Brendan & Adarsh",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s10",
+    "sourceId": "src_s10",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Unlocking human potential in the AI economy"
+    },
+    "excerpt": "Unlocking human potential in the AI economy",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s11",
+    "sourceId": "src_s11",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “2 million a day” — https://www.mercor.com/blog/when-you-go-from-2-million-a-month-to-2-million-a-day/"
+    },
+    "excerpt": "from $2 million a month to $ 2 million a day APEX APEX-Agents APEX-SWE APEX Off-the-shelf data Research Enterprise Experts Mission Log in APEX Research",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s12",
+    "sourceId": "src_s12",
+    "locator": {
+      "kind": "page",
+      "value": "Indexed publisher title — Mercor gross/net economics reporting"
+    },
+    "excerpt": "Mercor annualized revenue reporting separates gross marketplace volume from retained revenue",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.theinformation.com"
+  },
+  {
+    "observationId": "obs_s13",
+    "sourceId": "src_s13",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “will acquire” — https://www.mercor.com/blog/mercor-to-acquire-deeptune/"
+    },
+    "excerpt": "Deeptune excels. Today we're announcing that Mercor will acquire Deeptune, a leading company building environments for reinforcement learning. Reinforcement learning has reached the point where",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s14",
+    "sourceId": "src_s14",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “data breach” — https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+    },
+    "excerpt": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk | WIRED Skip to main content SECURITY POLITICS THE BIG",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.wired.com"
+  },
+  {
+    "observationId": "obs_s15",
+    "sourceId": "src_s15",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — micro1 raises $35M to build the AI platform for human intelligence"
+    },
+    "excerpt": "micro1 raises $35M to build the AI platform for human intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s16",
+    "sourceId": "src_s16",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Data lab to train frontier models & evaluate agents"
+    },
+    "excerpt": "Data lab to train frontier models & evaluate agents",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s17",
+    "sourceId": "src_s17",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Frontier evaluations and RL environments for AI Labs"
+    },
+    "excerpt": "Frontier evaluations and RL environments for AI Labs",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s18",
+    "sourceId": "src_s18",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — The visibility and improvement layer for agentic AI"
+    },
+    "excerpt": "The visibility and improvement layer for agentic AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s19",
+    "sourceId": "src_s19",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Structured real-world data built to improve physical policy models"
+    },
+    "excerpt": "Structured real-world data built to improve physical policy models",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s20",
+    "sourceId": "src_s20",
+    "locator": {
+      "kind": "section",
+      "value": "Our story"
+    },
+    "excerpt": "In 2018 the founders started Turing as an AI-powered technology services company",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s21",
+    "sourceId": "src_s21",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Improve Real-World Model Reasoning"
+    },
+    "excerpt": "Turing advertises data packs, structured RL environments, and research-grade benchmarks",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s22",
+    "sourceId": "src_s22",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Expert RL Environments Built for Frontier Standards"
+    },
+    "excerpt": "Controlled environments support agent training and evaluation before larger-scale integration",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s23",
+    "sourceId": "src_s23",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Expand model capabilities with expert data packs"
+    },
+    "excerpt": "Expand model capabilities with expert data packs",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s24",
+    "sourceId": "src_s24",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Turing Research"
+    },
+    "excerpt": "Turing Research",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s25",
+    "sourceId": "src_s25",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H2 — TL;DR"
+    },
+    "excerpt": "TL;DR",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s26",
+    "sourceId": "src_s26",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — We teach machines how experts think."
+    },
+    "excerpt": "We teach machines how experts think.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s27",
+    "sourceId": "src_s27",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “$30 million” — https://www.afterquery.com/blog/human-expertise-reimagined"
+    },
+    "excerpt": "Today, AfterQuery is excited to announce our $30 million Series A at a $300 million valuation, led by Altos Ventures, with participation from The Raine",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s28",
+    "sourceId": "src_s28",
+    "locator": {
+      "kind": "page",
+      "value": "Page 23 — text containing “AfterQuery”"
+    },
+    "excerpt": "We then constructed a training distribution from AfterQuery (AQ) tasks that share important latent structure with GDPval, including file-grounded reasoning, professional deliverables, multi-step analysis, and",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s29",
+    "sourceId": "src_s29",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — fleet-context 1.1.9"
+    },
+    "excerpt": "fleet-context 1.1.9",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at pypi.org"
+  },
+  {
+    "observationId": "obs_s30",
+    "sourceId": "src_s30",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Fleet"
+    },
+    "excerpt": "Fleet",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s31",
+    "sourceId": "src_s31",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — micro1 deploys top-tier PhDs and MBAs to help an industry leading AI lab train its model on business data"
+    },
+    "excerpt": "micro1 deploys top-tier PhDs and MBAs to help an industry leading AI lab train its model on business data",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s32",
+    "sourceId": "src_s32",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “$43 million” — https://deeptune.com/blog/series-a/"
+    },
+    "excerpt": "pursuit of AGI. Today, we're announcing our $43 million Series A, led by Andreessen Horowitz with participation from 776, Abstract Ventures, and Inspired Capital, and",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s33",
+    "sourceId": "src_s33",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Investing in Deeptune"
+    },
+    "excerpt": "Investing in Deeptune",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s34",
+    "sourceId": "src_s34",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Environments for Environments for the next capabilities the next capabilities"
+    },
+    "excerpt": "Environments for Environments for the next capabilities the next capabilities",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s35",
+    "sourceId": "src_s35",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H2 — Footer"
+    },
+    "excerpt": "Footer",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s36",
+    "sourceId": "src_s36",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Mining Hard Tasks for Web Agents: An Adversarial E-Commerce Benchmark"
+    },
+    "excerpt": "Mining Hard Tasks for Web Agents: An Adversarial E-Commerce Benchmark",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s37",
+    "sourceId": "src_s37",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Visible text containing “$100” — https://www.halluminate.ai/experts"
+    },
+    "excerpt": "rates, with flexible remote work ranging from $100-$250/hour depending on project and experience. “Halluminate has been a great experience. You get to test cutting-edge AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s38",
+    "sourceId": "src_s38",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Computer Science > Computation and Language"
+    },
+    "excerpt": "Computer Science > Computation and Language",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_s39",
+    "sourceId": "src_s39",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Computer Science > Machine Learning"
+    },
+    "excerpt": "Computer Science > Machine Learning",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_s40",
+    "sourceId": "src_s40",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Computer Science > Artificial Intelligence"
+    },
+    "excerpt": "Computer Science > Artificial Intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_s41",
+    "sourceId": "src_s41",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Computer Science > Artificial Intelligence"
+    },
+    "excerpt": "Computer Science > Artificial Intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_s42",
+    "sourceId": "src_s42",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Computer Science > Artificial Intelligence"
+    },
+    "excerpt": "Computer Science > Artificial Intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_s43",
+    "sourceId": "src_s43",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — LangSmith: The Agent Engineering Platform"
+    },
+    "excerpt": "LangSmith: The Agent Engineering Platform",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s44",
+    "sourceId": "src_s44",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — OpenEnv: Agentic Execution Environments"
+    },
+    "excerpt": "OpenEnv: Agentic Execution Environments",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at huggingface.co"
+  },
+  {
+    "observationId": "obs_s45",
+    "sourceId": "src_s45",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Introducing BrowserEnv: Train browser agents on real websites"
+    },
+    "excerpt": "Introducing BrowserEnv: Train browser agents on real websites",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s46",
+    "sourceId": "src_s46",
+    "locator": {
+      "kind": "page",
+      "value": "Transport metadata — HTTP 404"
+    },
+    "excerpt": "Direct source content returned HTTP 404 at the research cutoff",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s47",
+    "sourceId": "src_s47",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — An FAQ on Reinforcement Learning Environments"
+    },
+    "excerpt": "An FAQ on Reinforcement Learning Environments",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at epoch.ai"
+  },
+  {
+    "observationId": "obs_s48",
+    "sourceId": "src_s48",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Amazon Bedrock AgentCore"
+    },
+    "excerpt": "Amazon Bedrock AgentCore",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s49",
+    "sourceId": "src_s49",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — A shared playbook for trustworthy third party evaluations"
+    },
+    "excerpt": "A shared playbook for trustworthy third party evaluations",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s50",
+    "sourceId": "src_s50",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — A new initiative for developing third-party model evaluations"
+    },
+    "excerpt": "A new initiative for developing third-party model evaluations",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s51",
+    "sourceId": "src_s51",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Strengthening our safety ecosystem with external testing"
+    },
+    "excerpt": "Strengthening our safety ecosystem with external testing",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s52",
+    "sourceId": "src_s52",
+    "locator": {
+      "kind": "page",
+      "value": "Page 7 — text containing “Underlying EBITDA”"
+    },
+    "excerpt": "$230.8M 4.5% 1 from $220.9M in FY24 Underlying EBITDA before FX $12.2M 250.8% from $3.5M in FY24 Underlying EBITDA $12.6M 60.8% from $7.8M in FY24",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at announcements.asx.com.au"
+  },
+  {
+    "observationId": "obs_s53",
+    "sourceId": "src_s53",
+    "locator": {
+      "kind": "page",
+      "value": "Transport metadata — HTTP 200 application/pdf"
+    },
+    "excerpt": "Only transport metadata was captured; document contents were not verified at the research cutoff",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s54",
+    "sourceId": "src_s54",
+    "locator": {
+      "kind": "page",
+      "value": "Transport metadata — HTTP 200 cookie-banner chrome"
+    },
+    "excerpt": "Only cookie-banner chrome was captured; no substantive roadmap body passage was verified",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.gov.uk"
+  },
+  {
+    "observationId": "obs_s55",
+    "sourceId": "src_s55",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Assuring a Responsible Future for AI"
+    },
+    "excerpt": "Assuring a Responsible Future for AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.gov.uk"
+  },
+  {
+    "observationId": "obs_s56",
+    "sourceId": "src_s56",
+    "locator": {
+      "kind": "page",
+      "value": "Pages 1-7 — AISI Research and Evals Partner for Cyber"
+    },
+    "excerpt": "The procurement sought a research and evaluations partner for cyber capability work",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.find-tender.service.gov.uk"
+  },
+  {
+    "observationId": "obs_s57",
+    "sourceId": "src_s57",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — LangSmith Agent Engineering Platform"
+    },
+    "excerpt": "LangSmith Agent Engineering Platform",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s58",
+    "sourceId": "src_s58",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Assurance for AI"
+    },
+    "excerpt": "Assurance for AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s59",
+    "sourceId": "src_s59",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Independent Assurance"
+    },
+    "excerpt": "Independent Assurance",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s60",
+    "sourceId": "src_s60",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — ISO/IEC 42001 - AI Management System"
+    },
+    "excerpt": "ISO/IEC 42001 - AI Management System",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s61",
+    "sourceId": "src_s61",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Agent Experience"
+    },
+    "excerpt": "Agent Experience",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s62",
+    "sourceId": "src_s62",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Agentic AI"
+    },
+    "excerpt": "Agentic AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s63",
+    "sourceId": "src_s63",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H2 — Estimate your platform pricing"
+    },
+    "excerpt": "Estimate your platform pricing",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s64",
+    "sourceId": "src_s64",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Predictable pricing. Designed to scale."
+    },
+    "excerpt": "Predictable pricing. Designed to scale.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s65",
+    "sourceId": "src_s65",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Plans for teams of any size"
+    },
+    "excerpt": "Plans for teams of any size",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s66",
+    "sourceId": "src_s66",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Four plans. One platform."
+    },
+    "excerpt": "Four plans. One platform.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s67",
+    "sourceId": "src_s67",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Over 40% of agentic AI projects will be canceled…due to escalating costs, unclear business value"
+    },
+    "excerpt": "Over 40% of agentic AI projects will be canceled…due to escalating costs, unclear business value",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at www.gartner.com"
+  },
+  {
+    "observationId": "obs_s68",
+    "sourceId": "src_s68",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Westworld v1"
+    },
+    "excerpt": "Westworld v1",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s69",
+    "sourceId": "src_s69",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — How We Built LangSmith Engine, Our Agent for Improving Agents"
+    },
+    "excerpt": "How We Built LangSmith Engine, Our Agent for Improving Agents",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s70",
+    "sourceId": "src_s70",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Evaluate agent performance with Amazon Bedrock AgentCore Evaluations"
+    },
+    "excerpt": "Evaluate agent performance with Amazon Bedrock AgentCore Evaluations",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s71",
+    "sourceId": "src_s71",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Amazon Bedrock AgentCore Pricing"
+    },
+    "excerpt": "Amazon Bedrock AgentCore Pricing",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s72",
+    "sourceId": "src_s72",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Fleet"
+    },
+    "excerpt": "Fleet",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s73",
+    "sourceId": "src_s73",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Autoscaled RL data for frontier agents"
+    },
+    "excerpt": "Autoscaled RL data for frontier agents",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s74",
+    "sourceId": "src_s74",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Turing Research"
+    },
+    "excerpt": "Turing Research",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s75",
+    "sourceId": "src_s75",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Tldr"
+    },
+    "excerpt": "Tldr",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s76",
+    "sourceId": "src_s76",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — We helped a frontier AI lab hire 60 competitive programmers in three weeks"
+    },
+    "excerpt": "We helped a frontier AI lab hire 60 competitive programmers in three weeks",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_s77",
+    "sourceId": "src_s77",
+    "locator": {
+      "kind": "page",
+      "value": "Transport metadata — HTTP 403"
+    },
+    "excerpt": "Direct source content was unavailable at the research cutoff",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "canonical-source-locator-capture",
+    "independenceBasis": "Publisher-controlled evidence at www.find-tender.service.gov.uk"
+  },
+  {
+    "observationId": "obs_adj-appen",
+    "sourceId": "src_adj-appen",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Human data for frontier AI"
+    },
+    "excerpt": "Human data for frontier AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-telus-digital-ai-data-solutions",
+    "sourceId": "src_adj-telus-digital-ai-data-solutions",
+    "locator": {
+      "kind": "page",
+      "value": "Transport metadata — HTTP 403"
+    },
+    "excerpt": "Direct source content was unavailable at the research cutoff",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-sama",
+    "sourceId": "src_adj-sama",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Get Quality Data for High-Performance AI"
+    },
+    "excerpt": "Get Quality Data for High-Performance AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-imerit",
+    "sourceId": "src_adj-imerit",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — EXL to Acquire i Merit"
+    },
+    "excerpt": "EXL to Acquire i Merit",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-cloudfactory",
+    "sourceId": "src_adj-cloudfactory",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Develop Develop Operate Deploy AI that works when mistakes matter."
+    },
+    "excerpt": "Develop Develop Operate Deploy AI that works when mistakes matter.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-surge-ai",
+    "sourceId": "src_adj-surge-ai",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Surge AI | Human Intelligence for AGI"
+    },
+    "excerpt": "Surge AI | Human Intelligence for AGI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-labelbox",
+    "sourceId": "src_adj-labelbox",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — The RL data engine for AI teams"
+    },
+    "excerpt": "The RL data engine for AI teams",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-toloka",
+    "sourceId": "src_adj-toloka",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Training data for AI agents and LLMs"
+    },
+    "excerpt": "Training data for AI agents and LLMs",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-dataannotation",
+    "sourceId": "src_adj-dataannotation",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Train AI. Get Paid."
+    },
+    "excerpt": "Train AI. Get Paid.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-handshake",
+    "sourceId": "src_adj-handshake",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Let's find your next job"
+    },
+    "excerpt": "Let's find your next job",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-invisible-technologies",
+    "sourceId": "src_adj-invisible-technologies",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Advancing AI models from frontier innovation to"
+    },
+    "excerpt": "Advancing AI models from frontier innovation to",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-outlier",
+    "sourceId": "src_adj-outlier",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Become the expert that AI learns from"
+    },
+    "excerpt": "Become the expert that AI learns from",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-alignerr",
+    "sourceId": "src_adj-alignerr",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Where experts get paid to train AI"
+    },
+    "excerpt": "Where experts get paid to train AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-mindrift",
+    "sourceId": "src_adj-mindrift",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Get paid to train AI"
+    },
+    "excerpt": "Get paid to train AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-g2i",
+    "sourceId": "src_adj-g2i",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Hire World Class Engineers. {Super Fast}"
+    },
+    "excerpt": "Hire World Class Engineers. {Super Fast}",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-catalant",
+    "sourceId": "src_adj-catalant",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Welcome to the era of fit-to-purpose consulting."
+    },
+    "excerpt": "Welcome to the era of fit-to-purpose consulting.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-glg",
+    "sourceId": "src_adj-glg",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — GLG"
+    },
+    "excerpt": "GLG advertises expert-network access and professional insight services",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-e2b",
+    "sourceId": "src_adj-e2b",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — AI Sandboxes for"
+    },
+    "excerpt": "AI Sandboxes for",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-daytona",
+    "sourceId": "src_adj-daytona",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Run AI Code on Daytona"
+    },
+    "excerpt": "Run AI Code on Daytona",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-modal",
+    "sourceId": "src_adj-modal",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — AI infrastructure that developers love"
+    },
+    "excerpt": "AI infrastructure that developers love",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-prime-intellect",
+    "sourceId": "src_adj-prime-intellect",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — The Open Superintelligence Stack Own Your Intelligence Own Your Intelligence Own Your Intelligence"
+    },
+    "excerpt": "The Open Superintelligence Stack Own Your Intelligence Own Your Intelligence Own Your Intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-steel",
+    "sourceId": "src_adj-steel",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Browser Infrastructure for AI Agents"
+    },
+    "excerpt": "Browser Infrastructure for AI Agents",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-browser-use",
+    "sourceId": "src_adj-browser-use",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — The Way AI uses the web."
+    },
+    "excerpt": "The Way AI uses the web.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-kernel",
+    "sourceId": "src_adj-kernel",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Kernel: Browser infrastructure for web agents and automations"
+    },
+    "excerpt": "Kernel: Browser infrastructure for web agents and automations",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-scrapybara",
+    "sourceId": "src_adj-scrapybara",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — A COMPUTER FOR YOUR AI"
+    },
+    "excerpt": "A COMPUTER FOR YOUR AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-arize-ai",
+    "sourceId": "src_adj-arize-ai",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — The continual learning platform for agents"
+    },
+    "excerpt": "The continual learning platform for agents",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-langfuse",
+    "sourceId": "src_adj-langfuse",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Open Source AI Engineering Platform"
+    },
+    "excerpt": "Open Source AI Engineering Platform",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-patronus-ai",
+    "sourceId": "src_adj-patronus-ai",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Simulating the World's Intelligence"
+    },
+    "excerpt": "Simulating the World's Intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-giskard",
+    "sourceId": "src_adj-giskard",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — GenAI risks. Handled."
+    },
+    "excerpt": "GenAI risks. Handled.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-galileo",
+    "sourceId": "src_adj-galileo",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Don't just monitor AI failures. Stop them."
+    },
+    "excerpt": "Don't just monitor AI failures. Stop them.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-confident-ai",
+    "sourceId": "src_adj-confident-ai",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Where AI Quality is Standardized. Not Improvised."
+    },
+    "excerpt": "Where AI Quality is Standardized. Not Improvised.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-maxim-ai",
+    "sourceId": "src_adj-maxim-ai",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Simulate, evaluate, and observe your AI agents"
+    },
+    "excerpt": "Simulate, evaluate, and observe your AI agents",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-nvidia-nemo",
+    "sourceId": "src_adj-nvidia-nemo",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — NVIDIA NeMo"
+    },
+    "excerpt": "NVIDIA NeMo",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-google-vertex-ai",
+    "sourceId": "src_adj-google-vertex-ai",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Gemini Enterprise Agent Platform"
+    },
+    "excerpt": "Gemini Enterprise Agent Platform",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-microsoft-azure-ai-foundry",
+    "sourceId": "src_adj-microsoft-azure-ai-foundry",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Microsoft Foundry"
+    },
+    "excerpt": "Microsoft Foundry",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-together-ai",
+    "sourceId": "src_adj-together-ai",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Build what's next on the AI Native Cloud"
+    },
+    "excerpt": "Build what's next on the AI Native Cloud",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-fireworks-ai",
+    "sourceId": "src_adj-fireworks-ai",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Frontier Specialized Intelligence"
+    },
+    "excerpt": "Frontier Specialized Intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-anyscale",
+    "sourceId": "src_adj-anyscale",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Foundation Model builders scale distributed training multimodal data curation embedding generation post-training workloads on Anyscale"
+    },
+    "excerpt": "Foundation Model builders scale distributed training multimodal data curation embedding generation post-training workloads on Anyscale",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-predibase",
+    "sourceId": "src_adj-predibase",
+    "locator": {
+      "kind": "section",
+      "value": "Transport metadata — unrelated cross-origin redirect"
+    },
+    "excerpt": "Request redirected to Rubrik Agent Cloud; no Predibase page content was retained.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-openpipe",
+    "sourceId": "src_adj-openpipe",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — OpenPipe | RL For Agents"
+    },
+    "excerpt": "OpenPipe | RL For Agents",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-accenture",
+    "sourceId": "src_adj-accenture",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Reinvent the enterprise with generative AI"
+    },
+    "excerpt": "Reinvent the enterprise with generative AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-quantumblack-ai-by-mckinsey",
+    "sourceId": "src_adj-quantumblack-ai-by-mckinsey",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — QuantumBlack, AI by McKinsey"
+    },
+    "excerpt": "QuantumBlack advertises AI transformation and engineering services",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-bcg-x",
+    "sourceId": "src_adj-bcg-x",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — We’re Building Tomorrow"
+    },
+    "excerpt": "We’re Building Tomorrow",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-ibm-consulting",
+    "sourceId": "src_adj-ibm-consulting",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Artificial intelligence (AI) consulting services"
+    },
+    "excerpt": "Artificial intelligence (AI) consulting services",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-slalom",
+    "sourceId": "src_adj-slalom",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — AI consulting"
+    },
+    "excerpt": "AI consulting",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-thoughtworks",
+    "sourceId": "src_adj-thoughtworks",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Enterprise AI services Stop stalling, start scaling. Deliver real AI value."
+    },
+    "excerpt": "Enterprise AI services Stop stalling, start scaling. Deliver real AI value.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-palantir",
+    "sourceId": "src_adj-palantir",
+    "locator": {
+      "kind": "page",
+      "value": "<title> — Palantir Artificial Intelligence Platform"
+    },
+    "excerpt": "Palantir Artificial Intelligence Platform",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-taskus",
+    "sourceId": "src_adj-taskus",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Agentic AI that Works"
+    },
+    "excerpt": "Agentic AI that Works",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-concentrix",
+    "sourceId": "src_adj-concentrix",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Turning bold ambition into operational reality"
+    },
+    "excerpt": "Turning bold ambition into operational reality",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-genpact",
+    "sourceId": "src_adj-genpact",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Data and AI"
+    },
+    "excerpt": "Data and AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-wipro",
+    "sourceId": "src_adj-wipro",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H2 — The Economics of AI: From Breakthroughs to Business Value"
+    },
+    "excerpt": "The Economics of AI: From Breakthroughs to Business Value",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-cognizant",
+    "sourceId": "src_adj-cognizant",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Empowering better, faster decision-making with data and AI services"
+    },
+    "excerpt": "Empowering better, faster decision-making with data and AI services",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-teleperformance",
+    "sourceId": "src_adj-teleperformance",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — TP is a global partner that operates where people, processes, and AI meet."
+    },
+    "excerpt": "TP is a global partner that operates where people, processes, and AI meet.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-capgemini",
+    "sourceId": "src_adj-capgemini",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — Data and artificial intelligence"
+    },
+    "excerpt": "Data and artificial intelligence",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-exl",
+    "sourceId": "src_adj-exl",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — EXL: Empowering Businesses Through Data & AI"
+    },
+    "excerpt": "EXL: Empowering Businesses Through Data & AI",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_adj-ttec",
+    "sourceId": "src_adj-ttec",
+    "locator": {
+      "kind": "html_heading",
+      "value": "H1 — TTEC"
+    },
+    "excerpt": "TTEC advertises technology-enabled customer-experience and AI operations services",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "bounded-adjacent-census-locator-capture",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s01",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s01",
+    "locator": {
+      "kind": "paragraph",
+      "value": "assessed a record $1.3 billion penalty against TD Bank"
+    },
+    "excerpt": "assessed a record $1.3 billion penalty against TD Bank",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-10-10",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fincen.gov"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s02",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s02",
+    "locator": {
+      "kind": "paragraph",
+      "value": "In 2022, APP fraud losses reached £485 million"
+    },
+    "excerpt": "In 2022, APP fraud losses reached £485 million",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-03-12",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fca.org.uk"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s04",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s04",
+    "locator": {
+      "kind": "paragraph",
+      "value": "This contract is for AI assurance consultancy expertise to support the AI Live Testing service."
+    },
+    "excerpt": "This contract is for AI assurance consultancy expertise to support the AI Live Testing service.",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-09-08",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.find-tender.service.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s06",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s06",
+    "locator": {
+      "kind": "paragraph",
+      "value": "No, there is no cost to take part."
+    },
+    "excerpt": "No, there is no cost to take part.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-20",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fca.org.uk"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s07",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s07",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Marketplace for 300+ synthetic, public, anonymised and pseudonymised data sets and over 1000 API end points."
+    },
+    "excerpt": "Marketplace for 300+ synthetic, public, anonymised and pseudonymised data sets and over 1000 API end points.",
+    "observedAt": "2026-07-12",
+    "validAt": "2020-04-28",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fca.org.uk"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s09",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s09",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Such processing could rely on legal obligation as a basis, but this would only cover the auditing and testing of the system"
+    },
+    "excerpt": "Such processing could rely on legal obligation as a basis, but this would only cover the auditing and testing of the system",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-10-28",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at ico.org.uk"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s08",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s08",
+    "locator": {
+      "kind": "paragraph",
+      "value": "legal and privacy constraints often restrict sharing of such information."
+    },
+    "excerpt": "legal and privacy constraints often restrict sharing of such information.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-15",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fca.org.uk"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s10",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s10",
+    "locator": {
+      "kind": "paragraph",
+      "value": "AI system testing (including shared evaluation)"
+    },
+    "excerpt": "AI system testing (including shared evaluation)",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-01-30",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fca.org.uk"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s15",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s15",
+    "locator": {
+      "kind": "paragraph",
+      "value": "functional correctness - a state diff plus forbidden-side-effect checks plus required-output regexes"
+    },
+    "excerpt": "functional correctness - a state diff plus forbidden-side-effect checks plus required-output regexes",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-06-20",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s11",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s11",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The experiments were conducted using a state-of-the-art simulated synthetic transaction dataset"
+    },
+    "excerpt": "The experiments were conducted using a state-of-the-art simulated synthetic transaction dataset",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-06-05",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.bis.org"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s16",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s16",
+    "locator": {
+      "kind": "paragraph",
+      "value": "certified more than 140,000 professionals in over 200 jurisdictions and territories"
+    },
+    "excerpt": "certified more than 140,000 professionals in over 200 jurisdictions and territories",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-07-15",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.acams.org"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s17",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s17",
+    "locator": {
+      "kind": "paragraph",
+      "value": "serves more than 265,000 global members and has awarded more than 200,000 Certified Internal Auditor certifications worldwide"
+    },
+    "excerpt": "serves more than 265,000 global members and has awarded more than 200,000 Certified Internal Auditor certifications worldwide",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-03-10",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.theiia.org"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s18",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s18",
+    "locator": {
+      "kind": "paragraph",
+      "value": "A major constraint is the shortage of skilled AI professionals, both in industry and in supervisory authorities."
+    },
+    "excerpt": "A major constraint is the shortage of skilled AI professionals, both in industry and in supervisory authorities.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-05-20",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.bis.org"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s20",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s20",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Displaying 1 - 10 of 1884 results."
+    },
+    "excerpt": "Displaying 1 - 10 of 1884 results.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-07-01",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at ofac.treasury.gov"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s22",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s22",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Advisories often contain illicit activity typologies, red flags that facilitate monitoring"
+    },
+    "excerpt": "Advisories often contain illicit activity typologies, red flags that facilitate monitoring",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-06-30",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fincen.gov"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s21",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s21",
+    "locator": {
+      "kind": "paragraph",
+      "value": "the new files contain live data and will be updated at the same time as all of OFAC’s other list products."
+    },
+    "excerpt": "the new files contain live data and will be updated at the same time as all of OFAC’s other list products.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at ofac.treasury.gov"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s24",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s24",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Google Cloud's Anti Money Laundering AI … is an API that scores AML risk."
+    },
+    "excerpt": "Google Cloud's Anti Money Laundering AI … is an API that scores AML risk.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-06-20",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s26",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s26",
+    "locator": {
+      "kind": "paragraph",
+      "value": "deploys AI agents in a simulation environment that stress tests financial crime programs"
+    },
+    "excerpt": "deploys AI agents in a simulation environment that stress tests financial crime programs",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-regulated-financial-operations-fin-s30",
+    "sourceId": "src_exa-regulated-financial-operations-fin-s30",
+    "locator": {
+      "kind": "paragraph",
+      "value": "33% of AI use cases are from third parties."
+    },
+    "excerpt": "33% of AI use cases are from third parties.",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-12-03",
+    "observerGroup": "exa-receipt-regulated-financial-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.fca.org.uk"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o01",
+    "sourceId": "src_exa-insurance-operations-o01",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Nearly 44% of insurers now face settlement periods longer than 60 days, driven by higher transaction volumes and increased processing complexity."
+    },
+    "excerpt": "Nearly 44% of insurers now face settlement periods longer than 60 days, driven by higher transaction volumes and increased processing complexity.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-03-18",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o03",
+    "sourceId": "src_exa-insurance-operations-o03",
+    "locator": {
+      "kind": "paragraph",
+      "value": "more than 50% of policy and claims-related processes still require human intervention"
+    },
+    "excerpt": "more than 50% of policy and claims-related processes still require human intervention",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-30",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.claimspages.com"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o05",
+    "sourceId": "src_exa-insurance-operations-o05",
+    "locator": {
+      "kind": "paragraph",
+      "value": "just 7% have reached what Sedgwick calls scalable success"
+    },
+    "excerpt": "just 7% have reached what Sedgwick calls scalable success",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-03-04",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.insurancebusinessmag.com"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o08",
+    "sourceId": "src_exa-insurance-operations-o08",
+    "locator": {
+      "kind": "paragraph",
+      "value": "finance teams are unable to tie AI investments to returns"
+    },
+    "excerpt": "finance teams are unable to tie AI investments to returns",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-06",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.ciodive.com"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o12",
+    "sourceId": "src_exa-insurance-operations-o12",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Participating financial institutions will receive targeted supervisory guidance, technical support, and complimentary access to graphics processing unit"
+    },
+    "excerpt": "Participating financial institutions will receive targeted supervisory guidance, technical support, and complimentary access to graphics processing unit",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-03-05",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.ia.org.hk"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o11",
+    "sourceId": "src_exa-insurance-operations-o11",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Insurers should include standards for model development, implementation, use, and validation"
+    },
+    "excerpt": "Insurers should include standards for model development, implementation, use, and validation",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-07-11",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.dfs.ny.gov"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o14",
+    "sourceId": "src_exa-insurance-operations-o14",
+    "locator": {
+      "kind": "paragraph",
+      "value": "data currency, lineage, quality, integrity, bias analysis and minimization, and suitability"
+    },
+    "excerpt": "data currency, lineage, quality, integrity, bias analysis and minimization, and suitability",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-12-09",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.mass.gov"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o16",
+    "sourceId": "src_exa-insurance-operations-o16",
+    "locator": {
+      "kind": "paragraph",
+      "value": "real-world claims frequently contain ambiguous descriptions or incomplete information that complicates the decision process"
+    },
+    "excerpt": "real-world claims frequently contain ambiguous descriptions or incomplete information that complicates the decision process",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-07-02",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at aclanthology.org"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o18",
+    "sourceId": "src_exa-insurance-operations-o18",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Insurance underwriters held about 127,000 jobs in 2024."
+    },
+    "excerpt": "Insurance underwriters held about 127,000 jobs in 2024.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.bls.gov"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o20",
+    "sourceId": "src_exa-insurance-operations-o20",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Federal and state laws and the outcomes of claim disputes adjudicated in court affect how the claims must be handled"
+    },
+    "excerpt": "Federal and state laws and the outcomes of claim disputes adjudicated in court affect how the claims must be handled",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at www.bls.gov"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o22",
+    "sourceId": "src_exa-insurance-operations-o22",
+    "locator": {
+      "kind": "paragraph",
+      "value": "One in five companies report that hiring has become more difficult compared to the prior year"
+    },
+    "excerpt": "One in five companies report that hiring has become more difficult compared to the prior year",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-02-27",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Publisher-controlled evidence at riskandinsurance.com"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o23",
+    "sourceId": "src_exa-insurance-operations-o23",
+    "locator": {
+      "kind": "paragraph",
+      "value": "new frameworks for artificial intelligence (AI), data governance, and risk management"
+    },
+    "excerpt": "new frameworks for artificial intelligence (AI), data governance, and risk management",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o24",
+    "sourceId": "src_exa-insurance-operations-o24",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Schema Files: Scripts that define the structure and content of XML and/or JSON GRLC messages, and can be used to programmatically validate those messages."
+    },
+    "excerpt": "Schema Files: Scripts that define the structure and content of XML and/or JSON GRLC messages, and can be used to programmatically validate those messages.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o25",
+    "sourceId": "src_exa-insurance-operations-o25",
+    "locator": {
+      "kind": "paragraph",
+      "value": "More than 570 insurers in 42 countries, from new ventures to the largest and most complex in the world, rely on Guidewire products."
+    },
+    "excerpt": "More than 570 insurers in 42 countries, from new ventures to the largest and most complex in the world, rely on Guidewire products.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-11-12",
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-insurance-operations-o27",
+    "sourceId": "src_exa-insurance-operations-o27",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Poor governance structures, legacy system complications and employee resistance lead to stalled pilots and wasted resources."
+    },
+    "excerpt": "Poor governance structures, legacy system complications and employee resistance lead to stalled pilots and wasted resources.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-insurance-operations",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o01",
+    "sourceId": "src_exa-healthcare-administration-o01",
+    "locator": {
+      "kind": "paragraph",
+      "value": "We calculated that denials resulted in a 7 percent net reduction in provider MA revenue"
+    },
+    "excerpt": "We calculated that denials resulted in a 7 percent net reduction in provider MA revenue",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-06-01",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.healthaffairs.org"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o02",
+    "sourceId": "src_exa-healthcare-administration-o02",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Overall, the MCOs included in our review denied one out of every eight requests for the prior authorization of services in 2019."
+    },
+    "excerpt": "Overall, the MCOs included in our review denied one out of every eight requests for the prior authorization of services in 2019.",
+    "observedAt": "2026-07-12",
+    "validAt": "2023-07-17",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at oig.hhs.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o03",
+    "sourceId": "src_exa-healthcare-administration-o03",
+    "locator": {
+      "kind": "paragraph",
+      "value": "LHCC complied with Federal and State requirements when it denied 64 of the 76 sampled behavioral health service requests"
+    },
+    "excerpt": "LHCC complied with Federal and State requirements when it denied 64 of the 76 sampled behavioral health service requests",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-03",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at oig.hhs.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o04",
+    "sourceId": "src_exa-healthcare-administration-o04",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Amerigroup denied only 3 percent of requested medical services during its prior authorization process"
+    },
+    "excerpt": "Amerigroup denied only 3 percent of requested medical services during its prior authorization process",
+    "observedAt": "2026-07-12",
+    "validAt": "2023-09-13",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at oig.hhs.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o05",
+    "sourceId": "src_exa-healthcare-administration-o05",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Scope will primarily be project management and implementation support for revenue cycle assessment recommendations."
+    },
+    "excerpt": "Scope will primarily be project management and implementation support for revenue cycle assessment recommendations.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-06-28",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at health.ucdavis.edu"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o06",
+    "sourceId": "src_exa-healthcare-administration-o06",
+    "locator": {
+      "kind": "paragraph",
+      "value": "NYC Health + Hospitals seeks to outsource a portion of its low dollar, high volume insured accounts receivable to selected vendors."
+    },
+    "excerpt": "NYC Health + Hospitals seeks to outsource a portion of its low dollar, high volume insured accounts receivable to selected vendors.",
+    "observedAt": "2026-07-12",
+    "validAt": "2023-05-05",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at a856-cityrecord.nyc.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o07",
+    "sourceId": "src_exa-healthcare-administration-o07",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Business associate functions and activities include: claims processing or administration; data analysis, processing or administration; utilization review; quality assurance; billing"
+    },
+    "excerpt": "Business associate functions and activities include: claims processing or administration; data analysis, processing or administration; utilization review; quality assurance; billing",
+    "observedAt": "2026-07-12",
+    "validAt": "2009-01-07",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.hhs.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o08",
+    "sourceId": "src_exa-healthcare-administration-o08",
+    "locator": {
+      "kind": "paragraph",
+      "value": "We are requiring that impacted payers implement and maintain a Provider Access API to share patient data with in-network providers"
+    },
+    "excerpt": "We are requiring that impacted payers implement and maintain a Provider Access API to share patient data with in-network providers",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-01-17",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.cms.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o10",
+    "sourceId": "src_exa-healthcare-administration-o10",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The Privacy Rule generally requires covered entities to take reasonable steps to limit the use or disclosure of, and requests for, protected health information"
+    },
+    "excerpt": "The Privacy Rule generally requires covered entities to take reasonable steps to limit the use or disclosure of, and requests for, protected health information",
+    "observedAt": "2026-07-12",
+    "validAt": "2009-01-07",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.hhs.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o11",
+    "sourceId": "src_exa-healthcare-administration-o11",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Requires a separate patient consent for the use and disclosure of SUD counseling notes."
+    },
+    "excerpt": "Requires a separate patient consent for the use and disclosure of SUD counseling notes.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-02-07",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.hhs.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o12",
+    "sourceId": "src_exa-healthcare-administration-o12",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The purpose of the NCCI Procedure to Procedure edits is to prevent improper payment when incorrect code combinations are reported."
+    },
+    "excerpt": "The purpose of the NCCI Procedure to Procedure edits is to prevent improper payment when incorrect code combinations are reported.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-03-04",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.cms.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o13",
+    "sourceId": "src_exa-healthcare-administration-o13",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Complex review: Requires licensed professionals who review additional documentation associated with a claim"
+    },
+    "excerpt": "Complex review: Requires licensed professionals who review additional documentation associated with a claim",
+    "observedAt": "2026-07-12",
+    "validAt": "2016-09-15",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.cms.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o14",
+    "sourceId": "src_exa-healthcare-administration-o14",
+    "locator": {
+      "kind": "paragraph",
+      "value": "other decisions will continue to necessitate review and evaluation by clinical reviewers"
+    },
+    "excerpt": "other decisions will continue to necessitate review and evaluation by clinical reviewers",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-15",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.cms.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o15",
+    "sourceId": "src_exa-healthcare-administration-o15",
+    "locator": {
+      "kind": "paragraph",
+      "value": "There is substantial disagreement among coding specialists in application of the CPT E/M coding guidelines."
+    },
+    "excerpt": "There is substantial disagreement among coding specialists in application of the CPT E/M coding guidelines.",
+    "observedAt": "2026-07-12",
+    "validAt": "2002-02-11",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at doi.org"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o16",
+    "sourceId": "src_exa-healthcare-administration-o16",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Community colleges and technical schools offer certificate and associate’s degree programs for medical records specialists."
+    },
+    "excerpt": "Community colleges and technical schools offer certificate and associate’s degree programs for medical records specialists.",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-08-28",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.bls.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o17",
+    "sourceId": "src_exa-healthcare-administration-o17",
+    "locator": {
+      "kind": "paragraph",
+      "value": "two-thirds (66 percent) of respondents reported understaffing of HI professionals at their organizations within the last two years."
+    },
+    "excerpt": "two-thirds (66 percent) of respondents reported understaffing of HI professionals at their organizations within the last two years.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-03-04",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at journal.ahima.org"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o18",
+    "sourceId": "src_exa-healthcare-administration-o18",
+    "locator": {
+      "kind": "paragraph",
+      "value": "We maintain and annually update a List of Current Procedural Terminology (CPT)/Healthcare Common Procedure Coding System (HCPCS) Codes"
+    },
+    "excerpt": "We maintain and annually update a List of Current Procedural Terminology (CPT)/Healthcare Common Procedure Coding System (HCPCS) Codes",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-03-25",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.cms.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o19",
+    "sourceId": "src_exa-healthcare-administration-o19",
+    "locator": {
+      "kind": "paragraph",
+      "value": "CMS posts changes to each of its NCCI PTP published edit files on a quarterly basis."
+    },
+    "excerpt": "CMS posts changes to each of its NCCI PTP published edit files on a quarterly basis.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-05-29",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.cms.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o20",
+    "sourceId": "src_exa-healthcare-administration-o20",
+    "locator": {
+      "kind": "paragraph",
+      "value": "This month's published changes affect the following plans"
+    },
+    "excerpt": "This month's published changes affect the following plans",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-01",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o21",
+    "sourceId": "src_exa-healthcare-administration-o21",
+    "locator": {
+      "kind": "paragraph",
+      "value": "We update these formulary documents regularly during the benefits year as we add or update additional coverage each month."
+    },
+    "excerpt": "We update these formulary documents regularly during the benefits year as we add or update additional coverage each month.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o22",
+    "sourceId": "src_exa-healthcare-administration-o22",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Coverage Policy Unit (CPU) - Monthly Policy Updates"
+    },
+    "excerpt": "Coverage Policy Unit (CPU) - Monthly Policy Updates",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o23",
+    "sourceId": "src_exa-healthcare-administration-o23",
+    "locator": {
+      "kind": "paragraph",
+      "value": "workflow gaps and technical handoffs that no single sector can fix alone."
+    },
+    "excerpt": "workflow gaps and technical handoffs that no single sector can fix alone.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-05-05",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.cms.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o24",
+    "sourceId": "src_exa-healthcare-administration-o24",
+    "locator": {
+      "kind": "paragraph",
+      "value": "providers must navigate complex, fragmented and manual processes that detract from care delivery"
+    },
+    "excerpt": "providers must navigate complex, fragmented and manual processes that detract from care delivery",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-06-15",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.aha.org"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o25",
+    "sourceId": "src_exa-healthcare-administration-o25",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Waystar’s software platform integrates with more than 500 EHR and Practice Management systems"
+    },
+    "excerpt": "Waystar’s software platform integrates with more than 500 EHR and Practice Management systems",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-12-31",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.sec.gov"
+  },
+  {
+    "observationId": "obs_exa-healthcare-administration-o26",
+    "sourceId": "src_exa-healthcare-administration-o26",
+    "locator": {
+      "kind": "paragraph",
+      "value": "R1 covers more than $1 trillion in NPR, including end-to-end and modular customers."
+    },
+    "excerpt": "R1 covers more than $1 trillion in NPR, including end-to-end and modular customers.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-02-27",
+    "observerGroup": "exa-receipt-healthcare-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.sec.gov"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o01",
+    "sourceId": "src_exa-enterprise-software-support-o01",
+    "locator": {
+      "kind": "paragraph",
+      "value": "multiple agencies have experienced prolonged problems with key VITA services…that have hindered their operations."
+    },
+    "excerpt": "multiple agencies have experienced prolonged problems with key VITA services…that have hindered their operations.",
+    "observedAt": "2026-07-12",
+    "validAt": "2019-10-07",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at jlarc.virginia.gov"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o02",
+    "sourceId": "src_exa-enterprise-software-support-o02",
+    "locator": {
+      "kind": "paragraph",
+      "value": "It met these only in two months and six months respectively over the 36-month period."
+    },
+    "excerpt": "It met these only in two months and six months respectively over the 36-month period.",
+    "observedAt": "2026-07-12",
+    "validAt": "2019-10-17",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at www.audit.vic.gov.au"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o03",
+    "sourceId": "src_exa-enterprise-software-support-o03",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The contract is for two years initially…with the option for an additional years extension."
+    },
+    "excerpt": "The contract is for two years initially…with the option for an additional years extension.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-11-18",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at www.find-tender.service.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o04",
+    "sourceId": "src_exa-enterprise-software-support-o04",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Value of all contracts awarded in this notice: 1 350 000,00 NOK"
+    },
+    "excerpt": "Value of all contracts awarded in this notice: 1 350 000,00 NOK",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-10-23",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at ted.europa.eu"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o06",
+    "sourceId": "src_exa-enterprise-software-support-o06",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Customer is the sole owner of all Service Data which includes Customer AI Input and AI Output."
+    },
+    "excerpt": "Customer is the sole owner of all Service Data which includes Customer AI Input and AI Output.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-05-06",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o07",
+    "sourceId": "src_exa-enterprise-software-support-o07",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The Services may not be accessed…for any other benchmarking or competitive purposes."
+    },
+    "excerpt": "The Services may not be accessed…for any other benchmarking or competitive purposes.",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-09-15",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o08",
+    "sourceId": "src_exa-enterprise-software-support-o08",
+    "locator": {
+      "kind": "paragraph",
+      "value": "the mitigating measures envisaged by the ECB are insufficient to mitigate the high risks it has identified."
+    },
+    "excerpt": "the mitigating measures envisaged by the ECB are insufficient to mitigate the high risks it has identified.",
+    "observedAt": "2026-07-12",
+    "validAt": "2021-07-07",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at www.edps.europa.eu"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o09",
+    "sourceId": "src_exa-enterprise-software-support-o09",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The validation functions offer real-time feedback to agents"
+    },
+    "excerpt": "The validation functions offer real-time feedback to agents",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-03-12",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o11",
+    "sourceId": "src_exa-enterprise-software-support-o11",
+    "locator": {
+      "kind": "paragraph",
+      "value": "We report a reduction in false positive rates to near zero compared to baselines…"
+    },
+    "excerpt": "We report a reduction in false positive rates to near zero compared to baselines…",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-04-05",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o12",
+    "sourceId": "src_exa-enterprise-software-support-o12",
+    "locator": {
+      "kind": "paragraph",
+      "value": "When these checks rely on surface level signals…they cannot reliably determine whether the run succeeded."
+    },
+    "excerpt": "When these checks rely on surface level signals…they cannot reliably determine whether the run succeeded.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-05-11",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o13",
+    "sourceId": "src_exa-enterprise-software-support-o13",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Employment (1) … 689,700"
+    },
+    "excerpt": "Employment (1) … 689,700",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at www.bls.gov"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o14",
+    "sourceId": "src_exa-enterprise-software-support-o14",
+    "locator": {
+      "kind": "paragraph",
+      "value": "411-Technical Support Specialist is a foundational entry point into the cyber workforce."
+    },
+    "excerpt": "411-Technical Support Specialist is a foundational entry point into the cyber workforce.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at dl.dod.cyber.mil"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o15",
+    "sourceId": "src_exa-enterprise-software-support-o15",
+    "locator": {
+      "kind": "paragraph",
+      "value": "GAO identified 10 challenges related to State recruiting and retaining its IT workforce."
+    },
+    "excerpt": "GAO identified 10 challenges related to State recruiting and retaining its IT workforce.",
+    "observedAt": "2026-07-12",
+    "validAt": "2022-07-12",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at www.gao.gov"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o16",
+    "sourceId": "src_exa-enterprise-software-support-o16",
+    "locator": {
+      "kind": "paragraph",
+      "value": "If you can manage only one feature release upgrade per year, we recommend upgrading…"
+    },
+    "excerpt": "If you can manage only one feature release upgrade per year, we recommend upgrading…",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-07-01",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o17",
+    "sourceId": "src_exa-enterprise-software-support-o17",
+    "locator": {
+      "kind": "paragraph",
+      "value": "This week's release notes include:"
+    },
+    "excerpt": "This week's release notes include:",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-06-12",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o18",
+    "sourceId": "src_exa-enterprise-software-support-o18",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Service updates are continuous, touchless updates that add new capabilities and fix issues."
+    },
+    "excerpt": "Service updates are continuous, touchless updates that add new capabilities and fix issues.",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-01-09",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o19",
+    "sourceId": "src_exa-enterprise-software-support-o19",
+    "locator": {
+      "kind": "paragraph",
+      "value": "local government does not have access to a clear or comprehensive account of how to procure AI in the public interest."
+    },
+    "excerpt": "local government does not have access to a clear or comprehensive account of how to procure AI in the public interest.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-10-01",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Publisher-controlled evidence at www.adalovelaceinstitute.org"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o20",
+    "sourceId": "src_exa-enterprise-software-support-o20",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Salesforce is delivering over 50 specialized AI agents deployed out of the box…in your IT Service Desk"
+    },
+    "excerpt": "Salesforce is delivering over 50 specialized AI agents deployed out of the box…in your IT Service Desk",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-05-11",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-enterprise-software-support-o21",
+    "sourceId": "src_exa-enterprise-software-support-o21",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Service Agent is powered by a robust MCP server designed for service tasks, and delivers 70+ new MCP tools"
+    },
+    "excerpt": "Service Agent is powered by a robust MCP server designed for service tasks, and delivers 70+ new MCP tools",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-06-30",
+    "observerGroup": "exa-receipt-enterprise-software-support",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o01",
+    "sourceId": "src_exa-public-sector-administration-o01",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The PC pending actions backlog increased from 3.2 million in FY 2018 to 4.6 million in FY 2023."
+    },
+    "excerpt": "The PC pending actions backlog increased from 3.2 million in FY 2018 to 4.6 million in FY 2023.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-06-28",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at oig.ssa.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o03",
+    "sourceId": "src_exa-public-sector-administration-o03",
+    "locator": {
+      "kind": "paragraph",
+      "value": "saving even an average of just one minute per complex transaction would save the equivalent of approximately 1,200 person-years of work every year."
+    },
+    "excerpt": "saving even an average of just one minute per complex transaction would save the equivalent of approximately 1,200 person-years of work every year.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.turing.ac.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o04",
+    "sourceId": "src_exa-public-sector-administration-o04",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Universal Credit performing well on payment timeliness and telephony."
+    },
+    "excerpt": "Universal Credit performing well on payment timeliness and telephony.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-07-23",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.nao.org.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o06",
+    "sourceId": "src_exa-public-sector-administration-o06",
+    "locator": {
+      "kind": "paragraph",
+      "value": "overall process time from around 31 days to 26 days, on average."
+    },
+    "excerpt": "overall process time from around 31 days to 26 days, on average.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-08-23",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at arxiv.org"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o07",
+    "sourceId": "src_exa-public-sector-administration-o07",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Total value (estimated) £8,333,333.33 excluding VAT"
+    },
+    "excerpt": "Total value (estimated) £8,333,333.33 excluding VAT",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-12-16",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.find-tender.service.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o09",
+    "sourceId": "src_exa-public-sector-administration-o09",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The anticipated fair and reasonable cost to provide the IRIS SaaS during FY24 is $200,000.00 and $55,500 annually thereafter"
+    },
+    "excerpt": "The anticipated fair and reasonable cost to provide the IRIS SaaS during FY24 is $200,000.00 and $55,500 annually thereafter",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at dgs.dc.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o10",
+    "sourceId": "src_exa-public-sector-administration-o10",
+    "locator": {
+      "kind": "paragraph",
+      "value": "after spending more than four years and $100 million on the program"
+    },
+    "excerpt": "after spending more than four years and $100 million on the program",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-12-30",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at comptroller.nyc.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o11",
+    "sourceId": "src_exa-public-sector-administration-o11",
+    "locator": {
+      "kind": "paragraph",
+      "value": "This study identifies 61 occasions across Australia, Canada, Europe, New Zealand and the United States when ADS projects were cancelled or paused."
+    },
+    "excerpt": "This study identifies 61 occasions across Australia, Canada, Europe, New Zealand and the United States when ADS projects were cancelled or paused.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at carnegieuk.org"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o12",
+    "sourceId": "src_exa-public-sector-administration-o12",
+    "locator": {
+      "kind": "paragraph",
+      "value": "It enables accredited researchers across government and academia to access anonymised, research-ready datasets ethically and responsibly."
+    },
+    "excerpt": "It enables accredited researchers across government and academia to access anonymised, research-ready datasets ethically and responsibly.",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at assets.publishing.service.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o15",
+    "sourceId": "src_exa-public-sector-administration-o15",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The impacts on data protection will be further considered during the development of those regulations."
+    },
+    "excerpt": "The impacts on data protection will be further considered during the development of those regulations.",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-04-28",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.gov.scot"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o16",
+    "sourceId": "src_exa-public-sector-administration-o16",
+    "locator": {
+      "kind": "paragraph",
+      "value": "challenging the legality of the Agency’s decision to provide DOGE with unlimited access"
+    },
+    "excerpt": "challenging the legality of the Agency’s decision to provide DOGE with unlimited access",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-04-17",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.govinfo.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o17",
+    "sourceId": "src_exa-public-sector-administration-o17",
+    "locator": {
+      "kind": "paragraph",
+      "value": "LLMs are capable of supporting the process of generating code from policy, but still require external knowledge and human oversight"
+    },
+    "excerpt": "LLMs are capable of supporting the process of generating code from policy, but still require external knowledge and human oversight",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-03-24",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at digitalgovernmenthub.org"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o19",
+    "sourceId": "src_exa-public-sector-administration-o19",
+    "locator": {
+      "kind": "paragraph",
+      "value": "We established the first comprehensive sandbox environment for AI evaluation in benefits administration"
+    },
+    "excerpt": "We established the first comprehensive sandbox environment for AI evaluation in benefits administration",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at tobin.yale.edu"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o21",
+    "sourceId": "src_exa-public-sector-administration-o21",
+    "locator": {
+      "kind": "paragraph",
+      "value": "SNAP, TANF, and Medicaid enrollments fell by 15%, 24%, and 4% one year after automation"
+    },
+    "excerpt": "SNAP, TANF, and Medicaid enrollments fell by 15%, 24%, and 4% one year after automation",
+    "observedAt": "2026-07-12",
+    "validAt": "2023-07-10",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.nber.org"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o22",
+    "sourceId": "src_exa-public-sector-administration-o22",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The majority of papers found a positive effect of professional development, with skill acquisition being the most commonly assessed outcome"
+    },
+    "excerpt": "The majority of papers found a positive effect of professional development, with skill acquisition being the most commonly assessed outcome",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at assets.publishing.service.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o23",
+    "sourceId": "src_exa-public-sector-administration-o23",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Agency websites, internship programs, and social media were commonly used to recruit caseworkers"
+    },
+    "excerpt": "Agency websites, internship programs, and social media were commonly used to recruit caseworkers",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-09-04",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at acf.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o25",
+    "sourceId": "src_exa-public-sector-administration-o25",
+    "locator": {
+      "kind": "paragraph",
+      "value": "managing human capital"
+    },
+    "excerpt": "managing human capital",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.ssa.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o26",
+    "sourceId": "src_exa-public-sector-administration-o26",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The bureau does not have effective strategies to address staffing gaps and high vacancies in FR positions."
+    },
+    "excerpt": "The bureau does not have effective strategies to address staffing gaps and high vacancies in FR positions.",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-03-13",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.oig.doc.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o27",
+    "sourceId": "src_exa-public-sector-administration-o27",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The Social Security Benefits Up-rating Order 2025"
+    },
+    "excerpt": "The Social Security Benefits Up-rating Order 2025",
+    "observedAt": "2026-07-12",
+    "validAt": "2025-03-12",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.legislation.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o28",
+    "sourceId": "src_exa-public-sector-administration-o28",
+    "locator": {
+      "kind": "paragraph",
+      "value": "The Social Security Benefits Up-rating Order 2026"
+    },
+    "excerpt": "The Social Security Benefits Up-rating Order 2026",
+    "observedAt": "2026-07-12",
+    "validAt": "2026-03-02",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.legislation.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o29",
+    "sourceId": "src_exa-public-sector-administration-o29",
+    "locator": {
+      "kind": "paragraph",
+      "value": "Amended Chapters June 2026"
+    },
+    "excerpt": "Amended Chapters June 2026",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at assets.publishing.service.gov.uk"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o32",
+    "sourceId": "src_exa-public-sector-administration-o32",
+    "locator": {
+      "kind": "paragraph",
+      "value": "long-term contracts negotiated with agency procurement teams"
+    },
+    "excerpt": "long-term contracts negotiated with agency procurement teams",
+    "observedAt": "2026-07-12",
+    "validAt": null,
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o34",
+    "sourceId": "src_exa-public-sector-administration-o34",
+    "locator": {
+      "kind": "paragraph",
+      "value": "NC DHHS has moved forward with awarding the CWIS contract to Deloitte Consulting LLC."
+    },
+    "excerpt": "NC DHHS has moved forward with awarding the CWIS contract to Deloitte Consulting LLC.",
+    "observedAt": "2026-07-12",
+    "validAt": "2023-09-27",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Publisher-controlled evidence at www.ncdhhs.gov"
+  },
+  {
+    "observationId": "obs_exa-public-sector-administration-o37",
+    "sourceId": "src_exa-public-sector-administration-o37",
+    "locator": {
+      "kind": "paragraph",
+      "value": "This contract was awarded to: Accenture Inc."
+    },
+    "excerpt": "This contract was awarded to: Accenture Inc.",
+    "observedAt": "2026-07-12",
+    "validAt": "2024-09-19",
+    "observerGroup": "exa-receipt-public-sector-administration",
+    "independenceBasis": "Aligned first-party evidence; not independence-eligible for the subject claim"
+  }
+]

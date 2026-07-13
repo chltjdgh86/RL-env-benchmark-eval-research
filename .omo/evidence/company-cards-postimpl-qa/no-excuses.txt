@@ -1,0 +1,4 @@
+$ node scripts/qa/check-no-excuses.mjs
+NO_EXCUSES_OK:101
+
+EXIT_CODE=0

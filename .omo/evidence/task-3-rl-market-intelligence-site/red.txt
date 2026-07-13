@@ -1,0 +1,41 @@
+
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+ ❯ src/App.test.tsx (1 test | 1 failed) 43ms
+     × mounts the application main landmark when the scaffold starts 42ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  src/App.test.tsx > App scaffold > mounts the application main landmark when the scaffold starts
+TestingLibraryElementError: Unable to find an accessible element with the role "main" and name "RL Economy Atlas"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div>[39m
+    [36m<div>[39m
+      [0mAPP_MOUNT_NOT_IMPLEMENTED[0m
+    [36m</div>[39m
+  [36m</div>[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/App.test.tsx:11:19
+      9|
+     10|     // Then: a named main landmark is available to users and future se…
+     11|     expect(screen.getByRole("main", { name: "RL Economy Atlas" })).toH…
+       |                   ^
+     12|       "data-scaffold",
+     13|       "ready",
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  01:58:54
+   Duration  557ms (transform 14ms, setup 42ms, import 65ms, tests 43ms, environment 346ms)
+

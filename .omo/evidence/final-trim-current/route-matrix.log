@@ -1,0 +1,44 @@
+$ node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build
+INDEX_SCAFFOLD_OK
+BUN_LOCK_OK:4FFBFD7D319E5632-f91826dbf5c34b4a-42150121871940E9-a216b109e26709d0
+vite v8.1.4 building client environment for production...
+[2Ktransforming...✓ 162 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                               2.03 kB │ gzip:   0.92 kB
+dist/assets/index-CjhcasLh.css               32.01 kB │ gzip:   6.32 kB
+dist/assets/rolldown-runtime-Bh1tDfsg.js      0.56 kB │ gzip:   0.36 kB
+dist/assets/index-BGRLmw7z.js                 3.09 kB │ gzip:   1.52 kB
+dist/assets/react-dom-DWuVlKIp.js             3.57 kB │ gzip:   1.36 kB
+dist/assets/react-CES6V0Ih.js                 7.53 kB │ gzip:   2.88 kB
+dist/assets/client-D4kvggjV.js              178.94 kB │ gzip:  56.50 kB
+dist/assets/App-Dh-gLWkc.js               1,138.70 kB │ gzip: 145.60 kB
+
+✓ built in 67ms
+[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+  ➜  Local:   http://127.0.0.1:57305/
+PREVIEW_READY:http://127.0.0.1:57305
+
+Running 7 tests using 1 worker
+
+
+(node:96775) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+
+(node:96775) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[1/7] [chromium] › e2e/routes.spec.ts:33:1 › Showcase keeps the atlas title as the only level-one heading
+[2/7] [chromium] › e2e/routes.spec.ts:47:3 › guide stays within the 1280px document width
+[3/7] [chromium] › e2e/routes.spec.ts:65:3 › guide reflows without document overflow at 320px
+[4/7] [chromium] › e2e/routes.spec.ts:47:3 › companies stays within the 1280px document width
+[5/7] [chromium] › e2e/routes.spec.ts:65:3 › companies reflows without document overflow at 320px
+[6/7] [chromium] › e2e/routes.spec.ts:47:3 › showcase stays within the 1280px document width
+[7/7] [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px
+  7 passed (4.7s)
+PREVIEW_CLEANUP:complete

@@ -1,0 +1,31 @@
+Quality-review regression test red run before implementation.
+command=node --test scripts/research/check-corpus.fixtures.test.mjs
+exit_code=1
+
+Observed intended failures:
+- only positively supported score cells are measured: 25 unsupported measured cells found
+- blank observer group mutation was accepted
+- non-HTTPS final URL mutation was accepted
+- malformed company domain mutation was accepted
+- non-array affiliations mutation was accepted
+- malformed strategy ID mutation was accepted
+- generated observation schema allowed null excerpt
+- strategy receipt template hash did not match normalized query provenance
+- per-cell receipt templates falsely carried an unrecorded search execution date
+- seed line 123 was falsely mapped to clm_mercor-evolution
+- seed line hash mutation was not rejected
+- migration summary mutation was not rejected
+
+Second quality-review red run before the receipt, redirect, source-control, and quote-budget repair:
+- measured cells remained valid with open or mismatched positive receipts
+- a synthetic high score could be promoted without terminal receipt lanes
+- null corpus members threw before schema errors could be returned
+- swapped or duplicate seed-source targets were accepted
+- the live link audit reused the cutoff date and followed unrelated product redirects
+- Predibase inherited Rubrik product text after an unrelated redirect
+- title-only Epoch evidence positively supported substantive claims
+- TaskUs subject evidence was counted as independent while Bloomberg Law was misclassified
+- six rendered source rows repeated attributed text beyond the per-source quote budget
+
+Final focused red run before the last semantic guard:
+- four positive claim links relied on inaccessible search-index captures (src_s12 and src_s56)

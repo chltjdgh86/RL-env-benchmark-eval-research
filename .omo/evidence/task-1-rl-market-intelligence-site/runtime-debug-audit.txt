@@ -1,0 +1,38 @@
+Runtime debugging audit after the second quality repair.
+
+Hypothesis 1: schema validation still dereferences malformed corpus members before reporting errors.
+- Probe: replace sources[0] with null and call validateCorpus in a try/catch.
+- Result: threw=false; returned JSON_SCHEMA_VALIDATION.
+- Verdict: falsified.
+
+Hypothesis 2: open or forged receipt lanes can still promote measured cells or winners.
+- Probe: run focused fixtures for open_unverified, no_public_evidence, rights_blocker, receipt source mismatch, and a synthetic high-score winner with open lanes.
+- Result: 6 tests passed; mutations were rejected by MEASURED_CELL_RECEIPT_CLOSURE, MEASURED_CELL_RECEIPT_EVIDENCE_MISMATCH, or VERTICAL_RECEIPT_GATE_NOT_ENFORCED.
+- Verdict: falsified.
+
+Hypothesis 3: link auditing can fetch an unrelated redirect target before classifying it.
+- Probe: classify scale.evil.example, http://127.0.0.1, and Predibase -> Rubrik; inspect the manual redirect loop.
+- Result: every probe returned unrelatedCrossOrigin=true; localhost HTTP also returned unsafeTarget=true. check-links.mjs classifies Location at lines 50-53 and returns before assigning/fetching the target.
+- Verdict: falsified for redirect targets. Canonical initial URLs remain trusted corpus inputs.
+
+Manual CLI QA:
+- happy path: build, corpus check, migration check, synthesis drift check, syntax check, and full tests all exit 0.
+- bad input: null corpus item returns a schema error without throwing.
+- semantic bad paths: forged receipts, open winner lanes, unsafe redirects, transport-only support, inaccessible search-index support, and title-only support are covered by passing mutation fixtures.
+
+Runtime debugging audit after the claim-specific evidence repair.
+
+Hypothesis 1: legacy title-only, search-indexed, or transport observations still positively support claims.
+- Probe: enumerate every supports/partially_supports evidence link and join it to observation and source access metadata.
+- Result: 60 positive links use 60 obs_exa-* observations; legacy positives=0; secondary_only positives=0; src_s54 positives=0.
+- Verdict: falsified.
+
+Hypothesis 2: one generic Exa observation still inflates multiple claims.
+- Probe: count positive links by observationId.
+- Result: maximum reuse=1 across all 60 positive observations.
+- Verdict: falsified.
+
+Hypothesis 3: generated Exa paragraph locators still contain locally authored pseudo-locator labels or quote duplication.
+- Probe: compare every Exa paragraph locator.value byte-for-byte with its excerpt and count excerpts over 25 words.
+- Result: mismatches=0; excerpts over 25 words=0; mutation fixtures reject both regressions.
+- Verdict: falsified.

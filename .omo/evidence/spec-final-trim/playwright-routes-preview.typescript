@@ -1,0 +1,255 @@
+^D$ playwright test
+
+Running 17 tests using 3 workers
+
+
+(node:82054) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:82053) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:82055) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1/17] [chromium] › e2e/routes.spec.ts:33:1 › Showcase keeps the atlas title as the only level-one heading
+[2/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px
+[3/17] [chromium] › e2e/app-shell.spec.ts:4:1 › app shell smoke exposes the application landmark
+[4/17] [chromium] › e2e/routes.spec.ts:47:3 › guide stays within the 1280px document width
+[5/17] [chromium] › e2e/app-shell.spec.ts:21:1 › app shell has no automated accessibility violations
+  1) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px ───────
+
+    Error: expect(received).toBeLessThanOrEqual(expected)
+
+    Expected: <= 320
+    Received:    1032
+
+      18 |
+      19 |     // Then: all content stays inside the document width and fresh evidence is captured.
+    > 20 |     expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
+         |                                    ^
+      21 |     await page.screenshot({
+      22 |       fullPage: true,
+      23 |       path: `${evidencePath}/showcase-${width}px.png`,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:20:36
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:82153) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[6/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 375px
+[7/17] [chromium] › e2e/routes.spec.ts:65:3 › guide reflows without document overflow at 320px
+  2) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 375px ───────
+
+    Error: expect(received).toBeLessThanOrEqual(expected)
+
+    Expected: <= 375
+    Received:    1032
+
+      18 |
+      19 |     // Then: all content stays inside the document width and fresh evidence is captured.
+    > 20 |     expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
+         |                                    ^
+      21 |     await page.screenshot({
+      22 |       fullPage: true,
+      23 |       path: `${evidencePath}/showcase-${width}px.png`,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:20:36
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:82208) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[8/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 768px
+[9/17] [chromium] › e2e/routes.spec.ts:47:3 › companies stays within the 1280px document width
+  3) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 768px ───────
+
+    Error: expect(received).toBeLessThanOrEqual(expected)
+
+    Expected: <= 768
+    Received:    1048
+
+      18 |
+      19 |     // Then: all content stays inside the document width and fresh evidence is captured.
+    > 20 |     expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
+         |                                    ^
+      21 |     await page.screenshot({
+      22 |       fullPage: true,
+      23 |       path: `${evidencePath}/showcase-${width}px.png`,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:20:36
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:82240) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[10/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 1280px
+[11/17] [chromium] › e2e/routes.spec.ts:65:3 › companies reflows without document overflow at 320px
+[12/17] [chromium] › e2e/routes.spec.ts:47:3 › showcase stays within the 1280px document width
+[13/17] [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px
+  4) [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px ────
+
+    Error: expect(received).toBeLessThanOrEqual(expected)
+
+    Expected: <= 320
+    Received:    1032
+
+      75 |
+      76 |     // Then: content reflows within the page and the shell retains one H1.
+    > 77 |     expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
+         |                                    ^
+      78 |     await expect(page.getByRole("heading", { level: 1, name: "RL Economy Atlas" })).toHaveCount(1)
+      79 |     await expect(page.getByRole("heading", { level: 2, name: routeHeadings[route] })).toBeVisible()
+      80 |     await captureViewportEvidence(page, `${visualEvidencePath}/mobile-${route}-320x900.png`)
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:77:36
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  5) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 1280px ──────
+
+    Error: expect(locator).toBeVisible() failed
+
+    Locator: getByRole('heading', { name: 'Primitive showcase', level: 2 })
+    Expected: visible
+    Timeout: 5000ms
+    Error: element(s) not found
+
+    Call log:
+      - Expect "toBeVisible" with timeout 5000ms
+      - waiting for getByRole('heading', { name: 'Primitive showcase', level: 2 })
+
+
+      11 |
+      12 |     // When: the complete primitive surface settles.
+    > 13 |     await expect(page.getByRole("heading", { level: 2, name: "Primitive showcase" })).toBeVisible()
+         |                                                                                       ^
+      14 |     const dimensions = await page.evaluate(() => ({
+      15 |       clientWidth: document.documentElement.clientWidth,
+      16 |       scrollWidth: document.documentElement.scrollWidth,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:13:87
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:82580) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[14/17] [chromium] › e2e/showcase.spec.ts:28:1 › showcase survives the exact WCAG text-spacing override
+  6) [chromium] › e2e/showcase.spec.ts:28:1 › showcase survives the exact WCAG text-spacing override 
+
+    Error: expect(received).toBeLessThanOrEqual(expected)
+
+    Expected: <= 320
+    Received:    1032
+
+      45 |   // Then: content remains visible and the page does not gain horizontal overflow.
+      46 |   await expect(page.getByText("Evidence and data", { exact: true })).toBeVisible()
+    > 47 |   expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
+         |                                  ^
+      48 |   await page.screenshot({ fullPage: true, path: `${evidencePath}/showcase-text-spacing.png` })
+      49 | })
+      50 |
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:47:34
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:82615) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[15/17] [chromium] › e2e/showcase.spec.ts:51:1 › showcase survives four-times page scale at its effective 320px viewport
+[16/17] [chromium] › e2e/showcase.spec.ts:68:1 › drawer closes with Escape and restores trigger focus
+[17/17] [chromium] › e2e/showcase.spec.ts:83:1 › showcase remains operable under reduced motion and forced colors
+  6 failed
+    [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px ─────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px ────────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 375px ────────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 768px ────────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 1280px ───────
+    [chromium] › e2e/showcase.spec.ts:28:1 › showcase survives the exact WCAG text-spacing override 
+  11 passed (11.6s)
+error: script "test:e2e" exited with code 1

@@ -1,0 +1,15 @@
+TAP version 13
+# Subtest: does not count a claim ID that appears only in a source comment
+ok 1 - does not count a claim ID that appears only in a source comment
+  ---
+  duration_ms: 21.966416
+  ...
+1..1
+# tests 1
+# suites 0
+# pass 1
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 50.538916

@@ -1,0 +1,5237 @@
+[
+  {
+    "sourceId": "src_s01",
+    "title": "YC: Scale is an API for human labor (2016)",
+    "publisher": "Y Combinator",
+    "canonicalUrl": "https://www.ycombinator.com/blog/scale/",
+    "archivedUrl": null,
+    "sourceType": "investor_first_party",
+    "control": "commercially_affiliated",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ycombinator.com/blog/scale/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s02",
+    "title": "Scale current company overview",
+    "publisher": "scale.com",
+    "canonicalUrl": "https://scale.com/about",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_scale-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://scale.com/about"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s03",
+    "title": "Scale RL environments",
+    "publisher": "scale.com",
+    "canonicalUrl": "https://scale.com/rlenvironments",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_scale-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://scale.com/rlenvironments"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s04",
+    "title": "Meta 2025 Form 10-K",
+    "publisher": "U.S. Securities and Exchange Commission",
+    "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s05",
+    "title": "Scale Series F and company chronology",
+    "publisher": "scale.com",
+    "canonicalUrl": "https://scale.com/blog/scale-ai-series-f",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_scale-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://scale.com/blog/scale-ai-series-f"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s06",
+    "title": "Scale 2025 revenue forecast reporting",
+    "publisher": "Bloomberg Law",
+    "canonicalUrl": "https://news.bloomberglaw.com/artificial-intelligence/scale-ai-expects-to-more-than-double-sales-to-2-billion-in-2025",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "login_gated",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 200 authentication boundary observed",
+      "finalUrl": "https://news.bloomberglaw.com/artificial-intelligence/scale-ai-expects-to-more-than-double-sales-to-2-billion-in-2025"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s07",
+    "title": "Later Scale revenue reporting",
+    "publisher": "Forbes",
+    "canonicalUrl": "https://www.forbes.com/sites/richardnieva/2026/05/14/scale-meta-deal/",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "paywalled",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 200 paywall boundary observed",
+      "finalUrl": "https://www.forbes.com/sites/richardnieva/2026/05/14/scale-meta-deal/"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s08",
+    "title": "Mercor launch and origin",
+    "publisher": "mercor.com",
+    "canonicalUrl": "https://www.mercor.com/blog/1/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_mercor",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.mercor.com/blog/1/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s09",
+    "title": "Mercor mission, chronology, and current surface",
+    "publisher": "mercor.com",
+    "canonicalUrl": "https://www.mercor.com/mission/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_mercor",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.mercor.com/mission/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s10",
+    "title": "Mercor Series C",
+    "publisher": "mercor.com",
+    "canonicalUrl": "https://www.mercor.com/blog/series-c/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_mercor",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.mercor.com/blog/series-c/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s11",
+    "title": "Mercor gross run rate and contractor activity",
+    "publisher": "mercor.com",
+    "canonicalUrl": "https://www.mercor.com/blog/when-you-go-from-2-million-a-month-to-2-million-a-day/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_mercor",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.mercor.com/blog/when-you-go-from-2-million-a-month-to-2-million-a-day/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s12",
+    "title": "Mercor gross/net economics reporting",
+    "publisher": "The Information",
+    "canonicalUrl": "https://www.theinformation.com/briefings/exclusive-mercor-hit-1-billion-annualized-revenue-breach",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "paywalled",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 200 subscription boundary observed",
+      "finalUrl": "https://www.theinformation.com/briefings/exclusive-mercor-hit-1-billion-annualized-revenue-breach"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s13",
+    "title": "Mercor announced Deeptune acquisition",
+    "publisher": "mercor.com",
+    "canonicalUrl": "https://www.mercor.com/blog/mercor-to-acquire-deeptune/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_mercor",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.mercor.com/blog/mercor-to-acquire-deeptune/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s14",
+    "title": "Mercor security incident reporting",
+    "publisher": "WIRED",
+    "canonicalUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s15",
+    "title": "Micro1 Series A and company strategy",
+    "publisher": "micro1.ai",
+    "canonicalUrl": "https://www.micro1.ai/series-a",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_micro1",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.micro1.ai/series-a"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s16",
+    "title": "Micro1 current product overview",
+    "publisher": "micro1.ai",
+    "canonicalUrl": "https://www.micro1.ai/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_micro1",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.micro1.ai/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s17",
+    "title": "Micro1 Realm",
+    "publisher": "micro1.ai",
+    "canonicalUrl": "https://www.micro1.ai/realm",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_micro1",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.micro1.ai/realm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s18",
+    "title": "Micro1 Cortex",
+    "publisher": "micro1.ai",
+    "canonicalUrl": "https://www.micro1.ai/cortex",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_micro1",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.micro1.ai/cortex"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s19",
+    "title": "Micro1 Robotics",
+    "publisher": "micro1.ai",
+    "canonicalUrl": "https://www.micro1.ai/robotics",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_micro1",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.micro1.ai/robotics"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s20",
+    "title": "Turing company history",
+    "publisher": "turing.com",
+    "canonicalUrl": "https://www.turing.com/pt/company",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_turing",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.turing.com/pt/company"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s21",
+    "title": "Turing AGI Advancement",
+    "publisher": "turing.com",
+    "canonicalUrl": "https://www.turing.com/advance",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_turing",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.turing.com/advance"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s22",
+    "title": "Turing RL environments",
+    "publisher": "turing.com",
+    "canonicalUrl": "https://www.turing.com/advance/rl-environments",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_turing",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.turing.com/advance/rl-environments"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s23",
+    "title": "Turing Frontier Data Packs",
+    "publisher": "go.turing.com",
+    "canonicalUrl": "https://go.turing.com/llm-data-packs",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_turing",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://go.turing.com/llm-data-packs"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s24",
+    "title": "Turing Project Lazarus",
+    "publisher": "research.turing.com",
+    "canonicalUrl": "https://research.turing.com/project-lazarus",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_turing",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://research.turing.com/project-lazarus"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s25",
+    "title": "YC AfterQuery profile and launch text",
+    "publisher": "Y Combinator",
+    "canonicalUrl": "https://www.ycombinator.com/companies/afterquery",
+    "archivedUrl": null,
+    "sourceType": "investor_first_party",
+    "control": "commercially_affiliated",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_afterquery",
+        "relationship": "investor",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ycombinator.com/companies/afterquery"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s26",
+    "title": "AfterQuery products",
+    "publisher": "afterquery.com",
+    "canonicalUrl": "https://www.afterquery.com/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_afterquery",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.afterquery.com/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s27",
+    "title": "AfterQuery Series A and vendor metrics",
+    "publisher": "afterquery.com",
+    "canonicalUrl": "https://www.afterquery.com/blog/human-expertise-reimagined",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_afterquery",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.afterquery.com/blog/human-expertise-reimagined"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s28",
+    "title": "NVIDIA Nemotron 3 Ultra technical report",
+    "publisher": "NVIDIA Research",
+    "canonicalUrl": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
+    "archivedUrl": null,
+    "sourceType": "technical_artifact",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_nvidia-nemo",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s29",
+    "title": "Fleet Context package history",
+    "publisher": "Python Package Index",
+    "canonicalUrl": "https://pypi.org/project/fleet-context/",
+    "archivedUrl": null,
+    "sourceType": "repository_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://pypi.org/project/fleet-context/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s30",
+    "title": "Fleet current company and training-gym position",
+    "publisher": "fleetai.com",
+    "canonicalUrl": "https://www.fleetai.com/about",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_fleet-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fleetai.com/about"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s31",
+    "title": "Micro1 business-data expansion case",
+    "publisher": "micro1.ai",
+    "canonicalUrl": "https://www.micro1.ai/case-study/business-data",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_micro1",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.micro1.ai/case-study/business-data"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s32",
+    "title": "Deeptune Series A and current thesis",
+    "publisher": "deeptune.com",
+    "canonicalUrl": "https://deeptune.com/blog/series-a/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_deeptune",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://deeptune.com/blog/series-a/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s33",
+    "title": "a16z investment in Deeptune",
+    "publisher": "a16z.com",
+    "canonicalUrl": "https://a16z.com/announcement/investing-in-deeptune/",
+    "archivedUrl": null,
+    "sourceType": "investor_first_party",
+    "control": "commercially_affiliated",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_deeptune",
+        "relationship": "investor",
+        "validFrom": "2026-03-19",
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://a16z.com/announcement/investing-in-deeptune/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s34",
+    "title": "Refresh current environments",
+    "publisher": "refresh.dev",
+    "canonicalUrl": "https://refresh.dev/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_refresh",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://refresh.dev/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s35",
+    "title": "YC Refresh profile",
+    "publisher": "Y Combinator",
+    "canonicalUrl": "https://www.ycombinator.com/companies/refresh",
+    "archivedUrl": null,
+    "sourceType": "investor_first_party",
+    "control": "commercially_affiliated",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_refresh",
+        "relationship": "investor",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ycombinator.com/companies/refresh"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s36",
+    "title": "Vibrant Labs hard-task mining",
+    "publisher": "vibrantlabs.com",
+    "canonicalUrl": "https://vibrantlabs.com/research/mining-hard-tasks",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_vibrant-labs",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://vibrantlabs.com/research/mining-hard-tasks"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s37",
+    "title": "Halluminate product/expert operating model",
+    "publisher": "halluminate.ai",
+    "canonicalUrl": "https://www.halluminate.ai/experts",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_halluminate",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.halluminate.ai/experts"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s38",
+    "title": "Anthropic helpful and harmless RLHF",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/abs/2204.05862",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/abs/2204.05862"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s39",
+    "title": "Direct Preference Optimization",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/abs/2305.18290",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/abs/2305.18290"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s40",
+    "title": "WebArena",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/abs/2307.13854",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/abs/2307.13854"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s41",
+    "title": "OSWorld",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/abs/2404.07972",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/abs/2404.07972"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s42",
+    "title": "tau-bench",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/abs/2406.12045",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/abs/2406.12045"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s43",
+    "title": "LangSmith agent engineering platform",
+    "publisher": "langchain.com",
+    "canonicalUrl": "https://www.langchain.com/langsmith-platform",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_langsmith",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.langchain.com/langsmith-platform"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s44",
+    "title": "OpenEnv standard",
+    "publisher": "huggingface.co",
+    "canonicalUrl": "https://huggingface.co/openenv",
+    "archivedUrl": null,
+    "sourceType": "repository_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://huggingface.co/openenv"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s45",
+    "title": "Browserbase and Prime BrowserEnv",
+    "publisher": "browserbase.com",
+    "canonicalUrl": "https://www.browserbase.com/blog/browserenv",
+    "archivedUrl": null,
+    "sourceType": "partner_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_browserbase",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.browserbase.com/blog/browserenv"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s46",
+    "title": "Prime Intellect environment contracts",
+    "publisher": "docs.primeintellect.ai",
+    "canonicalUrl": "https://docs.primeintellect.ai/verifiers/environments",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_prime-intellect",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "unavailable",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 404 during bounded link audit",
+      "finalUrl": "https://docs.primeintellect.ai/verifiers/environments"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s47",
+    "title": "Epoch AI RL environments industry interviews",
+    "publisher": "Epoch AI",
+    "canonicalUrl": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://epoch.ai/gradient-updates/state-of-rl-envs"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s48",
+    "title": "Amazon Bedrock AgentCore overview",
+    "publisher": "Amazon Web Services",
+    "canonicalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_amazon-bedrock-agentcore",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s49",
+    "title": "OpenAI third-party evaluation playbook",
+    "publisher": "openai.com",
+    "canonicalUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s50",
+    "title": "Anthropic third-party evaluation initiative",
+    "publisher": "anthropic.com",
+    "canonicalUrl": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s51",
+    "title": "OpenAI external testing",
+    "publisher": "openai.com",
+    "canonicalUrl": "https://openai.com/index/strengthening-safety-with-external-testing/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://openai.com/index/strengthening-safety-with-external-testing/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s52",
+    "title": "Appen FY2025 results",
+    "publisher": "Australian Securities Exchange",
+    "canonicalUrl": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq7806yk1ll4.pdf",
+    "archivedUrl": null,
+    "sourceType": "buyer_first_party",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq7806yk1ll4.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s53",
+    "title": "TaskUs FY2025 results",
+    "publisher": "ir.taskus.com",
+    "canonicalUrl": "https://ir.taskus.com/static-files/b6125cd3-8571-40f2-a8f0-0e7033fff501",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_taskus",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://ir.taskus.com/static-files/b6125cd3-8571-40f2-a8f0-0e7033fff501"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s54",
+    "title": "UK trusted third-party AI assurance roadmap",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.gov.uk/government/publications/trusted-third-party-ai-assurance-roadmap/trusted-third-party-ai-assurance-roadmap",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.gov.uk/government/publications/trusted-third-party-ai-assurance-roadmap/trusted-third-party-ai-assurance-roadmap"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s55",
+    "title": "UK AI assurance strategy",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.gov.uk/government/publications/assuring-a-responsible-future-for-ai/assuring-a-responsible-future-for-ai",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.gov.uk/government/publications/assuring-a-responsible-future-for-ai/assuring-a-responsible-future-for-ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s56",
+    "title": "UK procurement award evidence",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/037042-2025/PDF",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 403 during bounded link audit; no control bypass attempted",
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/037042-2025/PDF"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s57",
+    "title": "LangSmith on AWS Marketplace",
+    "publisher": "Amazon Web Services",
+    "canonicalUrl": "https://aws.amazon.com/marketplace/pp/prodview-vmzygmggk4gms",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_amazon-bedrock-agentcore",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://aws.amazon.com/marketplace/pp/prodview-vmzygmggk4gms"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s58",
+    "title": "PwC Assurance for AI",
+    "publisher": "pwc.com",
+    "canonicalUrl": "https://www.pwc.com/us/en/services/audit-assurance/digital-assurance-transparency/assurance-ai.html",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_pwc",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.pwc.com/us/en/services/audit-assurance/digital-assurance-transparency/assurance-ai.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s59",
+    "title": "Deloitte AI assurance",
+    "publisher": "deloitte.com",
+    "canonicalUrl": "https://www.deloitte.com/nl/en/services/audit-assurance/services/algorithm-ai-assurance.html",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_deloitte",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.deloitte.com/nl/en/services/audit-assurance/services/algorithm-ai-assurance.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s60",
+    "title": "BSI ISO/IEC 42001 certification",
+    "publisher": "bsigroup.com",
+    "canonicalUrl": "https://www.bsigroup.com/en-GB/products-and-services/standards/iso-42001-ai-management-system/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bsigroup.com/en-GB/products-and-services/standards/iso-42001-ai-management-system/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s61",
+    "title": "Agent Experience definition",
+    "publisher": "agentexperience.ax",
+    "canonicalUrl": "https://agentexperience.ax/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://agentexperience.ax/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s62",
+    "title": "Agentic AI transformation services",
+    "publisher": "deloitte.com",
+    "canonicalUrl": "https://www.deloitte.com/cbc/en/what-we-do/capabilities/agentic-ai.html",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_deloitte",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.deloitte.com/cbc/en/what-we-do/capabilities/agentic-ai.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s63",
+    "title": "Prolific pricing",
+    "publisher": "prolific.com",
+    "canonicalUrl": "https://www.prolific.com/pricing",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_prolific",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.prolific.com/pricing"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s64",
+    "title": "Braintrust pricing",
+    "publisher": "braintrust.dev",
+    "canonicalUrl": "https://www.braintrust.dev/pricing",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_braintrust",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.braintrust.dev/pricing"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s65",
+    "title": "LangSmith pricing",
+    "publisher": "langchain.com",
+    "canonicalUrl": "https://www.langchain.com/pricing",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_langsmith",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.langchain.com/pricing"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s66",
+    "title": "Browserbase pricing",
+    "publisher": "browserbase.com",
+    "canonicalUrl": "https://www.browserbase.com/pricing",
+    "archivedUrl": null,
+    "sourceType": "partner_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_browserbase",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.browserbase.com/pricing"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s67",
+    "title": "Gartner agentic-project cancellation forecast",
+    "publisher": "Gartner",
+    "canonicalUrl": "https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "unavailable",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 206 authentication boundary observed",
+      "finalUrl": "https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_s68",
+    "title": "Halluminate Westworld",
+    "publisher": "halluminate.ai",
+    "canonicalUrl": "https://www.halluminate.ai/blog/westworld",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_halluminate",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.halluminate.ai/blog/westworld"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s69",
+    "title": "LangSmith Engine",
+    "publisher": "langchain.com",
+    "canonicalUrl": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_langsmith",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s70",
+    "title": "AgentCore Evaluations",
+    "publisher": "Amazon Web Services",
+    "canonicalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_amazon-bedrock-agentcore",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s71",
+    "title": "AgentCore pricing",
+    "publisher": "Amazon Web Services",
+    "canonicalUrl": "https://aws.amazon.com/bedrock/agentcore/pricing/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_amazon-bedrock-agentcore",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://aws.amazon.com/bedrock/agentcore/pricing/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s72",
+    "title": "Fleet current home page",
+    "publisher": "fleetai.com",
+    "canonicalUrl": "https://www.fleetai.com/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_fleet-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fleetai.com/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s73",
+    "title": "Vibrant Labs current home page",
+    "publisher": "vibrantlabs.com",
+    "canonicalUrl": "https://vibrantlabs.com/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_vibrant-labs",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://vibrantlabs.com/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s74",
+    "title": "Turing Research",
+    "publisher": "research.turing.com",
+    "canonicalUrl": "https://research.turing.com/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_turing",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://research.turing.com/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s75",
+    "title": "YC Halluminate profile and launch history",
+    "publisher": "Y Combinator",
+    "canonicalUrl": "https://www.ycombinator.com/companies/halluminate",
+    "archivedUrl": null,
+    "sourceType": "investor_first_party",
+    "control": "commercially_affiliated",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_halluminate",
+        "relationship": "investor",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ycombinator.com/companies/halluminate"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s76",
+    "title": "Micro1 competitive-programmer expansion case",
+    "publisher": "micro1.ai",
+    "canonicalUrl": "https://www.micro1.ai/case-study/competitive-programmers",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "co_micro1",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.micro1.ai/case-study/competitive-programmers"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_s77",
+    "title": "UK AISI specialist evaluation framework notice",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/001340-2025",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "unavailable",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 403 during bounded link audit; no control bypass attempted",
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/001340-2025"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_adj-appen",
+    "title": "Appen official current offer surface",
+    "publisher": "appen.com",
+    "canonicalUrl": "https://www.appen.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_appen",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.appen.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-telus-digital-ai-data-solutions",
+    "title": "TELUS Digital AI Data Solutions official current offer surface",
+    "publisher": "telusdigital.com",
+    "canonicalUrl": "https://www.telusdigital.com/solutions/ai-data-solutions",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_telus-digital-ai-data-solutions",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "unavailable",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.telusdigital.com/solutions/ai-data-solutions"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_adj-sama",
+    "title": "Sama official current offer surface",
+    "publisher": "sama.com",
+    "canonicalUrl": "https://www.sama.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_sama",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.sama.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-imerit",
+    "title": "iMerit official current offer surface",
+    "publisher": "imerit.net",
+    "canonicalUrl": "https://imerit.net",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_imerit",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://imerit.net"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-cloudfactory",
+    "title": "CloudFactory official current offer surface",
+    "publisher": "cloudfactory.com",
+    "canonicalUrl": "https://www.cloudfactory.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_cloudfactory",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cloudfactory.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-surge-ai",
+    "title": "Surge AI official current offer surface",
+    "publisher": "surgehq.ai",
+    "canonicalUrl": "https://www.surgehq.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_surge-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.surgehq.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-labelbox",
+    "title": "Labelbox official current offer surface",
+    "publisher": "labelbox.com",
+    "canonicalUrl": "https://labelbox.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_labelbox",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://labelbox.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-toloka",
+    "title": "Toloka official current offer surface",
+    "publisher": "toloka.ai",
+    "canonicalUrl": "https://toloka.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_toloka",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://toloka.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-dataannotation",
+    "title": "DataAnnotation official current offer surface",
+    "publisher": "dataannotation.tech",
+    "canonicalUrl": "https://www.dataannotation.tech",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_dataannotation",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.dataannotation.tech"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-handshake",
+    "title": "Handshake official current offer surface",
+    "publisher": "joinhandshake.com",
+    "canonicalUrl": "https://joinhandshake.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_handshake",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://joinhandshake.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-invisible-technologies",
+    "title": "Invisible Technologies official current offer surface",
+    "publisher": "invisible.co",
+    "canonicalUrl": "https://www.invisible.co",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_invisible-technologies",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.invisible.co"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-outlier",
+    "title": "Outlier official current offer surface",
+    "publisher": "outlier.ai",
+    "canonicalUrl": "https://outlier.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_outlier",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://outlier.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-alignerr",
+    "title": "Alignerr official current offer surface",
+    "publisher": "alignerr.com",
+    "canonicalUrl": "https://www.alignerr.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_alignerr",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.alignerr.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-mindrift",
+    "title": "Mindrift official current offer surface",
+    "publisher": "mindrift.ai",
+    "canonicalUrl": "https://mindrift.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_mindrift",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://mindrift.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-g2i",
+    "title": "G2i official current offer surface",
+    "publisher": "g2i.co",
+    "canonicalUrl": "https://www.g2i.co",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_g2i",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.g2i.co"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-catalant",
+    "title": "Catalant official current offer surface",
+    "publisher": "gocatalant.com",
+    "canonicalUrl": "https://gocatalant.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_catalant",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://gocatalant.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-glg",
+    "title": "GLG official current offer surface",
+    "publisher": "glginsights.com",
+    "canonicalUrl": "https://glginsights.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_glg",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://glginsights.com"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_adj-e2b",
+    "title": "E2B official current offer surface",
+    "publisher": "e2b.dev",
+    "canonicalUrl": "https://e2b.dev",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_e2b",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://e2b.dev"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-daytona",
+    "title": "Daytona official current offer surface",
+    "publisher": "daytona.io",
+    "canonicalUrl": "https://www.daytona.io",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_daytona",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.daytona.io"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-modal",
+    "title": "Modal official current offer surface",
+    "publisher": "modal.com",
+    "canonicalUrl": "https://modal.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_modal",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://modal.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-prime-intellect",
+    "title": "Prime Intellect official current offer surface",
+    "publisher": "primeintellect.ai",
+    "canonicalUrl": "https://www.primeintellect.ai",
+    "archivedUrl": null,
+    "sourceType": "partner_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_prime-intellect",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.primeintellect.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-steel",
+    "title": "Steel official current offer surface",
+    "publisher": "steel.dev",
+    "canonicalUrl": "https://steel.dev",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_steel",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://steel.dev"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-browser-use",
+    "title": "Browser Use official current offer surface",
+    "publisher": "browser-use.com",
+    "canonicalUrl": "https://browser-use.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_browser-use",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://browser-use.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-kernel",
+    "title": "Kernel official current offer surface",
+    "publisher": "onkernel.com",
+    "canonicalUrl": "https://onkernel.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_kernel",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://onkernel.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-scrapybara",
+    "title": "Scrapybara official current offer surface",
+    "publisher": "scrapybara.com",
+    "canonicalUrl": "https://scrapybara.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_scrapybara",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://scrapybara.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-arize-ai",
+    "title": "Arize AI official current offer surface",
+    "publisher": "arize.com",
+    "canonicalUrl": "https://arize.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_arize-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arize.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-langfuse",
+    "title": "Langfuse official current offer surface",
+    "publisher": "langfuse.com",
+    "canonicalUrl": "https://langfuse.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_langfuse",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://langfuse.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-patronus-ai",
+    "title": "Patronus AI official current offer surface",
+    "publisher": "patronus.ai",
+    "canonicalUrl": "https://www.patronus.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_patronus-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.patronus.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-giskard",
+    "title": "Giskard official current offer surface",
+    "publisher": "giskard.ai",
+    "canonicalUrl": "https://www.giskard.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_giskard",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.giskard.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-galileo",
+    "title": "Galileo official current offer surface",
+    "publisher": "galileo.ai",
+    "canonicalUrl": "https://galileo.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_galileo",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://galileo.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-confident-ai",
+    "title": "Confident AI official current offer surface",
+    "publisher": "confident-ai.com",
+    "canonicalUrl": "https://www.confident-ai.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_confident-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.confident-ai.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-maxim-ai",
+    "title": "Maxim AI official current offer surface",
+    "publisher": "getmaxim.ai",
+    "canonicalUrl": "https://www.getmaxim.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_maxim-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.getmaxim.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-nvidia-nemo",
+    "title": "NVIDIA NeMo official current offer surface",
+    "publisher": "NVIDIA",
+    "canonicalUrl": "https://www.nvidia.com/en-us/ai-data-science/products/nemo",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_nvidia-nemo",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.nvidia.com/en-us/ai-data-science/products/nemo"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-google-vertex-ai",
+    "title": "Google Vertex AI official current offer surface",
+    "publisher": "Google Cloud",
+    "canonicalUrl": "https://cloud.google.com/vertex-ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_google-vertex-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://cloud.google.com/vertex-ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-microsoft-azure-ai-foundry",
+    "title": "Microsoft Azure AI Foundry official current offer surface",
+    "publisher": "Microsoft Azure",
+    "canonicalUrl": "https://azure.microsoft.com/en-us/products/ai-foundry",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_microsoft-azure-ai-foundry",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://azure.microsoft.com/en-us/products/ai-foundry"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-together-ai",
+    "title": "Together AI official current offer surface",
+    "publisher": "together.ai",
+    "canonicalUrl": "https://www.together.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_together-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.together.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-fireworks-ai",
+    "title": "Fireworks AI official current offer surface",
+    "publisher": "fireworks.ai",
+    "canonicalUrl": "https://fireworks.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_fireworks-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://fireworks.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-anyscale",
+    "title": "Anyscale official current offer surface",
+    "publisher": "anyscale.com",
+    "canonicalUrl": "https://www.anyscale.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_anyscale",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.anyscale.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-predibase",
+    "title": "Predibase official current offer surface",
+    "publisher": "predibase.com",
+    "canonicalUrl": "https://predibase.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_predibase",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "unavailable",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 200 unrelated cross-origin redirect to Rubrik Agent Cloud",
+      "finalUrl": "https://www.rubrik.com/products/rubrik-agent-cloud"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_adj-openpipe",
+    "title": "OpenPipe official current offer surface",
+    "publisher": "openpipe.ai",
+    "canonicalUrl": "https://openpipe.ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_openpipe",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://openpipe.ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-accenture",
+    "title": "Accenture official current offer surface",
+    "publisher": "accenture.com",
+    "canonicalUrl": "https://www.accenture.com/us-en/services/data-ai/generative-ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_accenture",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.accenture.com/us-en/services/data-ai/generative-ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-quantumblack-ai-by-mckinsey",
+    "title": "QuantumBlack, AI by McKinsey official current offer surface",
+    "publisher": "mckinsey.com",
+    "canonicalUrl": "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_quantumblack-ai-by-mckinsey",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_adj-bcg-x",
+    "title": "BCG X official current offer surface",
+    "publisher": "bcg.com",
+    "canonicalUrl": "https://www.bcg.com/x",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_bcg-x",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bcg.com/x"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-ibm-consulting",
+    "title": "IBM Consulting official current offer surface",
+    "publisher": "ibm.com",
+    "canonicalUrl": "https://www.ibm.com/consulting/artificial-intelligence",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_ibm-consulting",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ibm.com/consulting/artificial-intelligence"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-slalom",
+    "title": "Slalom official current offer surface",
+    "publisher": "slalom.com",
+    "canonicalUrl": "https://www.slalom.com/us/en/services/artificial-intelligence",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_slalom",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.slalom.com/us/en/services/artificial-intelligence"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-thoughtworks",
+    "title": "Thoughtworks official current offer surface",
+    "publisher": "thoughtworks.com",
+    "canonicalUrl": "https://www.thoughtworks.com/what-we-do/ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_thoughtworks",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.thoughtworks.com/what-we-do/ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-palantir",
+    "title": "Palantir official current offer surface",
+    "publisher": "palantir.com",
+    "canonicalUrl": "https://www.palantir.com/platforms/aip",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_palantir",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.palantir.com/platforms/aip"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-taskus",
+    "title": "TaskUs official current offer surface",
+    "publisher": "taskus.com",
+    "canonicalUrl": "https://www.taskus.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_taskus",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.taskus.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-concentrix",
+    "title": "Concentrix official current offer surface",
+    "publisher": "concentrix.com",
+    "canonicalUrl": "https://www.concentrix.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_concentrix",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.concentrix.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-genpact",
+    "title": "Genpact official current offer surface",
+    "publisher": "genpact.com",
+    "canonicalUrl": "https://www.genpact.com/services/data-and-ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_genpact",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.genpact.com/services/data-and-ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-wipro",
+    "title": "Wipro official current offer surface",
+    "publisher": "wipro.com",
+    "canonicalUrl": "https://www.wipro.com/ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_wipro",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.wipro.com/ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-cognizant",
+    "title": "Cognizant official current offer surface",
+    "publisher": "cognizant.com",
+    "canonicalUrl": "https://www.cognizant.com/us/en/services/ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_cognizant",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cognizant.com/us/en/services/ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-teleperformance",
+    "title": "Teleperformance official current offer surface",
+    "publisher": "tp.com",
+    "canonicalUrl": "https://www.tp.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_teleperformance",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.tp.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-capgemini",
+    "title": "Capgemini official current offer surface",
+    "publisher": "capgemini.com",
+    "canonicalUrl": "https://www.capgemini.com/services/data-and-ai",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_capgemini",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.capgemini.com/services/data-and-ai"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-exl",
+    "title": "EXL official current offer surface",
+    "publisher": "exlservice.com",
+    "canonicalUrl": "https://www.exlservice.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_exl",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.exlservice.com"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_adj-ttec",
+    "title": "TTEC official current offer surface",
+    "publisher": "ttec.com",
+    "canonicalUrl": "https://www.ttec.com",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_ttec",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-11",
+    "access": "secondary_only",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "HTTP 403 WAF boundary during bounded link audit; no control bypass attempted",
+      "finalUrl": "https://www.ttec.com"
+    },
+    "accessNotes": "Access limitations are preserved; no control bypass was attempted, and semantic use is correspondingly constrained."
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s01",
+    "title": "FinCEN TD Bank enforcement",
+    "publisher": "fincen.gov",
+    "canonicalUrl": "https://www.fincen.gov/news/news-releases/fincen-assesses-record-13-billion-penalty-against-td-bank",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-10-10",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fincen.gov/news/news-releases/fincen-assesses-record-13-billion-penalty-against-td-bank"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s02",
+    "title": "FCA APP synthetic-data page",
+    "publisher": "fca.org.uk",
+    "canonicalUrl": "https://www.fca.org.uk/firms/digital-sandbox/authorised-push-payment-synthetic-data",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-03-12",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fca.org.uk/firms/digital-sandbox/authorised-push-payment-synthetic-data"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s04",
+    "title": "FCA AI Live Testing award",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/054567-2025",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-09-08",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/054567-2025"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s06",
+    "title": "FCA Supercharged Sandbox",
+    "publisher": "fca.org.uk",
+    "canonicalUrl": "https://www.fca.org.uk/firms/innovation/supercharged-sandbox",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-20",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fca.org.uk/firms/innovation/supercharged-sandbox"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s07",
+    "title": "FCA Digital Sandbox",
+    "publisher": "fca.org.uk",
+    "canonicalUrl": "https://www.fca.org.uk/firms/innovation/digital-sandbox",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2020-04-28",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fca.org.uk/firms/innovation/digital-sandbox"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s09",
+    "title": "ICO AI lawfulness guidance",
+    "publisher": "ico.org.uk",
+    "canonicalUrl": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-lawfulness-in-ai/",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-10-28",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-lawfulness-in-ai/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s08",
+    "title": "FCA synthetic-data AML report",
+    "publisher": "fca.org.uk",
+    "canonicalUrl": "https://www.fca.org.uk/publications/research-notes/research-note-synthetic-data-anti-money-laundering-project-report",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-15",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fca.org.uk/publications/research-notes/research-note-synthetic-data-anti-money-laundering-project-report"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s10",
+    "title": "FCA AI Live Testing method",
+    "publisher": "fca.org.uk",
+    "canonicalUrl": "https://www.fca.org.uk/news/blogs/ai-live-testing-how-it-can-support-safe-and-responsible-ai-deployment",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-01-30",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fca.org.uk/news/blogs/ai-live-testing-how-it-can-support-safe-and-responsible-ai-deployment"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s15",
+    "title": "CFAgentBench",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/abs/2606.22000",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-06-20",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/abs/2606.22000"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s11",
+    "title": "BIS Project Hertha",
+    "publisher": "bis.org",
+    "canonicalUrl": "https://www.bis.org/about/bisih/topics/fmis/hertha.htm",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-06-05",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bis.org/about/bisih/topics/fmis/hertha.htm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s16",
+    "title": "ACAMS certification release",
+    "publisher": "acams.org",
+    "canonicalUrl": "https://www.acams.org/en/media/document/39370",
+    "archivedUrl": null,
+    "sourceType": "buyer_first_party",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-07-15",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.acams.org/en/media/document/39370"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s17",
+    "title": "IIA 2026 audit survey",
+    "publisher": "theiia.org",
+    "canonicalUrl": "https://www.theiia.org/en/content/communications/press-releases/2026/march/internal-audit-is-being-asked-to-do-more-with-less-according-to-new-report-from-the-internal-audit-foundation/",
+    "archivedUrl": null,
+    "sourceType": "buyer_first_party",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-03-10",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.theiia.org/en/content/communications/press-releases/2026/march/internal-audit-is-being-asked-to-do-more-with-less-according-to-new-report-from-the-internal-audit-foundation/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s18",
+    "title": "BIS-hosted central-bank speech",
+    "publisher": "bis.org",
+    "canonicalUrl": "https://www.bis.org/review/r260520d.htm",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-05-20",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bis.org/review/r260520d.htm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s20",
+    "title": "OFAC sanctions-list updates",
+    "publisher": "ofac.treasury.gov",
+    "canonicalUrl": "https://ofac.treasury.gov/recent-actions/sanctions-list-updates",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-07-01",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://ofac.treasury.gov/recent-actions/sanctions-list-updates"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s22",
+    "title": "FinCEN alerts/advisories",
+    "publisher": "fincen.gov",
+    "canonicalUrl": "https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-06-30",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s21",
+    "title": "OFAC advanced-list FAQ",
+    "publisher": "ofac.treasury.gov",
+    "canonicalUrl": "https://ofac.treasury.gov/sdn-list-data-formats-data-schemas/frequently-asked-questions-on-advanced-sanctions-list-standard",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://ofac.treasury.gov/sdn-list-data-formats-data-schemas/frequently-asked-questions-on-advanced-sanctions-list-standard"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s24",
+    "title": "Google Cloud AML AI overview",
+    "publisher": "Google Cloud",
+    "canonicalUrl": "https://docs.cloud.google.com/financial-services/anti-money-laundering/docs/concepts/overview",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_google-vertex-ai",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": "2026-06-20",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://docs.cloud.google.com/financial-services/anti-money-laundering/docs/concepts/overview"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s26",
+    "title": "Oracle FCCM",
+    "publisher": "oracle.com",
+    "canonicalUrl": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-regulated-financial-operations-fin-s30",
+    "title": "FCA/Bank of England AI survey",
+    "publisher": "fca.org.uk",
+    "canonicalUrl": "https://www.fca.org.uk/publications/research-notes/ai-uk-financial-services",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-12-03",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.fca.org.uk/publications/research-notes/ai-uk-financial-services"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o01",
+    "title": "AutoRek, Insurance Operations & Financial Transformation 2026",
+    "publisher": "autorek.com",
+    "canonicalUrl": "https://autorek.com/report/insurance-operations-report-2026-autorek/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-03-18",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://autorek.com/report/insurance-operations-report-2026-autorek/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o03",
+    "title": "Claims Pages, Legacy Insurance Systems Drive Claims Delays and Rising Costs",
+    "publisher": "claimspages.com",
+    "canonicalUrl": "https://www.claimspages.com/news/legacy-insurance-systems-drive-claims-delays-and-rising-costs-20260430/",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-30",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.claimspages.com/news/legacy-insurance-systems-drive-claims-delays-and-rising-costs-20260430/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o05",
+    "title": "Insurance Business, Carriers stuck in pilot purgatory",
+    "publisher": "insurancebusinessmag.com",
+    "canonicalUrl": "https://www.insurancebusinessmag.com/us/news/technology/carriers-stuck-in-pilot-purgatory-as-ai-fails-to-graduate--sedgwick-567339.aspx",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-03-04",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.insurancebusinessmag.com/us/news/technology/carriers-stuck-in-pilot-purgatory-as-ai-fails-to-graduate--sedgwick-567339.aspx"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o08",
+    "title": "CIO Dive, Insurance industry still stuck in AI pilot phase",
+    "publisher": "ciodive.com",
+    "canonicalUrl": "https://www.ciodive.com/news/insurance-industry-stuck-ai-pilot-phase/816759/",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-06",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ciodive.com/news/insurance-industry-stuck-ai-pilot-phase/816759/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o12",
+    "title": "Hong Kong Insurance Authority, GenA.I. Sandbox++",
+    "publisher": "ia.org.hk",
+    "canonicalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260305.html",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-03-05",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260305.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o11",
+    "title": "New York DFS Circular Letter No. 7",
+    "publisher": "dfs.ny.gov",
+    "canonicalUrl": "https://www.dfs.ny.gov/industry-guidance/circular-letters/cl2024-07",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-07-11",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.dfs.ny.gov/industry-guidance/circular-letters/cl2024-07"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o14",
+    "title": "Massachusetts DOI Bulletin 2024-10",
+    "publisher": "mass.gov",
+    "canonicalUrl": "https://www.mass.gov/doc/bulletin-2024-10-the-use-of-artificial-intelligence-systems-in-insurance-issued-december-9-2024/download",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-12-09",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.mass.gov/doc/bulletin-2024-10-the-use-of-artificial-intelligence-systems-in-insurance-issued-december-9-2024/download"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o16",
+    "title": "ACL 2026, InsLogicBench",
+    "publisher": "ACL Anthology",
+    "canonicalUrl": "https://aclanthology.org/2026.acl-long.1035.pdf",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-07-02",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://aclanthology.org/2026.acl-long.1035.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o18",
+    "title": "BLS, Insurance Underwriters",
+    "publisher": "bls.gov",
+    "canonicalUrl": "https://www.bls.gov/OOH/business-and-financial/insurance-underwriters.htm",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bls.gov/OOH/business-and-financial/insurance-underwriters.htm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o20",
+    "title": "BLS, Claims Adjusters, Appraisers, Examiners, and Investigators",
+    "publisher": "bls.gov",
+    "canonicalUrl": "https://www.bls.gov/ooh/Business-and-Financial/Claims-adjusters-appraisers-examiners-and-investigators.htm",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bls.gov/ooh/Business-and-Financial/Claims-adjusters-appraisers-examiners-and-investigators.htm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o22",
+    "title": "Risk & Insurance, Insurance Industry Poised for Modest Growth",
+    "publisher": "riskandinsurance.com",
+    "canonicalUrl": "https://riskandinsurance.com/insurance-industry-poised-for-modest-growth-despite-mounting-talent-challenges/",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-02-27",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://riskandinsurance.com/insurance-industry-poised-for-modest-growth-despite-mounting-talent-challenges/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o23",
+    "title": "Deloitte, 2026 Insurance Regulatory Outlook",
+    "publisher": "deloitte.com",
+    "canonicalUrl": "https://www.deloitte.com/us/en/services/consulting/articles/insurance-regulatory-outlook.html",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [
+      {
+        "entityRef": "adj_deloitte",
+        "relationship": "subject",
+        "validFrom": null,
+        "validTo": null
+      }
+    ],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.deloitte.com/us/en/services/consulting/articles/insurance-regulatory-outlook.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o24",
+    "title": "ACORD, Reinsurance & Large Commercial Data Standards",
+    "publisher": "acord.org",
+    "canonicalUrl": "https://www.acord.org/standards-architecture/acord-data-standards/Global_Reinsurance_Data_Standards",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.acord.org/standards-architecture/acord-data-standards/Global_Reinsurance_Data_Standards"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o25",
+    "title": "Guidewire/Shift partnership release",
+    "publisher": "ir.guidewire.com",
+    "canonicalUrl": "https://ir.guidewire.com/news-releases/news-release-details/guidewire-deepens-relationship-shift-technology-naming-shift-its",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-11-12",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://ir.guidewire.com/news-releases/news-release-details/guidewire-deepens-relationship-shift-technology-naming-shift-its"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-insurance-operations-o27",
+    "title": "Grant Thornton, How insurance companies can drive tech ROI and growth",
+    "publisher": "grantthornton.com",
+    "canonicalUrl": "https://www.grantthornton.com/insights/articles/insurance/2025/insurance-roi-growth-tech-innovation",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.grantthornton.com/insights/articles/insurance/2025/insurance-roi-growth-tech-innovation"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o01",
+    "title": "Medicare Advantage Denies 17 Percent Of Initial Claims…",
+    "publisher": "Health Affairs",
+    "canonicalUrl": "https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01485",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-06-01",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01485"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o02",
+    "title": "High Rates of Prior Authorization Denials…",
+    "publisher": "oig.hhs.gov",
+    "canonicalUrl": "https://oig.hhs.gov/reports/all/2023/high-rates-of-prior-authorization-denials-by-some-plans-and-limited-state-oversight-raise-concerns-about-access-to-care-in-medicaid-managed-care/",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2023-07-17",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://oig.hhs.gov/reports/all/2023/high-rates-of-prior-authorization-denials-by-some-plans-and-limited-state-oversight-raise-concerns-about-access-to-care-in-medicaid-managed-care/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o03",
+    "title": "Louisiana Healthcare Connections Generally Complied…",
+    "publisher": "oig.hhs.gov",
+    "canonicalUrl": "https://oig.hhs.gov/reports/all/2026/louisiana-healthcare-connections-generally-complied-with-federal-and-state-process-requirements-when-denying-prior-authorization-requests/",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-03",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://oig.hhs.gov/reports/all/2026/louisiana-healthcare-connections-generally-complied-with-federal-and-state-process-requirements-when-denying-prior-authorization-requests/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o04",
+    "title": "Amerigroup Iowa’s Prior Authorization and Appeal Processes Were Effective…",
+    "publisher": "oig.hhs.gov",
+    "canonicalUrl": "https://oig.hhs.gov/reports/all/2023/amerigroup-iowas-prior-authorization-and-appeal-processes-were-effective-but-improvements-can-be-made/",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2023-09-13",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://oig.hhs.gov/reports/all/2023/amerigroup-iowas-prior-authorization-and-appeal-processes-were-effective-but-improvements-can-be-made/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o05",
+    "title": "Addendum 1: RFP_06282024_Revenue Cycle Optimization_UCDH",
+    "publisher": "health.ucdavis.edu",
+    "canonicalUrl": "https://health.ucdavis.edu/media-resources/supply-chain/documents/fy25/06282024_BJ_Addendum_1a_ResponsestoQuestionsAddendum.pdf",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-06-28",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://health.ucdavis.edu/media-resources/supply-chain/documents/fy25/06282024_BJ_Addendum_1a_ResponsestoQuestionsAddendum.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o06",
+    "title": "Request for Proposals for Accounts Receivable Engagement",
+    "publisher": "a856-cityrecord.nyc.gov",
+    "canonicalUrl": "https://a856-cityrecord.nyc.gov/Search/GetFile?documentId=36342&requestId=20230503115&requestStatus=Archived&sectionId=6",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2023-05-05",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://a856-cityrecord.nyc.gov/Search/GetFile?documentId=36342&requestId=20230503115&requestStatus=Archived&sectionId=6"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o07",
+    "title": "Business Associates",
+    "publisher": "hhs.gov",
+    "canonicalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2009-01-07",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o08",
+    "title": "CMS Interoperability and Prior Authorization Final Rule",
+    "publisher": "cms.gov",
+    "canonicalUrl": "https://www.cms.gov/newsroom/fact-sheets/cms-interoperability-prior-authorization-final-rule-cms-0057-f",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-01-17",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cms.gov/newsroom/fact-sheets/cms-interoperability-prior-authorization-final-rule-cms-0057-f"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o10",
+    "title": "Minimum Necessary Requirement",
+    "publisher": "hhs.gov",
+    "canonicalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/minimum-necessary-requirement/index.html",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2009-01-07",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/minimum-necessary-requirement/index.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o11",
+    "title": "Fact Sheet 42 CFR Part 2 Final Rule",
+    "publisher": "hhs.gov",
+    "canonicalUrl": "https://www.hhs.gov/hipaa/for-professionals/regulatory-initiatives/fact-sheet-42-cfr-part-2-final-rule/index.html",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-02-07",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.hhs.gov/hipaa/for-professionals/regulatory-initiatives/fact-sheet-42-cfr-part-2-final-rule/index.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o12",
+    "title": "NCCI for Medicare",
+    "publisher": "cms.gov",
+    "canonicalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-03-04",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o13",
+    "title": "Medicare Claim Review Programs",
+    "publisher": "cms.gov",
+    "canonicalUrl": "https://www.cms.gov/outreach-and-education/medicare-learning-network-mln/mlnproducts/downloads/mcrp-booklet-text-only.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2016-09-15",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cms.gov/outreach-and-education/medicare-learning-network-mln/mlnproducts/downloads/mcrp-booklet-text-only.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o14",
+    "title": "Prior Authorization API",
+    "publisher": "cms.gov",
+    "canonicalUrl": "https://www.cms.gov/priorities/burden-reduction/overview/interoperability/frequently-asked-questions/prior-authorization-api",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-15",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cms.gov/priorities/burden-reduction/overview/interoperability/frequently-asked-questions/prior-authorization-api"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o15",
+    "title": "Expert Agreement in Current Procedural Terminology Evaluation and Management Coding",
+    "publisher": "DOI Foundation",
+    "canonicalUrl": "https://doi.org/10.1001/archinte.162.3.316",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2002-02-11",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://doi.org/10.1001/archinte.162.3.316"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o16",
+    "title": "Medical Records Specialists",
+    "publisher": "bls.gov",
+    "canonicalUrl": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-08-28",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o17",
+    "title": "Understaffed and Overworked: How Can Organizations Improve HI Staffing?",
+    "publisher": "journal.ahima.org",
+    "canonicalUrl": "https://journal.ahima.org/page/understaffed-and-overworked-how-can-organizations-improve-hi-staffing",
+    "archivedUrl": null,
+    "sourceType": "buyer_first_party",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-03-04",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://journal.ahima.org/page/understaffed-and-overworked-how-can-organizations-improve-hi-staffing"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o18",
+    "title": "List of CPT/HCPCS Codes",
+    "publisher": "cms.gov",
+    "canonicalUrl": "https://www.cms.gov/medicare/regulations-guidance/physician-self-referral/list-cpt-hcpcs-codes",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-03-25",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cms.gov/medicare/regulations-guidance/physician-self-referral/list-cpt-hcpcs-codes"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o19",
+    "title": "Medicare NCCI Procedure to Procedure Edits",
+    "publisher": "cms.gov",
+    "canonicalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits/medicare-ncci-procedure-procedure-ptp-edits",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-05-29",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits/medicare-ncci-procedure-procedure-ptp-edits"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o20",
+    "title": "2026 Summary of Changes to Advance Notification and Prior Authorization Requirements",
+    "publisher": "uhcprovider.com",
+    "canonicalUrl": "https://www.uhcprovider.com/content/dam/provider/docs/public/prior-auth/pa-requirements/multi/2026-Summary-of-Changes-AdvNotice-and-PriorAuth.pdf",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-01",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.uhcprovider.com/content/dam/provider/docs/public/prior-auth/pa-requirements/multi/2026-Summary-of-Changes-AdvNotice-and-PriorAuth.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o21",
+    "title": "Aetna monthly OfficeLink Updates, April 2026",
+    "publisher": "aetna.com",
+    "canonicalUrl": "https://www.aetna.com/content/dam/aetna/pdfs/olu/officelink-updates-april-2026-olu.pdf",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.aetna.com/content/dam/aetna/pdfs/olu/officelink-updates-april-2026-olu.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o22",
+    "title": "January 2026 Policy Updates",
+    "publisher": "static.cigna.com",
+    "canonicalUrl": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/january_2026_policy_updates.pdf",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/january_2026_policy_updates.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o23",
+    "title": "Moving Prior Authorization into the 21st Century",
+    "publisher": "cms.gov",
+    "canonicalUrl": "https://www.cms.gov/newsroom/blog/moving-prior-authorization-21st-century",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-05-05",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.cms.gov/newsroom/blog/moving-prior-authorization-21st-century"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o24",
+    "title": "AHA Comments on CMS’ Interoperability and Prior Authorization Proposed Rule",
+    "publisher": "aha.org",
+    "canonicalUrl": "https://www.aha.org/lettercomment/2026-06-15-aha-comments-cms-interoperability-and-prior-authorization-proposed-rule",
+    "archivedUrl": null,
+    "sourceType": "buyer_first_party",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-06-15",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.aha.org/lettercomment/2026-06-15-aha-comments-cms-interoperability-and-prior-authorization-proposed-rule"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o25",
+    "title": "Waystar 2024 Annual Report",
+    "publisher": "U.S. Securities and Exchange Commission",
+    "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1990354/000110465925041392/tm259007d2_ars.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-12-31",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.sec.gov/Archives/edgar/data/1990354/000110465925041392/tm259007d2_ars.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-healthcare-administration-o26",
+    "title": "R1 RCM Annual Report 2023",
+    "publisher": "U.S. Securities and Exchange Commission",
+    "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1910851/000162828024015926/a2023annualreport.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-02-27",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.sec.gov/Archives/edgar/data/1910851/000162828024015926/a2023annualreport.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o01",
+    "title": "Virginia JLARC — VITA multi-supplier review",
+    "publisher": "jlarc.virginia.gov",
+    "canonicalUrl": "https://jlarc.virginia.gov/pdfs/reports/Rpt525-2.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2019-10-07",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://jlarc.virginia.gov/pdfs/reports/Rpt525-2.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o02",
+    "title": "Victoria Auditor-General — Cenitex",
+    "publisher": "audit.vic.gov.au",
+    "canonicalUrl": "https://www.audit.vic.gov.au/sites/default/files/2019-10/20191017-Cenitex-report.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2019-10-17",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.audit.vic.gov.au/sites/default/files/2019-10/20191017-Cenitex-report.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o03",
+    "title": "NHS Freshservice contract award",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/037131-2024?origin=SearchResults&p=605",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-11-18",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/037131-2024?origin=SearchResults&p=605"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o04",
+    "title": "Norway DFØ chatbot award",
+    "publisher": "ted.europa.eu",
+    "canonicalUrl": "https://ted.europa.eu/en/notice/641773-2024/pdfs",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-10-23",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://ted.europa.eu/en/notice/641773-2024/pdfs"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o06",
+    "title": "Zendesk AI Services Addendum",
+    "publisher": "zendesk.com",
+    "canonicalUrl": "https://www.zendesk.com/company/agreements-and-terms/ai-services-addendum/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-05-06",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.zendesk.com/company/agreements-and-terms/ai-services-addendum/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o07",
+    "title": "Salesforce Main Services Agreement",
+    "publisher": "salesforce.com",
+    "canonicalUrl": "https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/Salesforce_MSA.pdf",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-09-15",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/Salesforce_MSA.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o08",
+    "title": "EDPS opinion on ECB Dynamics 365 CRM",
+    "publisher": "edps.europa.eu",
+    "canonicalUrl": "https://www.edps.europa.eu/system/files/2022-04/21-07-08_edps_opinion_ecb_customer-management-system_en.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2021-07-07",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.edps.europa.eu/system/files/2022-04/21-07-08_edps_opinion_ecb_customer-management-system_en.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o09",
+    "title": "WorkArena",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/html/2403.07718v5",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-03-12",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/html/2403.07718v5"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o11",
+    "title": "The Art of Building Verifiers for Computer Use Agents",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/html/2604.06240",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-04-05",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/html/2604.06240"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o12",
+    "title": "Can Agent Benchmarks Support Their Scores?",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/abs/2605.10448",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-05-11",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/abs/2605.10448"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o13",
+    "title": "BLS computer-user-support employment",
+    "publisher": "bls.gov",
+    "canonicalUrl": "https://www.bls.gov/oes/2023/May/oes151232.htm",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.bls.gov/oes/2023/May/oes151232.htm"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o14",
+    "title": "DoD Technical Support Specialist Career Pathway",
+    "publisher": "dl.dod.cyber.mil",
+    "canonicalUrl": "https://dl.dod.cyber.mil/wp-content/uploads/ccp/pdf/411-Technical-Support-Specialist-Career-Pathway.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://dl.dod.cyber.mil/wp-content/uploads/ccp/pdf/411-Technical-Support-Specialist-Career-Pathway.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o15",
+    "title": "GAO State Department IT-workforce review",
+    "publisher": "gao.gov",
+    "canonicalUrl": "https://www.gao.gov/assets/gao-22-105932.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2022-07-12",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.gao.gov/assets/gao-22-105932.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o16",
+    "title": "Atlassian Long Term Support releases",
+    "publisher": "confluence.atlassian.com",
+    "canonicalUrl": "https://confluence.atlassian.com/security/long-term-support-releases-1409289267.html",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-07-01",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://confluence.atlassian.com/security/long-term-support-releases-1409289267.html"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o17",
+    "title": "Zendesk weekly release notes",
+    "publisher": "support.zendesk.com",
+    "canonicalUrl": "https://support.zendesk.com/hc/en-us/articles/10904321914138-Release-notes-through-2026-06-12",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-06-12",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://support.zendesk.com/hc/en-us/articles/10904321914138-Release-notes-through-2026-06-12"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o18",
+    "title": "Dynamics 365 service updates",
+    "publisher": "learn.microsoft.com",
+    "canonicalUrl": "https://learn.microsoft.com/en-us/dynamics365/guidance/implementation-guide/service-solution-service-updates",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-01-09",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://learn.microsoft.com/en-us/dynamics365/guidance/implementation-guide/service-solution-service-updates"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o19",
+    "title": "Ada Lovelace Institute — Buying AI",
+    "publisher": "adalovelaceinstitute.org",
+    "canonicalUrl": "https://www.adalovelaceinstitute.org/report/buying-ai-procurement/",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-10-01",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.adalovelaceinstitute.org/report/buying-ai-procurement/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o20",
+    "title": "Salesforce Summer 2026 release",
+    "publisher": "salesforce.com",
+    "canonicalUrl": "https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-05-11",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-enterprise-software-support-o21",
+    "title": "Microsoft Service Agent general availability",
+    "publisher": "microsoft.com",
+    "canonicalUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/service-agent-general-availability/",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-06-30",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/service-agent-general-availability/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o01",
+    "title": "SSA OIG — Reducing Processing Centers’ Pending Actions",
+    "publisher": "oig.ssa.gov",
+    "canonicalUrl": "https://oig.ssa.gov/assets/uploads/022313.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-06-28",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://oig.ssa.gov/assets/uploads/022313.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o03",
+    "title": "AI for bureaucratic productivity",
+    "publisher": "turing.ac.uk",
+    "canonicalUrl": "https://www.turing.ac.uk/sites/default/files/2024-03/ai_for_bureaucratic_productivity.pdf",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.turing.ac.uk/sites/default/files/2024-03/ai_for_bureaucratic_productivity.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o04",
+    "title": "NAO — DWP customer service",
+    "publisher": "nao.org.uk",
+    "canonicalUrl": "https://www.nao.org.uk/reports/dwp-customer-service/",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-07-23",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.nao.org.uk/reports/dwp-customer-service/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o06",
+    "title": "Using Process Mining to Improve Digital Service Delivery",
+    "publisher": "arXiv",
+    "canonicalUrl": "https://arxiv.org/html/2409.05869",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-08-23",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://arxiv.org/html/2409.05869"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o07",
+    "title": "MHCLG Augmented Planning Decisions",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/086054-2025",
+    "archivedUrl": null,
+    "sourceType": "procurement_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-12-16",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/086054-2025"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o09",
+    "title": "D.C. DGS IRIS sole-source procurement",
+    "publisher": "dgs.dc.gov",
+    "canonicalUrl": "https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/DCAM-24-NC-SS-0008%20%28Iris%20AI%20Native%20Platform%29.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/DCAM-24-NC-SS-0008%20%28Iris%20AI%20Native%20Platform%29.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o10",
+    "title": "NYC Comptroller — MyCity audit",
+    "publisher": "comptroller.nyc.gov",
+    "canonicalUrl": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-office-of-technology-and-innovations-mycity-system/",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-12-30",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-office-of-technology-and-innovations-mycity-system/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o11",
+    "title": "Automating Public Services: Learning from Cancelled Systems",
+    "publisher": "carnegieuk.org",
+    "canonicalUrl": "https://carnegieuk.org/wp-content/uploads/2024/10/Automating-Public-Services-Learning-from-Cancelled-Systems-Final-Full-Report-2.pdf",
+    "archivedUrl": null,
+    "sourceType": "independent_reporting",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://carnegieuk.org/wp-content/uploads/2024/10/Automating-Public-Services-Learning-from-Cancelled-Systems-Final-Full-Report-2.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o12",
+    "title": "Ministry of Justice — Data First User Guide",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://assets.publishing.service.gov.uk/media/683863d5c99c4f37ab4e867c/Data_First_User_Guide_Version_8.2.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://assets.publishing.service.gov.uk/media/683863d5c99c4f37ab4e867c/Data_First_User_Guide_Version_8.2.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o15",
+    "title": "Scottish social-security DPIA",
+    "publisher": "gov.scot",
+    "canonicalUrl": "https://www.gov.scot/publications/social-security-amendment-scotland-bill-data-protection-impact-assessment-updated-april-2025/pages/3/",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-04-28",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.gov.scot/publications/social-security-amendment-scotland-bill-data-protection-impact-assessment-updated-april-2025/pages/3/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o16",
+    "title": "U.S. District Court memorandum opinion",
+    "publisher": "govinfo.gov",
+    "canonicalUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-mdd-1_25-cv-00596/pdf/USCOURTS-mdd-1_25-cv-00596-5.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-04-17",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-mdd-1_25-cv-00596/pdf/USCOURTS-mdd-1_25-cv-00596-5.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o17",
+    "title": "AI-Powered Rules as Code",
+    "publisher": "digitalgovernmenthub.org",
+    "canonicalUrl": "https://digitalgovernmenthub.org/publications/ai-powered-rules-as-code-experiments-with-public-benefits-policy/",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-03-24",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://digitalgovernmenthub.org/publications/ai-powered-rules-as-code-experiments-with-public-benefits-policy/"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o19",
+    "title": "Evaluating Generative AI in Benefits Administration",
+    "publisher": "tobin.yale.edu",
+    "canonicalUrl": "https://tobin.yale.edu/sites/default/files/2026-01/CDLE_AI_Jan13_2026.pdf",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://tobin.yale.edu/sites/default/files/2026-01/CDLE_AI_Jan13_2026.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o21",
+    "title": "NBER — When Automation Goes Wrong",
+    "publisher": "nber.org",
+    "canonicalUrl": "https://www.nber.org/papers/w31437",
+    "archivedUrl": null,
+    "sourceType": "academic_primary",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2023-07-10",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.nber.org/papers/w31437"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o22",
+    "title": "Effective Professional Development Design in a Civil Service Context",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://assets.publishing.service.gov.uk/media/6895e6663080e72710b2e2de/Effective_Professional_Development_Design_in_a_Civil_Service_Context.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://assets.publishing.service.gov.uk/media/6895e6663080e72710b2e2de/Effective_Professional_Development_Design_in_a_Civil_Service_Context.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o23",
+    "title": "ACF — Child Welfare Workforce Training",
+    "publisher": "acf.gov",
+    "canonicalUrl": "https://acf.gov/opre/report/child-welfare-workforce-onboarding-training-and-professional-development",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-09-04",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://acf.gov/opre/report/child-welfare-workforce-onboarding-training-and-professional-development"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o25",
+    "title": "SSA FY2025–2026 Annual Performance Plan",
+    "publisher": "ssa.gov",
+    "canonicalUrl": "https://www.ssa.gov/agency/performance/materials/2026/SSA_FYs2025-2026_APP.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ssa.gov/agency/performance/materials/2026/SSA_FYs2025-2026_APP.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o26",
+    "title": "Commerce OIG — Census staffing gaps",
+    "publisher": "oig.doc.gov",
+    "canonicalUrl": "https://www.oig.doc.gov/wp-content/OIGPublications/OIG-25-013-I_Final_Report.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-03-13",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.oig.doc.gov/wp-content/OIGPublications/OIG-25-013-I_Final_Report.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o27",
+    "title": "Social Security Benefits Up-rating Order 2025",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.legislation.gov.uk/uksi/2025/295/made",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2025-03-12",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.legislation.gov.uk/uksi/2025/295/made"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o28",
+    "title": "Social Security Benefits Up-rating Order 2026",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://www.legislation.gov.uk/uksi/2026/148/made",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2026-03-02",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.legislation.gov.uk/uksi/2026/148/made"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o29",
+    "title": "Advice for Decision Making — summary of changes",
+    "publisher": "UK Government",
+    "canonicalUrl": "https://assets.publishing.service.gov.uk/media/6a0f0b28065847719dd7b484/adm-summary-of-changes.pdf",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://assets.publishing.service.gov.uk/media/6a0f0b28065847719dd7b484/adm-summary-of-changes.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o32",
+    "title": "Provisioning Digital Tools and Systems for Government Use",
+    "publisher": "law.georgetown.edu",
+    "canonicalUrl": "https://www.law.georgetown.edu/tech-institute/wp-content/uploads/sites/42/2024/09/Provisioning-Digital-Tools-and-Systems-for-Government-Use.pdf",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": null,
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.law.georgetown.edu/tech-institute/wp-content/uploads/sites/42/2024/09/Provisioning-Digital-Tools-and-Systems-for-Government-Use.pdf"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o34",
+    "title": "NC DHHS child-welfare system award",
+    "publisher": "ncdhhs.gov",
+    "canonicalUrl": "https://www.ncdhhs.gov/cws642023/open",
+    "archivedUrl": null,
+    "sourceType": "regulatory_record",
+    "control": "independent",
+    "publisherAffiliations": [],
+    "publishedAt": "2023-09-27",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://www.ncdhhs.gov/cws642023/open"
+    },
+    "accessNotes": null
+  },
+  {
+    "sourceId": "src_exa-public-sector-administration-o37",
+    "title": "CanadaBuys — IRCC Case Management Platform",
+    "publisher": "canadabuys.canada.ca",
+    "canonicalUrl": "https://canadabuys.canada.ca/en/tender-opportunities/contract-history/cw2375337-004",
+    "archivedUrl": null,
+    "sourceType": "company_first_party",
+    "control": "subject_controlled",
+    "publisherAffiliations": [],
+    "publishedAt": "2024-09-19",
+    "accessedAt": "2026-07-12",
+    "access": "open",
+    "lastLinkCheck": {
+      "checkedAt": "2026-07-12",
+      "rawResult": "Accessible during bounded research pass",
+      "finalUrl": "https://canadabuys.canada.ca/en/tender-opportunities/contract-history/cw2375337-004"
+    },
+    "accessNotes": null
+  }
+]

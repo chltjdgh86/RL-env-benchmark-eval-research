@@ -1,0 +1,59 @@
+TAP version 13
+# Subtest: does not count a claim ID that appears only in a source comment
+not ok 1 - does not count a claim ID that appears only in a source comment
+  ---
+  duration_ms: 25.303875
+  location: '/Users/sung/src/frist/RL-env-benchmark-eval-research/scripts/qa/check-rendered-claims.fixtures.test.mjs:18:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    EXPECTED_CLAIM_NOT_RENDERED should fail
+    
+    0 !== 1
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 1
+  actual: 0
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (file:///Users/sung/src/frist/RL-env-benchmark-eval-research/scripts/qa/check-rendered-claims.fixtures.test.mjs:59:12)
+    Test.runInAsyncScope (node:async_hooks:211:14)
+    Test.run (node:internal/test_runner/test:979:25)
+    Test.start (node:internal/test_runner/test:877:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:296:17)
+  ...
+# Subtest: accepts an exact rendered-claim ledger
+not ok 2 - accepts an exact rendered-claim ledger
+  ---
+  duration_ms: 21.239417
+  location: '/Users/sung/src/frist/RL-env-benchmark-eval-research/scripts/qa/check-rendered-claims.fixtures.test.mjs:66:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    RENDERED_CLAIM_LEDGER_MISSING:qa-scope
+    
+    
+    1 !== 0
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 0
+  actual: 1
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (file:///Users/sung/src/frist/RL-env-benchmark-eval-research/scripts/qa/check-rendered-claims.fixtures.test.mjs:103:12)
+    Test.runInAsyncScope (node:async_hooks:211:14)
+    Test.run (node:internal/test_runner/test:979:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:677:18)
+    Test.postRun (node:internal/test_runner/test:1090:19)
+    Test.run (node:internal/test_runner/test:1018:12)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:296:3)
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 0
+# fail 2
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 93.270667

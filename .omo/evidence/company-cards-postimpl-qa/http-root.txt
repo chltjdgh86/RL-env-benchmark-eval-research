@@ -1,0 +1,37 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2053  100  2053    0     0   159k      0 --:--:-- --:--:-- --:--:--  167k
+HTTP/1.1 200 OK
+Vary: Origin
+Content-Type: text/html
+Cache-Control: no-cache
+Etag: W/"805-gxoQV46l88/mtFqY067mp+oZ654"
+Date: Sun, 12 Jul 2026 19:31:13 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 2053
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="module">import { injectIntoGlobalHook } from "/@react-refresh";
+injectIntoGlobalHook(window);
+window.$RefreshReg$ = () => {};
+window.$RefreshSig$ = () => (type) => type;</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="data:," />
+    <meta name="description" content="Evidence-linked research atlas of AI training data, RL environments, evaluations, agent experience, market structure, company dossiers, and newcomer strategy." />
+    <!-- GENERATED:SEO_METADATA --><script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"RL Economy Atlas research corpus","description":"Evidence-linked research atlas of AI training data, RL environments, evaluations, agent experience, market structure, company dossiers, and newcomer strategy.","dateModified":"2026-07-12","temporalCoverage":"..2026-07-11","isAccessibleForFree":true,"keywords":["AI training data","RL environments","model evaluations","agent experience","post-training"]}</script>
+    <title>RL Economy Atlas</title>
+  </head>
+  <body>
+    <div id="root"><!-- GENERATED:NO_JS_FALLBACK --><noscript><article aria-label="RL Economy Atlas text fallback"><h1>RL Economy Atlas</h1><p>Evidence-linked research atlas of AI training data, RL environments, evaluations, agent experience, market structure, company dossiers, and newcomer strategy.</p><p>Evidence cutoff: 2026-07-11. Canonical corpus: 235 sources, 561 atomic claims, 10 named dossiers, 63 adjacent records, and 70 symmetric strategy-search receipts.</p><h2>Named dossiers</h2><p>Scale AI · Mercor · Micro1 · Turing · AfterQuery · Fleet AI · Deeptune · Refresh · Vibrant Labs · Halluminate</p><p><a href="/research-synthesis.txt">Open the complete generated research synthesis</a></p></article></noscript></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
+EXIT_CODE=0

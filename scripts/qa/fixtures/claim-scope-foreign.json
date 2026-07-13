@@ -1,0 +1,5 @@
+{
+  "scope": "companies",
+  "modulePaths": ["src/features/market-operations/Economics.tsx"],
+  "expectedClaimIds": ["clm_scale-current-offer"]
+}

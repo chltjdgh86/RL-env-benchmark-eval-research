@@ -1,0 +1,155 @@
+{
+  "overallVerdict": "FAIL",
+  "surfaceEvidence": [
+    {
+      "scenarioId": "AC-01",
+      "criterionReference": "Acceptance command chain",
+      "surface": "CLI acceptance",
+      "exactInvocation": "bun run typecheck && bun run lint && bun run check:no-excuses && bun run test:unit && bun run check:rendered-claims && bun run check:semantic-audit && bun run build",
+      "verdict": "PASS",
+      "artifactRefs": ["acceptance-chain"]
+    },
+    {
+      "scenarioId": "AC-02",
+      "criterionReference": "Route/browser test execution",
+      "surface": "Playwright with no external server",
+      "exactInvocation": "bun run test:e2e",
+      "verdict": "FAIL",
+      "artifactRefs": ["playwright-no-server"]
+    },
+    {
+      "scenarioId": "AC-04",
+      "criterionReference": "No horizontal overflow; route test execution",
+      "surface": "Playwright against production preview",
+      "exactInvocation": "PLAYWRIGHT_BASE_URL=http://127.0.0.1:4173 bun run test:e2e",
+      "verdict": "FAIL",
+      "artifactRefs": ["playwright-full-preview"]
+    },
+    {
+      "scenarioId": "AC-05",
+      "criterionReference": "Shell navigation, q parseability, Part 5 links, Companies eyebrow",
+      "surface": "Production Chromium interaction",
+      "exactInvocation": "bun .omo/evidence/spec-final-trim/manual-browser.mjs",
+      "verdict": "PASS",
+      "artifactRefs": ["manual-browser-log", "guide-desktop", "companies-desktop", "guide-mobile"]
+    },
+    {
+      "scenarioId": "AC-05b",
+      "criterionReference": "Guide and Companies responsive route coverage",
+      "surface": "Focused Playwright route suite",
+      "exactInvocation": "PLAYWRIGHT_BASE_URL=http://127.0.0.1:4173 bunx playwright test e2e/routes.spec.ts --grep 'guide|companies'",
+      "verdict": "PASS",
+      "artifactRefs": ["playwright-guide-companies"]
+    },
+    {
+      "scenarioId": "AC-07",
+      "criterionReference": "HASH_SECTIONS; deleted overview-industries; removed links/imports; SearchField removed while UtilityNav retained",
+      "surface": "Source contract inspection",
+      "exactInvocation": "test/rg checks recorded in static-contract-retry.typescript",
+      "verdict": "PASS",
+      "artifactRefs": ["static-contract"]
+    }
+  ],
+  "adversarialCases": [
+    {
+      "scenarioId": "ADV-01",
+      "criterionReference": "Removed sections and q grammar",
+      "adversarialClass": "Retired hash route",
+      "expectedBehavior": "#/overview?q=Scale safely recovers to #/guide?q=Scale and shows invalid_section recovery.",
+      "verdict": "PASS",
+      "artifactRefs": ["adversarial-browser-log"]
+    },
+    {
+      "scenarioId": "ADV-02",
+      "criterionReference": "q remains parseable without a search field",
+      "adversarialClass": "Whitespace-padded query",
+      "expectedBehavior": "#/companies?q=%20Scale%20%20AI%20 canonicalizes to #/companies?q=Scale%20AI and preserves the Scale AI result.",
+      "verdict": "PASS",
+      "artifactRefs": ["adversarial-browser-log"]
+    },
+    {
+      "scenarioId": "ADV-03",
+      "criterionReference": "Part 5 canonical website links",
+      "adversarialClass": "Complete external-link attribute audit",
+      "expectedBehavior": "All 35 named Part 5 links have the exact specified href and target=_blank rel=noreferrer.",
+      "verdict": "PASS",
+      "artifactRefs": ["manual-browser-log"]
+    },
+    {
+      "scenarioId": "ADV-04",
+      "criterionReference": "No horizontal overflow",
+      "adversarialClass": "320px showcase reflow",
+      "expectedBehavior": "Showcase scrollWidth must be no greater than 320px.",
+      "verdict": "FAIL",
+      "artifactRefs": ["playwright-showcase-320"]
+    }
+  ],
+  "artifactRefs": [
+    {
+      "id": "acceptance-chain",
+      "kind": "terminal transcript",
+      "description": "Exact required acceptance chain: all commands passed; 18 files and 145 unit tests passed; build emitted only the large-chunk warning.",
+      "path": ".omo/evidence/spec-final-trim/acceptance-chain.typescript"
+    },
+    {
+      "id": "playwright-no-server",
+      "kind": "terminal transcript",
+      "description": "Initial full e2e run: all tests were blocked by the configured external preview not running at 127.0.0.1:4173.",
+      "path": ".omo/evidence/spec-final-trim/playwright-routes.typescript"
+    },
+    {
+      "id": "playwright-full-preview",
+      "kind": "terminal transcript",
+      "description": "Full preview-backed run: 11 passed and 6 showcase failures, including mobile horizontal overflow.",
+      "path": ".omo/evidence/spec-final-trim/playwright-routes-preview.typescript"
+    },
+    {
+      "id": "playwright-guide-companies",
+      "kind": "terminal transcript",
+      "description": "Focused guide/companies route suite: 4 passed at 1280px and 320px.",
+      "path": ".omo/evidence/spec-final-trim/playwright-guide-companies.typescript"
+    },
+    {
+      "id": "manual-browser-log",
+      "kind": "browser action transcript",
+      "description": "Production Chromium assertions for shell controls, q preservation, 35 Part 5 links, Companies eyebrow, widths, and browser errors.",
+      "path": ".omo/evidence/spec-final-trim/manual-browser-final.typescript"
+    },
+    {
+      "id": "guide-desktop",
+      "kind": "browser screenshot",
+      "description": "Guide shell at 1280x900.",
+      "path": ".omo/evidence/spec-final-trim/guide-shell-1280-viewport.png"
+    },
+    {
+      "id": "companies-desktop",
+      "kind": "browser screenshot",
+      "description": "Companies page at 1280x900 after shell navigation.",
+      "path": ".omo/evidence/spec-final-trim/companies-1280-viewport.png"
+    },
+    {
+      "id": "guide-mobile",
+      "kind": "browser screenshot",
+      "description": "Guide shell at 320x900 with no horizontal overflow.",
+      "path": ".omo/evidence/spec-final-trim/guide-shell-320-viewport.png"
+    },
+    {
+      "id": "static-contract",
+      "kind": "terminal transcript",
+      "description": "Current-file checks for removed route directory/links/imports, section list, SearchField absence, and UtilityNav presence.",
+      "path": ".omo/evidence/spec-final-trim/static-contract-retry.typescript"
+    },
+    {
+      "id": "adversarial-browser-log",
+      "kind": "browser action transcript",
+      "description": "Retired route recovery and whitespace q canonicalization against the production preview.",
+      "path": ".omo/evidence/spec-final-trim/adversarial-browser-final.typescript"
+    },
+    {
+      "id": "playwright-showcase-320",
+      "kind": "terminal transcript",
+      "description": "Isolated reproduction of Showcase 320px overflow: scrollWidth 1032 versus clientWidth 320.",
+      "path": ".omo/evidence/spec-final-trim/playwright-showcase-320-repro.typescript"
+    }
+  ]
+}

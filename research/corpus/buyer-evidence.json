@@ -1,0 +1,173 @@
+[
+  {
+    "buyerEvidenceId": "buy_scale-ai",
+    "companyId": "co_scale-ai",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_scale-ai-buyers"
+    ],
+    "observationIds": [
+      "obs_s03"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_mercor",
+    "companyId": "co_mercor",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_mercor-buyers"
+    ],
+    "observationIds": [
+      "obs_s08"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_micro1",
+    "companyId": "co_micro1",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_micro1-buyers"
+    ],
+    "observationIds": [
+      "obs_s15"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_turing",
+    "companyId": "co_turing",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_turing-buyers"
+    ],
+    "observationIds": [
+      "obs_s20"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_afterquery",
+    "companyId": "co_afterquery",
+    "buyerName": "NVIDIA",
+    "buyerNameClaimId": "clm_afterquery-buyer-nvidia",
+    "buyerType": "enterprise_ai_team",
+    "motion": "partnership",
+    "evidenceState": "buyer_confirmed",
+    "claimIds": [
+      "clm_afterquery-buyers",
+      "clm_afterquery-buyer-nvidia"
+    ],
+    "observationIds": [
+      "obs_s28"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": "2026-06-01"
+  },
+  {
+    "buyerEvidenceId": "buy_fleet-ai",
+    "companyId": "co_fleet-ai",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_fleet-ai-buyers"
+    ],
+    "observationIds": [
+      "obs_s30"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_deeptune",
+    "companyId": "co_deeptune",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_deeptune-buyers"
+    ],
+    "observationIds": [
+      "obs_s32"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_refresh",
+    "companyId": "co_refresh",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_refresh-buyers"
+    ],
+    "observationIds": [
+      "obs_s34"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_vibrant-labs",
+    "companyId": "co_vibrant-labs",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_vibrant-labs-buyers"
+    ],
+    "observationIds": [
+      "obs_s36"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  },
+  {
+    "buyerEvidenceId": "buy_halluminate",
+    "companyId": "co_halluminate",
+    "buyerName": null,
+    "buyerNameClaimId": null,
+    "buyerType": "undisclosed",
+    "motion": "unknown",
+    "evidenceState": "vendor_reported_only",
+    "claimIds": [
+      "clm_halluminate-buyers"
+    ],
+    "observationIds": [
+      "obs_s37"
+    ],
+    "outcomeClaimIds": [],
+    "validAt": null
+  }
+]

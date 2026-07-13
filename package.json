@@ -1,0 +1,53 @@
+{
+  "name": "rl-economy-atlas",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "research:check": "node scripts/research/check-corpus.mjs",
+    "research:render": "node scripts/research/render-synthesis.mjs --check",
+    "research:fallback": "node scripts/research/render-public-fallback.mjs --check",
+    "research:semantic-audit": "node scripts/qa/render-semantic-audit.mjs --check",
+    "test:unit": "vitest run",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc -b --pretty false",
+    "lint": "biome check .",
+    "check:no-excuses": "node scripts/qa/check-no-excuses.mjs",
+    "check:rendered-claims": "node scripts/qa/check-rendered-claims.mjs",
+    "check:semantic-audit": "node scripts/qa/render-semantic-audit.mjs --check && node scripts/qa/check-semantic-audit.mjs",
+    "check:links": "node scripts/research/check-links.mjs",
+    "check:seo": "node scripts/qa/check-seo.mjs",
+    "check:devtools": "node scripts/qa/check-devtools.mjs",
+    "doctor": "react-doctor .",
+    "build": "node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build",
+    "preview": "vite preview",
+    "verify:all": "bun run research:check && bun run research:render && bun run check:semantic-audit && bun run typecheck && bun run lint && bun run check:no-excuses && bun run test:unit && bun run build && bun run check:devtools"
+  },
+  "dependencies": {
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.12.1",
+    "@biomejs/biome": "2.5.3",
+    "@playwright/test": "1.61.1",
+    "@testing-library/jest-dom": "6.9.1",
+    "@testing-library/react": "16.3.2",
+    "@testing-library/user-event": "14.6.1",
+    "@types/node": "26.1.1",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "6.0.3",
+    "jest-axe": "10.0.0",
+    "jsdom": "29.1.1",
+    "lighthouse": "13.4.0",
+    "react-doctor": "0.7.6",
+    "react-grab": "0.1.48",
+    "react-scan": "0.5.7",
+    "typescript": "7.0.2",
+    "vite": "8.1.4",
+    "vitest": "4.1.10"
+  }
+}

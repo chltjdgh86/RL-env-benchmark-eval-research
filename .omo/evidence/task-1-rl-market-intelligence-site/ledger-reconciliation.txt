@@ -1,0 +1,15 @@
+ULW research-ledger reconciliation for canonical downgrades.
+
+O-024 / TaskUs investor filing
+- Journal assertion: operating-margin evidence from the FY2025 filing.
+- Canonical bounded capture: transport metadata only; document contents were not verified.
+- Canonical disposition: src_s53 is subject-controlled and all 3 linked relationships are context_only. It supplies no positive support and no independence credit.
+- Claim-graph impact: C-006 cannot rely on O-024 in the canonical graph. Re-enable only after a claim-specific page/table locator and excerpt are retained.
+
+O-025 / Epoch RL-environment interviews
+- Journal assertion: reported six/seven-figure quarterly environment contracts from anonymous interviews.
+- Canonical bounded capture: H1/title only; the interview text and amounts were not retained.
+- Canonical disposition: all 144 src_s47 relationships are context_only. It supplies no positive support and no independence credit.
+- Claim-graph impact: C-024 cannot rely on O-025 in the canonical graph. Re-enable only after a substantive claim-specific paragraph locator and excerpt are retained.
+
+These journal rows remain immutable research provenance, not canonical evidence. Hash inclusion in the migration input manifest records their existence; it does not upgrade their semantic status.

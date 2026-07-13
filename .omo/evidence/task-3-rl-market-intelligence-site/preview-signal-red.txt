@@ -1,0 +1,32 @@
+TAP version 13
+# Subtest: terminates the preview and command trees when the wrapper receives SIGTERM
+not ok 1 - terminates the preview and command trees when the wrapper receives SIGTERM
+  ---
+  duration_ms: 529.538334
+  location: '/Users/sung/src/frist/RL-env-benchmark-eval-research/scripts/qa/with-preview.fixtures.test.mjs:140:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    null !== 143
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 143
+  actual: ~
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (file:///Users/sung/src/frist/RL-env-benchmark-eval-research/scripts/qa/with-preview.fixtures.test.mjs:195:10)
+    process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    async Test.run (node:internal/test_runner/test:980:9)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:296:3)
+  ...
+1..1
+# tests 1
+# suites 0
+# pass 0
+# fail 1
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 565.672666

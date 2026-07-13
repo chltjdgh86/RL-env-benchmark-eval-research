@@ -1,0 +1,26 @@
+
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+ ❯ src/domain/research.test.ts (1 test | 1 failed) 8ms
+     × rejects an observation when its source reference is unknown 8ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  src/domain/research.test.ts > canonical research corpus > rejects an observation when its source reference is unknown
+AssertionError: UNKNOWN_SOURCE_ID: expected [Function whenParsed] to throw an error
+ ❯ src/domain/research.test.ts:15:45
+     13|     const whenParsed = () => parseResearchCorpus(givenInputWithUnknown…
+     14|
+     15|     expect(whenParsed, "UNKNOWN_SOURCE_ID").toThrow()
+       |                                             ^
+     16|   })
+     17| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  06:01:24
+   Duration  485ms (transform 114ms, setup 26ms, import 179ms, tests 8ms, environment 216ms)
+

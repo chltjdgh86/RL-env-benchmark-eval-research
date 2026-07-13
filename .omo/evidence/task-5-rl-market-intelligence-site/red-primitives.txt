@@ -1,0 +1,305 @@
+
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+ ❯ src/components/primitives.test.tsx (13 tests | 12 failed) 68ms
+     × links the skip control to the main landmark 41ms
+     × renders a numbered section ribbon as a real heading 2ms
+     × expands accordion evidence with its labeled control 3ms
+     × opens a named drawer and makes the page behind it inert 2ms
+     × closes a drawer with Escape and restores trigger focus 2ms
+     × submits a settled search query 1ms
+     × clears a populated search with Escape without moving focus 1ms
+     × renders a captioned data table inside its named comparison region 1ms
+     × clears an active filter tray through a visible control 2ms
+     × keeps metric time basis and evidence adjacent 1ms
+     × marks the active utility destination without hiding unavailable routes 2ms
+     × renders masthead state and recovery notices without accessibility violations 8ms
+
+⎯⎯⎯⎯⎯⎯ Failed Tests 12 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > links the skip control to the main landmark
+TestingLibraryElementError: Unable to find an accessible element with the role "link" and name "Skip to main content"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:52:29
+     50|
+     51|     // When: the skip control is located by its accessible name.
+     52|     const skipLink = screen.getByRole("link", { name: "Skip to main co…
+       |                             ^
+     53|
+     54|     // Then: it targets the canonical main-content landmark.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > renders a numbered section ribbon as a real heading
+TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "Market structure"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:70:28
+     68|
+     69|     // When: the section is read through heading semantics.
+     70|     const heading = screen.getByRole("heading", { level: 2, name: "Mar…
+       |                            ^
+     71|
+     72|     // Then: numbering remains visible and the action remains a link.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > expands accordion evidence with its labeled control
+TestingLibraryElementError: Unable to find an accessible element with the role "button" and name "Method note"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:88:28
+     86|       </Accordion>,
+     87|     )
+     88|     const trigger = screen.getByRole("button", { name: "Method note" })
+       |                            ^
+     89|
+     90|     // When: the reader activates the disclosure.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > opens a named drawer and makes the page behind it inert
+TestingLibraryElementError: Unable to find an accessible element with the role "button" and name "Open Atlas navigation"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div[39m
+    [33mid[39m=[32m"root"[39m
+  [36m/>[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:112:29
+    110|
+    111|     // When: the reader opens the navigation drawer.
+    112|     await user.click(screen.getByRole("button", { name: "Open Atlas na…
+       |                             ^
+    113|
+    114|     // Then: the modal is named and the underlying application is iner…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[4/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > closes a drawer with Escape and restores trigger focus
+TestingLibraryElementError: Unable to find an accessible element with the role "button" and name "Open Evidence navigation"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div[39m
+    [33mid[39m=[32m"root"[39m
+  [36m/>[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:131:28
+    129|       { container: appRoot },
+    130|     )
+    131|     const trigger = screen.getByRole("button", { name: "Open Evidence …
+       |                            ^
+    132|     await user.click(trigger)
+    133|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[5/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > submits a settled search query
+TestingLibraryElementError: Unable to find an accessible element with the role "searchbox" and name "Search the research corpus"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:154:26
+    152|       />,
+    153|     )
+    154|     const input = screen.getByRole("searchbox", { name: "Search the re…
+       |                          ^
+    155|
+    156|     // When: the reader types a query and submits it with Enter.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[6/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > clears a populated search with Escape without moving focus
+TestingLibraryElementError: Unable to find an accessible element with the role "searchbox" and name "Search companies"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:167:26
+    165|     const user = userEvent.setup()
+    166|     render(<SearchField initialValue="Mercor" label="Search companies"…
+    167|     const input = screen.getByRole("searchbox", { name: "Search compan…
+       |                          ^
+    168|     await user.click(input)
+    169|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[7/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > renders a captioned data table inside its named comparison region
+TestingLibraryElementError: Unable to find an accessible element with the role "region" and name "Source comparison table"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:198:27
+    196|
+    197|     // When: the comparison is located by region and table semantics.
+    198|     const region = screen.getByRole("region", { name: "Source comparis…
+       |                           ^
+    199|
+    200|     // Then: the caption and explicit overflow instruction are availab…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[8/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > clears an active filter tray through a visible control
+TestingLibraryElementError: Unable to find an accessible element with the role "button" and name "Clear all filters"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:221:29
+    219|
+    220|     // When: the reader clears every active filter.
+    221|     await user.click(screen.getByRole("button", { name: "Clear all fil…
+       |                             ^
+    222|
+    223|     // Then: one clear request is emitted without replacing the filter…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[9/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > keeps metric time basis and evidence adjacent
+TestingLibraryElementError: Unable to find an accessible element with the role "group" and name "Reported gross run rate"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:240:27
+    238|
+    239|     // When: the metric is read as a grouped figure.
+    240|     const metric = screen.getByRole("group", { name: "Reported gross r…
+       |                           ^
+    241|
+    242|     // Then: its value, qualification, and source remain in that group.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[10/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > marks the active utility destination without hiding unavailable routes
+TestingLibraryElementError: Unable to find an accessible element with the role "link" and name "Overview"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:262:29
+    260|
+    261|     // When: the utility navigation is inspected.
+    262|     const overview = screen.getByRole("link", { name: "Overview" })
+       |                             ^
+    263|
+    264|     // Then: current and unavailable states are explicit in text and a…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[11/12]⎯
+
+ FAIL  src/components/primitives.test.tsx > editorial primitives > renders masthead state and recovery notices without accessibility violations
+TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "The RL Economy Atlas"
+
+There are no accessible roles. But there might be some inaccessible roles. If you wish to access them, then set the `hidden` option to `true`. Learn more about this here: https://testing-library.com/docs/dom-testing-library/api-queries#byrole
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div />[39m
+[36m</body>[39m
+ ❯ Object.getElementError node_modules/@testing-library/dom/dist/config.js:37:19
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:76:38
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:52:17
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:95:19
+ ❯ src/components/primitives.test.tsx:292:19
+    290|
+    291|     // Then: the page has one H1, an alert, recovery actions, and no a…
+    292|     expect(screen.getByRole("heading", { level: 1, name: "The RL Econo…
+       |                   ^
+    293|     expect(screen.getByRole("alert")).toHaveTextContent("Corpus unavai…
+    294|     expect(screen.getByRole("link", { name: "Back to overview" })).toB…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[12/12]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  12 failed | 1 passed (13)
+   Start at  05:29:59
+   Duration  490ms (transform 22ms, setup 25ms, import 123ms, tests 68ms, environment 214ms)
+

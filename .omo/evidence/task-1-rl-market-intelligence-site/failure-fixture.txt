@@ -1,0 +1,27 @@
+Regression mutation coverage, all passing after the quality repair:
+- measured cell with downgraded claim support -> MEASURED_CELL_LACKS_POSITIVE_SUPPORT
+- blank observation observerGroup -> rejected
+- non-HTTPS source lastLinkCheck.finalUrl -> rejected
+- malformed company canonicalDomain -> rejected
+- non-array publisherAffiliations -> rejected
+- malformed strategyId -> rejected
+- schema-only blank company name -> JSON_SCHEMA_VALIDATION
+- arbitrary receipt templateHash -> SEARCH_TEMPLATE_HASH_MISMATCH
+- blank receipt query -> BLANK_SEARCH_QUERY
+- blank receipt finding -> BLANK_SEARCH_FINDING
+- unrecorded receipt domain class -> UNSUPPORTED_SEARCH_DOMAIN_CLASS
+- changed seed-line contentHash -> SEED_LINE_HASH_MISMATCH
+- changed derived migration summary -> MIGRATION_SUMMARY_MISMATCH
+- measured cell with a non-terminal positive receipt -> MEASURED_CELL_RECEIPT_CLOSURE
+- measured-cell receipt with different evidence IDs -> MEASURED_CELL_RECEIPT_EVIDENCE_MISMATCH
+- synthetic winner with open receipt lanes -> VERTICAL_RECEIPT_GATE_NOT_ENFORCED
+- removed receipt-gate qualification marker -> VERTICAL_RECEIPT_GATE_NOT_ENFORCED
+- null source, observation, company, strategy, receipt, or evidence link -> JSON_SCHEMA_VALIDATION without throwing
+- swapped seed source targets -> SEED_SOURCE_TARGET_URL_MISMATCH
+- duplicate seed source target -> DUPLICATE_SEED_SOURCE_TARGET
+- unrelated or unsafe redirect targets -> blocked before fetch
+- positive support from a transport-only snapshot -> TRANSPORT_CAPTURE_USED_AS_SUPPORT
+- positive support from an inaccessible search-index capture -> SEARCH_INDEX_CAPTURE_USED_AS_SUPPORT
+- subject affiliation represented as independent -> AFFILIATION_CONTROL_MISMATCH
+- title-only Epoch observation used positively -> TITLE_ONLY_OBSERVATION_USED_AS_SUPPORT
+- unavailable source used positively -> UNAVAILABLE_SOURCE_USED_AS_SUPPORT

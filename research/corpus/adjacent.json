@@ -1,0 +1,1611 @@
+[
+  {
+    "adjacentId": "adj_appen",
+    "name": "Appen",
+    "aliases": [],
+    "canonicalDomain": "https://www.appen.com",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "employee_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_appen-census-inclusion",
+    "currentOfferClaimId": "clm_appen-current-offer",
+    "currentStatusClaimId": "clm_appen-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-appen"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-appen"
+    ]
+  },
+  {
+    "adjacentId": "adj_telus-digital-ai-data-solutions",
+    "name": "TELUS Digital AI Data Solutions",
+    "aliases": [],
+    "canonicalDomain": "https://www.telusdigital.com",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "employee_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_telus-digital-ai-data-solutions-census-inclusion",
+    "currentOfferClaimId": "clm_telus-digital-ai-data-solutions-current-offer",
+    "currentStatusClaimId": "clm_telus-digital-ai-data-solutions-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-telus-digital-ai-data-solutions"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-telus-digital-ai-data-solutions"
+    ]
+  },
+  {
+    "adjacentId": "adj_sama",
+    "name": "Sama",
+    "aliases": [],
+    "canonicalDomain": "https://www.sama.com",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "employee_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_sama-census-inclusion",
+    "currentOfferClaimId": "clm_sama-current-offer",
+    "currentStatusClaimId": "clm_sama-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-sama"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-sama"
+    ]
+  },
+  {
+    "adjacentId": "adj_imerit",
+    "name": "iMerit",
+    "aliases": [],
+    "canonicalDomain": "https://imerit.net",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "employee_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_imerit-census-inclusion",
+    "currentOfferClaimId": "clm_imerit-current-offer",
+    "currentStatusClaimId": "clm_imerit-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-imerit"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-imerit"
+    ]
+  },
+  {
+    "adjacentId": "adj_cloudfactory",
+    "name": "CloudFactory",
+    "aliases": [],
+    "canonicalDomain": "https://www.cloudfactory.com",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "employee_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_cloudfactory-census-inclusion",
+    "currentOfferClaimId": "clm_cloudfactory-current-offer",
+    "currentStatusClaimId": "clm_cloudfactory-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-cloudfactory"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-cloudfactory"
+    ]
+  },
+  {
+    "adjacentId": "adj_surge-ai",
+    "name": "Surge AI",
+    "aliases": [],
+    "canonicalDomain": "https://www.surgehq.ai",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_surge-ai-census-inclusion",
+    "currentOfferClaimId": "clm_surge-ai-current-offer",
+    "currentStatusClaimId": "clm_surge-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-surge-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-surge-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_labelbox",
+    "name": "Labelbox",
+    "aliases": [],
+    "canonicalDomain": "https://labelbox.com",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_labelbox-census-inclusion",
+    "currentOfferClaimId": "clm_labelbox-current-offer",
+    "currentStatusClaimId": "clm_labelbox-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-labelbox"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-labelbox"
+    ]
+  },
+  {
+    "adjacentId": "adj_toloka",
+    "name": "Toloka",
+    "aliases": [],
+    "canonicalDomain": "https://toloka.ai",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "expert_marketplace"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_toloka-census-inclusion",
+    "currentOfferClaimId": "clm_toloka-current-offer",
+    "currentStatusClaimId": "clm_toloka-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-toloka"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-toloka"
+    ]
+  },
+  {
+    "adjacentId": "adj_dataannotation",
+    "name": "DataAnnotation",
+    "aliases": [],
+    "canonicalDomain": "https://www.dataannotation.tech",
+    "primarySegment": "training_data_workforce",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_dataannotation-census-inclusion",
+    "currentOfferClaimId": "clm_dataannotation-current-offer",
+    "currentStatusClaimId": "clm_dataannotation-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-dataannotation"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-dataannotation"
+    ]
+  },
+  {
+    "adjacentId": "adj_prolific",
+    "name": "Prolific",
+    "aliases": [],
+    "canonicalDomain": "https://www.prolific.com",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_prolific-census-inclusion",
+    "currentOfferClaimId": "clm_prolific-current-offer",
+    "currentStatusClaimId": "clm_prolific-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_s63"
+    ],
+    "currentStatusObservationIds": [
+      "obs_s63"
+    ]
+  },
+  {
+    "adjacentId": "adj_handshake",
+    "name": "Handshake",
+    "aliases": [],
+    "canonicalDomain": "https://joinhandshake.com",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace",
+      "proprietary_data_acquisition"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_handshake-census-inclusion",
+    "currentOfferClaimId": "clm_handshake-current-offer",
+    "currentStatusClaimId": "clm_handshake-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-handshake"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-handshake"
+    ]
+  },
+  {
+    "adjacentId": "adj_invisible-technologies",
+    "name": "Invisible Technologies",
+    "aliases": [],
+    "canonicalDomain": "https://www.invisible.co",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "managed_data_bpo",
+      "expert_marketplace"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_invisible-technologies-census-inclusion",
+    "currentOfferClaimId": "clm_invisible-technologies-current-offer",
+    "currentStatusClaimId": "clm_invisible-technologies-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-invisible-technologies"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-invisible-technologies"
+    ]
+  },
+  {
+    "adjacentId": "adj_outlier",
+    "name": "Outlier",
+    "aliases": [],
+    "canonicalDomain": "https://outlier.ai",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_outlier-census-inclusion",
+    "currentOfferClaimId": "clm_outlier-current-offer",
+    "currentStatusClaimId": "clm_outlier-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-outlier"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-outlier"
+    ]
+  },
+  {
+    "adjacentId": "adj_alignerr",
+    "name": "Alignerr",
+    "aliases": [],
+    "canonicalDomain": "https://www.alignerr.com",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_alignerr-census-inclusion",
+    "currentOfferClaimId": "clm_alignerr-current-offer",
+    "currentStatusClaimId": "clm_alignerr-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-alignerr"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-alignerr"
+    ]
+  },
+  {
+    "adjacentId": "adj_mindrift",
+    "name": "Mindrift",
+    "aliases": [],
+    "canonicalDomain": "https://mindrift.ai",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_mindrift-census-inclusion",
+    "currentOfferClaimId": "clm_mindrift-current-offer",
+    "currentStatusClaimId": "clm_mindrift-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-mindrift"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-mindrift"
+    ]
+  },
+  {
+    "adjacentId": "adj_g2i",
+    "name": "G2i",
+    "aliases": [],
+    "canonicalDomain": "https://www.g2i.co",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_g2i-census-inclusion",
+    "currentOfferClaimId": "clm_g2i-current-offer",
+    "currentStatusClaimId": "clm_g2i-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-g2i"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-g2i"
+    ]
+  },
+  {
+    "adjacentId": "adj_catalant",
+    "name": "Catalant",
+    "aliases": [],
+    "canonicalDomain": "https://gocatalant.com",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_catalant-census-inclusion",
+    "currentOfferClaimId": "clm_catalant-current-offer",
+    "currentStatusClaimId": "clm_catalant-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-catalant"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-catalant"
+    ]
+  },
+  {
+    "adjacentId": "adj_glg",
+    "name": "GLG",
+    "aliases": [],
+    "canonicalDomain": "https://glginsights.com",
+    "primarySegment": "expert_talent_network",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "expert_marketplace"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_glg-census-inclusion",
+    "currentOfferClaimId": "clm_glg-current-offer",
+    "currentStatusClaimId": "clm_glg-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-glg"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-glg"
+    ]
+  },
+  {
+    "adjacentId": "adj_browserbase",
+    "name": "Browserbase",
+    "aliases": [],
+    "canonicalDomain": "https://www.browserbase.com",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_browserbase-census-inclusion",
+    "currentOfferClaimId": "clm_browserbase-current-offer",
+    "currentStatusClaimId": "clm_browserbase-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_s45"
+    ],
+    "currentStatusObservationIds": [
+      "obs_s45"
+    ]
+  },
+  {
+    "adjacentId": "adj_e2b",
+    "name": "E2B",
+    "aliases": [],
+    "canonicalDomain": "https://e2b.dev",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_e2b-census-inclusion",
+    "currentOfferClaimId": "clm_e2b-current-offer",
+    "currentStatusClaimId": "clm_e2b-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-e2b"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-e2b"
+    ]
+  },
+  {
+    "adjacentId": "adj_daytona",
+    "name": "Daytona",
+    "aliases": [],
+    "canonicalDomain": "https://www.daytona.io",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_daytona-census-inclusion",
+    "currentOfferClaimId": "clm_daytona-current-offer",
+    "currentStatusClaimId": "clm_daytona-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-daytona"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-daytona"
+    ]
+  },
+  {
+    "adjacentId": "adj_modal",
+    "name": "Modal",
+    "aliases": [],
+    "canonicalDomain": "https://modal.com",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_modal-census-inclusion",
+    "currentOfferClaimId": "clm_modal-current-offer",
+    "currentStatusClaimId": "clm_modal-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-modal"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-modal"
+    ]
+  },
+  {
+    "adjacentId": "adj_prime-intellect",
+    "name": "Prime Intellect",
+    "aliases": [],
+    "canonicalDomain": "https://www.primeintellect.ai",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure",
+      "expert_environment_services"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_prime-intellect-census-inclusion",
+    "currentOfferClaimId": "clm_prime-intellect-current-offer",
+    "currentStatusClaimId": "clm_prime-intellect-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-prime-intellect"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-prime-intellect"
+    ]
+  },
+  {
+    "adjacentId": "adj_steel",
+    "name": "Steel",
+    "aliases": [],
+    "canonicalDomain": "https://steel.dev",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_steel-census-inclusion",
+    "currentOfferClaimId": "clm_steel-current-offer",
+    "currentStatusClaimId": "clm_steel-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-steel"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-steel"
+    ]
+  },
+  {
+    "adjacentId": "adj_browser-use",
+    "name": "Browser Use",
+    "aliases": [],
+    "canonicalDomain": "https://browser-use.com",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_browser-use-census-inclusion",
+    "currentOfferClaimId": "clm_browser-use-current-offer",
+    "currentStatusClaimId": "clm_browser-use-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-browser-use"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-browser-use"
+    ]
+  },
+  {
+    "adjacentId": "adj_kernel",
+    "name": "Kernel",
+    "aliases": [],
+    "canonicalDomain": "https://onkernel.com",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_kernel-census-inclusion",
+    "currentOfferClaimId": "clm_kernel-current-offer",
+    "currentStatusClaimId": "clm_kernel-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-kernel"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-kernel"
+    ]
+  },
+  {
+    "adjacentId": "adj_scrapybara",
+    "name": "Scrapybara",
+    "aliases": [],
+    "canonicalDomain": "https://scrapybara.com",
+    "primarySegment": "environment_computer_use_runtime",
+    "secondaryIndustryIds": [
+      "ind_rl-environments",
+      "ind_computer-use",
+      "ind_rlvr"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_scrapybara-census-inclusion",
+    "currentOfferClaimId": "clm_scrapybara-current-offer",
+    "currentStatusClaimId": "clm_scrapybara-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-scrapybara"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-scrapybara"
+    ]
+  },
+  {
+    "adjacentId": "adj_langsmith",
+    "name": "LangSmith",
+    "aliases": [],
+    "canonicalDomain": "https://www.langchain.com",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_langsmith-census-inclusion",
+    "currentOfferClaimId": "clm_langsmith-current-offer",
+    "currentStatusClaimId": "clm_langsmith-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_s43"
+    ],
+    "currentStatusObservationIds": [
+      "obs_s43"
+    ]
+  },
+  {
+    "adjacentId": "adj_braintrust",
+    "name": "Braintrust",
+    "aliases": [],
+    "canonicalDomain": "https://www.braintrust.dev",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_braintrust-census-inclusion",
+    "currentOfferClaimId": "clm_braintrust-current-offer",
+    "currentStatusClaimId": "clm_braintrust-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_s64"
+    ],
+    "currentStatusObservationIds": [
+      "obs_s64"
+    ]
+  },
+  {
+    "adjacentId": "adj_arize-ai",
+    "name": "Arize AI",
+    "aliases": [],
+    "canonicalDomain": "https://arize.com",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_arize-ai-census-inclusion",
+    "currentOfferClaimId": "clm_arize-ai-current-offer",
+    "currentStatusClaimId": "clm_arize-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-arize-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-arize-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_langfuse",
+    "name": "Langfuse",
+    "aliases": [],
+    "canonicalDomain": "https://langfuse.com",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_langfuse-census-inclusion",
+    "currentOfferClaimId": "clm_langfuse-current-offer",
+    "currentStatusClaimId": "clm_langfuse-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-langfuse"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-langfuse"
+    ]
+  },
+  {
+    "adjacentId": "adj_patronus-ai",
+    "name": "Patronus AI",
+    "aliases": [],
+    "canonicalDomain": "https://www.patronus.ai",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_patronus-ai-census-inclusion",
+    "currentOfferClaimId": "clm_patronus-ai-current-offer",
+    "currentStatusClaimId": "clm_patronus-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-patronus-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-patronus-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_giskard",
+    "name": "Giskard",
+    "aliases": [],
+    "canonicalDomain": "https://www.giskard.ai",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_giskard-census-inclusion",
+    "currentOfferClaimId": "clm_giskard-current-offer",
+    "currentStatusClaimId": "clm_giskard-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-giskard"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-giskard"
+    ]
+  },
+  {
+    "adjacentId": "adj_galileo",
+    "name": "Galileo",
+    "aliases": [],
+    "canonicalDomain": "https://galileo.ai",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_galileo-census-inclusion",
+    "currentOfferClaimId": "clm_galileo-current-offer",
+    "currentStatusClaimId": "clm_galileo-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-galileo"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-galileo"
+    ]
+  },
+  {
+    "adjacentId": "adj_confident-ai",
+    "name": "Confident AI",
+    "aliases": [],
+    "canonicalDomain": "https://www.confident-ai.com",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_confident-ai-census-inclusion",
+    "currentOfferClaimId": "clm_confident-ai-current-offer",
+    "currentStatusClaimId": "clm_confident-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-confident-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-confident-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_maxim-ai",
+    "name": "Maxim AI",
+    "aliases": [],
+    "canonicalDomain": "https://www.getmaxim.ai",
+    "primarySegment": "eval_observability_assurance",
+    "secondaryIndustryIds": [
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "eval_observability_saas"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_maxim-ai-census-inclusion",
+    "currentOfferClaimId": "clm_maxim-ai-current-offer",
+    "currentStatusClaimId": "clm_maxim-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-maxim-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-maxim-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_nvidia-nemo",
+    "name": "NVIDIA NeMo",
+    "aliases": [],
+    "canonicalDomain": "https://www.nvidia.com",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_nvidia-nemo-census-inclusion",
+    "currentOfferClaimId": "clm_nvidia-nemo-current-offer",
+    "currentStatusClaimId": "clm_nvidia-nemo-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-nvidia-nemo"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-nvidia-nemo"
+    ]
+  },
+  {
+    "adjacentId": "adj_amazon-bedrock-agentcore",
+    "name": "Amazon Bedrock AgentCore",
+    "aliases": [],
+    "canonicalDomain": "https://aws.amazon.com",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_amazon-bedrock-agentcore-census-inclusion",
+    "currentOfferClaimId": "clm_amazon-bedrock-agentcore-current-offer",
+    "currentStatusClaimId": "clm_amazon-bedrock-agentcore-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_s57"
+    ],
+    "currentStatusObservationIds": [
+      "obs_s57"
+    ]
+  },
+  {
+    "adjacentId": "adj_google-vertex-ai",
+    "name": "Google Vertex AI",
+    "aliases": [],
+    "canonicalDomain": "https://cloud.google.com",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_google-vertex-ai-census-inclusion",
+    "currentOfferClaimId": "clm_google-vertex-ai-current-offer",
+    "currentStatusClaimId": "clm_google-vertex-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-google-vertex-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-google-vertex-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_microsoft-azure-ai-foundry",
+    "name": "Microsoft Azure AI Foundry",
+    "aliases": [],
+    "canonicalDomain": "https://azure.microsoft.com",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_microsoft-azure-ai-foundry-census-inclusion",
+    "currentOfferClaimId": "clm_microsoft-azure-ai-foundry-current-offer",
+    "currentStatusClaimId": "clm_microsoft-azure-ai-foundry-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-microsoft-azure-ai-foundry"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-microsoft-azure-ai-foundry"
+    ]
+  },
+  {
+    "adjacentId": "adj_together-ai",
+    "name": "Together AI",
+    "aliases": [],
+    "canonicalDomain": "https://www.together.ai",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_together-ai-census-inclusion",
+    "currentOfferClaimId": "clm_together-ai-current-offer",
+    "currentStatusClaimId": "clm_together-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-together-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-together-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_fireworks-ai",
+    "name": "Fireworks AI",
+    "aliases": [],
+    "canonicalDomain": "https://fireworks.ai",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_fireworks-ai-census-inclusion",
+    "currentOfferClaimId": "clm_fireworks-ai-current-offer",
+    "currentStatusClaimId": "clm_fireworks-ai-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-fireworks-ai"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-fireworks-ai"
+    ]
+  },
+  {
+    "adjacentId": "adj_anyscale",
+    "name": "Anyscale",
+    "aliases": [],
+    "canonicalDomain": "https://www.anyscale.com",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_anyscale-census-inclusion",
+    "currentOfferClaimId": "clm_anyscale-current-offer",
+    "currentStatusClaimId": "clm_anyscale-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-anyscale"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-anyscale"
+    ]
+  },
+  {
+    "adjacentId": "adj_predibase",
+    "name": "Predibase",
+    "aliases": [],
+    "canonicalDomain": "https://predibase.com",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_predibase-census-inclusion",
+    "currentOfferClaimId": "clm_predibase-current-offer",
+    "currentStatusClaimId": "clm_predibase-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-predibase"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-predibase"
+    ]
+  },
+  {
+    "adjacentId": "adj_openpipe",
+    "name": "OpenPipe",
+    "aliases": [],
+    "canonicalDomain": "https://openpipe.ai",
+    "primarySegment": "post_training_rl_infrastructure",
+    "secondaryIndustryIds": [
+      "ind_dpo",
+      "ind_rlvr",
+      "ind_rlhf"
+    ],
+    "businessModelIds": [
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_openpipe-census-inclusion",
+    "currentOfferClaimId": "clm_openpipe-current-offer",
+    "currentStatusClaimId": "clm_openpipe-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-openpipe"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-openpipe"
+    ]
+  },
+  {
+    "adjacentId": "adj_accenture",
+    "name": "Accenture",
+    "aliases": [],
+    "canonicalDomain": "https://www.accenture.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_accenture-census-inclusion",
+    "currentOfferClaimId": "clm_accenture-current-offer",
+    "currentStatusClaimId": "clm_accenture-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-accenture"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-accenture"
+    ]
+  },
+  {
+    "adjacentId": "adj_deloitte",
+    "name": "Deloitte",
+    "aliases": [],
+    "canonicalDomain": "https://www.deloitte.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_deloitte-census-inclusion",
+    "currentOfferClaimId": "clm_deloitte-current-offer",
+    "currentStatusClaimId": "clm_deloitte-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_s59"
+    ],
+    "currentStatusObservationIds": [
+      "obs_s59"
+    ]
+  },
+  {
+    "adjacentId": "adj_pwc",
+    "name": "PwC",
+    "aliases": [],
+    "canonicalDomain": "https://www.pwc.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_pwc-census-inclusion",
+    "currentOfferClaimId": "clm_pwc-current-offer",
+    "currentStatusClaimId": "clm_pwc-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_s58"
+    ],
+    "currentStatusObservationIds": [
+      "obs_s58"
+    ]
+  },
+  {
+    "adjacentId": "adj_quantumblack-ai-by-mckinsey",
+    "name": "QuantumBlack, AI by McKinsey",
+    "aliases": [],
+    "canonicalDomain": "https://www.mckinsey.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_quantumblack-ai-by-mckinsey-census-inclusion",
+    "currentOfferClaimId": "clm_quantumblack-ai-by-mckinsey-current-offer",
+    "currentStatusClaimId": "clm_quantumblack-ai-by-mckinsey-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-quantumblack-ai-by-mckinsey"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-quantumblack-ai-by-mckinsey"
+    ]
+  },
+  {
+    "adjacentId": "adj_bcg-x",
+    "name": "BCG X",
+    "aliases": [],
+    "canonicalDomain": "https://www.bcg.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_bcg-x-census-inclusion",
+    "currentOfferClaimId": "clm_bcg-x-current-offer",
+    "currentStatusClaimId": "clm_bcg-x-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-bcg-x"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-bcg-x"
+    ]
+  },
+  {
+    "adjacentId": "adj_ibm-consulting",
+    "name": "IBM Consulting",
+    "aliases": [],
+    "canonicalDomain": "https://www.ibm.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_ibm-consulting-census-inclusion",
+    "currentOfferClaimId": "clm_ibm-consulting-current-offer",
+    "currentStatusClaimId": "clm_ibm-consulting-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-ibm-consulting"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-ibm-consulting"
+    ]
+  },
+  {
+    "adjacentId": "adj_slalom",
+    "name": "Slalom",
+    "aliases": [],
+    "canonicalDomain": "https://www.slalom.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_slalom-census-inclusion",
+    "currentOfferClaimId": "clm_slalom-current-offer",
+    "currentStatusClaimId": "clm_slalom-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-slalom"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-slalom"
+    ]
+  },
+  {
+    "adjacentId": "adj_thoughtworks",
+    "name": "Thoughtworks",
+    "aliases": [],
+    "canonicalDomain": "https://www.thoughtworks.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_thoughtworks-census-inclusion",
+    "currentOfferClaimId": "clm_thoughtworks-current-offer",
+    "currentStatusClaimId": "clm_thoughtworks-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-thoughtworks"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-thoughtworks"
+    ]
+  },
+  {
+    "adjacentId": "adj_palantir",
+    "name": "Palantir",
+    "aliases": [],
+    "canonicalDomain": "https://www.palantir.com",
+    "primarySegment": "agent_ax_services",
+    "secondaryIndustryIds": [
+      "ind_ax",
+      "ind_evaluations-assurance"
+    ],
+    "businessModelIds": [
+      "expert_environment_services",
+      "runtime_infrastructure"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "procurement_competitor",
+    "inclusionClaimId": "clm_palantir-census-inclusion",
+    "currentOfferClaimId": "clm_palantir-current-offer",
+    "currentStatusClaimId": "clm_palantir-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-palantir"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-palantir"
+    ]
+  },
+  {
+    "adjacentId": "adj_taskus",
+    "name": "TaskUs",
+    "aliases": [],
+    "canonicalDomain": "https://www.taskus.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_taskus-census-inclusion",
+    "currentOfferClaimId": "clm_taskus-current-offer",
+    "currentStatusClaimId": "clm_taskus-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-taskus"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-taskus"
+    ]
+  },
+  {
+    "adjacentId": "adj_concentrix",
+    "name": "Concentrix",
+    "aliases": [],
+    "canonicalDomain": "https://www.concentrix.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_concentrix-census-inclusion",
+    "currentOfferClaimId": "clm_concentrix-current-offer",
+    "currentStatusClaimId": "clm_concentrix-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-concentrix"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-concentrix"
+    ]
+  },
+  {
+    "adjacentId": "adj_genpact",
+    "name": "Genpact",
+    "aliases": [],
+    "canonicalDomain": "https://www.genpact.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_genpact-census-inclusion",
+    "currentOfferClaimId": "clm_genpact-current-offer",
+    "currentStatusClaimId": "clm_genpact-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-genpact"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-genpact"
+    ]
+  },
+  {
+    "adjacentId": "adj_wipro",
+    "name": "Wipro",
+    "aliases": [],
+    "canonicalDomain": "https://www.wipro.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_wipro-census-inclusion",
+    "currentOfferClaimId": "clm_wipro-current-offer",
+    "currentStatusClaimId": "clm_wipro-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-wipro"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-wipro"
+    ]
+  },
+  {
+    "adjacentId": "adj_cognizant",
+    "name": "Cognizant",
+    "aliases": [],
+    "canonicalDomain": "https://www.cognizant.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_cognizant-census-inclusion",
+    "currentOfferClaimId": "clm_cognizant-current-offer",
+    "currentStatusClaimId": "clm_cognizant-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-cognizant"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-cognizant"
+    ]
+  },
+  {
+    "adjacentId": "adj_teleperformance",
+    "name": "Teleperformance",
+    "aliases": [],
+    "canonicalDomain": "https://www.tp.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_teleperformance-census-inclusion",
+    "currentOfferClaimId": "clm_teleperformance-current-offer",
+    "currentStatusClaimId": "clm_teleperformance-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-teleperformance"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-teleperformance"
+    ]
+  },
+  {
+    "adjacentId": "adj_capgemini",
+    "name": "Capgemini",
+    "aliases": [],
+    "canonicalDomain": "https://www.capgemini.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_capgemini-census-inclusion",
+    "currentOfferClaimId": "clm_capgemini-current-offer",
+    "currentStatusClaimId": "clm_capgemini-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-capgemini"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-capgemini"
+    ]
+  },
+  {
+    "adjacentId": "adj_exl",
+    "name": "EXL",
+    "aliases": [],
+    "canonicalDomain": "https://www.exlservice.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_exl-census-inclusion",
+    "currentOfferClaimId": "clm_exl-current-offer",
+    "currentStatusClaimId": "clm_exl-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-exl"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-exl"
+    ]
+  },
+  {
+    "adjacentId": "adj_ttec",
+    "name": "TTEC",
+    "aliases": [],
+    "canonicalDomain": "https://www.ttec.com",
+    "primarySegment": "incumbent_bpo_consulting",
+    "secondaryIndustryIds": [
+      "ind_expert-data-operations",
+      "ind_ax"
+    ],
+    "businessModelIds": [
+      "employee_bpo",
+      "managed_data_bpo"
+    ],
+    "entityStatus": "unknown",
+    "inclusionKind": "direct_supplier",
+    "inclusionClaimId": "clm_ttec-census-inclusion",
+    "currentOfferClaimId": "clm_ttec-current-offer",
+    "currentStatusClaimId": "clm_ttec-current-status-unknown",
+    "currentOfferObservationIds": [
+      "obs_adj-ttec"
+    ],
+    "currentStatusObservationIds": [
+      "obs_adj-ttec"
+    ]
+  }
+]

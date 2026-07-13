@@ -1,0 +1,288 @@
+{
+  "url": "http://127.0.0.1:4173/#/companies",
+  "desktop": {
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "introText": "04 · Company intelligenceEvery company, one card.Ten named companies and the wider adjacent landscape, one card each. Post-cutoff discoveries are listed separately at the end.",
+    "namedHeaderText": "One card per company: identity, current offer, milestones, and risks, each with its sources.",
+    "namedCardCount": 10,
+    "totalLandscapeRecords": 73,
+    "originHeadingCount": 0,
+    "currentOfferHeadingCount": 0,
+    "headingOutline": [
+      [
+        {
+          "tag": "H4",
+          "text": "Scale AI"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Mercor"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Micro1"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Turing"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "AfterQuery"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Fleet AI"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Deeptune"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Refresh"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Vibrant Labs"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Halluminate"
+        }
+      ]
+    ],
+    "firstCard": {
+      "name": "Scale AI",
+      "children": [
+        {
+          "tag": "P",
+          "className": "kicker",
+          "claimId": null
+        },
+        {
+          "tag": "H4",
+          "className": "",
+          "claimId": null
+        },
+        {
+          "tag": "P",
+          "className": "evidence-text",
+          "claimId": null
+        },
+        {
+          "tag": "A",
+          "className": "",
+          "claimId": null
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-identity"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-current-offer"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-market-classification"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-milestone"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-risk"
+        }
+      ],
+      "sections": 0,
+      "details": 0
+    },
+    "claimStyle": {
+      "paddingTop": "0px",
+      "borderTopWidth": "0px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "statementMarginBottom": "12px",
+      "sourceExists": true
+    },
+    "horizontalOverflow": false,
+    "documentWidth": 1440
+  },
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "introText": "04 · Company intelligenceEvery company, one card.Ten named companies and the wider adjacent landscape, one card each. Post-cutoff discoveries are listed separately at the end.",
+    "namedHeaderText": "One card per company: identity, current offer, milestones, and risks, each with its sources.",
+    "namedCardCount": 10,
+    "totalLandscapeRecords": 73,
+    "originHeadingCount": 0,
+    "currentOfferHeadingCount": 0,
+    "headingOutline": [
+      [
+        {
+          "tag": "H4",
+          "text": "Scale AI"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Mercor"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Micro1"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Turing"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "AfterQuery"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Fleet AI"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Deeptune"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Refresh"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Vibrant Labs"
+        }
+      ],
+      [
+        {
+          "tag": "H4",
+          "text": "Halluminate"
+        }
+      ]
+    ],
+    "firstCard": {
+      "name": "Scale AI",
+      "children": [
+        {
+          "tag": "P",
+          "className": "kicker",
+          "claimId": null
+        },
+        {
+          "tag": "H4",
+          "className": "",
+          "claimId": null
+        },
+        {
+          "tag": "P",
+          "className": "evidence-text",
+          "claimId": null
+        },
+        {
+          "tag": "A",
+          "className": "",
+          "claimId": null
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-identity"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-current-offer"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-market-classification"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-milestone"
+        },
+        {
+          "tag": "ARTICLE",
+          "className": "corpus-claim",
+          "claimId": "clm_scale-ai-risk"
+        }
+      ],
+      "sections": 0,
+      "details": 0
+    },
+    "claimStyle": {
+      "paddingTop": "0px",
+      "borderTopWidth": "0px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "statementMarginBottom": "12px",
+      "sourceExists": true
+    },
+    "horizontalOverflow": false,
+    "documentWidth": 390
+  },
+  "consoleMessages": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "log",
+      "text": "%cReact Grab v0.1.48%c\nhttps://react-grab.com background: #330039; color: #ffffff; border: 1px solid #d75fcb; padding: 4px 4px 4px 24px; border-radius: 4px; background-image: url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyOTQgMjk0Ij48cGF0aCBmaWxsPSIjZmY0MGUwIiBkPSJNMTQ1IDQ3YzI1LTIwIDUwLTI3IDY3LTE3IDE2IDkgMjMgMzAgMjAgNjAgMCAyLTEgNS0xIDdsLTIgMTNoLTFsLTEyLTRjLTgtMy0xNy01LTI1LTZsLTE3LTNjLTEwLTEtMjAtMS0yOS0xLTEwIDAtMjAgMC0yOSAxLTYgOC0xMSAxNi0xNiAyNC01IDktOSAxNy0xMyAyNiA0IDkgOCAxOCAxMyAyNnMxMCAxNiAxNiAyNGwxMSAxNGM1IDcgMTEgMTMgMTggMTlsMTAgOHMtMSAwIDAgMGwtMTEgOWMtMTcgMTQtMzUgMjItNDkgMjItNiAwLTEzLTItMTgtNS0xNi05LTIzLTMwLTIwLTU5IDEtMyAxLTUgMS04LTMwLTEyLTQ4LTI5LTQ4LTUwIDAtMTggMTQtMzUgNDEtNDcgMi0xIDUtMiA3LTMgMC0yIDAtNS0xLTctMy0zMCA0LTUxIDIwLTYwIDE4LTEwIDQyLTMgNjggMTdNNzEgMjAxYy0xIDItMSA0LTEgNS0yIDI0IDMgNDEgMTMgNDdoMWMxMSA3IDMwIDEgNTEtMTUtMTAtOS0xOC0xOC0yNi0yOS0xMy0xLTI2LTQtMzgtOG05LTM4Yy0zIDktNSAxNy03IDI2IDggMiAxNyA0IDI1IDYtMy01LTYtMTAtOS0xNi0zLTUtNi0xMC05LTE2bS0xOS01M2MtMiAxLTMgMS01IDItMjEgMTAtMzQgMjMtMzQgMzUgMCAxMyAxNCAyNyAzOSAzNyAzLTEyIDctMjUgMTItMzctNS0xMi05LTI0LTEyLTM3bTM3LTEwYy04IDEtMTcgMy0yNSA2IDIgOCA0IDE2IDcgMjUgMy01IDYtMTEgOS0xNnptLTMtNjFjLTQtMS04IDAtMTIgMi0xMCA3LTE1IDI0LTEzIDQ3IDAgMiAwIDMgMSA1IDEyLTQgMjUtNiAzOC04IDgtMTAgMTYtMjAgMjYtMjktMTUtMTEtMjktMTctNDAtMTdtMTExIDJjLTQtMi04LTMtMTItMi0xMSAwLTI1IDUtNDAgMTcgMTAgOSAxOSAxOSAyNiAyOSAxMyAyIDI2IDQgMzkgOHYtNWMzLTIzLTItNDAtMTMtNDdtLTYxIDIzYy03IDYtMTMgMTMtMTkgMTloMzdjLTYtNi0xMi0xMy0xOC0xOSIvPjxtYXNrIGlkPSJhIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMjM1IDg1LTEzMyAyNyAyOCAxMzMgMTMzLTI3WiIvPjwvbWFzaz48cGF0aCBmaWxsPSIjZmY0MGUwIiBkPSJtMTM3IDEzMCA3NiAxMWM4IDEgOSAxMSAzIDE1bC0yOCAxNi00IDMyYy0xIDgtMTAgMTAtMTQgNGwtNDEtNjZjLTMtNiAxLTEzIDgtMTIiIG1hc2s9InVybCgjYSkiLz48L3N2Zz4=\"); background-size: 16px 16px; background-repeat: no-repeat; background-position: 4px center; display: inline-block; margin-bottom: 4px; "
+    }
+  ],
+  "pageErrors": []
+}

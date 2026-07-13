@@ -1,0 +1,48 @@
+^D$ tsc -b --pretty false
+$ biome check .
+Checked 124 files in 18ms. No fixes applied.
+$ node scripts/qa/check-no-excuses.mjs
+NO_EXCUSES_OK:83
+$ vitest run
+[?25l
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+
+ Test Files  18 passed (18)
+      Tests  145 passed (145)
+   Start at  18:10:33
+   Duration  1.72s (transform 2.05s, setup 1.28s, import 5.46s, tests 2.55s, environment 11.21s)
+
+[?25h$ node scripts/qa/check-rendered-claims.mjs
+RENDERED_CLAIMS_OK:companies
+$ node scripts/qa/render-semantic-audit.mjs --check && node scripts/qa/check-semantic-audit.mjs
+SEMANTIC_AUDIT_RENDER_OK relationships=10 receipts=70 independent=false
+SEMANTIC_AUDIT_OK
+$ node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build
+INDEX_SCAFFOLD_OK
+BUN_LOCK_OK:4FFBFD7D319E5632-f91826dbf5c34b4a-42150121871940E9-a216b109e26709d0
+vite v8.1.4 building client environment for production...
+[2K✓ 162 modules transformed.
+[2Krendering chunks (1)...[2Krendering chunks (2)...[2Krendering chunks (3)...[2Krendering chunks (4)...[2Krendering chunks (5)...[2Krendering chunks (6)...[2Kcomputing gzip size...
+[2Kdist/index.html                               2.03 kB │ gzip:   0.92 kB
+dist/assets/index-X7HEIJtK.css               30.29 kB │ gzip:   6.08 kB
+dist/assets/rolldown-runtime-Bh1tDfsg.js      0.56 kB │ gzip:   0.36 kB
+dist/assets/index-BiE91Soz.js                 3.09 kB │ gzip:   1.52 kB
+dist/assets/react-dom-DWuVlKIp.js             3.57 kB │ gzip:   1.36 kB
+dist/assets/react-CES6V0Ih.js                 7.53 kB │ gzip:   2.88 kB
+dist/assets/client-D4kvggjV.js              178.94 kB │ gzip:  56.50 kB
+dist/assets/App-C28vU1SA.js               1,138.70 kB │ gzip: 145.60 kB
+
+✓ built in 63ms
+[2K[1G[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.

@@ -1,0 +1,2136 @@
+{
+  "schemaVersion": 1,
+  "evidenceCutoff": "2026-07-11",
+  "observedAt": "2026-07-12",
+  "records": [
+    {
+      "adjacentId": "adj_kled-ai",
+      "inputRefs": [
+        "Kled AI"
+      ],
+      "entityKind": "company",
+      "name": "Kled AI",
+      "aliases": [
+        "Kled",
+        "Kled.ai"
+      ],
+      "canonicalDomain": "https://kled.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "proprietary_data_acquisition"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.kled.ai/datasets",
+          "title": "Kled V2 2025",
+          "sourceDate": "2025-12-13",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.kled.ai/blog/kled-v2-2025",
+          "title": "Kled V2 2025",
+          "sourceDate": "2025-12-13",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Kled V2 is now fully out of beta with no waitlist. Anyone can sign up instantly and begin earning by uploading their data.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Official pages identify Kled AI as a Nitrility Inc. company; status relies on current first-party pages rather than a registry filing.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_luel",
+      "inputRefs": [
+        "Luel"
+      ],
+      "entityKind": "company",
+      "name": "Luel",
+      "aliases": [],
+      "canonicalDomain": "https://luel.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "proprietary_data_acquisition"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.luel.ai/marketplace/video",
+          "title": "Luel raises $31.2M seed round led by General Catalyst and Lightspeed to build the global ground truth infrastructure for human data | Luel",
+          "sourceDate": "2026-05-15",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.luel.ai/resources/blog/luel-seed-31m-general-catalyst-lightspeed",
+          "title": "Luel raises $31.2M seed round led by General Catalyst and Lightspeed to build the global ground truth infrastructure for human data | Luel",
+          "sourceDate": "2026-05-15",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Luel matches vetted contributors, runs every submission through a proprietary quality-assurance pipeline, and delivers the finished dataset quickly.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Official pages expose the brand and offer but not a legal-entity name; the funding post says Luel rejected three acquisition offers.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_chakra-labs",
+      "inputRefs": [
+        "Chakra Labs"
+      ],
+      "entityKind": "company",
+      "name": "Chakra Labs",
+      "aliases": [
+        "Chakra Data Laboratory",
+        "Chakra Digital Labs, Inc."
+      ],
+      "canonicalDomain": "https://chakra.dev",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services",
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.chakra.dev/",
+          "title": "Chakra: Frontier Data Laboratory",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Deterministic, pixel-perfect reinforcement learning environments with frame-accurate state control.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Dojo is a Chakra Labs product. Chakra UI and other same-name projects are unrelated.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_habitat-inc",
+      "inputRefs": [
+        "Habitat Inc"
+      ],
+      "entityKind": "company",
+      "name": "Habitat Inc",
+      "aliases": [
+        "Habitat",
+        "Habitat Inc."
+      ],
+      "canonicalDomain": "https://habitat.inc",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://habitat.inc/",
+          "title": "Habitat Inc",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://code.habitat.inc/welcome",
+          "title": "Habitat Inc",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Habitat creates the environments that transform pretrained models into practically useful agents.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Excluded Meta AI Habitat and Habitat OS. Direct fetches superseded a stale search snippet describing the domain as a holding company.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_cua",
+      "inputRefs": [
+        "Cua"
+      ],
+      "entityKind": "company",
+      "name": "Cua",
+      "aliases": [
+        "trycua"
+      ],
+      "canonicalDomain": "https://cua.ai",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://cua.ai/",
+          "title": "trycua/cua",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://github.com/trycua/cua",
+          "title": "trycua/cua",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "CUA is also a generic acronym. This record is the vendor behind cua.ai, trycua.com, and GitHub organization trycua.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_dojo",
+      "inputRefs": [
+        "Dojo"
+      ],
+      "entityKind": "product",
+      "name": "Dojo",
+      "aliases": [
+        "Dojo by Chakra Labs"
+      ],
+      "canonicalDomain": "https://trydojo.ai",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://trydojo.ai/",
+          "title": "Product Launch: Dojo — Chakra",
+          "sourceDate": "2025-10-31",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.chakra.dev/publications/product-launch-dojo",
+          "title": "Product Launch: Dojo — Chakra",
+          "sourceDate": "2025-10-31",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Dojo is a collaborative RL environment suite for computer use agents, letting models learn by interacting directly with realistic, task-driven interfaces.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Product operated by Chakra Labs, not a standalone company. The launch page header says October 31 while its embedded card says October 5.",
+      "confidence": "high",
+      "relationshipIds": [
+        "rel_dojo-chakra"
+      ]
+    },
+    {
+      "adjacentId": "adj_proximal",
+      "inputRefs": [
+        "Proximal"
+      ],
+      "entityKind": "company",
+      "name": "Proximal",
+      "aliases": [
+        "Proximal Labs"
+      ],
+      "canonicalDomain": "https://www.proximal.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "proprietary_data_acquisition"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.proximal.ai/blog/proximal",
+          "title": "Announcing Proximal",
+          "sourceDate": "2026-02-18",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.proximal.ai/",
+          "title": "Announcing Proximal",
+          "sourceDate": "2026-02-18",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Proximal is a new data company.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to proximal.ai and FrontierSWE, not unrelated Proximal entities; no public pricing or delivery contract is described.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_idler",
+      "inputRefs": [
+        "Idler"
+      ],
+      "entityKind": "company",
+      "name": "Idler",
+      "aliases": [],
+      "canonicalDomain": "https://idler.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://idler.ai/",
+          "title": "Idler",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "rl environments",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The first-party site is sparse; coding-specific detail is corroborated by Y Combinator, while delivery mechanics remain undisclosed.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_calaveras-ai",
+      "inputRefs": [
+        "Calaveras AI"
+      ],
+      "entityKind": "company",
+      "name": "Calaveras AI",
+      "aliases": [
+        "Calaveras"
+      ],
+      "canonicalDomain": "https://calaveras.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "expert_environment_services",
+        "proprietary_data_acquisition"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://calaveras.ai/",
+          "title": "Calaveras AI",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We provide pre-training datasets and RL environments.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to calaveras.ai, not geographic or wine results; customer claims on the page are first-party and not independently verified.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_benchflow",
+      "inputRefs": [
+        "BenchFlow"
+      ],
+      "entityKind": "company",
+      "name": "BenchFlow",
+      "aliases": [],
+      "canonicalDomain": "https://www.benchflow.ai",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "eval_observability_saas",
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.benchflow.ai/about",
+          "title": "About — BenchFlow",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.benchflow.ai/",
+          "title": "About — BenchFlow",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We build the environments AI agents need to learn — and be evaluated on — real computer work, not static prompts.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to benchflow.ai and its matching GitHub organization; the site does not state pricing, so model IDs describe product form.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_vmax",
+      "inputRefs": [
+        "Vmax"
+      ],
+      "entityKind": "company",
+      "name": "Vmax",
+      "aliases": [
+        "Vmax AI"
+      ],
+      "canonicalDomain": "https://vmax.ai",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": [
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://vmax.ai/team/propel",
+          "title": "PROPEL: Breaking the Solver Bottleneck in Task-Generator RL",
+          "sourceDate": "2026-06-10",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://vmax.ai/",
+          "title": "PROPEL: Breaking the Solver Bottleneck in Task-Generator RL",
+          "sourceDate": "2026-06-10",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "The approach we are taking at Vmax is to train an open-ended task generator with RL.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to vmax.ai, not Dell VMAX or unrelated brands; public materials describe an applied research system, not a packaged commercial SKU.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_andromede",
+      "inputRefs": [
+        "Andromede"
+      ],
+      "entityKind": "company",
+      "name": "Andromede",
+      "aliases": [
+        "Andromede AI"
+      ],
+      "canonicalDomain": "https://andromede.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://andromede.ai/",
+          "title": "Andromede – RL data lab for frontier agents",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Programmatic generation of RL environments for post-training and evaluation.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The unaccented andromede.ai entity is distinct from France's Andromède and andromed.ai; public access is partner-gated.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_aviro",
+      "inputRefs": [
+        "Aviro"
+      ],
+      "entityKind": "company",
+      "name": "Aviro",
+      "aliases": [],
+      "canonicalDomain": "https://aviro.ai",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services",
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://aviro.ai/",
+          "title": "Aviro",
+          "sourceDate": "2026-06-22",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We build training environments for the next generation of long-running agents.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to aviro.ai, not unrelated health or antivirus entities; the site provides no public deployment or pricing detail.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_aichamp",
+      "inputRefs": [
+        "AIChamp"
+      ],
+      "entityKind": "company",
+      "name": "AIChamp",
+      "aliases": [
+        "AI Champ"
+      ],
+      "canonicalDomain": "https://aichamp.com",
+      "primarySegment": "expert_talent_network",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "expert_marketplace",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://aichamp.com/",
+          "title": "Engineering RL Environments with Deep Industry Authority - AIChamp",
+          "sourceDate": "2024-01-23",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We train AI agents to operate in the same environment as your employees.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "AIChamp at aichamp.com is separate from Champ AI Systems at champ.ai and champ.cx.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_general-reasoning",
+      "inputRefs": [
+        "General Reasoning"
+      ],
+      "entityKind": "company",
+      "name": "General Reasoning",
+      "aliases": [
+        "GR"
+      ],
+      "canonicalDomain": "https://gr.inc",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": [
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.gr.inc/releases/introducing-openreward",
+          "title": "Introducing OpenReward | General Reasoning",
+          "sourceDate": "2026-03-24",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://gr.inc/",
+          "title": "Introducing OpenReward | General Reasoning",
+          "sourceDate": "2026-03-24",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "OpenReward is a platform for serving environments to train and evaluate language models.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to the company at gr.inc, not the generic phrase; OpenReward was a public beta on the cited date.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_champ-ai",
+      "inputRefs": [
+        "Champ AI"
+      ],
+      "entityKind": "company",
+      "name": "Champ AI",
+      "aliases": [
+        "Champ",
+        "Champ AI Systems, Inc."
+      ],
+      "canonicalDomain": "https://champ.ai",
+      "primarySegment": "agent_ax_services",
+      "businessModelIds": [
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://champ.ai/",
+          "title": "Champ AI - AI Agents for Operations Teams",
+          "sourceDate": "2026-06-26",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Champ is an AI Operations Platform that automates your complex workflows end-to-end.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Bare “Champ” is ambiguous. This is Champ AI Systems; champ.cx is the same operator, while AIChamp at aichamp.com is separate.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_haladir",
+      "inputRefs": [
+        "Haladir"
+      ],
+      "entityKind": "company",
+      "name": "Haladir",
+      "aliases": [],
+      "canonicalDomain": "https://haladir.com",
+      "primarySegment": "agent_ax_services",
+      "businessModelIds": [
+        "expert_environment_services",
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://haladir.com/",
+          "title": "Haladir: Operational Superintelligence for Global Logistics",
+          "sourceDate": "2026-06-21",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Haladir is the decisional AI layer for logistics.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The first-party homepage centers logistics decisional AI; RL-environment and post-training work is secondary, so the segment follows the current public offer.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_hillclimb",
+      "inputRefs": [
+        "hillclimb"
+      ],
+      "entityKind": "company",
+      "name": "hillclimb",
+      "aliases": [
+        "Hillclimb"
+      ],
+      "canonicalDomain": "https://www.hillclimb.com",
+      "primarySegment": "expert_talent_network",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "expert_marketplace",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.hillclimb.com/",
+          "title": "hillclimb",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Automating RL environment creation",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "hillclimb.com appears newer; hillclimb.ing remains live and YC-linked with an older copy, so canonical-domain confidence is lower.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_gray-swan",
+      "inputRefs": [
+        "Gray Swan"
+      ],
+      "entityKind": "company",
+      "name": "Gray Swan",
+      "aliases": [
+        "Gray Swan AI"
+      ],
+      "canonicalDomain": "https://www.grayswan.ai",
+      "primarySegment": "eval_observability_assurance",
+      "businessModelIds": [
+        "expert_marketplace",
+        "expert_environment_services",
+        "eval_observability_saas"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.grayswan.ai/solutions/platform/shade",
+          "title": "Shade - Adversarial Red-Teaming",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.grayswan.ai/about",
+          "title": "Shade - Adversarial Red-Teaming",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Shade runs autonomous adversarial campaigns against your AI agents by adapting, escalating, and chaining attack techniques the way a real attacker would.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to grayswan.ai, not unrelated Gray Swan firms; active status is inferred from current first-party product and about pages.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_theta",
+      "inputRefs": [
+        "Theta"
+      ],
+      "entityKind": "company",
+      "name": "Theta",
+      "aliases": [
+        "Theta Software",
+        "Theta Software Inc."
+      ],
+      "canonicalDomain": "https://thetasoftware.com",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://thetasoftware.com/",
+          "title": "Theta",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We synthesize your first party data and our human expert data into environments that reflect the real goals, workflows, and outcomes of your business.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to Theta Software, not Theta Network or Theta Labs; the current site has moved beyond its earlier memory-layer positioning.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_preference-model",
+      "inputRefs": [
+        "Preference Model"
+      ],
+      "entityKind": "company",
+      "name": "Preference Model",
+      "aliases": [],
+      "canonicalDomain": "https://www.preferencemodel.com",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.preferencemodel.com/",
+          "title": "Preference Model",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We build RL environments that reflect real-world complexity, with diverse tasks and robust reward functions.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The exact-name company is distinct from the generic machine-learning concept; the first-party page provides no publication date.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_vals-ai",
+      "inputRefs": [
+        "Vals AI"
+      ],
+      "entityKind": "company",
+      "name": "Vals AI",
+      "aliases": [
+        "Vals",
+        "Vals.ai"
+      ],
+      "canonicalDomain": "https://www.vals.ai",
+      "primarySegment": "eval_observability_assurance",
+      "businessModelIds": [
+        "eval_observability_saas"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.vals.ai/product",
+          "title": "Benchmark Generative AI for Enterprise Applications.",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.vals.ai/about",
+          "title": "Benchmark Generative AI for Enterprise Applications.",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Vals lets you do this with our evaluation infrastructure.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to vals.ai, the independent benchmark and evaluation platform; no dated corporate-status notice was found on first-party pages.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_andon-labs",
+      "inputRefs": [
+        "Andon Labs"
+      ],
+      "entityKind": "company",
+      "name": "Andon Labs",
+      "aliases": [],
+      "canonicalDomain": "https://andonlabs.com",
+      "primarySegment": "eval_observability_assurance",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://andonlabs.com/evals/vending-bench-2",
+          "title": "Vending-Bench 2 | Andon Labs",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://andonlabs.com/join",
+          "title": "Vending-Bench 2 | Andon Labs",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We're releasing Vending-Bench 2, a benchmark for measuring AI model performance on running a business over long time horizons.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Exact Andon Labs identity; unrelated manufacturing and andon-software firms were excluded. Public pages emphasize research and evals, not pricing.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_verita-ai",
+      "inputRefs": [
+        "Verita AI"
+      ],
+      "entityKind": "company",
+      "name": "Verita AI",
+      "aliases": [
+        "Verita"
+      ],
+      "canonicalDomain": "https://www.verita-ai.com",
+      "primarySegment": "expert_talent_network",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "expert_marketplace"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.verita-ai.com/works/image-services",
+          "title": "Image",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.verita-ai.com/network",
+          "title": "Image",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Verita Studio provides the image datasets, benchmarks, and evaluation pipelines that help your models see the world the way people do.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to verita-ai.com; Veritas governance firms, the Veritas AI nonprofit, and unrelated Verita companies were excluded.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_good-start-labs",
+      "inputRefs": [
+        "Good Start Labs"
+      ],
+      "entityKind": "company",
+      "name": "Good Start Labs",
+      "aliases": [],
+      "canonicalDomain": "https://goodstartlabs.com",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": [
+        "expert_environment_services",
+        "proprietary_data_acquisition"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://goodstartlabs.com/services",
+          "title": "Services | Good Start Labs",
+          "sourceDate": "2026-01-15",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://goodstartlabs.com/about",
+          "title": "Services | Good Start Labs",
+          "sourceDate": "2026-01-15",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We build game environments that make model capabilities legible, measurable, and improvable.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Exact-name match; the offer combines evaluation, RL environments, and game-derived feedback data.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_quesma",
+      "inputRefs": [
+        "Quesma"
+      ],
+      "entityKind": "company",
+      "name": "Quesma",
+      "aliases": [],
+      "canonicalDomain": "https://quesma.com",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://quesma.com/",
+          "title": "Quesma - Make AI agents production-ready",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://quesma.com/about/",
+          "title": "Quesma - Make AI agents production-ready",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Independent evaluation and training for the AI agent ecosystem. Real-world complexity through simulation environments where agents face multi-hour tasks.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Quesma remains active after selling its former database-gateway IP to Hydrolix; the current company has pivoted to agent simulation and evaluation.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_phinity-labs",
+      "inputRefs": [
+        "Phinity Labs"
+      ],
+      "entityKind": "company",
+      "name": "Phinity Labs",
+      "aliases": [
+        "Phinity"
+      ],
+      "canonicalDomain": "https://phinity.ai",
+      "primarySegment": "agent_ax_services",
+      "businessModelIds": [
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://phinity.ai/",
+          "title": "Phinity Labs | Autonomous Tapeout",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Phinity's agents design, verify, and tape out custom chips end-to-end.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to phinity.ai, not phinity.ch. The site is active and hiring, but its autonomous-tapeout promise is forward-looking and availability is unclear.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_rise-data-labs",
+      "inputRefs": [
+        "Rise Data Labs"
+      ],
+      "entityKind": "company",
+      "name": "Rise Data Labs",
+      "aliases": [],
+      "canonicalDomain": "https://risedatalabs.com",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "expert_marketplace"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://risedatalabs.com/",
+          "title": "Rise Data Labs - High-fidelity data for the real world",
+          "sourceDate": "2026-06-24",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We power training, evaluation, and next-gen generative AI with elite US-based, context-aware human trainers paired with automation that scales quality.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved to risedatalabs.com; the secondary alias Rise Tech Inc. was not adopted without first-party legal corroboration.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_kairos",
+      "inputRefs": [
+        "Kairos"
+      ],
+      "entityKind": "company",
+      "name": "Kairos",
+      "aliases": [],
+      "canonicalDomain": "https://withkairos.co",
+      "primarySegment": "agent_ax_services",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://withkairos.co/",
+          "title": "Kairos",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We capture how your operators actually work, then turn that into structured evals and training data.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Resolved via the matching YC profile to withkairos.co; mykairos.co, kairos.computer, and other active Kairos entities were excluded.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_trainloop",
+      "inputRefs": [
+        "TrainLoop"
+      ],
+      "entityKind": "company",
+      "name": "TrainLoop",
+      "aliases": [
+        "Trainloop AI"
+      ],
+      "canonicalDomain": "https://www.trainloop.ai",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.trainloop.ai/",
+          "title": "Trainloop AI",
+          "sourceDate": "2026-06-12",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.trainloop.ai/privacy",
+          "title": "Trainloop AI",
+          "sourceDate": "2026-06-12",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We train expert models for long horizon tasks.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Exact-name company; the current homepage and an effective April 15, 2026 privacy policy identify active TrainLoop, Inc. operations.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_huzzle-labs",
+      "inputRefs": [
+        "Huzzle Labs"
+      ],
+      "entityKind": "business_unit",
+      "name": "Huzzle Labs",
+      "aliases": [],
+      "canonicalDomain": "https://labs.huzzle.com",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "expert_marketplace",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "active",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://labs.huzzle.com/rl-environments",
+          "title": "RL Environments - Huzzle Labs",
+          "sourceDate": "2026-06-16",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.huzzle.app/terms-of-service",
+          "title": "RL Environments - Huzzle Labs",
+          "sourceDate": "2026-06-16",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Realistic, long-horizon environments for code, computer-use, and enterprise workflows that challenge SOTA models.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Huzzle Labs is an active Huzzle Ltd. business unit, not a separately established legal entity; Huzzle's talent platform is the parent operation.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_argilla",
+      "inputRefs": [
+        "Argilla"
+      ],
+      "entityKind": "company",
+      "name": "Argilla",
+      "aliases": [
+        "Argilla.io",
+        "Argilla S.L.U."
+      ],
+      "canonicalDomain": "https://argilla.io",
+      "primarySegment": "eval_observability_assurance",
+      "businessModelIds": [
+        "eval_observability_saas",
+        "managed_data_bpo"
+      ],
+      "entityStatus": "acquired_closed",
+      "sourceReportedStatus": "acquired_closed",
+      "inclusionKind": "substitute",
+      "cutoffTreatment": "acquired_historical",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://argilla.io/",
+          "title": "Argilla is joining Hugging Face 🤗",
+          "sourceDate": "2024-06-13",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://github.com/argilla-io/argilla/",
+          "title": "Argilla is joining Hugging Face 🤗",
+          "sourceDate": "2024-06-13",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "This acquisition means we’ll be doubling down on empowering the community to build and collaborate on high quality datasets",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Hugging Face acquired Argilla in June 2024. Its official repository says no new features are planned; fixes and patches continue as needed while new maintainers are sought.",
+      "confidence": "high",
+      "relationshipIds": [
+        "rel_argilla-hugging-face"
+      ]
+    },
+    {
+      "adjacentId": "adj_bespoke-labs",
+      "inputRefs": [
+        "Bespoke Labs"
+      ],
+      "entityKind": "company",
+      "name": "Bespoke Labs",
+      "aliases": [
+        "BespokeLabs.AI",
+        "Bespoke Labs AI"
+      ],
+      "canonicalDomain": "https://bespokelabs.ai",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services",
+        "runtime_infrastructure"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://bespokelabs.ai/",
+          "title": "Bespoke Labs: Ship Reliable AI Agents with SOTA Data Curation",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Bespoke Labs builds company-scale RL environments and infrastructure to let frontier labs and enterprises train long-horizon agents for production.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Applied research lab and commercial environment partner; contract terms are not public.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_mechanize",
+      "inputRefs": [
+        "Mechanize"
+      ],
+      "entityKind": "company",
+      "name": "Mechanize",
+      "aliases": [
+        "Mechanize, Inc."
+      ],
+      "canonicalDomain": "https://mechanize.work",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.mechanize.work/",
+          "title": "Mechanize, Inc.",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We build environments and evals for frontier coding agents.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "This is Mechanize, Inc., not the Python mechanize library or other similarly named automation products.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_sepal-ai",
+      "inputRefs": [
+        "Sepal AI"
+      ],
+      "entityKind": "company",
+      "name": "Sepal AI",
+      "aliases": [
+        "Sepal",
+        "SepalAI"
+      ],
+      "canonicalDomain": "https://sepal.dev",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo"
+      ],
+      "entityStatus": "acquired_closed",
+      "sourceReportedStatus": "acquired_closed",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "acquired_historical",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://sepal.dev/",
+          "title": "Sepal AI | Making models smarter and safer",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Big news: Sepal AI has been acquired by Mercor!",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "YC S24 data-development company, not FAO's geospatial SEPAL platform. Business-model IDs describe its former independent offer.",
+      "confidence": "high",
+      "relationshipIds": [
+        "rel_sepal-mercor"
+      ]
+    },
+    {
+      "adjacentId": "adj_hud",
+      "inputRefs": [
+        "HUD"
+      ],
+      "entityKind": "company",
+      "name": "HUD",
+      "aliases": [
+        "HUD AI",
+        "Human Union Data"
+      ],
+      "canonicalDomain": "https://hud.ai",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "runtime_infrastructure",
+        "expert_marketplace",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.hud.ai/",
+          "title": "HUD - Build RL environments | HUD",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Encode your expertise into environments to train and evaluate models, and create the post-training data that aligns AI to your work.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Human Union Data, Inc., not the US Department of Housing and Urban Development. Pricing and vendor marketplace are published officially.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_plato",
+      "inputRefs": [
+        "Plato"
+      ],
+      "entityKind": "company",
+      "name": "Plato",
+      "aliases": [
+        "Plato.so"
+      ],
+      "canonicalDomain": "https://plato.so",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "runtime_infrastructure",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://plato.so/landing/",
+          "title": "Plato | Simulated Worlds for Agents",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Plato is an applied research lab that transforms real-world data into simulated environments for training and evaluating agents.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The relevant entity is plato.so's agent-environment platform, not education, healthcare, or philosophy products. Public pricing was not found.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_matrices",
+      "inputRefs": [
+        "Matrices"
+      ],
+      "entityKind": "company",
+      "name": "Matrices",
+      "aliases": [
+        "Matrices AI"
+      ],
+      "canonicalDomain": "https://matrices.ai",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": [
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://matrices.ai/",
+          "title": "Matrices - Training Environments for LLM Agents",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://matrices.ai/careers",
+          "title": "Matrices - Training Environments for LLM Agents",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Training Environments for LLM Agents",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Not a mathematics package or Matrix-branded AI firm. Official pages expose minimal commercial detail, so the business-model classification is inferred.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_encord",
+      "inputRefs": [
+        "Encord"
+      ],
+      "entityKind": "company",
+      "name": "Encord",
+      "aliases": [
+        "Encord AI",
+        "Encord Index"
+      ],
+      "canonicalDomain": "https://encord.com",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "eval_observability_saas"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://encord.com/physical-ai/",
+          "title": "The Data Layer for Physical AI | Encord",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Build and curate the multimodal datasets that autonomous systems, robotics and world models depend on.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "A broader multimodal data platform explicitly targeting physical AI; it provides both software and managed data services.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_cortex-ai",
+      "inputRefs": [
+        "Cortex AI"
+      ],
+      "entityKind": "company",
+      "name": "Cortex AI",
+      "aliases": [
+        "Cortex",
+        "Cortex Robot",
+        "Cortex AI Robot"
+      ],
+      "canonicalDomain": "https://cortexrobot.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "proprietary_data_acquisition",
+        "managed_data_bpo"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://cortexrobot.ai/ego/",
+          "title": "Cortex AI - Embodied AI Data",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://cortexrobot.ai/",
+          "title": "Cortex AI - Embodied AI Data",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We capture and produce the world's most diverse egocentric data to accelerate embodied AI into real-world deployment.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The embodied-AI data company at cortexrobot.ai, not Snowflake Cortex, Cortex.io, or other Cortex software companies.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_praxis-ai",
+      "inputRefs": [
+        "Praxis AI"
+      ],
+      "entityKind": "company",
+      "name": "Praxis AI",
+      "aliases": [
+        "Praxis",
+        "Praxis Robotics",
+        "Praxis (YC S26)"
+      ],
+      "canonicalDomain": "https://praxisrobotics.io",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "proprietary_data_acquisition",
+        "managed_data_bpo"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.praxisrobotics.io/",
+          "title": "Praxis - Great machines will be forged by human intuition",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.ycombinator.com/companies/praxis-ai-2",
+          "title": "Praxis - Great machines will be forged by human intuition",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Great machines will be forged by human intuition.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "YC S26 physical-world data vendor, not praxis-tech.ai, getpraxis.ai, praxis-ai.com, or other Praxis firms. Its official site remains a teaser.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_arena",
+      "inputRefs": [
+        "Arena"
+      ],
+      "entityKind": "company",
+      "name": "Arena",
+      "aliases": [
+        "LMArena",
+        "Chatbot Arena",
+        "LMSYS Chatbot Arena"
+      ],
+      "canonicalDomain": "https://arena.ai",
+      "primarySegment": "eval_observability_assurance",
+      "businessModelIds": [
+        "eval_observability_saas",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://arena.ai/blog/ai-evaluations/",
+          "title": "New Product: AI Evaluations",
+          "sourceDate": "2025-09-16",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://arena.ai/blog/lmarena-is-now-arena/",
+          "title": "New Product: AI Evaluations",
+          "sourceDate": "2025-09-16",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "This service offers enterprises, model labs, and developers comprehensive evaluation services grounded in real-world human feedback, showing how models actually perform in practice.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Arena is the company formerly called LMArena, originating from UC Berkeley's Chatbot Arena; unrelated Arena-branded software firms are excluded.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_david-ai",
+      "inputRefs": [
+        "David AI"
+      ],
+      "entityKind": "company",
+      "name": "David AI",
+      "aliases": [
+        "David AI Labs",
+        "David AI Labs, Inc."
+      ],
+      "canonicalDomain": "https://withdavid.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "proprietary_data_acquisition",
+        "managed_data_bpo"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.withdavid.ai/",
+          "title": "David AI | High-Quality Audio Datasets for Speech & Conversational AI",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "We develop audio datasets with the same rigor researchers bring to models.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The audio-data research company at withdavid.ai. Its official page explicitly describes data-license agreements and custom dataset design.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_protege",
+      "inputRefs": [
+        "Protege"
+      ],
+      "entityKind": "company",
+      "name": "Protege",
+      "aliases": [
+        "Protégé",
+        "withProtege"
+      ],
+      "canonicalDomain": "https://withprotege.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "proprietary_data_acquisition",
+        "expert_marketplace"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://withprotege.ai/model-builders",
+          "title": "For Model Builders - Protege",
+          "sourceDate": "2026-02-19",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://withprotege.ai/",
+          "title": "For Model Builders - Protege",
+          "sourceDate": "2026-02-19",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Real-world data created by natural human activity.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "The AI-ready data exchange at withprotege.ai. Its provider documentation explicitly describes dataset delivery and revenue sharing.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_datacurve",
+      "inputRefs": [
+        "Datacurve"
+      ],
+      "entityKind": "company",
+      "name": "Datacurve",
+      "aliases": [
+        "DataCurve",
+        "Datacurve AI"
+      ],
+      "canonicalDomain": "https://datacurve.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "proprietary_data_acquisition",
+        "managed_data_bpo",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://datacurve.ai/products",
+          "title": "Products | Datacurve",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://datacurve.ai/",
+          "title": "Products | Datacurve",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Prebuilt datasets, curated for signal, reviewed for quality, and structured to drop into your training stack without translation work.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Current offer also includes RL environments, agent trajectories, and benchmarks; primary classification follows its data-product business.",
+      "confidence": "high",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_truveta",
+      "inputRefs": [
+        "Truveta"
+      ],
+      "entityKind": "company",
+      "name": "Truveta",
+      "aliases": [
+        "Truveta Data",
+        "Truveta Intelligence"
+      ],
+      "canonicalDomain": "https://truveta.com",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "proprietary_data_acquisition"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "time_unknown",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://www.truveta.com/truveta-data/",
+          "title": "Truveta Data - EHR data | Truveta",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://www.truveta.com/",
+          "title": "Truveta Data - EHR data | Truveta",
+          "sourceDate": null,
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Get the most complete, timely, and representative view of US patient care",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "Healthcare real-world-data and intelligence company. It is adjacent through licensed data for AI development, not a general RL-environment supplier.",
+      "confidence": "medium",
+      "relationshipIds": []
+    },
+    {
+      "adjacentId": "adj_snorkel-ai",
+      "inputRefs": [
+        "Snorkel AI"
+      ],
+      "entityKind": "company",
+      "name": "Snorkel AI",
+      "aliases": [
+        "Snorkel",
+        "Snorkel Flow"
+      ],
+      "canonicalDomain": "https://snorkel.ai",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": [
+        "managed_data_bpo",
+        "eval_observability_saas",
+        "expert_environment_services"
+      ],
+      "entityStatus": "unknown",
+      "sourceReportedStatus": "unknown",
+      "inclusionKind": "direct_supplier",
+      "cutoffTreatment": "historical_offer_only",
+      "sourceCandidates": [
+        {
+          "canonicalUrl": "https://snorkel.ai/data-development/",
+          "title": "Data development | Snorkel AI",
+          "sourceDate": "2026-04-24",
+          "accessedAt": "2026-07-12"
+        },
+        {
+          "canonicalUrl": "https://snorkel.ai/company/",
+          "title": "Data development | Snorkel AI",
+          "sourceDate": "2026-04-24",
+          "accessedAt": "2026-07-12"
+        }
+      ],
+      "observationCandidates": [
+        {
+          "excerpt": "Snorkel builds the human expert-authored datasets, evaluation environments, and benchmarks calibrated to push the limits of frontier model capability.",
+          "locator": null,
+          "observedAt": "2026-07-12",
+          "canonicalReady": false,
+          "note": "Candidate remains non-canonical until an exact locator is captured."
+        }
+      ],
+      "caveat": "This record covers the commercial company and platform, not only the Stanford-originated open-source Snorkel project.",
+      "confidence": "high",
+      "relationshipIds": []
+    }
+  ],
+  "duplicateInputs": [
+    {
+      "input": "Refresh",
+      "mergeInto": "co_refresh",
+      "observedAt": "2026-07-12"
+    },
+    {
+      "input": "Halluminate",
+      "mergeInto": "co_halluminate",
+      "observedAt": "2026-07-12"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipId": "rel_dojo-chakra",
+      "fromId": "adj_dojo",
+      "relation": "product_of",
+      "toId": "adj_chakra-labs"
+    },
+    {
+      "relationshipId": "rel_sepal-mercor",
+      "fromId": "adj_sepal-ai",
+      "relation": "acquired_by",
+      "toId": "co_mercor"
+    },
+    {
+      "relationshipId": "rel_argilla-hugging-face",
+      "fromId": "adj_argilla",
+      "relation": "acquired_by",
+      "toName": "Hugging Face"
+    }
+  ],
+  "unresolved": [
+    {
+      "adjacentId": "adj_originator",
+      "input": "Originator",
+      "candidateIdentity": "Originator Inc at originator.inc; ORIGINATOR AI LTD, UK company 16618091, is a plausible but unlinked legal match",
+      "evidenceUrls": [
+        "https://originator.inc/landing",
+        "https://find-and-update.company-information.service.gov.uk/company/16618091"
+      ],
+      "reason": "The waitlist-only first-party site does not disclose a concrete offer, delivery form, or explicit computer/browser-use scope. No taxonomy record was inferred.",
+      "cutoffTreatment": "unresolved_identity"
+    }
+  ],
+  "reconciliation": {
+    "inputCount": 50,
+    "addCount": 47,
+    "mergeCount": 2,
+    "unresolvedCount": 1,
+    "unknownStatusCount": 45,
+    "acquiredClosedCount": 2,
+    "coreCensusAffected": false
+  }
+}

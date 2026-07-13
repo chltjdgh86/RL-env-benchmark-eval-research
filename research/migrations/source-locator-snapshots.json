@@ -1,0 +1,3200 @@
+{
+  "version": 1,
+  "capturedAt": "2026-07-12",
+  "policy": {
+    "timeoutMs": 15000,
+    "maxRedirects": 5,
+    "controlsBypassed": false,
+    "excerptWordLimit": 25
+  },
+  "entries": [
+    {
+      "sourceId": "src_adj-accenture",
+      "canonicalUrl": "https://www.accenture.com/us-en/services/data-ai/generative-ai",
+      "status": 200,
+      "finalUrl": "https://www.accenture.com/us-en/services/ai-data/generative-ai",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Reinvent the enterprise with generative AI"
+      },
+      "excerpt": "Reinvent the enterprise with generative AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-alignerr",
+      "canonicalUrl": "https://www.alignerr.com",
+      "status": 200,
+      "finalUrl": "https://www.alignerr.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Where experts get paid to train AI"
+      },
+      "excerpt": "Where experts get paid to train AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-anyscale",
+      "canonicalUrl": "https://www.anyscale.com",
+      "status": 200,
+      "finalUrl": "https://www.anyscale.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Foundation Model builders scale distributed training multimodal data curation embedding generation post-training workloads on Anyscale"
+      },
+      "excerpt": "Foundation Model builders scale distributed training multimodal data curation embedding generation post-training workloads on Anyscale",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-appen",
+      "canonicalUrl": "https://www.appen.com",
+      "status": 200,
+      "finalUrl": "https://www.appen.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Human data for frontier AI"
+      },
+      "excerpt": "Human data for frontier AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-arize-ai",
+      "canonicalUrl": "https://arize.com",
+      "status": 200,
+      "finalUrl": "https://arize.com",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — The continual learning platform for agents"
+      },
+      "excerpt": "The continual learning platform for agents",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-bcg-x",
+      "canonicalUrl": "https://www.bcg.com/x",
+      "status": 200,
+      "finalUrl": "https://www.bcg.com/x/",
+      "contentType": "text/html;charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — We’re Building Tomorrow"
+      },
+      "excerpt": "We’re Building Tomorrow",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-browser-use",
+      "canonicalUrl": "https://browser-use.com",
+      "status": 200,
+      "finalUrl": "https://browser-use.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — The Way AI uses the web."
+      },
+      "excerpt": "The Way AI uses the web.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-capgemini",
+      "canonicalUrl": "https://www.capgemini.com/services/data-and-ai",
+      "status": 200,
+      "finalUrl": "https://www.capgemini.com/services/data-and-ai/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Data and artificial intelligence"
+      },
+      "excerpt": "Data and artificial intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-catalant",
+      "canonicalUrl": "https://gocatalant.com",
+      "status": 200,
+      "finalUrl": "https://catalant.com/",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Welcome to the era of fit-to-purpose consulting."
+      },
+      "excerpt": "Welcome to the era of fit-to-purpose consulting.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-cloudfactory",
+      "canonicalUrl": "https://www.cloudfactory.com",
+      "status": 200,
+      "finalUrl": "https://www.cloudfactory.com",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Develop Develop Operate Deploy AI that works when mistakes matter."
+      },
+      "excerpt": "Develop Develop Operate Deploy AI that works when mistakes matter.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-cognizant",
+      "canonicalUrl": "https://www.cognizant.com/us/en/services/ai",
+      "status": 200,
+      "finalUrl": "https://www.cognizant.com/us/en/services/ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Empowering better, faster decision-making with data and AI services"
+      },
+      "excerpt": "Empowering better, faster decision-making with data and AI services",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-concentrix",
+      "canonicalUrl": "https://www.concentrix.com",
+      "status": 200,
+      "finalUrl": "https://www.concentrix.com",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Turning bold ambition into operational reality"
+      },
+      "excerpt": "Turning bold ambition into operational reality",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-confident-ai",
+      "canonicalUrl": "https://www.confident-ai.com",
+      "status": 200,
+      "finalUrl": "https://www.confident-ai.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Where AI Quality is Standardized. Not Improvised."
+      },
+      "excerpt": "Where AI Quality is Standardized. Not Improvised.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-dataannotation",
+      "canonicalUrl": "https://www.dataannotation.tech",
+      "status": 200,
+      "finalUrl": "https://www.dataannotation.tech",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Train AI. Get Paid."
+      },
+      "excerpt": "Train AI. Get Paid.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-daytona",
+      "canonicalUrl": "https://www.daytona.io",
+      "status": 200,
+      "finalUrl": "https://www.daytona.io",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Run AI Code on Daytona"
+      },
+      "excerpt": "Run AI Code on Daytona",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-e2b",
+      "canonicalUrl": "https://e2b.dev",
+      "status": 200,
+      "finalUrl": "https://e2b.dev",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — AI Sandboxes for"
+      },
+      "excerpt": "AI Sandboxes for",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-exl",
+      "canonicalUrl": "https://www.exlservice.com",
+      "status": 200,
+      "finalUrl": "https://www.exlservice.com",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — EXL: Empowering Businesses Through Data & AI"
+      },
+      "excerpt": "EXL: Empowering Businesses Through Data & AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-fireworks-ai",
+      "canonicalUrl": "https://fireworks.ai",
+      "status": 200,
+      "finalUrl": "https://fireworks.ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Frontier Specialized Intelligence"
+      },
+      "excerpt": "Frontier Specialized Intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-g2i",
+      "canonicalUrl": "https://www.g2i.co",
+      "status": 200,
+      "finalUrl": "https://www.g2i.co",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Hire World Class Engineers. {Super Fast}"
+      },
+      "excerpt": "Hire World Class Engineers. {Super Fast}",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-galileo",
+      "canonicalUrl": "https://galileo.ai",
+      "status": 200,
+      "finalUrl": "https://galileo.ai",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Don't just monitor AI failures. Stop them."
+      },
+      "excerpt": "Don't just monitor AI failures. Stop them.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-genpact",
+      "canonicalUrl": "https://www.genpact.com/services/data-and-ai",
+      "status": 200,
+      "finalUrl": "https://www.genpact.com/services/data-and-ai",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Data and AI"
+      },
+      "excerpt": "Data and AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-giskard",
+      "canonicalUrl": "https://www.giskard.ai",
+      "status": 200,
+      "finalUrl": "https://www.giskard.ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — GenAI risks. Handled."
+      },
+      "excerpt": "GenAI risks. Handled.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-glg",
+      "canonicalUrl": "https://glginsights.com",
+      "status": 403,
+      "finalUrl": "https://glginsights.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — GLG"
+      },
+      "excerpt": "GLG advertises expert-network access and professional insight services",
+      "captureMethod": "search-indexed-official-page",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-google-vertex-ai",
+      "canonicalUrl": "https://cloud.google.com/vertex-ai",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/products/gemini-enterprise-agent-platform",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Gemini Enterprise Agent Platform"
+      },
+      "excerpt": "Gemini Enterprise Agent Platform",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-handshake",
+      "canonicalUrl": "https://joinhandshake.com",
+      "status": 200,
+      "finalUrl": "https://joinhandshake.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Let's find your next job"
+      },
+      "excerpt": "Let's find your next job",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-ibm-consulting",
+      "canonicalUrl": "https://www.ibm.com/consulting/artificial-intelligence",
+      "status": 200,
+      "finalUrl": "https://www.ibm.com/consulting/artificial-intelligence",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Artificial intelligence (AI) consulting services"
+      },
+      "excerpt": "Artificial intelligence (AI) consulting services",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-imerit",
+      "canonicalUrl": "https://imerit.net",
+      "status": 200,
+      "finalUrl": "https://imerit.ai/",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — EXL to Acquire i Merit"
+      },
+      "excerpt": "EXL to Acquire i Merit",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-invisible-technologies",
+      "canonicalUrl": "https://www.invisible.co",
+      "status": 200,
+      "finalUrl": "https://invisibletech.ai/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Advancing AI models from frontier innovation to"
+      },
+      "excerpt": "Advancing AI models from frontier innovation to",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-kernel",
+      "canonicalUrl": "https://onkernel.com",
+      "status": 200,
+      "finalUrl": "https://www.kernel.sh/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Kernel: Browser infrastructure for web agents and automations"
+      },
+      "excerpt": "Kernel: Browser infrastructure for web agents and automations",
+      "captureMethod": "html-title",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-labelbox",
+      "canonicalUrl": "https://labelbox.com",
+      "status": 200,
+      "finalUrl": "https://labelbox.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — The RL data engine for AI teams"
+      },
+      "excerpt": "The RL data engine for AI teams",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-langfuse",
+      "canonicalUrl": "https://langfuse.com",
+      "status": 200,
+      "finalUrl": "https://langfuse.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Open Source AI Engineering Platform"
+      },
+      "excerpt": "Open Source AI Engineering Platform",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-maxim-ai",
+      "canonicalUrl": "https://www.getmaxim.ai",
+      "status": 200,
+      "finalUrl": "https://www.getmaxim.ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Simulate, evaluate, and observe your AI agents"
+      },
+      "excerpt": "Simulate, evaluate, and observe your AI agents",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-microsoft-azure-ai-foundry",
+      "canonicalUrl": "https://azure.microsoft.com/en-us/products/ai-foundry",
+      "status": 200,
+      "finalUrl": "https://azure.microsoft.com/en-us/products/ai-foundry",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Microsoft Foundry"
+      },
+      "excerpt": "Microsoft Foundry",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-mindrift",
+      "canonicalUrl": "https://mindrift.ai",
+      "status": 200,
+      "finalUrl": "https://mindrift.ai",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Get paid to train AI"
+      },
+      "excerpt": "Get paid to train AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-modal",
+      "canonicalUrl": "https://modal.com",
+      "status": 200,
+      "finalUrl": "https://modal.com",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — AI infrastructure that developers love"
+      },
+      "excerpt": "AI infrastructure that developers love",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-nvidia-nemo",
+      "canonicalUrl": "https://www.nvidia.com/en-us/ai-data-science/products/nemo",
+      "status": 200,
+      "finalUrl": "https://www.nvidia.com/en-us/ai-data-science/products/nemo/",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — NVIDIA NeMo"
+      },
+      "excerpt": "NVIDIA NeMo",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-openpipe",
+      "canonicalUrl": "https://openpipe.ai",
+      "status": 200,
+      "finalUrl": "https://openpipe.ai",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — OpenPipe | RL For Agents"
+      },
+      "excerpt": "OpenPipe | RL For Agents",
+      "captureMethod": "html-title",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-outlier",
+      "canonicalUrl": "https://outlier.ai",
+      "status": 200,
+      "finalUrl": "https://outlier.ai",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Become the expert that AI learns from"
+      },
+      "excerpt": "Become the expert that AI learns from",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-palantir",
+      "canonicalUrl": "https://www.palantir.com/platforms/aip",
+      "status": 200,
+      "finalUrl": "https://www.palantir.com/platforms/aip",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Palantir Artificial Intelligence Platform"
+      },
+      "excerpt": "Palantir Artificial Intelligence Platform",
+      "captureMethod": "html-title",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-patronus-ai",
+      "canonicalUrl": "https://www.patronus.ai",
+      "status": 200,
+      "finalUrl": "https://www.patronus.ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Simulating the World's Intelligence"
+      },
+      "excerpt": "Simulating the World's Intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-predibase",
+      "canonicalUrl": "https://predibase.com",
+      "status": 200,
+      "finalUrl": "https://www.rubrik.com/products/rubrik-agent-cloud",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "section",
+        "value": "Transport metadata — unrelated cross-origin redirect"
+      },
+      "excerpt": "Request redirected to Rubrik Agent Cloud; no Predibase page content was retained.",
+      "captureMethod": "transport-unrelated-cross-origin-redirect",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-prime-intellect",
+      "canonicalUrl": "https://www.primeintellect.ai",
+      "status": 200,
+      "finalUrl": "https://www.primeintellect.ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — The Open Superintelligence Stack Own Your Intelligence Own Your Intelligence Own Your Intelligence"
+      },
+      "excerpt": "The Open Superintelligence Stack Own Your Intelligence Own Your Intelligence Own Your Intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-quantumblack-ai-by-mckinsey",
+      "canonicalUrl": "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients",
+      "status": 403,
+      "finalUrl": "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — QuantumBlack, AI by McKinsey"
+      },
+      "excerpt": "QuantumBlack advertises AI transformation and engineering services",
+      "captureMethod": "search-indexed-official-page",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-sama",
+      "canonicalUrl": "https://www.sama.com",
+      "status": 200,
+      "finalUrl": "https://www.sama.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Get Quality Data for High-Performance AI"
+      },
+      "excerpt": "Get Quality Data for High-Performance AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-scrapybara",
+      "canonicalUrl": "https://scrapybara.com",
+      "status": 200,
+      "finalUrl": "https://scrapybara.com",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — A COMPUTER FOR YOUR AI"
+      },
+      "excerpt": "A COMPUTER FOR YOUR AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-slalom",
+      "canonicalUrl": "https://www.slalom.com/us/en/services/artificial-intelligence",
+      "status": 200,
+      "finalUrl": "https://www.slalom.com/us/en/services/artificial-intelligence",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — AI consulting"
+      },
+      "excerpt": "AI consulting",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-steel",
+      "canonicalUrl": "https://steel.dev",
+      "status": 200,
+      "finalUrl": "https://steel.dev",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Browser Infrastructure for AI Agents"
+      },
+      "excerpt": "Browser Infrastructure for AI Agents",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-surge-ai",
+      "canonicalUrl": "https://www.surgehq.ai",
+      "status": 200,
+      "finalUrl": "https://surgehq.ai/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Surge AI | Human Intelligence for AGI"
+      },
+      "excerpt": "Surge AI | Human Intelligence for AGI",
+      "captureMethod": "html-title",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-taskus",
+      "canonicalUrl": "https://www.taskus.com",
+      "status": 200,
+      "finalUrl": "https://www.taskus.com",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Agentic AI that Works"
+      },
+      "excerpt": "Agentic AI that Works",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-teleperformance",
+      "canonicalUrl": "https://www.tp.com",
+      "status": 200,
+      "finalUrl": "https://www.tp.com/en-us/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — TP is a global partner that operates where people, processes, and AI meet."
+      },
+      "excerpt": "TP is a global partner that operates where people, processes, and AI meet.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-telus-digital-ai-data-solutions",
+      "canonicalUrl": "https://www.telusdigital.com/solutions/ai-data-solutions",
+      "status": 403,
+      "finalUrl": "https://www.telusdigital.com/solutions/ai-data-solutions",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "page",
+        "value": "Transport metadata — HTTP 403"
+      },
+      "excerpt": "Direct source content was unavailable at the research cutoff",
+      "captureMethod": "transport-metadata",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-thoughtworks",
+      "canonicalUrl": "https://www.thoughtworks.com/what-we-do/ai",
+      "status": 200,
+      "finalUrl": "https://www.thoughtworks.com/what-we-do/enterprise-ai",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Enterprise AI services Stop stalling, start scaling. Deliver real AI value."
+      },
+      "excerpt": "Enterprise AI services Stop stalling, start scaling. Deliver real AI value.",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-together-ai",
+      "canonicalUrl": "https://www.together.ai",
+      "status": 200,
+      "finalUrl": "https://www.together.ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Build what's next on the AI Native Cloud"
+      },
+      "excerpt": "Build what's next on the AI Native Cloud",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-toloka",
+      "canonicalUrl": "https://toloka.ai",
+      "status": 200,
+      "finalUrl": "https://toloka.ai",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Training data for AI agents and LLMs"
+      },
+      "excerpt": "Training data for AI agents and LLMs",
+      "captureMethod": "html-h1",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-ttec",
+      "canonicalUrl": "https://www.ttec.com",
+      "status": 403,
+      "finalUrl": "https://www.ttec.com",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — TTEC"
+      },
+      "excerpt": "TTEC advertises technology-enabled customer-experience and AI operations services",
+      "captureMethod": "search-indexed-official-page",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_adj-wipro",
+      "canonicalUrl": "https://www.wipro.com/ai",
+      "status": 200,
+      "finalUrl": "https://www.wipro.com/wipro-intelligence/",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H2 — The Economics of AI: From Breakthroughs to Business Value"
+      },
+      "excerpt": "The Economics of AI: From Breakthroughs to Business Value",
+      "captureMethod": "html-h2",
+      "observerGroup": "bounded-adjacent-census-locator-capture"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o01",
+      "canonicalUrl": "https://jlarc.virginia.gov/pdfs/reports/Rpt525-2.pdf",
+      "status": 200,
+      "finalUrl": "https://jlarc.virginia.gov/pdfs/reports/Rpt525-2.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "multiple agencies have experienced prolonged problems with key VITA services…that have hindered their operations."
+      },
+      "excerpt": "multiple agencies have experienced prolonged problems with key VITA services…that have hindered their operations.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o02",
+      "canonicalUrl": "https://www.audit.vic.gov.au/sites/default/files/2019-10/20191017-Cenitex-report.pdf",
+      "status": 200,
+      "finalUrl": "https://www.audit.vic.gov.au/sites/default/files/2019-10/20191017-Cenitex-report.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "It met these only in two months and six months respectively over the 36-month period."
+      },
+      "excerpt": "It met these only in two months and six months respectively over the 36-month period.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o03",
+      "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/037131-2024?origin=SearchResults&p=605",
+      "status": 200,
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/037131-2024?origin=SearchResults&p=605",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The contract is for two years initially…with the option for an additional years extension."
+      },
+      "excerpt": "The contract is for two years initially…with the option for an additional years extension.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o04",
+      "canonicalUrl": "https://ted.europa.eu/en/notice/641773-2024/pdfs",
+      "status": 200,
+      "finalUrl": "https://ted.europa.eu/en/notice/641773-2024/pdfs",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Value of all contracts awarded in this notice: 1 350 000,00 NOK"
+      },
+      "excerpt": "Value of all contracts awarded in this notice: 1 350 000,00 NOK",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o06",
+      "canonicalUrl": "https://www.zendesk.com/company/agreements-and-terms/ai-services-addendum/",
+      "status": 200,
+      "finalUrl": "https://www.zendesk.com/company/agreements-and-terms/ai-services-addendum/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Customer is the sole owner of all Service Data which includes Customer AI Input and AI Output."
+      },
+      "excerpt": "Customer is the sole owner of all Service Data which includes Customer AI Input and AI Output.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o07",
+      "canonicalUrl": "https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/Salesforce_MSA.pdf",
+      "status": 200,
+      "finalUrl": "https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/Salesforce_MSA.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The Services may not be accessed…for any other benchmarking or competitive purposes."
+      },
+      "excerpt": "The Services may not be accessed…for any other benchmarking or competitive purposes.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o08",
+      "canonicalUrl": "https://www.edps.europa.eu/system/files/2022-04/21-07-08_edps_opinion_ecb_customer-management-system_en.pdf",
+      "status": 200,
+      "finalUrl": "https://www.edps.europa.eu/system/files/2022-04/21-07-08_edps_opinion_ecb_customer-management-system_en.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "the mitigating measures envisaged by the ECB are insufficient to mitigate the high risks it has identified."
+      },
+      "excerpt": "the mitigating measures envisaged by the ECB are insufficient to mitigate the high risks it has identified.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o09",
+      "canonicalUrl": "https://arxiv.org/html/2403.07718v5",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/html/2403.07718v5",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The validation functions offer real-time feedback to agents"
+      },
+      "excerpt": "The validation functions offer real-time feedback to agents",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o11",
+      "canonicalUrl": "https://arxiv.org/html/2604.06240",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/html/2604.06240",
+      "locator": {
+        "kind": "paragraph",
+        "value": "We report a reduction in false positive rates to near zero compared to baselines…"
+      },
+      "excerpt": "We report a reduction in false positive rates to near zero compared to baselines…",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o12",
+      "canonicalUrl": "https://arxiv.org/abs/2605.10448",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2605.10448",
+      "locator": {
+        "kind": "paragraph",
+        "value": "When these checks rely on surface level signals…they cannot reliably determine whether the run succeeded."
+      },
+      "excerpt": "When these checks rely on surface level signals…they cannot reliably determine whether the run succeeded.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o13",
+      "canonicalUrl": "https://www.bls.gov/oes/2023/May/oes151232.htm",
+      "status": 200,
+      "finalUrl": "https://www.bls.gov/oes/2023/May/oes151232.htm",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Employment (1) … 689,700"
+      },
+      "excerpt": "Employment (1) … 689,700",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o14",
+      "canonicalUrl": "https://dl.dod.cyber.mil/wp-content/uploads/ccp/pdf/411-Technical-Support-Specialist-Career-Pathway.pdf",
+      "status": 200,
+      "finalUrl": "https://dl.dod.cyber.mil/wp-content/uploads/ccp/pdf/411-Technical-Support-Specialist-Career-Pathway.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "411-Technical Support Specialist is a foundational entry point into the cyber workforce."
+      },
+      "excerpt": "411-Technical Support Specialist is a foundational entry point into the cyber workforce.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o15",
+      "canonicalUrl": "https://www.gao.gov/assets/gao-22-105932.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gao.gov/assets/gao-22-105932.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "GAO identified 10 challenges related to State recruiting and retaining its IT workforce."
+      },
+      "excerpt": "GAO identified 10 challenges related to State recruiting and retaining its IT workforce.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o16",
+      "canonicalUrl": "https://confluence.atlassian.com/security/long-term-support-releases-1409289267.html",
+      "status": 200,
+      "finalUrl": "https://confluence.atlassian.com/security/long-term-support-releases-1409289267.html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "If you can manage only one feature release upgrade per year, we recommend upgrading…"
+      },
+      "excerpt": "If you can manage only one feature release upgrade per year, we recommend upgrading…",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o17",
+      "canonicalUrl": "https://support.zendesk.com/hc/en-us/articles/10904321914138-Release-notes-through-2026-06-12",
+      "status": 200,
+      "finalUrl": "https://support.zendesk.com/hc/en-us/articles/10904321914138-Release-notes-through-2026-06-12",
+      "locator": {
+        "kind": "paragraph",
+        "value": "This week's release notes include:"
+      },
+      "excerpt": "This week's release notes include:",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o18",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/dynamics365/guidance/implementation-guide/service-solution-service-updates",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/dynamics365/guidance/implementation-guide/service-solution-service-updates",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Service updates are continuous, touchless updates that add new capabilities and fix issues."
+      },
+      "excerpt": "Service updates are continuous, touchless updates that add new capabilities and fix issues.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o19",
+      "canonicalUrl": "https://www.adalovelaceinstitute.org/report/buying-ai-procurement/",
+      "status": 200,
+      "finalUrl": "https://www.adalovelaceinstitute.org/report/buying-ai-procurement/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "local government does not have access to a clear or comprehensive account of how to procure AI in the public interest."
+      },
+      "excerpt": "local government does not have access to a clear or comprehensive account of how to procure AI in the public interest.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o20",
+      "canonicalUrl": "https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/",
+      "status": 200,
+      "finalUrl": "https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Salesforce is delivering over 50 specialized AI agents deployed out of the box…in your IT Service Desk"
+      },
+      "excerpt": "Salesforce is delivering over 50 specialized AI agents deployed out of the box…in your IT Service Desk",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-enterprise-software-support-o21",
+      "canonicalUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/service-agent-general-availability/",
+      "status": 200,
+      "finalUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/service-agent-general-availability/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Service Agent is powered by a robust MCP server designed for service tasks, and delivers 70+ new MCP tools"
+      },
+      "excerpt": "Service Agent is powered by a robust MCP server designed for service tasks, and delivers 70+ new MCP tools",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o01",
+      "canonicalUrl": "https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01485",
+      "status": 200,
+      "finalUrl": "https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01485",
+      "locator": {
+        "kind": "paragraph",
+        "value": "We calculated that denials resulted in a 7 percent net reduction in provider MA revenue"
+      },
+      "excerpt": "We calculated that denials resulted in a 7 percent net reduction in provider MA revenue",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o02",
+      "canonicalUrl": "https://oig.hhs.gov/reports/all/2023/high-rates-of-prior-authorization-denials-by-some-plans-and-limited-state-oversight-raise-concerns-about-access-to-care-in-medicaid-managed-care/",
+      "status": 200,
+      "finalUrl": "https://oig.hhs.gov/reports/all/2023/high-rates-of-prior-authorization-denials-by-some-plans-and-limited-state-oversight-raise-concerns-about-access-to-care-in-medicaid-managed-care/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Overall, the MCOs included in our review denied one out of every eight requests for the prior authorization of services in 2019."
+      },
+      "excerpt": "Overall, the MCOs included in our review denied one out of every eight requests for the prior authorization of services in 2019.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o03",
+      "canonicalUrl": "https://oig.hhs.gov/reports/all/2026/louisiana-healthcare-connections-generally-complied-with-federal-and-state-process-requirements-when-denying-prior-authorization-requests/",
+      "status": 200,
+      "finalUrl": "https://oig.hhs.gov/reports/all/2026/louisiana-healthcare-connections-generally-complied-with-federal-and-state-process-requirements-when-denying-prior-authorization-requests/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "LHCC complied with Federal and State requirements when it denied 64 of the 76 sampled behavioral health service requests"
+      },
+      "excerpt": "LHCC complied with Federal and State requirements when it denied 64 of the 76 sampled behavioral health service requests",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o04",
+      "canonicalUrl": "https://oig.hhs.gov/reports/all/2023/amerigroup-iowas-prior-authorization-and-appeal-processes-were-effective-but-improvements-can-be-made/",
+      "status": 200,
+      "finalUrl": "https://oig.hhs.gov/reports/all/2023/amerigroup-iowas-prior-authorization-and-appeal-processes-were-effective-but-improvements-can-be-made/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Amerigroup denied only 3 percent of requested medical services during its prior authorization process"
+      },
+      "excerpt": "Amerigroup denied only 3 percent of requested medical services during its prior authorization process",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o05",
+      "canonicalUrl": "https://health.ucdavis.edu/media-resources/supply-chain/documents/fy25/06282024_BJ_Addendum_1a_ResponsestoQuestionsAddendum.pdf",
+      "status": 200,
+      "finalUrl": "https://health.ucdavis.edu/media-resources/supply-chain/documents/fy25/06282024_BJ_Addendum_1a_ResponsestoQuestionsAddendum.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Scope will primarily be project management and implementation support for revenue cycle assessment recommendations."
+      },
+      "excerpt": "Scope will primarily be project management and implementation support for revenue cycle assessment recommendations.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o06",
+      "canonicalUrl": "https://a856-cityrecord.nyc.gov/Search/GetFile?documentId=36342&requestId=20230503115&requestStatus=Archived&sectionId=6",
+      "status": 200,
+      "finalUrl": "https://a856-cityrecord.nyc.gov/Search/GetFile?documentId=36342&requestId=20230503115&requestStatus=Archived&sectionId=6",
+      "locator": {
+        "kind": "paragraph",
+        "value": "NYC Health + Hospitals seeks to outsource a portion of its low dollar, high volume insured accounts receivable to selected vendors."
+      },
+      "excerpt": "NYC Health + Hospitals seeks to outsource a portion of its low dollar, high volume insured accounts receivable to selected vendors.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o07",
+      "canonicalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html",
+      "status": 200,
+      "finalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Business associate functions and activities include: claims processing or administration; data analysis, processing or administration; utilization review; quality assurance; billing"
+      },
+      "excerpt": "Business associate functions and activities include: claims processing or administration; data analysis, processing or administration; utilization review; quality assurance; billing",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o08",
+      "canonicalUrl": "https://www.cms.gov/newsroom/fact-sheets/cms-interoperability-prior-authorization-final-rule-cms-0057-f",
+      "status": 200,
+      "finalUrl": "https://www.cms.gov/newsroom/fact-sheets/cms-interoperability-prior-authorization-final-rule-cms-0057-f",
+      "locator": {
+        "kind": "paragraph",
+        "value": "We are requiring that impacted payers implement and maintain a Provider Access API to share patient data with in-network providers"
+      },
+      "excerpt": "We are requiring that impacted payers implement and maintain a Provider Access API to share patient data with in-network providers",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o10",
+      "canonicalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/minimum-necessary-requirement/index.html",
+      "status": 200,
+      "finalUrl": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/minimum-necessary-requirement/index.html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The Privacy Rule generally requires covered entities to take reasonable steps to limit the use or disclosure of, and requests for, protected health information"
+      },
+      "excerpt": "The Privacy Rule generally requires covered entities to take reasonable steps to limit the use or disclosure of, and requests for, protected health information",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o11",
+      "canonicalUrl": "https://www.hhs.gov/hipaa/for-professionals/regulatory-initiatives/fact-sheet-42-cfr-part-2-final-rule/index.html",
+      "status": 200,
+      "finalUrl": "https://www.hhs.gov/hipaa/for-professionals/regulatory-initiatives/fact-sheet-42-cfr-part-2-final-rule/index.html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Requires a separate patient consent for the use and disclosure of SUD counseling notes."
+      },
+      "excerpt": "Requires a separate patient consent for the use and disclosure of SUD counseling notes.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o12",
+      "canonicalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits",
+      "status": 200,
+      "finalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The purpose of the NCCI Procedure to Procedure edits is to prevent improper payment when incorrect code combinations are reported."
+      },
+      "excerpt": "The purpose of the NCCI Procedure to Procedure edits is to prevent improper payment when incorrect code combinations are reported.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o13",
+      "canonicalUrl": "https://www.cms.gov/outreach-and-education/medicare-learning-network-mln/mlnproducts/downloads/mcrp-booklet-text-only.pdf",
+      "status": 200,
+      "finalUrl": "https://www.cms.gov/outreach-and-education/medicare-learning-network-mln/mlnproducts/downloads/mcrp-booklet-text-only.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Complex review: Requires licensed professionals who review additional documentation associated with a claim"
+      },
+      "excerpt": "Complex review: Requires licensed professionals who review additional documentation associated with a claim",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o14",
+      "canonicalUrl": "https://www.cms.gov/priorities/burden-reduction/overview/interoperability/frequently-asked-questions/prior-authorization-api",
+      "status": 200,
+      "finalUrl": "https://www.cms.gov/priorities/burden-reduction/overview/interoperability/frequently-asked-questions/prior-authorization-api",
+      "locator": {
+        "kind": "paragraph",
+        "value": "other decisions will continue to necessitate review and evaluation by clinical reviewers"
+      },
+      "excerpt": "other decisions will continue to necessitate review and evaluation by clinical reviewers",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o15",
+      "canonicalUrl": "https://doi.org/10.1001/archinte.162.3.316",
+      "status": 200,
+      "finalUrl": "https://doi.org/10.1001/archinte.162.3.316",
+      "locator": {
+        "kind": "paragraph",
+        "value": "There is substantial disagreement among coding specialists in application of the CPT E/M coding guidelines."
+      },
+      "excerpt": "There is substantial disagreement among coding specialists in application of the CPT E/M coding guidelines.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o16",
+      "canonicalUrl": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+      "status": 200,
+      "finalUrl": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Community colleges and technical schools offer certificate and associate’s degree programs for medical records specialists."
+      },
+      "excerpt": "Community colleges and technical schools offer certificate and associate’s degree programs for medical records specialists.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o17",
+      "canonicalUrl": "https://journal.ahima.org/page/understaffed-and-overworked-how-can-organizations-improve-hi-staffing",
+      "status": 200,
+      "finalUrl": "https://journal.ahima.org/page/understaffed-and-overworked-how-can-organizations-improve-hi-staffing",
+      "locator": {
+        "kind": "paragraph",
+        "value": "two-thirds (66 percent) of respondents reported understaffing of HI professionals at their organizations within the last two years."
+      },
+      "excerpt": "two-thirds (66 percent) of respondents reported understaffing of HI professionals at their organizations within the last two years.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o18",
+      "canonicalUrl": "https://www.cms.gov/medicare/regulations-guidance/physician-self-referral/list-cpt-hcpcs-codes",
+      "status": 200,
+      "finalUrl": "https://www.cms.gov/medicare/regulations-guidance/physician-self-referral/list-cpt-hcpcs-codes",
+      "locator": {
+        "kind": "paragraph",
+        "value": "We maintain and annually update a List of Current Procedural Terminology (CPT)/Healthcare Common Procedure Coding System (HCPCS) Codes"
+      },
+      "excerpt": "We maintain and annually update a List of Current Procedural Terminology (CPT)/Healthcare Common Procedure Coding System (HCPCS) Codes",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o19",
+      "canonicalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits/medicare-ncci-procedure-procedure-ptp-edits",
+      "status": 200,
+      "finalUrl": "https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits/medicare-ncci-procedure-procedure-ptp-edits",
+      "locator": {
+        "kind": "paragraph",
+        "value": "CMS posts changes to each of its NCCI PTP published edit files on a quarterly basis."
+      },
+      "excerpt": "CMS posts changes to each of its NCCI PTP published edit files on a quarterly basis.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o20",
+      "canonicalUrl": "https://www.uhcprovider.com/content/dam/provider/docs/public/prior-auth/pa-requirements/multi/2026-Summary-of-Changes-AdvNotice-and-PriorAuth.pdf",
+      "status": 200,
+      "finalUrl": "https://www.uhcprovider.com/content/dam/provider/docs/public/prior-auth/pa-requirements/multi/2026-Summary-of-Changes-AdvNotice-and-PriorAuth.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "This month's published changes affect the following plans"
+      },
+      "excerpt": "This month's published changes affect the following plans",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o21",
+      "canonicalUrl": "https://www.aetna.com/content/dam/aetna/pdfs/olu/officelink-updates-april-2026-olu.pdf",
+      "status": 200,
+      "finalUrl": "https://www.aetna.com/content/dam/aetna/pdfs/olu/officelink-updates-april-2026-olu.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "We update these formulary documents regularly during the benefits year as we add or update additional coverage each month."
+      },
+      "excerpt": "We update these formulary documents regularly during the benefits year as we add or update additional coverage each month.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o22",
+      "canonicalUrl": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/january_2026_policy_updates.pdf",
+      "status": 200,
+      "finalUrl": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/january_2026_policy_updates.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Coverage Policy Unit (CPU) - Monthly Policy Updates"
+      },
+      "excerpt": "Coverage Policy Unit (CPU) - Monthly Policy Updates",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o23",
+      "canonicalUrl": "https://www.cms.gov/newsroom/blog/moving-prior-authorization-21st-century",
+      "status": 200,
+      "finalUrl": "https://www.cms.gov/newsroom/blog/moving-prior-authorization-21st-century",
+      "locator": {
+        "kind": "paragraph",
+        "value": "workflow gaps and technical handoffs that no single sector can fix alone."
+      },
+      "excerpt": "workflow gaps and technical handoffs that no single sector can fix alone.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o24",
+      "canonicalUrl": "https://www.aha.org/lettercomment/2026-06-15-aha-comments-cms-interoperability-and-prior-authorization-proposed-rule",
+      "status": 200,
+      "finalUrl": "https://www.aha.org/lettercomment/2026-06-15-aha-comments-cms-interoperability-and-prior-authorization-proposed-rule",
+      "locator": {
+        "kind": "paragraph",
+        "value": "providers must navigate complex, fragmented and manual processes that detract from care delivery"
+      },
+      "excerpt": "providers must navigate complex, fragmented and manual processes that detract from care delivery",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o25",
+      "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1990354/000110465925041392/tm259007d2_ars.pdf",
+      "status": 200,
+      "finalUrl": "https://www.sec.gov/Archives/edgar/data/1990354/000110465925041392/tm259007d2_ars.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Waystar’s software platform integrates with more than 500 EHR and Practice Management systems"
+      },
+      "excerpt": "Waystar’s software platform integrates with more than 500 EHR and Practice Management systems",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-healthcare-administration-o26",
+      "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1910851/000162828024015926/a2023annualreport.pdf",
+      "status": 200,
+      "finalUrl": "https://www.sec.gov/Archives/edgar/data/1910851/000162828024015926/a2023annualreport.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "R1 covers more than $1 trillion in NPR, including end-to-end and modular customers."
+      },
+      "excerpt": "R1 covers more than $1 trillion in NPR, including end-to-end and modular customers.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-healthcare-administration"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o01",
+      "canonicalUrl": "https://autorek.com/report/insurance-operations-report-2026-autorek/",
+      "status": 200,
+      "finalUrl": "https://autorek.com/report/insurance-operations-report-2026-autorek/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Nearly 44% of insurers now face settlement periods longer than 60 days, driven by higher transaction volumes and increased processing complexity."
+      },
+      "excerpt": "Nearly 44% of insurers now face settlement periods longer than 60 days, driven by higher transaction volumes and increased processing complexity.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o03",
+      "canonicalUrl": "https://www.claimspages.com/news/legacy-insurance-systems-drive-claims-delays-and-rising-costs-20260430/",
+      "status": 200,
+      "finalUrl": "https://www.claimspages.com/news/legacy-insurance-systems-drive-claims-delays-and-rising-costs-20260430/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "more than 50% of policy and claims-related processes still require human intervention"
+      },
+      "excerpt": "more than 50% of policy and claims-related processes still require human intervention",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o05",
+      "canonicalUrl": "https://www.insurancebusinessmag.com/us/news/technology/carriers-stuck-in-pilot-purgatory-as-ai-fails-to-graduate--sedgwick-567339.aspx",
+      "status": 200,
+      "finalUrl": "https://www.insurancebusinessmag.com/us/news/technology/carriers-stuck-in-pilot-purgatory-as-ai-fails-to-graduate--sedgwick-567339.aspx",
+      "locator": {
+        "kind": "paragraph",
+        "value": "just 7% have reached what Sedgwick calls scalable success"
+      },
+      "excerpt": "just 7% have reached what Sedgwick calls scalable success",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o08",
+      "canonicalUrl": "https://www.ciodive.com/news/insurance-industry-stuck-ai-pilot-phase/816759/",
+      "status": 200,
+      "finalUrl": "https://www.ciodive.com/news/insurance-industry-stuck-ai-pilot-phase/816759/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "finance teams are unable to tie AI investments to returns"
+      },
+      "excerpt": "finance teams are unable to tie AI investments to returns",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o11",
+      "canonicalUrl": "https://www.dfs.ny.gov/industry-guidance/circular-letters/cl2024-07",
+      "status": 200,
+      "finalUrl": "https://www.dfs.ny.gov/industry-guidance/circular-letters/cl2024-07",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Insurers should include standards for model development, implementation, use, and validation"
+      },
+      "excerpt": "Insurers should include standards for model development, implementation, use, and validation",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o12",
+      "canonicalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260305.html",
+      "status": 200,
+      "finalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260305.html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Participating financial institutions will receive targeted supervisory guidance, technical support, and complimentary access to graphics processing unit"
+      },
+      "excerpt": "Participating financial institutions will receive targeted supervisory guidance, technical support, and complimentary access to graphics processing unit",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o14",
+      "canonicalUrl": "https://www.mass.gov/doc/bulletin-2024-10-the-use-of-artificial-intelligence-systems-in-insurance-issued-december-9-2024/download",
+      "status": 200,
+      "finalUrl": "https://www.mass.gov/doc/bulletin-2024-10-the-use-of-artificial-intelligence-systems-in-insurance-issued-december-9-2024/download",
+      "locator": {
+        "kind": "paragraph",
+        "value": "data currency, lineage, quality, integrity, bias analysis and minimization, and suitability"
+      },
+      "excerpt": "data currency, lineage, quality, integrity, bias analysis and minimization, and suitability",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o16",
+      "canonicalUrl": "https://aclanthology.org/2026.acl-long.1035.pdf",
+      "status": 200,
+      "finalUrl": "https://aclanthology.org/2026.acl-long.1035.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "real-world claims frequently contain ambiguous descriptions or incomplete information that complicates the decision process"
+      },
+      "excerpt": "real-world claims frequently contain ambiguous descriptions or incomplete information that complicates the decision process",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o18",
+      "canonicalUrl": "https://www.bls.gov/OOH/business-and-financial/insurance-underwriters.htm",
+      "status": 200,
+      "finalUrl": "https://www.bls.gov/OOH/business-and-financial/insurance-underwriters.htm",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Insurance underwriters held about 127,000 jobs in 2024."
+      },
+      "excerpt": "Insurance underwriters held about 127,000 jobs in 2024.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o20",
+      "canonicalUrl": "https://www.bls.gov/ooh/Business-and-Financial/Claims-adjusters-appraisers-examiners-and-investigators.htm",
+      "status": 200,
+      "finalUrl": "https://www.bls.gov/ooh/Business-and-Financial/Claims-adjusters-appraisers-examiners-and-investigators.htm",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Federal and state laws and the outcomes of claim disputes adjudicated in court affect how the claims must be handled"
+      },
+      "excerpt": "Federal and state laws and the outcomes of claim disputes adjudicated in court affect how the claims must be handled",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o22",
+      "canonicalUrl": "https://riskandinsurance.com/insurance-industry-poised-for-modest-growth-despite-mounting-talent-challenges/",
+      "status": 200,
+      "finalUrl": "https://riskandinsurance.com/insurance-industry-poised-for-modest-growth-despite-mounting-talent-challenges/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "One in five companies report that hiring has become more difficult compared to the prior year"
+      },
+      "excerpt": "One in five companies report that hiring has become more difficult compared to the prior year",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o23",
+      "canonicalUrl": "https://www.deloitte.com/us/en/services/consulting/articles/insurance-regulatory-outlook.html",
+      "status": 200,
+      "finalUrl": "https://www.deloitte.com/us/en/services/consulting/articles/insurance-regulatory-outlook.html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "new frameworks for artificial intelligence (AI), data governance, and risk management"
+      },
+      "excerpt": "new frameworks for artificial intelligence (AI), data governance, and risk management",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o24",
+      "canonicalUrl": "https://www.acord.org/standards-architecture/acord-data-standards/Global_Reinsurance_Data_Standards",
+      "status": 200,
+      "finalUrl": "https://www.acord.org/standards-architecture/acord-data-standards/Global_Reinsurance_Data_Standards",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Schema Files: Scripts that define the structure and content of XML and/or JSON GRLC messages, and can be used to programmatically validate those messages."
+      },
+      "excerpt": "Schema Files: Scripts that define the structure and content of XML and/or JSON GRLC messages, and can be used to programmatically validate those messages.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o25",
+      "canonicalUrl": "https://ir.guidewire.com/news-releases/news-release-details/guidewire-deepens-relationship-shift-technology-naming-shift-its",
+      "status": 200,
+      "finalUrl": "https://ir.guidewire.com/news-releases/news-release-details/guidewire-deepens-relationship-shift-technology-naming-shift-its",
+      "locator": {
+        "kind": "paragraph",
+        "value": "More than 570 insurers in 42 countries, from new ventures to the largest and most complex in the world, rely on Guidewire products."
+      },
+      "excerpt": "More than 570 insurers in 42 countries, from new ventures to the largest and most complex in the world, rely on Guidewire products.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-insurance-operations-o27",
+      "canonicalUrl": "https://www.grantthornton.com/insights/articles/insurance/2025/insurance-roi-growth-tech-innovation",
+      "status": 200,
+      "finalUrl": "https://www.grantthornton.com/insights/articles/insurance/2025/insurance-roi-growth-tech-innovation",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Poor governance structures, legacy system complications and employee resistance lead to stalled pilots and wasted resources."
+      },
+      "excerpt": "Poor governance structures, legacy system complications and employee resistance lead to stalled pilots and wasted resources.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o01",
+      "canonicalUrl": "https://oig.ssa.gov/assets/uploads/022313.pdf",
+      "status": 200,
+      "finalUrl": "https://oig.ssa.gov/assets/uploads/022313.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The PC pending actions backlog increased from 3.2 million in FY 2018 to 4.6 million in FY 2023."
+      },
+      "excerpt": "The PC pending actions backlog increased from 3.2 million in FY 2018 to 4.6 million in FY 2023.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o03",
+      "canonicalUrl": "https://www.turing.ac.uk/sites/default/files/2024-03/ai_for_bureaucratic_productivity.pdf",
+      "status": 200,
+      "finalUrl": "https://www.turing.ac.uk/sites/default/files/2024-03/ai_for_bureaucratic_productivity.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "saving even an average of just one minute per complex transaction would save the equivalent of approximately 1,200 person-years of work every year."
+      },
+      "excerpt": "saving even an average of just one minute per complex transaction would save the equivalent of approximately 1,200 person-years of work every year.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o04",
+      "canonicalUrl": "https://www.nao.org.uk/reports/dwp-customer-service/",
+      "status": 200,
+      "finalUrl": "https://www.nao.org.uk/reports/dwp-customer-service/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Universal Credit performing well on payment timeliness and telephony."
+      },
+      "excerpt": "Universal Credit performing well on payment timeliness and telephony.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o06",
+      "canonicalUrl": "https://arxiv.org/html/2409.05869",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/html/2409.05869",
+      "locator": {
+        "kind": "paragraph",
+        "value": "overall process time from around 31 days to 26 days, on average."
+      },
+      "excerpt": "overall process time from around 31 days to 26 days, on average.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o07",
+      "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/086054-2025",
+      "status": 200,
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/086054-2025",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Total value (estimated) £8,333,333.33 excluding VAT"
+      },
+      "excerpt": "Total value (estimated) £8,333,333.33 excluding VAT",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o09",
+      "canonicalUrl": "https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/DCAM-24-NC-SS-0008%20%28Iris%20AI%20Native%20Platform%29.pdf",
+      "status": 200,
+      "finalUrl": "https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/DCAM-24-NC-SS-0008%20%28Iris%20AI%20Native%20Platform%29.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The anticipated fair and reasonable cost to provide the IRIS SaaS during FY24 is $200,000.00 and $55,500 annually thereafter"
+      },
+      "excerpt": "The anticipated fair and reasonable cost to provide the IRIS SaaS during FY24 is $200,000.00 and $55,500 annually thereafter",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o10",
+      "canonicalUrl": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-office-of-technology-and-innovations-mycity-system/",
+      "status": 200,
+      "finalUrl": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-office-of-technology-and-innovations-mycity-system/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "after spending more than four years and $100 million on the program"
+      },
+      "excerpt": "after spending more than four years and $100 million on the program",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o11",
+      "canonicalUrl": "https://carnegieuk.org/wp-content/uploads/2024/10/Automating-Public-Services-Learning-from-Cancelled-Systems-Final-Full-Report-2.pdf",
+      "status": 200,
+      "finalUrl": "https://carnegieuk.org/wp-content/uploads/2024/10/Automating-Public-Services-Learning-from-Cancelled-Systems-Final-Full-Report-2.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "This study identifies 61 occasions across Australia, Canada, Europe, New Zealand and the United States when ADS projects were cancelled or paused."
+      },
+      "excerpt": "This study identifies 61 occasions across Australia, Canada, Europe, New Zealand and the United States when ADS projects were cancelled or paused.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o12",
+      "canonicalUrl": "https://assets.publishing.service.gov.uk/media/683863d5c99c4f37ab4e867c/Data_First_User_Guide_Version_8.2.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.publishing.service.gov.uk/media/683863d5c99c4f37ab4e867c/Data_First_User_Guide_Version_8.2.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "It enables accredited researchers across government and academia to access anonymised, research-ready datasets ethically and responsibly."
+      },
+      "excerpt": "It enables accredited researchers across government and academia to access anonymised, research-ready datasets ethically and responsibly.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o15",
+      "canonicalUrl": "https://www.gov.scot/publications/social-security-amendment-scotland-bill-data-protection-impact-assessment-updated-april-2025/pages/3/",
+      "status": 200,
+      "finalUrl": "https://www.gov.scot/publications/social-security-amendment-scotland-bill-data-protection-impact-assessment-updated-april-2025/pages/3/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The impacts on data protection will be further considered during the development of those regulations."
+      },
+      "excerpt": "The impacts on data protection will be further considered during the development of those regulations.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o16",
+      "canonicalUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-mdd-1_25-cv-00596/pdf/USCOURTS-mdd-1_25-cv-00596-5.pdf",
+      "status": 200,
+      "finalUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-mdd-1_25-cv-00596/pdf/USCOURTS-mdd-1_25-cv-00596-5.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "challenging the legality of the Agency’s decision to provide DOGE with unlimited access"
+      },
+      "excerpt": "challenging the legality of the Agency’s decision to provide DOGE with unlimited access",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o17",
+      "canonicalUrl": "https://digitalgovernmenthub.org/publications/ai-powered-rules-as-code-experiments-with-public-benefits-policy/",
+      "status": 200,
+      "finalUrl": "https://digitalgovernmenthub.org/publications/ai-powered-rules-as-code-experiments-with-public-benefits-policy/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "LLMs are capable of supporting the process of generating code from policy, but still require external knowledge and human oversight"
+      },
+      "excerpt": "LLMs are capable of supporting the process of generating code from policy, but still require external knowledge and human oversight",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o19",
+      "canonicalUrl": "https://tobin.yale.edu/sites/default/files/2026-01/CDLE_AI_Jan13_2026.pdf",
+      "status": 200,
+      "finalUrl": "https://tobin.yale.edu/sites/default/files/2026-01/CDLE_AI_Jan13_2026.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "We established the first comprehensive sandbox environment for AI evaluation in benefits administration"
+      },
+      "excerpt": "We established the first comprehensive sandbox environment for AI evaluation in benefits administration",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o21",
+      "canonicalUrl": "https://www.nber.org/papers/w31437",
+      "status": 200,
+      "finalUrl": "https://www.nber.org/papers/w31437",
+      "locator": {
+        "kind": "paragraph",
+        "value": "SNAP, TANF, and Medicaid enrollments fell by 15%, 24%, and 4% one year after automation"
+      },
+      "excerpt": "SNAP, TANF, and Medicaid enrollments fell by 15%, 24%, and 4% one year after automation",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o22",
+      "canonicalUrl": "https://assets.publishing.service.gov.uk/media/6895e6663080e72710b2e2de/Effective_Professional_Development_Design_in_a_Civil_Service_Context.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.publishing.service.gov.uk/media/6895e6663080e72710b2e2de/Effective_Professional_Development_Design_in_a_Civil_Service_Context.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The majority of papers found a positive effect of professional development, with skill acquisition being the most commonly assessed outcome"
+      },
+      "excerpt": "The majority of papers found a positive effect of professional development, with skill acquisition being the most commonly assessed outcome",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o23",
+      "canonicalUrl": "https://acf.gov/opre/report/child-welfare-workforce-onboarding-training-and-professional-development",
+      "status": 200,
+      "finalUrl": "https://acf.gov/opre/report/child-welfare-workforce-onboarding-training-and-professional-development",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Agency websites, internship programs, and social media were commonly used to recruit caseworkers"
+      },
+      "excerpt": "Agency websites, internship programs, and social media were commonly used to recruit caseworkers",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o25",
+      "canonicalUrl": "https://www.ssa.gov/agency/performance/materials/2026/SSA_FYs2025-2026_APP.pdf",
+      "status": 200,
+      "finalUrl": "https://www.ssa.gov/agency/performance/materials/2026/SSA_FYs2025-2026_APP.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "managing human capital"
+      },
+      "excerpt": "managing human capital",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o26",
+      "canonicalUrl": "https://www.oig.doc.gov/wp-content/OIGPublications/OIG-25-013-I_Final_Report.pdf",
+      "status": 200,
+      "finalUrl": "https://www.oig.doc.gov/wp-content/OIGPublications/OIG-25-013-I_Final_Report.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The bureau does not have effective strategies to address staffing gaps and high vacancies in FR positions."
+      },
+      "excerpt": "The bureau does not have effective strategies to address staffing gaps and high vacancies in FR positions.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o27",
+      "canonicalUrl": "https://www.legislation.gov.uk/uksi/2025/295/made",
+      "status": 200,
+      "finalUrl": "https://www.legislation.gov.uk/uksi/2025/295/made",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The Social Security Benefits Up-rating Order 2025"
+      },
+      "excerpt": "The Social Security Benefits Up-rating Order 2025",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o28",
+      "canonicalUrl": "https://www.legislation.gov.uk/uksi/2026/148/made",
+      "status": 200,
+      "finalUrl": "https://www.legislation.gov.uk/uksi/2026/148/made",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The Social Security Benefits Up-rating Order 2026"
+      },
+      "excerpt": "The Social Security Benefits Up-rating Order 2026",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o29",
+      "canonicalUrl": "https://assets.publishing.service.gov.uk/media/6a0f0b28065847719dd7b484/adm-summary-of-changes.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.publishing.service.gov.uk/media/6a0f0b28065847719dd7b484/adm-summary-of-changes.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Amended Chapters June 2026"
+      },
+      "excerpt": "Amended Chapters June 2026",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o32",
+      "canonicalUrl": "https://www.law.georgetown.edu/tech-institute/wp-content/uploads/sites/42/2024/09/Provisioning-Digital-Tools-and-Systems-for-Government-Use.pdf",
+      "status": 200,
+      "finalUrl": "https://www.law.georgetown.edu/tech-institute/wp-content/uploads/sites/42/2024/09/Provisioning-Digital-Tools-and-Systems-for-Government-Use.pdf",
+      "locator": {
+        "kind": "paragraph",
+        "value": "long-term contracts negotiated with agency procurement teams"
+      },
+      "excerpt": "long-term contracts negotiated with agency procurement teams",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o34",
+      "canonicalUrl": "https://www.ncdhhs.gov/cws642023/open",
+      "status": 200,
+      "finalUrl": "https://www.ncdhhs.gov/cws642023/open",
+      "locator": {
+        "kind": "paragraph",
+        "value": "NC DHHS has moved forward with awarding the CWIS contract to Deloitte Consulting LLC."
+      },
+      "excerpt": "NC DHHS has moved forward with awarding the CWIS contract to Deloitte Consulting LLC.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-public-sector-administration-o37",
+      "canonicalUrl": "https://canadabuys.canada.ca/en/tender-opportunities/contract-history/cw2375337-004",
+      "status": 200,
+      "finalUrl": "https://canadabuys.canada.ca/en/tender-opportunities/contract-history/cw2375337-004",
+      "locator": {
+        "kind": "paragraph",
+        "value": "This contract was awarded to: Accenture Inc."
+      },
+      "excerpt": "This contract was awarded to: Accenture Inc.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-public-sector-administration"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s01",
+      "canonicalUrl": "https://www.fincen.gov/news/news-releases/fincen-assesses-record-13-billion-penalty-against-td-bank",
+      "status": 200,
+      "finalUrl": "https://www.fincen.gov/news/news-releases/fincen-assesses-record-13-billion-penalty-against-td-bank",
+      "locator": {
+        "kind": "paragraph",
+        "value": "assessed a record $1.3 billion penalty against TD Bank"
+      },
+      "excerpt": "assessed a record $1.3 billion penalty against TD Bank",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s02",
+      "canonicalUrl": "https://www.fca.org.uk/firms/digital-sandbox/authorised-push-payment-synthetic-data",
+      "status": 200,
+      "finalUrl": "https://www.fca.org.uk/firms/digital-sandbox/authorised-push-payment-synthetic-data",
+      "locator": {
+        "kind": "paragraph",
+        "value": "In 2022, APP fraud losses reached £485 million"
+      },
+      "excerpt": "In 2022, APP fraud losses reached £485 million",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s04",
+      "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/054567-2025",
+      "status": 200,
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/054567-2025",
+      "locator": {
+        "kind": "paragraph",
+        "value": "This contract is for AI assurance consultancy expertise to support the AI Live Testing service."
+      },
+      "excerpt": "This contract is for AI assurance consultancy expertise to support the AI Live Testing service.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s06",
+      "canonicalUrl": "https://www.fca.org.uk/firms/innovation/supercharged-sandbox",
+      "status": 200,
+      "finalUrl": "https://www.fca.org.uk/firms/innovation/supercharged-sandbox",
+      "locator": {
+        "kind": "paragraph",
+        "value": "No, there is no cost to take part."
+      },
+      "excerpt": "No, there is no cost to take part.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s07",
+      "canonicalUrl": "https://www.fca.org.uk/firms/innovation/digital-sandbox",
+      "status": 200,
+      "finalUrl": "https://www.fca.org.uk/firms/innovation/digital-sandbox",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Marketplace for 300+ synthetic, public, anonymised and pseudonymised data sets and over 1000 API end points."
+      },
+      "excerpt": "Marketplace for 300+ synthetic, public, anonymised and pseudonymised data sets and over 1000 API end points.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s08",
+      "canonicalUrl": "https://www.fca.org.uk/publications/research-notes/research-note-synthetic-data-anti-money-laundering-project-report",
+      "status": 200,
+      "finalUrl": "https://www.fca.org.uk/publications/research-notes/research-note-synthetic-data-anti-money-laundering-project-report",
+      "locator": {
+        "kind": "paragraph",
+        "value": "legal and privacy constraints often restrict sharing of such information."
+      },
+      "excerpt": "legal and privacy constraints often restrict sharing of such information.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s09",
+      "canonicalUrl": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-lawfulness-in-ai/",
+      "status": 200,
+      "finalUrl": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-lawfulness-in-ai/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Such processing could rely on legal obligation as a basis, but this would only cover the auditing and testing of the system"
+      },
+      "excerpt": "Such processing could rely on legal obligation as a basis, but this would only cover the auditing and testing of the system",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s10",
+      "canonicalUrl": "https://www.fca.org.uk/news/blogs/ai-live-testing-how-it-can-support-safe-and-responsible-ai-deployment",
+      "status": 200,
+      "finalUrl": "https://www.fca.org.uk/news/blogs/ai-live-testing-how-it-can-support-safe-and-responsible-ai-deployment",
+      "locator": {
+        "kind": "paragraph",
+        "value": "AI system testing (including shared evaluation)"
+      },
+      "excerpt": "AI system testing (including shared evaluation)",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s11",
+      "canonicalUrl": "https://www.bis.org/about/bisih/topics/fmis/hertha.htm",
+      "status": 200,
+      "finalUrl": "https://www.bis.org/about/bisih/topics/fmis/hertha.htm",
+      "locator": {
+        "kind": "paragraph",
+        "value": "The experiments were conducted using a state-of-the-art simulated synthetic transaction dataset"
+      },
+      "excerpt": "The experiments were conducted using a state-of-the-art simulated synthetic transaction dataset",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s15",
+      "canonicalUrl": "https://arxiv.org/abs/2606.22000",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2606.22000",
+      "locator": {
+        "kind": "paragraph",
+        "value": "functional correctness - a state diff plus forbidden-side-effect checks plus required-output regexes"
+      },
+      "excerpt": "functional correctness - a state diff plus forbidden-side-effect checks plus required-output regexes",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s16",
+      "canonicalUrl": "https://www.acams.org/en/media/document/39370",
+      "status": 200,
+      "finalUrl": "https://www.acams.org/en/media/document/39370",
+      "locator": {
+        "kind": "paragraph",
+        "value": "certified more than 140,000 professionals in over 200 jurisdictions and territories"
+      },
+      "excerpt": "certified more than 140,000 professionals in over 200 jurisdictions and territories",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s17",
+      "canonicalUrl": "https://www.theiia.org/en/content/communications/press-releases/2026/march/internal-audit-is-being-asked-to-do-more-with-less-according-to-new-report-from-the-internal-audit-foundation/",
+      "status": 200,
+      "finalUrl": "https://www.theiia.org/en/content/communications/press-releases/2026/march/internal-audit-is-being-asked-to-do-more-with-less-according-to-new-report-from-the-internal-audit-foundation/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "serves more than 265,000 global members and has awarded more than 200,000 Certified Internal Auditor certifications worldwide"
+      },
+      "excerpt": "serves more than 265,000 global members and has awarded more than 200,000 Certified Internal Auditor certifications worldwide",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s18",
+      "canonicalUrl": "https://www.bis.org/review/r260520d.htm",
+      "status": 200,
+      "finalUrl": "https://www.bis.org/review/r260520d.htm",
+      "locator": {
+        "kind": "paragraph",
+        "value": "A major constraint is the shortage of skilled AI professionals, both in industry and in supervisory authorities."
+      },
+      "excerpt": "A major constraint is the shortage of skilled AI professionals, both in industry and in supervisory authorities.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s20",
+      "canonicalUrl": "https://ofac.treasury.gov/recent-actions/sanctions-list-updates",
+      "status": 200,
+      "finalUrl": "https://ofac.treasury.gov/recent-actions/sanctions-list-updates",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Displaying 1 - 10 of 1884 results."
+      },
+      "excerpt": "Displaying 1 - 10 of 1884 results.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s21",
+      "canonicalUrl": "https://ofac.treasury.gov/sdn-list-data-formats-data-schemas/frequently-asked-questions-on-advanced-sanctions-list-standard",
+      "status": 200,
+      "finalUrl": "https://ofac.treasury.gov/sdn-list-data-formats-data-schemas/frequently-asked-questions-on-advanced-sanctions-list-standard",
+      "locator": {
+        "kind": "paragraph",
+        "value": "the new files contain live data and will be updated at the same time as all of OFAC’s other list products."
+      },
+      "excerpt": "the new files contain live data and will be updated at the same time as all of OFAC’s other list products.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s22",
+      "canonicalUrl": "https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets",
+      "status": 200,
+      "finalUrl": "https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Advisories often contain illicit activity typologies, red flags that facilitate monitoring"
+      },
+      "excerpt": "Advisories often contain illicit activity typologies, red flags that facilitate monitoring",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s24",
+      "canonicalUrl": "https://docs.cloud.google.com/financial-services/anti-money-laundering/docs/concepts/overview",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/financial-services/anti-money-laundering/docs/concepts/overview",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Google Cloud's Anti Money Laundering AI … is an API that scores AML risk."
+      },
+      "excerpt": "Google Cloud's Anti Money Laundering AI … is an API that scores AML risk.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s26",
+      "canonicalUrl": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/",
+      "status": 200,
+      "finalUrl": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/",
+      "locator": {
+        "kind": "paragraph",
+        "value": "deploys AI agents in a simulation environment that stress tests financial crime programs"
+      },
+      "excerpt": "deploys AI agents in a simulation environment that stress tests financial crime programs",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_exa-regulated-financial-operations-fin-s30",
+      "canonicalUrl": "https://www.fca.org.uk/publications/research-notes/ai-uk-financial-services",
+      "status": 200,
+      "finalUrl": "https://www.fca.org.uk/publications/research-notes/ai-uk-financial-services",
+      "locator": {
+        "kind": "paragraph",
+        "value": "33% of AI use cases are from third parties."
+      },
+      "excerpt": "33% of AI use cases are from third parties.",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-regulated-financial-operations"
+    },
+    {
+      "sourceId": "src_s01",
+      "canonicalUrl": "https://www.ycombinator.com/blog/scale/",
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/blog/scale/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Scale is an API for human labor"
+      },
+      "excerpt": "Scale is an API for human labor",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s02",
+      "canonicalUrl": "https://scale.com/about",
+      "status": 200,
+      "finalUrl": "https://scale.com/about",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Our mission is to develop reliable AI systems for the world's most important decisions."
+      },
+      "excerpt": "Our mission is to develop reliable AI systems for the world's most important decisions.",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s03",
+      "canonicalUrl": "https://scale.com/rlenvironments",
+      "status": 200,
+      "finalUrl": "https://scale.com/rlenvironments",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Reliable AI for the world’s most important decisions"
+      },
+      "excerpt": "Reliable AI for the world’s most important decisions",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s04",
+      "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm",
+      "status": 200,
+      "finalUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “13.80 billion” — https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm"
+      },
+      "excerpt": "minority investments in Scale AI for $ 13.80 billion, which was closed during 2025, and our investment in Jio Platforms Limited of $5.82 billion as",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s05",
+      "canonicalUrl": "https://scale.com/blog/scale-ai-series-f",
+      "status": 200,
+      "finalUrl": "https://scale.com/blog/scale-ai-series-f",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Scale’s Series F: Expanding the Data Foundry for AI"
+      },
+      "excerpt": "Scale’s Series F: Expanding the Data Foundry for AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s06",
+      "canonicalUrl": "https://news.bloomberglaw.com/artificial-intelligence/scale-ai-expects-to-more-than-double-sales-to-2-billion-in-2025",
+      "status": 200,
+      "finalUrl": "https://news.bloomberglaw.com/artificial-intelligence/scale-ai-expects-to-more-than-double-sales-to-2-billion-in-2025",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “2 billion” — https://news.bloomberglaw.com/artificial-intelligence/scale-ai-expects-to-more-than-double-sales-to-2-billion-in-2025"
+      },
+      "excerpt": "to More Than Double Sales to $ 2 Billion in 2025 Skip to content Bloomberg the Company & Its Products The Company & its Products",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s07",
+      "canonicalUrl": "https://www.forbes.com/sites/richardnieva/2026/05/14/scale-meta-deal/",
+      "status": 200,
+      "finalUrl": "https://www.forbes.com/sites/richardnieva/2026/05/14/scale-meta-deal/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal"
+      },
+      "excerpt": "Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s08",
+      "canonicalUrl": "https://www.mercor.com/blog/1/",
+      "status": 200,
+      "finalUrl": "https://www.mercor.com/blog/1/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Introducing Mercor: Redefining Hiring With AI"
+      },
+      "excerpt": "Introducing Mercor: Redefining Hiring With AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s09",
+      "canonicalUrl": "https://www.mercor.com/mission/",
+      "status": 200,
+      "finalUrl": "https://www.mercor.com/mission/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H2 — A note from Brendan & Adarsh"
+      },
+      "excerpt": "A note from Brendan & Adarsh",
+      "captureMethod": "html-h2",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s10",
+      "canonicalUrl": "https://www.mercor.com/blog/series-c/",
+      "status": 200,
+      "finalUrl": "https://www.mercor.com/blog/series-c/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Unlocking human potential in the AI economy"
+      },
+      "excerpt": "Unlocking human potential in the AI economy",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s11",
+      "canonicalUrl": "https://www.mercor.com/blog/when-you-go-from-2-million-a-month-to-2-million-a-day/",
+      "status": 200,
+      "finalUrl": "https://www.mercor.com/blog/when-you-go-from-2-million-a-month-to-2-million-a-day/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “2 million a day” — https://www.mercor.com/blog/when-you-go-from-2-million-a-month-to-2-million-a-day/"
+      },
+      "excerpt": "from $2 million a month to $ 2 million a day APEX APEX-Agents APEX-SWE APEX Off-the-shelf data Research Enterprise Experts Mission Log in APEX Research",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s12",
+      "canonicalUrl": "https://www.theinformation.com/briefings/exclusive-mercor-hit-1-billion-annualized-revenue-breach",
+      "status": 403,
+      "finalUrl": "https://www.theinformation.com/briefings/exclusive-mercor-hit-1-billion-annualized-revenue-breach",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "page",
+        "value": "Indexed publisher title — Mercor gross/net economics reporting"
+      },
+      "excerpt": "Mercor annualized revenue reporting separates gross marketplace volume from retained revenue",
+      "captureMethod": "search-indexed-publisher-page",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s13",
+      "canonicalUrl": "https://www.mercor.com/blog/mercor-to-acquire-deeptune/",
+      "status": 200,
+      "finalUrl": "https://www.mercor.com/blog/mercor-to-acquire-deeptune/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “will acquire” — https://www.mercor.com/blog/mercor-to-acquire-deeptune/"
+      },
+      "excerpt": "Deeptune excels. Today we're announcing that Mercor will acquire Deeptune, a leading company building environments for reinforcement learning. Reinforcement learning has reached the point where",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s14",
+      "canonicalUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "status": 200,
+      "finalUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “data breach” — https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+      },
+      "excerpt": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk | WIRED Skip to main content SECURITY POLITICS THE BIG",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s15",
+      "canonicalUrl": "https://www.micro1.ai/series-a",
+      "status": 200,
+      "finalUrl": "https://www.micro1.ai/series-a",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — micro1 raises $35M to build the AI platform for human intelligence"
+      },
+      "excerpt": "micro1 raises $35M to build the AI platform for human intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s16",
+      "canonicalUrl": "https://www.micro1.ai/",
+      "status": 200,
+      "finalUrl": "https://www.micro1.ai/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Data lab to train frontier models & evaluate agents"
+      },
+      "excerpt": "Data lab to train frontier models & evaluate agents",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s17",
+      "canonicalUrl": "https://www.micro1.ai/realm",
+      "status": 200,
+      "finalUrl": "https://www.micro1.ai/realm",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Frontier evaluations and RL environments for AI Labs"
+      },
+      "excerpt": "Frontier evaluations and RL environments for AI Labs",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s18",
+      "canonicalUrl": "https://www.micro1.ai/cortex",
+      "status": 200,
+      "finalUrl": "https://www.micro1.ai/cortex",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — The visibility and improvement layer for agentic AI"
+      },
+      "excerpt": "The visibility and improvement layer for agentic AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s19",
+      "canonicalUrl": "https://www.micro1.ai/robotics",
+      "status": 200,
+      "finalUrl": "https://www.micro1.ai/robotics",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Structured real-world data built to improve physical policy models"
+      },
+      "excerpt": "Structured real-world data built to improve physical policy models",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s20",
+      "canonicalUrl": "https://www.turing.com/pt/company",
+      "status": 200,
+      "finalUrl": "https://www.turing.com/company",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "section",
+        "value": "Our story"
+      },
+      "excerpt": "In 2018 the founders started Turing as an AI-powered technology services company",
+      "captureMethod": "search-indexed-official-page",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s21",
+      "canonicalUrl": "https://www.turing.com/advance",
+      "status": 200,
+      "finalUrl": "https://www.turing.com/advance",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Improve Real-World Model Reasoning"
+      },
+      "excerpt": "Turing advertises data packs, structured RL environments, and research-grade benchmarks",
+      "captureMethod": "search-indexed-official-page",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s22",
+      "canonicalUrl": "https://www.turing.com/advance/rl-environments",
+      "status": 200,
+      "finalUrl": "https://www.turing.com/advance/rl-environments",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Expert RL Environments Built for Frontier Standards"
+      },
+      "excerpt": "Controlled environments support agent training and evaluation before larger-scale integration",
+      "captureMethod": "search-indexed-official-page",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s23",
+      "canonicalUrl": "https://go.turing.com/llm-data-packs",
+      "status": 200,
+      "finalUrl": "https://go.turing.com/llm-data-packs",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Expand model capabilities with expert data packs"
+      },
+      "excerpt": "Expand model capabilities with expert data packs",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s24",
+      "canonicalUrl": "https://research.turing.com/project-lazarus",
+      "status": 200,
+      "finalUrl": "https://research.turing.com/project-lazarus",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Turing Research"
+      },
+      "excerpt": "Turing Research",
+      "captureMethod": "html-title",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s25",
+      "canonicalUrl": "https://www.ycombinator.com/companies/afterquery",
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/afterquery",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H2 — TL;DR"
+      },
+      "excerpt": "TL;DR",
+      "captureMethod": "html-h2",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s26",
+      "canonicalUrl": "https://www.afterquery.com/",
+      "status": 200,
+      "finalUrl": "https://www.afterquery.com/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — We teach machines how experts think."
+      },
+      "excerpt": "We teach machines how experts think.",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s27",
+      "canonicalUrl": "https://www.afterquery.com/blog/human-expertise-reimagined",
+      "status": 200,
+      "finalUrl": "https://www.afterquery.com/blog/human-expertise-reimagined",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “$30 million” — https://www.afterquery.com/blog/human-expertise-reimagined"
+      },
+      "excerpt": "Today, AfterQuery is excited to announce our $30 million Series A at a $300 million valuation, led by Altos Ventures, with participation from The Raine",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s28",
+      "canonicalUrl": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
+      "status": 200,
+      "finalUrl": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
+      "contentType": "application/pdf",
+      "locator": {
+        "kind": "page",
+        "value": "Page 23 — text containing “AfterQuery”"
+      },
+      "excerpt": "We then constructed a training distribution from AfterQuery (AQ) tasks that share important latent structure with GDPval, including file-grounded reasoning, professional deliverables, multi-step analysis, and",
+      "captureMethod": "pdf-text-page",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s29",
+      "canonicalUrl": "https://pypi.org/project/fleet-context/",
+      "status": 200,
+      "finalUrl": "https://pypi.org/project/fleet-context/",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — fleet-context 1.1.9"
+      },
+      "excerpt": "fleet-context 1.1.9",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s30",
+      "canonicalUrl": "https://www.fleetai.com/about",
+      "status": 200,
+      "finalUrl": "https://www.fleetai.com/about",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Fleet"
+      },
+      "excerpt": "Fleet",
+      "captureMethod": "html-title",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s31",
+      "canonicalUrl": "https://www.micro1.ai/case-study/business-data",
+      "status": 200,
+      "finalUrl": "https://www.micro1.ai/case-study/business-data",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — micro1 deploys top-tier PhDs and MBAs to help an industry leading AI lab train its model on business data"
+      },
+      "excerpt": "micro1 deploys top-tier PhDs and MBAs to help an industry leading AI lab train its model on business data",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s32",
+      "canonicalUrl": "https://deeptune.com/blog/series-a/",
+      "status": 200,
+      "finalUrl": "https://deeptune.com/blog/series-a/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “$43 million” — https://deeptune.com/blog/series-a/"
+      },
+      "excerpt": "pursuit of AGI. Today, we're announcing our $43 million Series A, led by Andreessen Horowitz with participation from 776, Abstract Ventures, and Inspired Capital, and",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s33",
+      "canonicalUrl": "https://a16z.com/announcement/investing-in-deeptune/",
+      "status": 200,
+      "finalUrl": "https://a16z.com/announcement/investing-in-deeptune/",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Investing in Deeptune"
+      },
+      "excerpt": "Investing in Deeptune",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s34",
+      "canonicalUrl": "https://refresh.dev/",
+      "status": 200,
+      "finalUrl": "https://refresh.dev/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Environments for Environments for the next capabilities the next capabilities"
+      },
+      "excerpt": "Environments for Environments for the next capabilities the next capabilities",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s35",
+      "canonicalUrl": "https://www.ycombinator.com/companies/refresh",
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/refresh",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H2 — Footer"
+      },
+      "excerpt": "Footer",
+      "captureMethod": "html-h2",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s36",
+      "canonicalUrl": "https://vibrantlabs.com/research/mining-hard-tasks",
+      "status": 200,
+      "finalUrl": "https://vibrantlabs.com/research/mining-hard-tasks",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Mining Hard Tasks for Web Agents: An Adversarial E-Commerce Benchmark"
+      },
+      "excerpt": "Mining Hard Tasks for Web Agents: An Adversarial E-Commerce Benchmark",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s37",
+      "canonicalUrl": "https://www.halluminate.ai/experts",
+      "status": 200,
+      "finalUrl": "https://www.halluminate.ai/experts",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Visible text containing “$100” — https://www.halluminate.ai/experts"
+      },
+      "excerpt": "rates, with flexible remote work ranging from $100-$250/hour depending on project and experience. “Halluminate has been a great experience. You get to test cutting-edge AI",
+      "captureMethod": "visible-text-needle",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s38",
+      "canonicalUrl": "https://arxiv.org/abs/2204.05862",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2204.05862",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Computer Science > Computation and Language"
+      },
+      "excerpt": "Computer Science > Computation and Language",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s39",
+      "canonicalUrl": "https://arxiv.org/abs/2305.18290",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2305.18290",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Computer Science > Machine Learning"
+      },
+      "excerpt": "Computer Science > Machine Learning",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s40",
+      "canonicalUrl": "https://arxiv.org/abs/2307.13854",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2307.13854",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Computer Science > Artificial Intelligence"
+      },
+      "excerpt": "Computer Science > Artificial Intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s41",
+      "canonicalUrl": "https://arxiv.org/abs/2404.07972",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2404.07972",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Computer Science > Artificial Intelligence"
+      },
+      "excerpt": "Computer Science > Artificial Intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s42",
+      "canonicalUrl": "https://arxiv.org/abs/2406.12045",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2406.12045",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Computer Science > Artificial Intelligence"
+      },
+      "excerpt": "Computer Science > Artificial Intelligence",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s43",
+      "canonicalUrl": "https://www.langchain.com/langsmith-platform",
+      "status": 200,
+      "finalUrl": "https://www.langchain.com/langsmith-platform",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — LangSmith: The Agent Engineering Platform"
+      },
+      "excerpt": "LangSmith: The Agent Engineering Platform",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s44",
+      "canonicalUrl": "https://huggingface.co/openenv",
+      "status": 200,
+      "finalUrl": "https://huggingface.co/openenv",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — OpenEnv: Agentic Execution Environments"
+      },
+      "excerpt": "OpenEnv: Agentic Execution Environments",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s45",
+      "canonicalUrl": "https://www.browserbase.com/blog/browserenv",
+      "status": 200,
+      "finalUrl": "https://www.browserbase.com/blog/browserenv",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Introducing BrowserEnv: Train browser agents on real websites"
+      },
+      "excerpt": "Introducing BrowserEnv: Train browser agents on real websites",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s46",
+      "canonicalUrl": "https://docs.primeintellect.ai/verifiers/environments",
+      "status": 404,
+      "finalUrl": "https://docs.primeintellect.ai/verifiers/environments",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "Transport metadata — HTTP 404"
+      },
+      "excerpt": "Direct source content returned HTTP 404 at the research cutoff",
+      "captureMethod": "transport-metadata",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s47",
+      "canonicalUrl": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+      "status": 200,
+      "finalUrl": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — An FAQ on Reinforcement Learning Environments"
+      },
+      "excerpt": "An FAQ on Reinforcement Learning Environments",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s48",
+      "canonicalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Amazon Bedrock AgentCore"
+      },
+      "excerpt": "Amazon Bedrock AgentCore",
+      "captureMethod": "html-title",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s49",
+      "canonicalUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
+      "status": 200,
+      "finalUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — A shared playbook for trustworthy third party evaluations"
+      },
+      "excerpt": "A shared playbook for trustworthy third party evaluations",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s50",
+      "canonicalUrl": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "status": 200,
+      "finalUrl": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — A new initiative for developing third-party model evaluations"
+      },
+      "excerpt": "A new initiative for developing third-party model evaluations",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s51",
+      "canonicalUrl": "https://openai.com/index/strengthening-safety-with-external-testing/",
+      "status": 200,
+      "finalUrl": "https://openai.com/index/strengthening-safety-with-external-testing/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Strengthening our safety ecosystem with external testing"
+      },
+      "excerpt": "Strengthening our safety ecosystem with external testing",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s52",
+      "canonicalUrl": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq7806yk1ll4.pdf",
+      "status": 200,
+      "finalUrl": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq7806yk1ll4.pdf",
+      "contentType": "application/pdf",
+      "locator": {
+        "kind": "page",
+        "value": "Page 7 — text containing “Underlying EBITDA”"
+      },
+      "excerpt": "$230.8M 4.5% 1 from $220.9M in FY24 Underlying EBITDA before FX $12.2M 250.8% from $3.5M in FY24 Underlying EBITDA $12.6M 60.8% from $7.8M in FY24",
+      "captureMethod": "pdf-text-page",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s53",
+      "canonicalUrl": "https://ir.taskus.com/static-files/b6125cd3-8571-40f2-a8f0-0e7033fff501",
+      "status": 200,
+      "finalUrl": "https://ir.taskus.com/static-files/b6125cd3-8571-40f2-a8f0-0e7033fff501",
+      "contentType": "application/pdf",
+      "locator": {
+        "kind": "page",
+        "value": "Transport metadata — HTTP 200 application/pdf"
+      },
+      "excerpt": "Only transport metadata was captured; document contents were not verified at the research cutoff",
+      "captureMethod": "transport-metadata",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s54",
+      "canonicalUrl": "https://www.gov.uk/government/publications/trusted-third-party-ai-assurance-roadmap/trusted-third-party-ai-assurance-roadmap",
+      "status": 200,
+      "finalUrl": "https://www.gov.uk/government/publications/trusted-third-party-ai-assurance-roadmap/trusted-third-party-ai-assurance-roadmap",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "Transport metadata — HTTP 200 cookie-banner chrome"
+      },
+      "excerpt": "Only cookie-banner chrome was captured; no substantive roadmap body passage was verified",
+      "captureMethod": "transport-metadata",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s55",
+      "canonicalUrl": "https://www.gov.uk/government/publications/assuring-a-responsible-future-for-ai/assuring-a-responsible-future-for-ai",
+      "status": 200,
+      "finalUrl": "https://www.gov.uk/government/publications/assuring-a-responsible-future-for-ai/assuring-a-responsible-future-for-ai",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Assuring a Responsible Future for AI"
+      },
+      "excerpt": "Assuring a Responsible Future for AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s56",
+      "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/037042-2025/PDF",
+      "status": 403,
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/037042-2025/PDF",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "page",
+        "value": "Pages 1-7 — AISI Research and Evals Partner for Cyber"
+      },
+      "excerpt": "The procurement sought a research and evaluations partner for cyber capability work",
+      "captureMethod": "search-indexed-official-pdf",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s57",
+      "canonicalUrl": "https://aws.amazon.com/marketplace/pp/prodview-vmzygmggk4gms",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/marketplace/pp/prodview-vmzygmggk4gms",
+      "contentType": "text/html;charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — LangSmith Agent Engineering Platform"
+      },
+      "excerpt": "LangSmith Agent Engineering Platform",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s58",
+      "canonicalUrl": "https://www.pwc.com/us/en/services/audit-assurance/digital-assurance-transparency/assurance-ai.html",
+      "status": 200,
+      "finalUrl": "https://www.pwc.com/us/en/services/audit-assurance/digital-assurance-transparency/assurance-ai.html",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Assurance for AI"
+      },
+      "excerpt": "Assurance for AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s59",
+      "canonicalUrl": "https://www.deloitte.com/nl/en/services/audit-assurance/services/algorithm-ai-assurance.html",
+      "status": 200,
+      "finalUrl": "https://www.deloitte.com/nl/en/services/audit-assurance/services/algorithm-ai-assurance.html",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Independent Assurance"
+      },
+      "excerpt": "Independent Assurance",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-insurance-operations"
+    },
+    {
+      "sourceId": "src_s60",
+      "canonicalUrl": "https://www.bsigroup.com/en-GB/products-and-services/standards/iso-42001-ai-management-system/",
+      "status": 200,
+      "finalUrl": "https://www.bsigroup.com/en-GB/products-and-services/standards/iso-42001-ai-management-system/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — ISO/IEC 42001 - AI Management System"
+      },
+      "excerpt": "ISO/IEC 42001 - AI Management System",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s61",
+      "canonicalUrl": "https://agentexperience.ax/",
+      "status": 200,
+      "finalUrl": "https://agentexperience.ax/",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Agent Experience"
+      },
+      "excerpt": "Agent Experience",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s62",
+      "canonicalUrl": "https://www.deloitte.com/cbc/en/what-we-do/capabilities/agentic-ai.html",
+      "status": 200,
+      "finalUrl": "https://www.deloitte.com/cbc/en/what-we-do/capabilities/agentic-ai.html",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Agentic AI"
+      },
+      "excerpt": "Agentic AI",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s63",
+      "canonicalUrl": "https://www.prolific.com/pricing",
+      "status": 200,
+      "finalUrl": "https://www.prolific.com/pricing",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H2 — Estimate your platform pricing"
+      },
+      "excerpt": "Estimate your platform pricing",
+      "captureMethod": "html-h2",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s64",
+      "canonicalUrl": "https://www.braintrust.dev/pricing",
+      "status": 200,
+      "finalUrl": "https://www.braintrust.dev/pricing",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Predictable pricing. Designed to scale."
+      },
+      "excerpt": "Predictable pricing. Designed to scale.",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s65",
+      "canonicalUrl": "https://www.langchain.com/pricing",
+      "status": 200,
+      "finalUrl": "https://www.langchain.com/pricing",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Plans for teams of any size"
+      },
+      "excerpt": "Plans for teams of any size",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s66",
+      "canonicalUrl": "https://www.browserbase.com/pricing",
+      "status": 200,
+      "finalUrl": "https://www.browserbase.com/pricing",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Four plans. One platform."
+      },
+      "excerpt": "Four plans. One platform.",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s67",
+      "canonicalUrl": "https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027",
+      "status": 200,
+      "finalUrl": "https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027",
+      "contentType": "text/html; charset=UTF-8",
+      "locator": {
+        "kind": "paragraph",
+        "value": "Over 40% of agentic AI projects will be canceled…due to escalating costs, unclear business value"
+      },
+      "excerpt": "Over 40% of agentic AI projects will be canceled…due to escalating costs, unclear business value",
+      "captureMethod": "exa-fetched-exact-excerpt",
+      "observerGroup": "exa-receipt-enterprise-software-support"
+    },
+    {
+      "sourceId": "src_s68",
+      "canonicalUrl": "https://www.halluminate.ai/blog/westworld",
+      "status": 200,
+      "finalUrl": "https://www.halluminate.ai/blog/westworld",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Westworld v1"
+      },
+      "excerpt": "Westworld v1",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s69",
+      "canonicalUrl": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents",
+      "status": 200,
+      "finalUrl": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — How We Built LangSmith Engine, Our Agent for Improving Agents"
+      },
+      "excerpt": "How We Built LangSmith Engine, Our Agent for Improving Agents",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s70",
+      "canonicalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Evaluate agent performance with Amazon Bedrock AgentCore Evaluations"
+      },
+      "excerpt": "Evaluate agent performance with Amazon Bedrock AgentCore Evaluations",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s71",
+      "canonicalUrl": "https://aws.amazon.com/bedrock/agentcore/pricing/",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/bedrock/agentcore/pricing/",
+      "contentType": "text/html;charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Amazon Bedrock AgentCore Pricing"
+      },
+      "excerpt": "Amazon Bedrock AgentCore Pricing",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s72",
+      "canonicalUrl": "https://www.fleetai.com/",
+      "status": 200,
+      "finalUrl": "https://www.fleetai.com/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Fleet"
+      },
+      "excerpt": "Fleet",
+      "captureMethod": "html-title",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s73",
+      "canonicalUrl": "https://vibrantlabs.com/",
+      "status": 200,
+      "finalUrl": "https://vibrantlabs.com/",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Autoscaled RL data for frontier agents"
+      },
+      "excerpt": "Autoscaled RL data for frontier agents",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s74",
+      "canonicalUrl": "https://research.turing.com/",
+      "status": 200,
+      "finalUrl": "https://research.turing.com/",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "page",
+        "value": "<title> — Turing Research"
+      },
+      "excerpt": "Turing Research",
+      "captureMethod": "html-title",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s75",
+      "canonicalUrl": "https://www.ycombinator.com/companies/halluminate",
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/halluminate",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — Tldr"
+      },
+      "excerpt": "Tldr",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s76",
+      "canonicalUrl": "https://www.micro1.ai/case-study/competitive-programmers",
+      "status": 200,
+      "finalUrl": "https://www.micro1.ai/case-study/competitive-programmers",
+      "contentType": "text/html; charset=utf-8",
+      "locator": {
+        "kind": "html_heading",
+        "value": "H1 — We helped a frontier AI lab hire 60 competitive programmers in three weeks"
+      },
+      "excerpt": "We helped a frontier AI lab hire 60 competitive programmers in three weeks",
+      "captureMethod": "html-h1",
+      "observerGroup": "canonical-source-locator-capture"
+    },
+    {
+      "sourceId": "src_s77",
+      "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/001340-2025",
+      "status": 403,
+      "finalUrl": "https://www.find-tender.service.gov.uk/Notice/001340-2025",
+      "contentType": "text/html",
+      "locator": {
+        "kind": "page",
+        "value": "Transport metadata — HTTP 403"
+      },
+      "excerpt": "Direct source content was unavailable at the research cutoff",
+      "captureMethod": "transport-metadata",
+      "observerGroup": "canonical-source-locator-capture"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Supplemental post-cutoff census validation, 2026-07-12
+
+command=node --test scripts/research/supplemental-census.test.mjs
+covered_by_full_suite=true
+status=PASS
+tests=2
+inputs=50
+additions=47
+core_merges=2
+unresolved=1
+unknown_status=45
+acquired_closed=2
+core_census_affected=false
+
+Negative-path gate
+- A supplemental candidate carrying a canonical locator or canonicalReady=true is rejected as SUPPLEMENTAL_PREMATURE_PROMOTION.
+- The supplemental register remains post-cutoff and cannot masquerade as cutoff-current canonical evidence.

@@ -1,0 +1,20 @@
+TAP version 13
+# Subtest: does not count a claim ID that appears only in a source comment
+ok 1 - does not count a claim ID that appears only in a source comment
+  ---
+  duration_ms: 20.998292
+  ...
+# Subtest: accepts an exact rendered-claim ledger
+ok 2 - accepts an exact rendered-claim ledger
+  ---
+  duration_ms: 20.851875
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 69.069458

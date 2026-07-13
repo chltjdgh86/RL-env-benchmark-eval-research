@@ -1,0 +1,20 @@
+TAP version 13
+# Subtest: allows a feature scope manifest before its modules are integrated
+ok 1 - allows a feature scope manifest before its modules are integrated
+  ---
+  duration_ms: 0.651209
+  ...
+# Subtest: rejects a feature scope manifest that claims a foreign path
+ok 2 - rejects a feature scope manifest that claims a foreign path
+  ---
+  duration_ms: 0.160167
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 32.185792

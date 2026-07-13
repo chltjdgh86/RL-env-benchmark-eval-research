@@ -1,0 +1,5 @@
+$ node scripts/qa/render-semantic-audit.mjs --check && node scripts/qa/check-semantic-audit.mjs
+SEMANTIC_AUDIT_RENDER_OK relationships=35 receipts=70 independent=false
+SEMANTIC_AUDIT_OK
+
+EXIT_CODE=0

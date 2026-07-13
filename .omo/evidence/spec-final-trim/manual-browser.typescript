@@ -1,0 +1,12 @@
+^D39 |   ["Vmax", "https://vmax.ai"],
+40 |   ["TrainLoop", "https://www.trainloop.ai"],
+41 | ]
+42 | 
+43 | const assert = (condition, message) => {
+44 |   if (!condition) throw new Error(message)
+                             ^
+error: Companies eyebrow: undefined
+      at assert (/Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/evidence/spec-final-trim/manual-browser.mjs:44:25)
+      at /Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/evidence/spec-final-trim/manual-browser.mjs:99:1
+
+Bun v1.2.5 (macOS arm64)

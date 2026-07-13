@@ -1,0 +1,1 @@
+{"core":[234,234,562,10,9,63,10,25,31,70],"indexedClaims":562,"supplemental":[47,2,1],"coreCensusAffected":false}

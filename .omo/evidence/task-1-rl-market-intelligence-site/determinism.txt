@@ -1,0 +1,5 @@
+command=hash generated corpus/migrations/schemas/synthesis; build and render; hash again
+exit_code=0
+before=bc0498fe72b018d80e0efe0d35d55c58f338ae25e6a80933e0484646f5c09ee8
+after=bc0498fe72b018d80e0efe0d35d55c58f338ae25e6a80933e0484646f5c09ee8
+DETERMINISM_OK sha256=bc0498fe72b018d80e0efe0d35d55c58f338ae25e6a80933e0484646f5c09ee8

@@ -1,0 +1,13 @@
+command=node scripts/research/build-corpus.mjs
+exit_code=0
+sources=234
+observations=234
+claims=562
+companies=10
+industries=9
+adjacent=63
+buyerEvidence=10
+marketAnalysis=25
+strategies=31
+strategyResearchReceipts=70
+migrationAnchors=218

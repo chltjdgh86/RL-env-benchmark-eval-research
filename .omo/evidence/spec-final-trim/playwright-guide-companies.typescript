@@ -1,0 +1,12 @@
+^D
+Running 4 tests using 1 worker
+
+
+(node:85130) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1/4] [chromium] › e2e/routes.spec.ts:47:3 › guide stays within the 1280px document width
+[2/4] [chromium] › e2e/routes.spec.ts:65:3 › guide reflows without document overflow at 320px
+[3/4] [chromium] › e2e/routes.spec.ts:47:3 › companies stays within the 1280px document width
+[4/4] [chromium] › e2e/routes.spec.ts:65:3 › companies reflows without document overflow at 320px
+  4 passed (3.5s)

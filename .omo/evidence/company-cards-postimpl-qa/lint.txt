@@ -1,0 +1,4 @@
+$ biome check .
+Checked 145 files in 33ms. No fixes applied.
+
+EXIT_CODE=0

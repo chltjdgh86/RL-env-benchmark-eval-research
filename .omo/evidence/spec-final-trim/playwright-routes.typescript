@@ -1,0 +1,635 @@
+^D$ playwright test
+
+Running 17 tests using 3 workers
+
+
+(node:80729) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:80728) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:80727) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px
+[2/17] [chromium] › e2e/routes.spec.ts:33:1 › Showcase keeps the atlas title as the only level-one heading
+[3/17] [chromium] › e2e/app-shell.spec.ts:4:1 › app shell smoke exposes the application landmark
+  1) [chromium] › e2e/app-shell.spec.ts:4:1 › app shell smoke exposes the application landmark ─────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/
+    Call log:
+      - navigating to "http://127.0.0.1:4173/", waiting until "load"
+
+
+      11 |   })
+      12 |   // When: a reader opens the atlas scaffold.
+    > 13 |   await page.goto("/")
+         |              ^
+      14 |
+      15 |   // Then: the client mount exposes the named main landmark.
+      16 |   await expect(page.getByRole("main", { name: "RL Economy Atlas" })).toBeVisible()
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/app-shell.spec.ts:13:14
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/app-shell-app-shell-smoke-exposes-the-application-landmark-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/app-shell-app-shell-smoke-exposes-the-application-landmark-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/app-shell-app-shell-smoke-exposes-the-application-landmark-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/app-shell-app-shell-smoke-exposes-the-application-landmark-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  2) [chromium] › e2e/routes.spec.ts:33:1 › Showcase keeps the atlas title as the only level-one heading 
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+      33 | test("Showcase keeps the atlas title as the only level-one heading", async ({ page }) => {
+      34 |   // Given: the component showcase embedded inside the atlas shell.
+    > 35 |   await page.goto("/#/showcase")
+         |              ^
+      36 |
+      37 |   // When: the route outline is exposed to assistive technology.
+      38 |   const levelOneHeadings = page.getByRole("heading", { level: 1 })
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:35:14
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-Showcase-keeps-the--99855--the-only-level-one-heading-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-Showcase-keeps-the--99855--the-only-level-one-heading-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-Showcase-keeps-the--99855--the-only-level-one-heading-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-Showcase-keeps-the--99855--the-only-level-one-heading-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  3) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px ───────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+       8 |     // Given: the canonical showcase route at the target CSS-pixel width.
+       9 |     await page.setViewportSize({ height: 900, width })
+    > 10 |     await page.goto("/#/showcase")
+         |                ^
+      11 |
+      12 |     // When: the complete primitive surface settles.
+      13 |     await expect(page.getByRole("heading", { level: 2, name: "Primitive showcase" })).toBeVisible()
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:10:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:80811) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:80810) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:80812) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[4/17] [chromium] › e2e/routes.spec.ts:47:3 › guide stays within the 1280px document width
+[5/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 375px
+[6/17] [chromium] › e2e/app-shell.spec.ts:21:1 › app shell has no automated accessibility violations
+  4) [chromium] › e2e/routes.spec.ts:47:3 › guide stays within the 1280px document width ───────────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?visualQa=20260712b#/guide
+    Call log:
+      - navigating to "http://127.0.0.1:4173/?visualQa=20260712b#/guide", waiting until "load"
+
+
+      50 |
+      51 |     // When: the production route finishes rendering.
+    > 52 |     await page.goto(`/?visualQa=20260712b#/${route}`)
+         |                ^
+      53 |     const dimensions = await page.evaluate(() => ({
+      54 |       clientWidth: document.documentElement.clientWidth,
+      55 |       scrollWidth: document.documentElement.scrollWidth,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:52:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-guide-stays-within-the-1280px-document-width-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-guide-stays-within-the-1280px-document-width-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-guide-stays-within-the-1280px-document-width-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-guide-stays-within-the-1280px-document-width-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  5) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 375px ───────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+       8 |     // Given: the canonical showcase route at the target CSS-pixel width.
+       9 |     await page.setViewportSize({ height: 900, width })
+    > 10 |     await page.goto("/#/showcase")
+         |                ^
+      11 |
+      12 |     // When: the complete primitive surface settles.
+      13 |     await expect(page.getByRole("heading", { level: 2, name: "Primitive showcase" })).toBeVisible()
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:10:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-375px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  6) [chromium] › e2e/app-shell.spec.ts:21:1 › app shell has no automated accessibility violations ─
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/
+    Call log:
+      - navigating to "http://127.0.0.1:4173/", waiting until "load"
+
+
+      21 | test("app shell has no automated accessibility violations", async ({ page }) => {
+      22 |   // Given: the production scaffold rendered in Chromium.
+    > 23 |   await page.goto("/")
+         |              ^
+      24 |   // When: the browser surface is audited against axe rules.
+      25 |   const results = await new AxeBuilder({ page }).analyze()
+      26 |   // Then: the scaffold introduces no accessibility violation.
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/app-shell.spec.ts:23:14
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/app-shell-app-shell-has-no-15499-ed-accessibility-violations-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/app-shell-app-shell-has-no-15499-ed-accessibility-violations-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/app-shell-app-shell-has-no-15499-ed-accessibility-violations-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/app-shell-app-shell-has-no-15499-ed-accessibility-violations-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:80859) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:80876) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[7/17] [chromium] › e2e/routes.spec.ts:65:3 › guide reflows without document overflow at 320px
+[8/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 768px
+  7) [chromium] › e2e/routes.spec.ts:65:3 › guide reflows without document overflow at 320px ───────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?visualQa=20260712b#/guide
+    Call log:
+      - navigating to "http://127.0.0.1:4173/?visualQa=20260712b#/guide", waiting until "load"
+
+
+      68 |
+      69 |     // When: the production route finishes rendering.
+    > 70 |     await page.goto(`/?visualQa=20260712b#/${route}`)
+         |                ^
+      71 |     const dimensions = await page.evaluate(() => ({
+      72 |       clientWidth: document.documentElement.clientWidth,
+      73 |       scrollWidth: document.documentElement.scrollWidth,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:70:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-guide-reflows-without-document-overflow-at-320px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-guide-reflows-without-document-overflow-at-320px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-guide-reflows-without-document-overflow-at-320px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-guide-reflows-without-document-overflow-at-320px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  8) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 768px ───────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+       8 |     // Given: the canonical showcase route at the target CSS-pixel width.
+       9 |     await page.setViewportSize({ height: 900, width })
+    > 10 |     await page.goto("/#/showcase")
+         |                ^
+      11 |
+      12 |     // When: the complete primitive surface settles.
+      13 |     await expect(page.getByRole("heading", { level: 2, name: "Primitive showcase" })).toBeVisible()
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:10:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-768px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:80917) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:80918) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[9/17] [chromium] › e2e/routes.spec.ts:47:3 › companies stays within the 1280px document width
+[10/17] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 1280px
+  9) [chromium] › e2e/routes.spec.ts:47:3 › companies stays within the 1280px document width ───────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?visualQa=20260712b#/companies
+    Call log:
+      - navigating to "http://127.0.0.1:4173/?visualQa=20260712b#/companies", waiting until "load"
+
+
+      50 |
+      51 |     // When: the production route finishes rendering.
+    > 52 |     await page.goto(`/?visualQa=20260712b#/${route}`)
+         |                ^
+      53 |     const dimensions = await page.evaluate(() => ({
+      54 |       clientWidth: document.documentElement.clientWidth,
+      55 |       scrollWidth: document.documentElement.scrollWidth,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:52:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-companies-stays-within-the-1280px-document-width-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-companies-stays-within-the-1280px-document-width-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-companies-stays-within-the-1280px-document-width-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-companies-stays-within-the-1280px-document-width-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  10) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 1280px ─────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+       8 |     // Given: the canonical showcase route at the target CSS-pixel width.
+       9 |     await page.setViewportSize({ height: 900, width })
+    > 10 |     await page.goto("/#/showcase")
+         |                ^
+      11 |
+      12 |     // When: the complete primitive surface settles.
+      13 |     await expect(page.getByRole("heading", { level: 2, name: "Primitive showcase" })).toBeVisible()
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:10:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-1280px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:80969) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:80970) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[11/17] [chromium] › e2e/showcase.spec.ts:28:1 › showcase survives the exact WCAG text-spacing override
+[12/17] [chromium] › e2e/routes.spec.ts:65:3 › companies reflows without document overflow at 320px
+  11) [chromium] › e2e/showcase.spec.ts:28:1 › showcase survives the exact WCAG text-spacing override 
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+      29 |   // Given: a 320px effective viewport and the canonical showcase route.
+      30 |   await page.setViewportSize({ height: 900, width: 320 })
+    > 31 |   await page.goto("/#/showcase")
+         |              ^
+      32 |
+      33 |   // When: WCAG 1.4.12 spacing is injected across the document.
+      34 |   await page.addStyleTag({
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:31:14
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-survives-d62d4--WCAG-text-spacing-override-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  12) [chromium] › e2e/routes.spec.ts:65:3 › companies reflows without document overflow at 320px ──
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?visualQa=20260712b#/companies
+    Call log:
+      - navigating to "http://127.0.0.1:4173/?visualQa=20260712b#/companies", waiting until "load"
+
+
+      68 |
+      69 |     // When: the production route finishes rendering.
+    > 70 |     await page.goto(`/?visualQa=20260712b#/${route}`)
+         |                ^
+      71 |     const dimensions = await page.evaluate(() => ({
+      72 |       clientWidth: document.documentElement.clientWidth,
+      73 |       scrollWidth: document.documentElement.scrollWidth,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:70:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-companies-reflows-without-document-overflow-at-320px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-companies-reflows-without-document-overflow-at-320px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-companies-reflows-without-document-overflow-at-320px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-companies-reflows-without-document-overflow-at-320px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:81013) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:81014) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[13/17] [chromium] › e2e/showcase.spec.ts:51:1 › showcase survives four-times page scale at its effective 320px viewport
+[14/17] [chromium] › e2e/routes.spec.ts:47:3 › showcase stays within the 1280px document width
+  13) [chromium] › e2e/routes.spec.ts:47:3 › showcase stays within the 1280px document width ───────
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?visualQa=20260712b#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/?visualQa=20260712b#/showcase", waiting until "load"
+
+
+      50 |
+      51 |     // When: the production route finishes rendering.
+    > 52 |     await page.goto(`/?visualQa=20260712b#/${route}`)
+         |                ^
+      53 |     const dimensions = await page.evaluate(() => ({
+      54 |       clientWidth: document.documentElement.clientWidth,
+      55 |       scrollWidth: document.documentElement.scrollWidth,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:52:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-showcase-stays-within-the-1280px-document-width-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-showcase-stays-within-the-1280px-document-width-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-showcase-stays-within-the-1280px-document-width-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-showcase-stays-within-the-1280px-document-width-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  14) [chromium] › e2e/showcase.spec.ts:51:1 › showcase survives four-times page scale at its effective 320px viewport 
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+      54 |   // Given: the effective viewport used by a four-times page-scale stress test.
+      55 |   await page.setViewportSize({ height: 900, width: 320 })
+    > 56 |   await page.goto("/#/showcase")
+         |              ^
+      57 |   const session = await page.context().newCDPSession(page)
+      58 |
+      59 |   // When: Chromium applies a four-times page scale factor.
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:56:14
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-survives-1a113-ts-effective-320px-viewport-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-survives-1a113-ts-effective-320px-viewport-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-survives-1a113-ts-effective-320px-viewport-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-survives-1a113-ts-effective-320px-viewport-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:81047) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:81048) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[15/17] [chromium] › e2e/showcase.spec.ts:68:1 › drawer closes with Escape and restores trigger focus
+[16/17] [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px
+  15) [chromium] › e2e/showcase.spec.ts:68:1 › drawer closes with Escape and restores trigger focus 
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+      68 | test("drawer closes with Escape and restores trigger focus", async ({ page }) => {
+      69 |   // Given: the canonical route and its evidence-drawer trigger.
+    > 70 |   await page.goto("/#/showcase")
+         |              ^
+      71 |   const trigger = page.getByRole("button", { name: "Open Evidence drawer" })
+      72 |
+      73 |   // When: the drawer opens and the reader presses Escape.
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:70:14
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-drawer-closes-wit-00d63--and-restores-trigger-focus-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-drawer-closes-wit-00d63--and-restores-trigger-focus-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-drawer-closes-wit-00d63--and-restores-trigger-focus-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-drawer-closes-wit-00d63--and-restores-trigger-focus-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  16) [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px ───
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?visualQa=20260712b#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/?visualQa=20260712b#/showcase", waiting until "load"
+
+
+      68 |
+      69 |     // When: the production route finishes rendering.
+    > 70 |     await page.goto(`/?visualQa=20260712b#/${route}`)
+         |                ^
+      71 |     const dimensions = await page.evaluate(() => ({
+      72 |       clientWidth: document.documentElement.clientWidth,
+      73 |       scrollWidth: document.documentElement.scrollWidth,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/routes.spec.ts:70:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/routes-showcase-reflows-without-document-overflow-at-320px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+(node:81111) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[17/17] [chromium] › e2e/showcase.spec.ts:83:1 › showcase remains operable under reduced motion and forced colors
+  17) [chromium] › e2e/showcase.spec.ts:83:1 › showcase remains operable under reduced motion and forced colors 
+
+    Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/#/showcase
+    Call log:
+      - navigating to "http://127.0.0.1:4173/#/showcase", waiting until "load"
+
+
+      91 |
+      92 |   // When: the canonical showcase route renders.
+    > 93 |   await page.goto("/#/showcase")
+         |              ^
+      94 |
+      95 |   // Then: navigation and disclosure controls remain visible and operable.
+      96 |   await expect(page.getByRole("navigation", { name: "Showcase utility navigation" })).toBeVisible()
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:93:14
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-remains--0749b-ed-motion-and-forced-colors-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-remains--0749b-ed-motion-and-forced-colors-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-remains--0749b-ed-motion-and-forced-colors-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-remains--0749b-ed-motion-and-forced-colors-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  17 failed
+    [chromium] › e2e/app-shell.spec.ts:4:1 › app shell smoke exposes the application landmark ──────
+    [chromium] › e2e/app-shell.spec.ts:21:1 › app shell has no automated accessibility violations ──
+    [chromium] › e2e/routes.spec.ts:33:1 › Showcase keeps the atlas title as the only level-one heading 
+    [chromium] › e2e/routes.spec.ts:47:3 › guide stays within the 1280px document width ────────────
+    [chromium] › e2e/routes.spec.ts:65:3 › guide reflows without document overflow at 320px ────────
+    [chromium] › e2e/routes.spec.ts:47:3 › companies stays within the 1280px document width ────────
+    [chromium] › e2e/routes.spec.ts:65:3 › companies reflows without document overflow at 320px ────
+    [chromium] › e2e/routes.spec.ts:47:3 › showcase stays within the 1280px document width ─────────
+    [chromium] › e2e/routes.spec.ts:65:3 › showcase reflows without document overflow at 320px ─────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px ────────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 375px ────────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 768px ────────
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 1280px ───────
+    [chromium] › e2e/showcase.spec.ts:28:1 › showcase survives the exact WCAG text-spacing override 
+    [chromium] › e2e/showcase.spec.ts:51:1 › showcase survives four-times page scale at its effective 320px viewport 
+    [chromium] › e2e/showcase.spec.ts:68:1 › drawer closes with Escape and restores trigger focus ──
+    [chromium] › e2e/showcase.spec.ts:83:1 › showcase remains operable under reduced motion and forced colors 
+error: script "test:e2e" exited with code 1

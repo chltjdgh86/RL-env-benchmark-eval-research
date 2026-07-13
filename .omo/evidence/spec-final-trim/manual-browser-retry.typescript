@@ -1,0 +1,261 @@
+^D{
+  "browserErrors": [],
+  "companies": {
+    "documentWidth": {
+      "client": 1280,
+      "scroll": 1280
+    },
+    "eyebrow": "Companies",
+    "h1Count": 1,
+    "locationHash": "#/companies?q=Scale"
+  },
+  "guide": {
+    "documentWidth": {
+      "client": 1280,
+      "scroll": 1280
+    },
+    "external": [
+      {
+        "href": "https://scale.com",
+        "name": "Scale AI",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.turing.com",
+        "name": "Turing",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.micro1.ai",
+        "name": "Micro1",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.mercor.com",
+        "name": "Mercor",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.afterquery.com",
+        "name": "AfterQuery",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://snorkel.ai",
+        "name": "Snorkel AI",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://deeptune.com",
+        "name": "Deeptune",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.fleetai.com",
+        "name": "Fleet AI",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://refresh.dev",
+        "name": "Refresh",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.halluminate.ai",
+        "name": "Halluminate",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://vibrantlabs.com",
+        "name": "Vibrant Labs",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.primeintellect.ai",
+        "name": "Prime Intellect",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://chakra.dev",
+        "name": "Chakra Labs",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://hud.ai",
+        "name": "HUD",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://plato.so",
+        "name": "Plato",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://mechanize.work",
+        "name": "Mechanize",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://bespokelabs.ai",
+        "name": "Bespoke Labs",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://habitat.inc",
+        "name": "Habitat",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://cua.ai",
+        "name": "Cua",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.benchflow.ai",
+        "name": "BenchFlow",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://aviro.ai",
+        "name": "Aviro",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://thetasoftware.com",
+        "name": "Theta",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://quesma.com",
+        "name": "Quesma",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://labs.huzzle.com",
+        "name": "Huzzle Labs",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://matrices.ai",
+        "name": "Matrices",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.hillclimb.com",
+        "name": "hillclimb",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://andromede.ai",
+        "name": "Andromede",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://calaveras.ai",
+        "name": "Calaveras AI",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://idler.ai",
+        "name": "Idler",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://aichamp.com",
+        "name": "AIChamp",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://gr.inc",
+        "name": "General Reasoning",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.preferencemodel.com",
+        "name": "Preference Model",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://goodstartlabs.com",
+        "name": "Good Start Labs",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://vmax.ai",
+        "name": "Vmax",
+        "rel": "noreferrer",
+        "target": "_blank"
+      },
+      {
+        "href": "https://www.trainloop.ai",
+        "name": "TrainLoop",
+        "rel": "noreferrer",
+        "target": "_blank"
+      }
+    ],
+    "h1Count": 1,
+    "inputs": [],
+    "internalHrefs": [
+      "#/guide?q=Scale",
+      "#/companies?q=Scale",
+      "#/companies",
+      "#/companies",
+      "#/companies"
+    ],
+    "locationHash": "#/guide?q=Scale",
+    "nav": [
+      {
+        "current": "page",
+        "href": "#/guide?q=Scale",
+        "text": "Field guide"
+      },
+      {
+        "current": null,
+        "href": "#/companies?q=Scale",
+        "text": "Companies"
+      }
+    ],
+    "partElevenCompanies": [
+      "#/companies?q=Scale",
+      "#/companies"
+    ]
+  },
+  "mobile": {
+    "client": 320,
+    "scroll": 320
+  },
+  "verdict": "PASS"
+}

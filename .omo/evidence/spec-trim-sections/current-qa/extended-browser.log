@@ -1,0 +1,56 @@
+$ playwright test "e2e/routes.spec.ts" "e2e/app-shell.spec.ts" "e2e/showcase.spec.ts"
+
+Running 27 tests using 3 workers
+
+
+(node:78562) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:78561) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:78560) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:78562) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:78561) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+(node:78560) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1/27] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px
+[2/27] [chromium] › e2e/routes.spec.ts:43:1 › Showcase keeps the atlas title as the only level-one heading
+[3/27] [chromium] › e2e/app-shell.spec.ts:4:1 › app shell smoke exposes the application landmark
+[4/27] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 375px
+[5/27] [chromium] › e2e/routes.spec.ts:57:3 › guide stays within the 1280px document width
+[6/27] [chromium] › e2e/app-shell.spec.ts:21:1 › app shell has no automated accessibility violations
+[7/27] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 768px
+[8/27] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 1280px
+[9/27] [chromium] › e2e/routes.spec.ts:75:3 › guide reflows without document overflow at 320px
+[10/27] [chromium] › e2e/showcase.spec.ts:28:1 › showcase survives the exact WCAG text-spacing override
+[11/27] [chromium] › e2e/showcase.spec.ts:51:1 › showcase survives four-times page scale at its effective 320px viewport
+[12/27] [chromium] › e2e/routes.spec.ts:57:3 › overview stays within the 1280px document width
+[13/27] [chromium] › e2e/showcase.spec.ts:68:1 › drawer closes with Escape and restores trigger focus
+[14/27] [chromium] › e2e/showcase.spec.ts:83:1 › showcase remains operable under reduced motion and forced colors
+[15/27] [chromium] › e2e/routes.spec.ts:75:3 › overview reflows without document overflow at 320px
+[16/27] [chromium] › e2e/routes.spec.ts:57:3 › market-map stays within the 1280px document width
+[17/27] [chromium] › e2e/routes.spec.ts:75:3 › market-map reflows without document overflow at 320px
+[18/27] [chromium] › e2e/routes.spec.ts:57:3 › industries stays within the 1280px document width
+[19/27] [chromium] › e2e/routes.spec.ts:75:3 › industries reflows without document overflow at 320px
+[20/27] [chromium] › e2e/routes.spec.ts:57:3 › companies stays within the 1280px document width
+[21/27] [chromium] › e2e/routes.spec.ts:75:3 › companies reflows without document overflow at 320px
+[22/27] [chromium] › e2e/routes.spec.ts:57:3 › showcase stays within the 1280px document width
+[23/27] [chromium] › e2e/routes.spec.ts:75:3 › showcase reflows without document overflow at 320px
+[24/27] [chromium] › e2e/routes.spec.ts:95:3 › gtm falls back to the field guide
+[25/27] [chromium] › e2e/routes.spec.ts:95:3 › economics falls back to the field guide
+[26/27] [chromium] › e2e/routes.spec.ts:95:3 › sources falls back to the field guide
+[27/27] [chromium] › e2e/routes.spec.ts:95:3 › methodology falls back to the field guide
+  27 passed (13.2s)

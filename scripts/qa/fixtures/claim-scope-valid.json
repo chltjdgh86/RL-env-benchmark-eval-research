@@ -1,0 +1,5 @@
+{
+  "scope": "companies",
+  "modulePaths": ["src/features/companies/Companies.tsx"],
+  "expectedClaimIds": ["clm_scale-current-offer"]
+}

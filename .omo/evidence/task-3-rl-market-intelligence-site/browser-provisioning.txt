@@ -1,0 +1,8 @@
+PLAYWRIGHT_INSTALL_EXIT:0
+PLAYWRIGHT_INSTALL_STDOUT:
+PLAYWRIGHT_INSTALL_STDERR:
+BROWSER_ATTEMPT:playwright-chromium:launched:/Users/sung/Library/Caches/ms-playwright/chromium-1228/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+BROWSER_KIND:playwright-chromium
+BROWSER_PATH:/Users/sung/Library/Caches/ms-playwright/chromium-1228/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+BROWSER_VERSION:149.0.7827.55
+BROWSER_LAUNCH_OUTCOME:success

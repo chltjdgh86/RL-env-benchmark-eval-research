@@ -1,0 +1,1648 @@
+[
+  {
+    "strategyId": "str_vertical-regulated-financial-operations",
+    "strategyType": "vertical_candidate",
+    "name": "Regulated Financial Operations",
+    "inferenceClaimIds": [
+      "clm_strategy-regulated-financial-operations-decision"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s01",
+      "obs_exa-regulated-financial-operations-fin-s02",
+      "obs_exa-regulated-financial-operations-fin-s04",
+      "obs_exa-regulated-financial-operations-fin-s07",
+      "obs_exa-regulated-financial-operations-fin-s09",
+      "obs_exa-regulated-financial-operations-fin-s10",
+      "obs_exa-regulated-financial-operations-fin-s15",
+      "obs_exa-regulated-financial-operations-fin-s16",
+      "obs_exa-regulated-financial-operations-fin-s17",
+      "obs_exa-regulated-financial-operations-fin-s20",
+      "obs_exa-regulated-financial-operations-fin-s22",
+      "obs_exa-regulated-financial-operations-fin-s24",
+      "obs_exa-regulated-financial-operations-fin-s26"
+    ],
+    "verticalCandidateId": "regulated_financial_operations",
+    "dimensionCells": {
+      "pain": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-regulated-financial-operations-pain"
+        ],
+        "observationIds": [
+          "obs_exa-regulated-financial-operations-fin-s01",
+          "obs_exa-regulated-financial-operations-fin-s02"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-regulated-financial-operations-pain-positive",
+        "negativeSearchReceiptId": "rr-regulated-financial-operations-pain-negative"
+      },
+      "willingnessToPay": {
+        "measuredLevel": 3,
+        "imputation": null,
+        "effectiveRawLevel": 3,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-regulated-financial-operations-willingnesstopay"
+        ],
+        "observationIds": [
+          "obs_exa-regulated-financial-operations-fin-s04"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-regulated-financial-operations-willingnesstopay-positive",
+        "negativeSearchReceiptId": "rr-regulated-financial-operations-willingnesstopay-negative"
+      },
+      "rightsAccess": {
+        "measuredLevel": 3,
+        "imputation": null,
+        "effectiveRawLevel": 3,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-regulated-financial-operations-rightsaccess"
+        ],
+        "observationIds": [
+          "obs_exa-regulated-financial-operations-fin-s07",
+          "obs_exa-regulated-financial-operations-fin-s09"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-regulated-financial-operations-rightsaccess-positive",
+        "negativeSearchReceiptId": "rr-regulated-financial-operations-rightsaccess-negative"
+      },
+      "verifierFeasibility": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-regulated-financial-operations-verifierfeasibility"
+        ],
+        "observationIds": [
+          "obs_exa-regulated-financial-operations-fin-s10",
+          "obs_exa-regulated-financial-operations-fin-s15"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-regulated-financial-operations-verifierfeasibility-positive",
+        "negativeSearchReceiptId": "rr-regulated-financial-operations-verifierfeasibility-negative"
+      },
+      "expertSupply": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-regulated-financial-operations-expertsupply"
+        ],
+        "observationIds": [
+          "obs_exa-regulated-financial-operations-fin-s16",
+          "obs_exa-regulated-financial-operations-fin-s17"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-regulated-financial-operations-expertsupply-positive",
+        "negativeSearchReceiptId": "rr-regulated-financial-operations-expertsupply-negative"
+      },
+      "freshnessBurden": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 1,
+        "claimIds": [
+          "clm_score-regulated-financial-operations-freshnessburden"
+        ],
+        "observationIds": [
+          "obs_exa-regulated-financial-operations-fin-s20",
+          "obs_exa-regulated-financial-operations-fin-s22"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-regulated-financial-operations-freshnessburden-positive",
+        "negativeSearchReceiptId": "rr-regulated-financial-operations-freshnessburden-negative"
+      },
+      "incumbentPressure": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 1,
+        "claimIds": [
+          "clm_score-regulated-financial-operations-incumbentpressure"
+        ],
+        "observationIds": [
+          "obs_exa-regulated-financial-operations-fin-s24",
+          "obs_exa-regulated-financial-operations-fin-s26"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-regulated-financial-operations-incumbentpressure-positive",
+        "negativeSearchReceiptId": "rr-regulated-financial-operations-incumbentpressure-negative"
+      }
+    },
+    "rawWeightedScore": 51,
+    "roundedScore": 51,
+    "caps": [
+      "benefit_cells_use_evidence_quality_caps",
+      "missing_cells_are_conservatively_imputed"
+    ],
+    "rightsBlocker": true,
+    "qualificationFailures": [
+      "full_precision_score_below_70",
+      "one_or_more_dimensions_below_3",
+      "fewer_than_two_separate_buyer_or_procurement_observations",
+      "rights_blocker"
+    ],
+    "decisionStatus": "no_go"
+  },
+  {
+    "strategyId": "str_vertical-insurance-operations",
+    "strategyType": "vertical_candidate",
+    "name": "Insurance Operations",
+    "inferenceClaimIds": [
+      "clm_strategy-insurance-operations-decision"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o01",
+      "obs_exa-insurance-operations-o03",
+      "obs_exa-insurance-operations-o14",
+      "obs_exa-insurance-operations-o18",
+      "obs_exa-insurance-operations-o20",
+      "obs_exa-insurance-operations-o25"
+    ],
+    "verticalCandidateId": "insurance_operations",
+    "dimensionCells": {
+      "pain": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-insurance-operations-pain"
+        ],
+        "observationIds": [
+          "obs_exa-insurance-operations-o01",
+          "obs_exa-insurance-operations-o03"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-insurance-operations-pain-positive",
+        "negativeSearchReceiptId": "rr-insurance-operations-pain-negative"
+      },
+      "willingnessToPay": {
+        "measuredLevel": null,
+        "imputation": "conservative_missing",
+        "effectiveRawLevel": 0,
+        "convertedScore": 0,
+        "claimIds": [],
+        "observationIds": [],
+        "missingReason": "The executed Exa lanes found no qualifying public evidence for a measured willingnessToPay score, so this cell remains conservatively missing.",
+        "positiveSearchReceiptId": "rr-insurance-operations-willingnesstopay-positive",
+        "negativeSearchReceiptId": "rr-insurance-operations-willingnesstopay-negative"
+      },
+      "rightsAccess": {
+        "measuredLevel": null,
+        "imputation": "conservative_missing",
+        "effectiveRawLevel": 0,
+        "convertedScore": 0,
+        "claimIds": [],
+        "observationIds": [],
+        "missingReason": "The executed Exa lanes found no qualifying public evidence for a measured rightsAccess score, so this cell remains conservatively missing.",
+        "positiveSearchReceiptId": "rr-insurance-operations-rightsaccess-positive",
+        "negativeSearchReceiptId": "rr-insurance-operations-rightsaccess-negative"
+      },
+      "verifierFeasibility": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-insurance-operations-verifierfeasibility"
+        ],
+        "observationIds": [
+          "obs_exa-insurance-operations-o14"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-insurance-operations-verifierfeasibility-positive",
+        "negativeSearchReceiptId": "rr-insurance-operations-verifierfeasibility-negative"
+      },
+      "expertSupply": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-insurance-operations-expertsupply"
+        ],
+        "observationIds": [
+          "obs_exa-insurance-operations-o18",
+          "obs_exa-insurance-operations-o20"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-insurance-operations-expertsupply-positive",
+        "negativeSearchReceiptId": "rr-insurance-operations-expertsupply-negative"
+      },
+      "freshnessBurden": {
+        "measuredLevel": null,
+        "imputation": "conservative_missing",
+        "effectiveRawLevel": 5,
+        "convertedScore": 0,
+        "claimIds": [],
+        "observationIds": [],
+        "missingReason": "The executed Exa lanes found no qualifying public evidence for a measured freshnessBurden score, so this cell remains conservatively missing.",
+        "positiveSearchReceiptId": "rr-insurance-operations-freshnessburden-positive",
+        "negativeSearchReceiptId": "rr-insurance-operations-freshnessburden-negative"
+      },
+      "incumbentPressure": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-insurance-operations-incumbentpressure"
+        ],
+        "observationIds": [
+          "obs_exa-insurance-operations-o25"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-insurance-operations-incumbentpressure-positive",
+        "negativeSearchReceiptId": "rr-insurance-operations-incumbentpressure-negative"
+      }
+    },
+    "rawWeightedScore": 24,
+    "roundedScore": 24,
+    "caps": [
+      "benefit_cells_use_evidence_quality_caps",
+      "missing_cells_are_conservatively_imputed"
+    ],
+    "rightsBlocker": true,
+    "qualificationFailures": [
+      "full_precision_score_below_70",
+      "one_or_more_dimensions_below_3",
+      "fewer_than_two_separate_buyer_or_procurement_observations",
+      "rights_blocker"
+    ],
+    "decisionStatus": "no_go"
+  },
+  {
+    "strategyId": "str_vertical-healthcare-administration",
+    "strategyType": "vertical_candidate",
+    "name": "Healthcare Administration",
+    "inferenceClaimIds": [
+      "clm_strategy-healthcare-administration-decision"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o01",
+      "obs_exa-healthcare-administration-o02",
+      "obs_exa-healthcare-administration-o05",
+      "obs_exa-healthcare-administration-o06",
+      "obs_exa-healthcare-administration-o07",
+      "obs_exa-healthcare-administration-o08",
+      "obs_exa-healthcare-administration-o12",
+      "obs_exa-healthcare-administration-o13",
+      "obs_exa-healthcare-administration-o16",
+      "obs_exa-healthcare-administration-o18",
+      "obs_exa-healthcare-administration-o19",
+      "obs_exa-healthcare-administration-o20",
+      "obs_exa-healthcare-administration-o21",
+      "obs_exa-healthcare-administration-o22",
+      "obs_exa-healthcare-administration-o25",
+      "obs_exa-healthcare-administration-o26"
+    ],
+    "verticalCandidateId": "healthcare_administration",
+    "dimensionCells": {
+      "pain": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-healthcare-administration-pain"
+        ],
+        "observationIds": [
+          "obs_exa-healthcare-administration-o01",
+          "obs_exa-healthcare-administration-o02"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-healthcare-administration-pain-positive",
+        "negativeSearchReceiptId": "rr-healthcare-administration-pain-negative"
+      },
+      "willingnessToPay": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-healthcare-administration-willingnesstopay"
+        ],
+        "observationIds": [
+          "obs_exa-healthcare-administration-o05",
+          "obs_exa-healthcare-administration-o06"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-healthcare-administration-willingnesstopay-positive",
+        "negativeSearchReceiptId": "rr-healthcare-administration-willingnesstopay-negative"
+      },
+      "rightsAccess": {
+        "measuredLevel": 3,
+        "imputation": null,
+        "effectiveRawLevel": 3,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-healthcare-administration-rightsaccess"
+        ],
+        "observationIds": [
+          "obs_exa-healthcare-administration-o07",
+          "obs_exa-healthcare-administration-o08"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-healthcare-administration-rightsaccess-positive",
+        "negativeSearchReceiptId": "rr-healthcare-administration-rightsaccess-negative"
+      },
+      "verifierFeasibility": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-healthcare-administration-verifierfeasibility"
+        ],
+        "observationIds": [
+          "obs_exa-healthcare-administration-o12",
+          "obs_exa-healthcare-administration-o13"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-healthcare-administration-verifierfeasibility-positive",
+        "negativeSearchReceiptId": "rr-healthcare-administration-verifierfeasibility-negative"
+      },
+      "expertSupply": {
+        "measuredLevel": 3,
+        "imputation": null,
+        "effectiveRawLevel": 3,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-healthcare-administration-expertsupply"
+        ],
+        "observationIds": [
+          "obs_exa-healthcare-administration-o16"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-healthcare-administration-expertsupply-positive",
+        "negativeSearchReceiptId": "rr-healthcare-administration-expertsupply-negative"
+      },
+      "freshnessBurden": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-healthcare-administration-freshnessburden"
+        ],
+        "observationIds": [
+          "obs_exa-healthcare-administration-o18",
+          "obs_exa-healthcare-administration-o19",
+          "obs_exa-healthcare-administration-o20",
+          "obs_exa-healthcare-administration-o21",
+          "obs_exa-healthcare-administration-o22"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-healthcare-administration-freshnessburden-positive",
+        "negativeSearchReceiptId": "rr-healthcare-administration-freshnessburden-negative"
+      },
+      "incumbentPressure": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 1,
+        "claimIds": [
+          "clm_score-healthcare-administration-incumbentpressure"
+        ],
+        "observationIds": [
+          "obs_exa-healthcare-administration-o25",
+          "obs_exa-healthcare-administration-o26"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-healthcare-administration-incumbentpressure-positive",
+        "negativeSearchReceiptId": "rr-healthcare-administration-incumbentpressure-negative"
+      }
+    },
+    "rawWeightedScore": 61,
+    "roundedScore": 61,
+    "caps": [
+      "benefit_cells_use_evidence_quality_caps",
+      "missing_cells_are_conservatively_imputed"
+    ],
+    "rightsBlocker": false,
+    "qualificationFailures": [
+      "full_precision_score_below_70",
+      "one_or_more_dimensions_below_3"
+    ],
+    "decisionStatus": "no_go"
+  },
+  {
+    "strategyId": "str_vertical-enterprise-software-support",
+    "strategyType": "vertical_candidate",
+    "name": "Enterprise Software Support",
+    "inferenceClaimIds": [
+      "clm_strategy-enterprise-software-support-decision"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o01",
+      "obs_exa-enterprise-software-support-o02",
+      "obs_exa-enterprise-software-support-o03",
+      "obs_exa-enterprise-software-support-o04",
+      "obs_exa-enterprise-software-support-o06",
+      "obs_exa-enterprise-software-support-o07",
+      "obs_exa-enterprise-software-support-o09",
+      "obs_exa-enterprise-software-support-o11",
+      "obs_exa-enterprise-software-support-o13",
+      "obs_exa-enterprise-software-support-o14",
+      "obs_exa-enterprise-software-support-o16",
+      "obs_exa-enterprise-software-support-o17",
+      "obs_exa-enterprise-software-support-o18",
+      "obs_exa-enterprise-software-support-o20",
+      "obs_exa-enterprise-software-support-o21"
+    ],
+    "verticalCandidateId": "enterprise_software_support",
+    "dimensionCells": {
+      "pain": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-enterprise-software-support-pain"
+        ],
+        "observationIds": [
+          "obs_exa-enterprise-software-support-o01",
+          "obs_exa-enterprise-software-support-o02"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-enterprise-software-support-pain-positive",
+        "negativeSearchReceiptId": "rr-enterprise-software-support-pain-negative"
+      },
+      "willingnessToPay": {
+        "measuredLevel": 5,
+        "imputation": null,
+        "effectiveRawLevel": 5,
+        "convertedScore": 5,
+        "claimIds": [
+          "clm_score-enterprise-software-support-willingnesstopay"
+        ],
+        "observationIds": [
+          "obs_exa-enterprise-software-support-o03",
+          "obs_exa-enterprise-software-support-o04"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-enterprise-software-support-willingnesstopay-positive",
+        "negativeSearchReceiptId": "rr-enterprise-software-support-willingnesstopay-negative"
+      },
+      "rightsAccess": {
+        "measuredLevel": 0,
+        "imputation": null,
+        "effectiveRawLevel": 0,
+        "convertedScore": 0,
+        "claimIds": [
+          "clm_score-enterprise-software-support-rightsaccess"
+        ],
+        "observationIds": [
+          "obs_exa-enterprise-software-support-o06",
+          "obs_exa-enterprise-software-support-o07"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-enterprise-software-support-rightsaccess-positive",
+        "negativeSearchReceiptId": "rr-enterprise-software-support-rightsaccess-negative"
+      },
+      "verifierFeasibility": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-enterprise-software-support-verifierfeasibility"
+        ],
+        "observationIds": [
+          "obs_exa-enterprise-software-support-o09",
+          "obs_exa-enterprise-software-support-o11"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-enterprise-software-support-verifierfeasibility-positive",
+        "negativeSearchReceiptId": "rr-enterprise-software-support-verifierfeasibility-negative"
+      },
+      "expertSupply": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-enterprise-software-support-expertsupply"
+        ],
+        "observationIds": [
+          "obs_exa-enterprise-software-support-o13",
+          "obs_exa-enterprise-software-support-o14"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-enterprise-software-support-expertsupply-positive",
+        "negativeSearchReceiptId": "rr-enterprise-software-support-expertsupply-negative"
+      },
+      "freshnessBurden": {
+        "measuredLevel": 3,
+        "imputation": null,
+        "effectiveRawLevel": 3,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-enterprise-software-support-freshnessburden"
+        ],
+        "observationIds": [
+          "obs_exa-enterprise-software-support-o16",
+          "obs_exa-enterprise-software-support-o17",
+          "obs_exa-enterprise-software-support-o18"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-enterprise-software-support-freshnessburden-positive",
+        "negativeSearchReceiptId": "rr-enterprise-software-support-freshnessburden-negative"
+      },
+      "incumbentPressure": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 1,
+        "claimIds": [
+          "clm_score-enterprise-software-support-incumbentpressure"
+        ],
+        "observationIds": [
+          "obs_exa-enterprise-software-support-o20",
+          "obs_exa-enterprise-software-support-o21"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-enterprise-software-support-incumbentpressure-positive",
+        "negativeSearchReceiptId": "rr-enterprise-software-support-incumbentpressure-negative"
+      }
+    },
+    "rawWeightedScore": 62,
+    "roundedScore": 62,
+    "caps": [
+      "benefit_cells_use_evidence_quality_caps",
+      "missing_cells_are_conservatively_imputed"
+    ],
+    "rightsBlocker": true,
+    "qualificationFailures": [
+      "full_precision_score_below_70",
+      "one_or_more_dimensions_below_3",
+      "rights_blocker"
+    ],
+    "decisionStatus": "no_go"
+  },
+  {
+    "strategyId": "str_vertical-public-sector-administration",
+    "strategyType": "vertical_candidate",
+    "name": "Public Sector Administration",
+    "inferenceClaimIds": [
+      "clm_strategy-public-sector-administration-decision"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o01",
+      "obs_exa-public-sector-administration-o03",
+      "obs_exa-public-sector-administration-o07",
+      "obs_exa-public-sector-administration-o09",
+      "obs_exa-public-sector-administration-o12",
+      "obs_exa-public-sector-administration-o17",
+      "obs_exa-public-sector-administration-o19",
+      "obs_exa-public-sector-administration-o22",
+      "obs_exa-public-sector-administration-o23",
+      "obs_exa-public-sector-administration-o27",
+      "obs_exa-public-sector-administration-o28",
+      "obs_exa-public-sector-administration-o29",
+      "obs_exa-public-sector-administration-o34",
+      "obs_exa-public-sector-administration-o37"
+    ],
+    "verticalCandidateId": "public_sector_administration",
+    "dimensionCells": {
+      "pain": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-public-sector-administration-pain"
+        ],
+        "observationIds": [
+          "obs_exa-public-sector-administration-o01",
+          "obs_exa-public-sector-administration-o03"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-public-sector-administration-pain-positive",
+        "negativeSearchReceiptId": "rr-public-sector-administration-pain-negative"
+      },
+      "willingnessToPay": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 4,
+        "claimIds": [
+          "clm_score-public-sector-administration-willingnesstopay"
+        ],
+        "observationIds": [
+          "obs_exa-public-sector-administration-o07",
+          "obs_exa-public-sector-administration-o09"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-public-sector-administration-willingnesstopay-positive",
+        "negativeSearchReceiptId": "rr-public-sector-administration-willingnesstopay-negative"
+      },
+      "rightsAccess": {
+        "measuredLevel": 3,
+        "imputation": null,
+        "effectiveRawLevel": 3,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-public-sector-administration-rightsaccess"
+        ],
+        "observationIds": [
+          "obs_exa-public-sector-administration-o12"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-public-sector-administration-rightsaccess-positive",
+        "negativeSearchReceiptId": "rr-public-sector-administration-rightsaccess-negative"
+      },
+      "verifierFeasibility": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 2,
+        "claimIds": [
+          "clm_score-public-sector-administration-verifierfeasibility"
+        ],
+        "observationIds": [
+          "obs_exa-public-sector-administration-o17",
+          "obs_exa-public-sector-administration-o19"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-public-sector-administration-verifierfeasibility-positive",
+        "negativeSearchReceiptId": "rr-public-sector-administration-verifierfeasibility-negative"
+      },
+      "expertSupply": {
+        "measuredLevel": 3,
+        "imputation": null,
+        "effectiveRawLevel": 3,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-public-sector-administration-expertsupply"
+        ],
+        "observationIds": [
+          "obs_exa-public-sector-administration-o22",
+          "obs_exa-public-sector-administration-o23"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-public-sector-administration-expertsupply-positive",
+        "negativeSearchReceiptId": "rr-public-sector-administration-expertsupply-negative"
+      },
+      "freshnessBurden": {
+        "measuredLevel": 2,
+        "imputation": null,
+        "effectiveRawLevel": 2,
+        "convertedScore": 3,
+        "claimIds": [
+          "clm_score-public-sector-administration-freshnessburden"
+        ],
+        "observationIds": [
+          "obs_exa-public-sector-administration-o27",
+          "obs_exa-public-sector-administration-o28",
+          "obs_exa-public-sector-administration-o29"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-public-sector-administration-freshnessburden-positive",
+        "negativeSearchReceiptId": "rr-public-sector-administration-freshnessburden-negative"
+      },
+      "incumbentPressure": {
+        "measuredLevel": 4,
+        "imputation": null,
+        "effectiveRawLevel": 4,
+        "convertedScore": 1,
+        "claimIds": [
+          "clm_score-public-sector-administration-incumbentpressure"
+        ],
+        "observationIds": [
+          "obs_exa-public-sector-administration-o34",
+          "obs_exa-public-sector-administration-o37"
+        ],
+        "missingReason": null,
+        "positiveSearchReceiptId": "rr-public-sector-administration-incumbentpressure-positive",
+        "negativeSearchReceiptId": "rr-public-sector-administration-incumbentpressure-negative"
+      }
+    },
+    "rawWeightedScore": 61,
+    "roundedScore": 61,
+    "caps": [
+      "benefit_cells_use_evidence_quality_caps",
+      "missing_cells_are_conservatively_imputed"
+    ],
+    "rightsBlocker": false,
+    "qualificationFailures": [
+      "full_precision_score_below_70",
+      "one_or_more_dimensions_below_3",
+      "fewer_than_two_separate_buyer_or_procurement_observations"
+    ],
+    "decisionStatus": "no_go"
+  },
+  {
+    "strategyId": "str_model-vertical-domain-assurance-pack",
+    "strategyType": "strategic_model",
+    "name": "Vertical Domain Assurance Pack",
+    "inferenceClaimIds": [
+      "clm_model-vertical-domain-assurance-pack"
+    ],
+    "observationIds": [
+      "obs_s49",
+      "obs_s54",
+      "obs_s47"
+    ],
+    "modelId": "vertical_domain_assurance_pack",
+    "eligibility": "eligible_hypothesis",
+    "modelClaimIds": [
+      "clm_model-vertical-domain-assurance-pack"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_model-vertical-domain-assurance-pack-prerequisite"
+    ],
+    "killClaimIds": [
+      "clm_model-vertical-domain-assurance-pack-kill"
+    ]
+  },
+  {
+    "strategyId": "str_model-specialist-independent-eval-lab",
+    "strategyType": "strategic_model",
+    "name": "Specialist Independent Eval Lab",
+    "inferenceClaimIds": [
+      "clm_model-specialist-independent-eval-lab"
+    ],
+    "observationIds": [
+      "obs_s58",
+      "obs_s59",
+      "obs_s47"
+    ],
+    "modelId": "specialist_independent_eval_lab",
+    "eligibility": "countersearched_out",
+    "modelClaimIds": [
+      "clm_model-specialist-independent-eval-lab"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_model-specialist-independent-eval-lab-prerequisite"
+    ],
+    "killClaimIds": [
+      "clm_model-specialist-independent-eval-lab-kill"
+    ]
+  },
+  {
+    "strategyId": "str_model-environment-foundry",
+    "strategyType": "strategic_model",
+    "name": "Environment Foundry",
+    "inferenceClaimIds": [
+      "clm_model-environment-foundry"
+    ],
+    "observationIds": [
+      "obs_s44",
+      "obs_s45",
+      "obs_s47"
+    ],
+    "modelId": "environment_foundry",
+    "eligibility": "countersearched_out",
+    "modelClaimIds": [
+      "clm_model-environment-foundry"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_model-environment-foundry-prerequisite"
+    ],
+    "killClaimIds": [
+      "clm_model-environment-foundry-kill"
+    ]
+  },
+  {
+    "strategyId": "str_model-ax-transformation-studio",
+    "strategyType": "strategic_model",
+    "name": "AX Transformation Studio",
+    "inferenceClaimIds": [
+      "clm_model-ax-transformation-studio"
+    ],
+    "observationIds": [
+      "obs_s62",
+      "obs_s67",
+      "obs_s49"
+    ],
+    "modelId": "ax_transformation_studio",
+    "eligibility": "countersearched_out",
+    "modelClaimIds": [
+      "clm_model-ax-transformation-studio"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_model-ax-transformation-studio-prerequisite"
+    ],
+    "killClaimIds": [
+      "clm_model-ax-transformation-studio-kill"
+    ]
+  },
+  {
+    "strategyId": "str_response-scale-ai",
+    "strategyType": "competitor_response",
+    "name": "Scale AI response map",
+    "inferenceClaimIds": [
+      "clm_response-co-scale-ai-incumbent-strength",
+      "clm_response-co-scale-ai-vulnerable-wedge",
+      "clm_response-co-scale-ai-buyer",
+      "clm_response-co-scale-ai-entry-proof",
+      "clm_response-co-scale-ai-counter-move",
+      "clm_response-co-scale-ai-prerequisite",
+      "clm_response-co-scale-ai-no-go"
+    ],
+    "observationIds": [
+      "obs_s03",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_scale-ai",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-scale-ai-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-scale-ai-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-scale-ai-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-scale-ai-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-scale-ai-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-scale-ai-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-scale-ai-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-mercor",
+    "strategyType": "competitor_response",
+    "name": "Mercor response map",
+    "inferenceClaimIds": [
+      "clm_response-co-mercor-incumbent-strength",
+      "clm_response-co-mercor-vulnerable-wedge",
+      "clm_response-co-mercor-buyer",
+      "clm_response-co-mercor-entry-proof",
+      "clm_response-co-mercor-counter-move",
+      "clm_response-co-mercor-prerequisite",
+      "clm_response-co-mercor-no-go"
+    ],
+    "observationIds": [
+      "obs_s08",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_mercor",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-mercor-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-mercor-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-mercor-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-mercor-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-mercor-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-mercor-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-mercor-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-micro1",
+    "strategyType": "competitor_response",
+    "name": "Micro1 response map",
+    "inferenceClaimIds": [
+      "clm_response-co-micro1-incumbent-strength",
+      "clm_response-co-micro1-vulnerable-wedge",
+      "clm_response-co-micro1-buyer",
+      "clm_response-co-micro1-entry-proof",
+      "clm_response-co-micro1-counter-move",
+      "clm_response-co-micro1-prerequisite",
+      "clm_response-co-micro1-no-go"
+    ],
+    "observationIds": [
+      "obs_s15",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_micro1",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-micro1-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-micro1-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-micro1-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-micro1-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-micro1-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-micro1-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-micro1-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-turing",
+    "strategyType": "competitor_response",
+    "name": "Turing response map",
+    "inferenceClaimIds": [
+      "clm_response-co-turing-incumbent-strength",
+      "clm_response-co-turing-vulnerable-wedge",
+      "clm_response-co-turing-buyer",
+      "clm_response-co-turing-entry-proof",
+      "clm_response-co-turing-counter-move",
+      "clm_response-co-turing-prerequisite",
+      "clm_response-co-turing-no-go"
+    ],
+    "observationIds": [
+      "obs_s20",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_turing",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-turing-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-turing-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-turing-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-turing-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-turing-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-turing-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-turing-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-afterquery",
+    "strategyType": "competitor_response",
+    "name": "AfterQuery response map",
+    "inferenceClaimIds": [
+      "clm_response-co-afterquery-incumbent-strength",
+      "clm_response-co-afterquery-vulnerable-wedge",
+      "clm_response-co-afterquery-buyer",
+      "clm_response-co-afterquery-entry-proof",
+      "clm_response-co-afterquery-counter-move",
+      "clm_response-co-afterquery-prerequisite",
+      "clm_response-co-afterquery-no-go"
+    ],
+    "observationIds": [
+      "obs_s26",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_afterquery",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-afterquery-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-afterquery-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-afterquery-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-afterquery-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-afterquery-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-afterquery-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-afterquery-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-fleet-ai",
+    "strategyType": "competitor_response",
+    "name": "Fleet AI response map",
+    "inferenceClaimIds": [
+      "clm_response-co-fleet-ai-incumbent-strength",
+      "clm_response-co-fleet-ai-vulnerable-wedge",
+      "clm_response-co-fleet-ai-buyer",
+      "clm_response-co-fleet-ai-entry-proof",
+      "clm_response-co-fleet-ai-counter-move",
+      "clm_response-co-fleet-ai-prerequisite",
+      "clm_response-co-fleet-ai-no-go"
+    ],
+    "observationIds": [
+      "obs_s30",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_fleet-ai",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-fleet-ai-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-fleet-ai-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-fleet-ai-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-fleet-ai-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-fleet-ai-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-fleet-ai-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-fleet-ai-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-deeptune",
+    "strategyType": "competitor_response",
+    "name": "Deeptune response map",
+    "inferenceClaimIds": [
+      "clm_response-co-deeptune-incumbent-strength",
+      "clm_response-co-deeptune-vulnerable-wedge",
+      "clm_response-co-deeptune-buyer",
+      "clm_response-co-deeptune-entry-proof",
+      "clm_response-co-deeptune-counter-move",
+      "clm_response-co-deeptune-prerequisite",
+      "clm_response-co-deeptune-no-go"
+    ],
+    "observationIds": [
+      "obs_s32",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_deeptune",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-deeptune-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-deeptune-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-deeptune-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-deeptune-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-deeptune-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-deeptune-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-deeptune-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-refresh",
+    "strategyType": "competitor_response",
+    "name": "Refresh response map",
+    "inferenceClaimIds": [
+      "clm_response-co-refresh-incumbent-strength",
+      "clm_response-co-refresh-vulnerable-wedge",
+      "clm_response-co-refresh-buyer",
+      "clm_response-co-refresh-entry-proof",
+      "clm_response-co-refresh-counter-move",
+      "clm_response-co-refresh-prerequisite",
+      "clm_response-co-refresh-no-go"
+    ],
+    "observationIds": [
+      "obs_s34",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_refresh",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-refresh-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-refresh-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-refresh-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-refresh-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-refresh-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-refresh-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-refresh-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-vibrant-labs",
+    "strategyType": "competitor_response",
+    "name": "Vibrant Labs response map",
+    "inferenceClaimIds": [
+      "clm_response-co-vibrant-labs-incumbent-strength",
+      "clm_response-co-vibrant-labs-vulnerable-wedge",
+      "clm_response-co-vibrant-labs-buyer",
+      "clm_response-co-vibrant-labs-entry-proof",
+      "clm_response-co-vibrant-labs-counter-move",
+      "clm_response-co-vibrant-labs-prerequisite",
+      "clm_response-co-vibrant-labs-no-go"
+    ],
+    "observationIds": [
+      "obs_s36",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_vibrant-labs",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-vibrant-labs-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-vibrant-labs-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-vibrant-labs-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-vibrant-labs-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-vibrant-labs-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-vibrant-labs-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-vibrant-labs-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-halluminate",
+    "strategyType": "competitor_response",
+    "name": "Halluminate response map",
+    "inferenceClaimIds": [
+      "clm_response-co-halluminate-incumbent-strength",
+      "clm_response-co-halluminate-vulnerable-wedge",
+      "clm_response-co-halluminate-buyer",
+      "clm_response-co-halluminate-entry-proof",
+      "clm_response-co-halluminate-counter-move",
+      "clm_response-co-halluminate-prerequisite",
+      "clm_response-co-halluminate-no-go"
+    ],
+    "observationIds": [
+      "obs_s37",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "companyId": "co_halluminate",
+    "incumbentStrengthClaimIds": [
+      "clm_response-co-halluminate-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-co-halluminate-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-co-halluminate-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-co-halluminate-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-co-halluminate-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-co-halluminate-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-co-halluminate-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-managed-data-bpo",
+    "strategyType": "competitor_response",
+    "name": "managed data bpo response map",
+    "inferenceClaimIds": [
+      "clm_response-managed-data-bpo-incumbent-strength",
+      "clm_response-managed-data-bpo-vulnerable-wedge",
+      "clm_response-managed-data-bpo-buyer",
+      "clm_response-managed-data-bpo-entry-proof",
+      "clm_response-managed-data-bpo-counter-move",
+      "clm_response-managed-data-bpo-prerequisite",
+      "clm_response-managed-data-bpo-no-go"
+    ],
+    "observationIds": [
+      "obs_s52",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "archetypeId": "managed_data_bpo",
+    "incumbentStrengthClaimIds": [
+      "clm_response-managed-data-bpo-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-managed-data-bpo-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-managed-data-bpo-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-managed-data-bpo-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-managed-data-bpo-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-managed-data-bpo-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-managed-data-bpo-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-expert-workforce-marketplace",
+    "strategyType": "competitor_response",
+    "name": "expert workforce marketplace response map",
+    "inferenceClaimIds": [
+      "clm_response-expert-workforce-marketplace-incumbent-strength",
+      "clm_response-expert-workforce-marketplace-vulnerable-wedge",
+      "clm_response-expert-workforce-marketplace-buyer",
+      "clm_response-expert-workforce-marketplace-entry-proof",
+      "clm_response-expert-workforce-marketplace-counter-move",
+      "clm_response-expert-workforce-marketplace-prerequisite",
+      "clm_response-expert-workforce-marketplace-no-go"
+    ],
+    "observationIds": [
+      "obs_s63",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "archetypeId": "expert_workforce_marketplace",
+    "incumbentStrengthClaimIds": [
+      "clm_response-expert-workforce-marketplace-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-expert-workforce-marketplace-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-expert-workforce-marketplace-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-expert-workforce-marketplace-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-expert-workforce-marketplace-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-expert-workforce-marketplace-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-expert-workforce-marketplace-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-environment-foundry-gym",
+    "strategyType": "competitor_response",
+    "name": "environment foundry gym response map",
+    "inferenceClaimIds": [
+      "clm_response-environment-foundry-gym-incumbent-strength",
+      "clm_response-environment-foundry-gym-vulnerable-wedge",
+      "clm_response-environment-foundry-gym-buyer",
+      "clm_response-environment-foundry-gym-entry-proof",
+      "clm_response-environment-foundry-gym-counter-move",
+      "clm_response-environment-foundry-gym-prerequisite",
+      "clm_response-environment-foundry-gym-no-go"
+    ],
+    "observationIds": [
+      "obs_s45",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "archetypeId": "environment_foundry_gym",
+    "incumbentStrengthClaimIds": [
+      "clm_response-environment-foundry-gym-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-environment-foundry-gym-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-environment-foundry-gym-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-environment-foundry-gym-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-environment-foundry-gym-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-environment-foundry-gym-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-environment-foundry-gym-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-eval-observability-saas",
+    "strategyType": "competitor_response",
+    "name": "eval observability saas response map",
+    "inferenceClaimIds": [
+      "clm_response-eval-observability-saas-incumbent-strength",
+      "clm_response-eval-observability-saas-vulnerable-wedge",
+      "clm_response-eval-observability-saas-buyer",
+      "clm_response-eval-observability-saas-entry-proof",
+      "clm_response-eval-observability-saas-counter-move",
+      "clm_response-eval-observability-saas-prerequisite",
+      "clm_response-eval-observability-saas-no-go"
+    ],
+    "observationIds": [
+      "obs_s43",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "archetypeId": "eval_observability_saas",
+    "incumbentStrengthClaimIds": [
+      "clm_response-eval-observability-saas-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-eval-observability-saas-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-eval-observability-saas-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-eval-observability-saas-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-eval-observability-saas-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-eval-observability-saas-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-eval-observability-saas-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-independent-assurance-lab",
+    "strategyType": "competitor_response",
+    "name": "independent assurance lab response map",
+    "inferenceClaimIds": [
+      "clm_response-independent-assurance-lab-incumbent-strength",
+      "clm_response-independent-assurance-lab-vulnerable-wedge",
+      "clm_response-independent-assurance-lab-buyer",
+      "clm_response-independent-assurance-lab-entry-proof",
+      "clm_response-independent-assurance-lab-counter-move",
+      "clm_response-independent-assurance-lab-prerequisite",
+      "clm_response-independent-assurance-lab-no-go"
+    ],
+    "observationIds": [
+      "obs_s58",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "archetypeId": "independent_assurance_lab",
+    "incumbentStrengthClaimIds": [
+      "clm_response-independent-assurance-lab-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-independent-assurance-lab-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-independent-assurance-lab-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-independent-assurance-lab-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-independent-assurance-lab-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-independent-assurance-lab-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-independent-assurance-lab-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-post-training-runtime-infrastructure",
+    "strategyType": "competitor_response",
+    "name": "post training runtime infrastructure response map",
+    "inferenceClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-incumbent-strength",
+      "clm_response-post-training-runtime-infrastructure-vulnerable-wedge",
+      "clm_response-post-training-runtime-infrastructure-buyer",
+      "clm_response-post-training-runtime-infrastructure-entry-proof",
+      "clm_response-post-training-runtime-infrastructure-counter-move",
+      "clm_response-post-training-runtime-infrastructure-prerequisite",
+      "clm_response-post-training-runtime-infrastructure-no-go"
+    ],
+    "observationIds": [
+      "obs_s48",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "archetypeId": "post_training_runtime_infrastructure",
+    "incumbentStrengthClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-post-training-runtime-infrastructure-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_response-ax-transformation-consultancy",
+    "strategyType": "competitor_response",
+    "name": "ax transformation consultancy response map",
+    "inferenceClaimIds": [
+      "clm_response-ax-transformation-consultancy-incumbent-strength",
+      "clm_response-ax-transformation-consultancy-vulnerable-wedge",
+      "clm_response-ax-transformation-consultancy-buyer",
+      "clm_response-ax-transformation-consultancy-entry-proof",
+      "clm_response-ax-transformation-consultancy-counter-move",
+      "clm_response-ax-transformation-consultancy-prerequisite",
+      "clm_response-ax-transformation-consultancy-no-go"
+    ],
+    "observationIds": [
+      "obs_s62",
+      "obs_s47",
+      "obs_s49"
+    ],
+    "archetypeId": "ax_transformation_consultancy",
+    "incumbentStrengthClaimIds": [
+      "clm_response-ax-transformation-consultancy-incumbent-strength"
+    ],
+    "vulnerableWedgeClaimIds": [
+      "clm_response-ax-transformation-consultancy-vulnerable-wedge"
+    ],
+    "buyerClaimIds": [
+      "clm_response-ax-transformation-consultancy-buyer"
+    ],
+    "entryProofClaimIds": [
+      "clm_response-ax-transformation-consultancy-entry-proof"
+    ],
+    "likelyCounterMoveClaimIds": [
+      "clm_response-ax-transformation-consultancy-counter-move"
+    ],
+    "prerequisiteClaimIds": [
+      "clm_response-ax-transformation-consultancy-prerequisite"
+    ],
+    "noGoTriggerClaimIds": [
+      "clm_response-ax-transformation-consultancy-no-go"
+    ]
+  },
+  {
+    "strategyId": "str_roadmap-1",
+    "strategyType": "roadmap",
+    "name": "0-30 days roadmap gate",
+    "inferenceClaimIds": [
+      "clm_roadmap-1-action",
+      "clm_roadmap-1-gate"
+    ],
+    "observationIds": [
+      "obs_s49",
+      "obs_s54",
+      "obs_s47"
+    ],
+    "horizon": "0-30 days",
+    "order": 1,
+    "actionClaimIds": [
+      "clm_roadmap-1-action"
+    ],
+    "gateClaimIds": [
+      "clm_roadmap-1-gate"
+    ]
+  },
+  {
+    "strategyId": "str_roadmap-2",
+    "strategyType": "roadmap",
+    "name": "31-60 days roadmap gate",
+    "inferenceClaimIds": [
+      "clm_roadmap-2-action",
+      "clm_roadmap-2-gate"
+    ],
+    "observationIds": [
+      "obs_s49",
+      "obs_s54",
+      "obs_s47"
+    ],
+    "horizon": "31-60 days",
+    "order": 2,
+    "actionClaimIds": [
+      "clm_roadmap-2-action"
+    ],
+    "gateClaimIds": [
+      "clm_roadmap-2-gate"
+    ]
+  },
+  {
+    "strategyId": "str_roadmap-3",
+    "strategyType": "roadmap",
+    "name": "61-90 days roadmap gate",
+    "inferenceClaimIds": [
+      "clm_roadmap-3-action",
+      "clm_roadmap-3-gate"
+    ],
+    "observationIds": [
+      "obs_s49",
+      "obs_s54",
+      "obs_s47"
+    ],
+    "horizon": "61-90 days",
+    "order": 3,
+    "actionClaimIds": [
+      "clm_roadmap-3-action"
+    ],
+    "gateClaimIds": [
+      "clm_roadmap-3-gate"
+    ]
+  },
+  {
+    "strategyId": "str_roadmap-4",
+    "strategyType": "roadmap",
+    "name": "3-12 months roadmap gate",
+    "inferenceClaimIds": [
+      "clm_roadmap-4-action",
+      "clm_roadmap-4-gate"
+    ],
+    "observationIds": [
+      "obs_s49",
+      "obs_s54",
+      "obs_s47"
+    ],
+    "horizon": "3-12 months",
+    "order": 4,
+    "actionClaimIds": [
+      "clm_roadmap-4-action"
+    ],
+    "gateClaimIds": [
+      "clm_roadmap-4-gate"
+    ]
+  },
+  {
+    "strategyId": "str_pricing-paid-discovery",
+    "strategyType": "pricing_experiment",
+    "name": "Paid discovery sprint experiment",
+    "inferenceClaimIds": [
+      "clm_pricing-paid-discovery-hypothesis"
+    ],
+    "observationIds": [
+      "obs_s49",
+      "obs_s56",
+      "obs_s54"
+    ],
+    "amount": null,
+    "currency": null,
+    "unit": "bounded paid discovery sprint",
+    "hypothesisClaimIds": [
+      "clm_pricing-paid-discovery-hypothesis"
+    ],
+    "successClaimIds": [
+      "clm_pricing-paid-discovery-success"
+    ],
+    "killClaimIds": [
+      "clm_pricing-paid-discovery-kill"
+    ]
+  }
+]

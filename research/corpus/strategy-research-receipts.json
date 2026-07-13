@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "rr-regulated-financial-operations-pain-positive",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "pain",
+    "kind": "positive",
+    "queries": [
+      "site:cfpb.gov enforcement action bank \"automated\" \"consumer reporting\" 2024 2025 financial operations",
+      "site:occ.treas.gov \"operational risk\" bank losses errors regulatory reporting enforcement 2024 2025",
+      "site:finra.org enforcement anti-money laundering fine operations 2024 2025",
+      "site:fincen.gov/news/news-releases penalty bank anti-money laundering program 2024 2025",
+      "site:annualreports.com bank 2024 annual report anti-money laundering remediation spend technology compliance",
+      "site:td.com annual report 2025 AML remediation spend compliance investment",
+      "site:bankofamerica.com annual report 2025 \"financial crimes\" technology investment compliance",
+      "site:jpmorganchase.com annual report 2025 compliance technology spending financial crime"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "buyer_procurement"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s01",
+      "src_exa-regulated-financial-operations-fin-s02"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s01",
+      "obs_exa-regulated-financial-operations-fin-s02"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded pain score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "37ccc148673a4be56fbb8fc0012654666c4ea8afe4ed3b9bd3f466f1278fd0d3"
+  },
+  {
+    "id": "rr-regulated-financial-operations-pain-negative",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "pain",
+    "kind": "negative",
+    "queries": [
+      "site:fincen.gov \"vast majority of financial institutions\" effective AML programs compliant",
+      "site:fincen.gov stable AML requirements risk based monitoring not every transaction change"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "buyer_procurement"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [],
+    "observationIds": [],
+    "findings": "Executed countersearch found no retained qualifying public evidence for the fixed pain proposition; absence is not asserted beyond this bounded search.",
+    "closure": "no_public_evidence",
+    "templateHash": "fd3f112d1481a991d221adb7f877c1a335b2bcdf176474a39bc87a58ed301fe4"
+  },
+  {
+    "id": "rr-regulated-financial-operations-willingnesstopay-positive",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "willingnessToPay",
+    "kind": "positive",
+    "queries": [
+      "site:find-tender.service.gov.uk (\"Financial Conduct Authority\" OR \"Bank of England\") \"artificial intelligence\" contract award",
+      "site:contractsfinder.service.gov.uk \"Financial Conduct Authority\" AI data contract",
+      "site:sam.gov \"model risk\" bank contract award artificial intelligence evaluation",
+      "site:usaspending.gov \"Financial Crimes Enforcement Network\" data analytics contract",
+      "site:fca.org.uk \"AI Live Testing\" firms 2025",
+      "site:bankofengland.co.uk AI evaluation pilot financial services firms 2025",
+      "site:fca.org.uk artificial intelligence sandbox financial services evaluation procurement",
+      "site:sec.gov artificial intelligence pilot financial institution model evaluation 2025",
+      "site:contractsfinder.service.gov.uk Advai \"Financial Conduct Authority\"",
+      "site:find-tender.service.gov.uk Advai FCA AI Live Testing contract",
+      "\"Financial Conduct Authority\" \"Advai\" contract value",
+      "\"AI Live Testing\" Advai procurement award"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s04"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s04"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded willingnessToPay score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "854780885144233858453aba27ad97dad563b24d419bd61f17f934f021817101"
+  },
+  {
+    "id": "rr-regulated-financial-operations-willingnesstopay-negative",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "willingnessToPay",
+    "kind": "negative",
+    "queries": [
+      "site:fca.org.uk AI Live Testing \"no cost\" participants",
+      "site:find-tender.service.gov.uk/Notice/ \"ocds-h6vhtk-055b82\" \"Contract change\"",
+      "site:find-tender.service.gov.uk \"C3482\" \"29 May 2026\"",
+      "site:find-tender.service.gov.uk \"AI Live Testing Support\" \"£374,080\""
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s06"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s06"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for willingnessToPay.",
+    "closure": "evidence_found",
+    "templateHash": "b2ac7db122f3e5d65ed22691b2c7909152e381a568aabcaf78035aa533aa5b6e"
+  },
+  {
+    "id": "rr-regulated-financial-operations-rightsaccess-positive",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "rightsAccess",
+    "kind": "positive",
+    "queries": [
+      "site:fca.org.uk digital sandbox GDPR compliant synthetic anonymised pseudonymised financial datasets secure environment",
+      "site:ico.org.uk financial services AI personal data lawful basis testing synthetic data guidance",
+      "site:fca.org.uk artificial intelligence sandbox financial services evaluation procurement"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s07",
+      "src_exa-regulated-financial-operations-fin-s09"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s07",
+      "obs_exa-regulated-financial-operations-fin-s09"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded rightsAccess score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "6deea09418ccf481520b3557dc354ae9f7f46ca42f9315d30750f71a4a44e64b"
+  },
+  {
+    "id": "rr-regulated-financial-operations-rightsaccess-negative",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "rightsAccess",
+    "kind": "negative",
+    "queries": [
+      "site:fca.org.uk digital sandbox \"not sufficient legal basis\" real personal data financial",
+      "site:edpb.europa.eu synthetic data anonymisation financial services artificial intelligence privacy guidance",
+      "site:occ.treas.gov bank third-party data sharing AI privacy confidential customer information guidance"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s08"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s08"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for rightsAccess.",
+    "closure": "evidence_found",
+    "templateHash": "fdfe8dea8db2849e4880da45e89c45b886894e5d233de8aaa332bdaadaed0c16"
+  },
+  {
+    "id": "rr-regulated-financial-operations-verifierfeasibility-positive",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "verifierFeasibility",
+    "kind": "positive",
+    "queries": [
+      "site:fca.org.uk \"shared evaluation\" AI Live Testing quantitative qualitative financial services",
+      "site:arxiv.org anti-money laundering synthetic transaction dataset benchmark ground truth evaluation",
+      "site:acm.org anti-money laundering transaction monitoring benchmark labeled dataset false positives financial",
+      "site:bis.org AI model validation financial services benchmarks synthetic data fraud detection",
+      "\"Replayable Financial Agents\" DFAH benchmark compliance triage",
+      "\"CFAgentBench\" construction finance agent benchmark",
+      "site:arxiv.org financial compliance agent benchmark tool-using LLM environment 2025 2026",
+      "site:github.com financial compliance agent benchmark environment replayable"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "academic_primary",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s10",
+      "src_exa-regulated-financial-operations-fin-s15"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s10",
+      "obs_exa-regulated-financial-operations-fin-s15"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded verifierFeasibility score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "cfd6a680f0f87f04ae5a83cfebc106b5722457587c320d4d78e6f7beac78ba3e"
+  },
+  {
+    "id": "rr-regulated-financial-operations-verifierfeasibility-negative",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "verifierFeasibility",
+    "kind": "negative",
+    "queries": [
+      "site:bis.org synthetic data limitations anti-money laundering benchmark real data legal practical",
+      "(\"RL environment\" OR \"agent environment\") financial compliance independent assurance bank -vendor"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "academic_primary",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s11"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s11"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for verifierFeasibility.",
+    "closure": "evidence_found",
+    "templateHash": "ddf2ab936fb416f1db8e7410d9a294d6a35f370c8c6e87280f00f9f5531d6926"
+  },
+  {
+    "id": "rr-regulated-financial-operations-expertsupply-positive",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "expertSupply",
+    "kind": "positive",
+    "queries": [
+      "site:acams.org members certified anti-money laundering specialists number 2025 official",
+      "site:garp.org FRM certified professionals number 2025 official",
+      "site:cfainstitute.org members financial professionals number 2025 official",
+      "site:theiia.org certified internal auditor financial services competency official 2025"
+    ],
+    "searchedDomainClasses": [
+      "secondary_discovery",
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s16",
+      "src_exa-regulated-financial-operations-fin-s17"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s16",
+      "obs_exa-regulated-financial-operations-fin-s17"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded expertSupply score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "2750798b331d13eee5876271ad2b37103426e044b4c7a9f4c87dec6ead404f05"
+  },
+  {
+    "id": "rr-regulated-financial-operations-expertsupply-negative",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "expertSupply",
+    "kind": "negative",
+    "queries": [
+      "site:acams.org shortage anti-money laundering professionals skills gap 2025",
+      "site:theiia.org financial services internal auditor shortage competent 2025",
+      "site:cfainstitute.org AI skills gap finance professionals 2025 survey",
+      "site:bis.org financial services AI expertise shortage model risk specialists"
+    ],
+    "searchedDomainClasses": [
+      "secondary_discovery",
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s18"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s18"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for expertSupply.",
+    "closure": "evidence_found",
+    "templateHash": "d672598851f6b88e05462966dc8c1014a74f003fb96a4dc2b8d93c8bce41f3a0"
+  },
+  {
+    "id": "rr-regulated-financial-operations-freshnessburden-positive",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "freshnessBurden",
+    "kind": "positive",
+    "queries": [
+      "site:ofac.treasury.gov sanctions list update frequency daily API official",
+      "site:fincen.gov advisories alerts financial crime typologies 2025 2026",
+      "site:fca.org.uk fraud environment evolving keep updated new techniques typologies financial crime",
+      "site:bis.org financial crime patterns evolve real time payments 2025 AI drift"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s20",
+      "src_exa-regulated-financial-operations-fin-s22"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s20",
+      "obs_exa-regulated-financial-operations-fin-s22"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded freshnessBurden score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "28d160def475c252a0dcfa65b363a57d5d07af60da47cefc6653166679467340"
+  },
+  {
+    "id": "rr-regulated-financial-operations-freshnessburden-negative",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "freshnessBurden",
+    "kind": "negative",
+    "queries": [
+      "site:ofac.treasury.gov sanctions list service API automated update reliable refresh",
+      "site:fincen.gov stable AML requirements risk based monitoring not every transaction change"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s21"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s21"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for freshnessBurden.",
+    "closure": "evidence_found",
+    "templateHash": "11a8648f8e5af623558c3d448764a59727b85684d480bb7ae4399fda136bfa2e"
+  },
+  {
+    "id": "rr-regulated-financial-operations-incumbentpressure-positive",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "incumbentPressure",
+    "kind": "positive",
+    "queries": [
+      "site:cloud.google.com financial-services anti-money-laundering AI product official",
+      "site:aws.amazon.com financial-services generative AI model evaluation compliance official",
+      "site:microsoft.com financial services AI compliance evaluation official",
+      "site:oracle.com financial-services anti-money-laundering AI official",
+      "site:pwc.com financial services AI assurance model risk management",
+      "site:deloitte.com financial services AI assurance model validation",
+      "site:kpmg.com financial services AI assurance testing",
+      "site:ey.com financial services AI model risk assurance"
+    ],
+    "searchedDomainClasses": [
+      "company_first_party",
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s24",
+      "src_exa-regulated-financial-operations-fin-s26"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s24",
+      "obs_exa-regulated-financial-operations-fin-s26"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded incumbentPressure score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "f00355afa9225f708dfc25e96a47c3829454419b77b34b919de7ef9b88ea8def"
+  },
+  {
+    "id": "rr-regulated-financial-operations-incumbentpressure-negative",
+    "candidateId": "regulated_financial_operations",
+    "dimensionId": "incumbentPressure",
+    "kind": "negative",
+    "queries": [
+      "site:fca.org.uk financial services AI assurance market gap independent evaluation unmet need",
+      "(\"RL environment\" OR \"agent environment\") financial compliance independent assurance bank -vendor"
+    ],
+    "searchedDomainClasses": [
+      "company_first_party",
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-regulated-financial-operations-fin-s30"
+    ],
+    "observationIds": [
+      "obs_exa-regulated-financial-operations-fin-s30"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for incumbentPressure.",
+    "closure": "evidence_found",
+    "templateHash": "d7f24137f0fdcfeb4caca983b4222735d4162019ceee3f65f2cabf2c1dd04757"
+  },
+  {
+    "id": "rr-insurance-operations-pain-positive",
+    "candidateId": "insurance_operations",
+    "dimensionId": "pain",
+    "kind": "positive",
+    "queries": [
+      "\"insurance operations\" \"pain\" buyer procurement official evidence",
+      "insurance operations claims underwriting manual work delays errors costs buyer survey insurer 2025 2026"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o01",
+      "src_exa-insurance-operations-o03"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o01",
+      "obs_exa-insurance-operations-o03"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded pain score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "f0a0adcaf2f2b3f868b10dd340ae54a96d98edb465d19fcd8294cfd97d930c0c"
+  },
+  {
+    "id": "rr-insurance-operations-pain-negative",
+    "candidateId": "insurance_operations",
+    "dimensionId": "pain",
+    "kind": "negative",
+    "queries": [
+      "\"insurance operations\" \"pain\" counterevidence blocker incumbent no adoption",
+      "insurance operations AI automation failed pilots legacy integration barriers ROI no adoption 2025 2026"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o05"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o05"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for pain.",
+    "closure": "evidence_found",
+    "templateHash": "2868e57a23c616b25ffb2aeaa77b96058322e3b44f8303ec3d7b4f048bd58c1c"
+  },
+  {
+    "id": "rr-insurance-operations-willingnesstopay-positive",
+    "candidateId": "insurance_operations",
+    "dimensionId": "willingnessToPay",
+    "kind": "positive",
+    "queries": [
+      "\"insurance operations\" \"willingnessToPay\" buyer procurement official evidence",
+      "insurance carrier procurement AI model validation assurance evaluation contract award claims automation"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [],
+    "observationIds": [],
+    "findings": "Executed Exa evidence lane found no qualifying public evidence for a measured willingnessToPay score; contextual results do not establish the fixed proposition.",
+    "closure": "no_public_evidence",
+    "templateHash": "09adcef2db4118b740c407bc9074298fdf884424e2e89c7ec5f62de9d8d5b64d"
+  },
+  {
+    "id": "rr-insurance-operations-willingnesstopay-negative",
+    "candidateId": "insurance_operations",
+    "dimensionId": "willingnessToPay",
+    "kind": "negative",
+    "queries": [
+      "\"insurance operations\" \"willingnessToPay\" counterevidence blocker incumbent no adoption",
+      "insurance AI technology spending low ROI cancelled pilots budget barriers no adoption 2025 2026"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o08"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o08"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for willingnessToPay.",
+    "closure": "evidence_found",
+    "templateHash": "f98db7a9f68870122089fb3123c981823c24bba24c387fe6d30cfba8065153ec"
+  },
+  {
+    "id": "rr-insurance-operations-rightsaccess-positive",
+    "candidateId": "insurance_operations",
+    "dimensionId": "rightsAccess",
+    "kind": "positive",
+    "queries": [
+      "\"insurance operations\" \"rightsAccess\" buyer procurement official evidence",
+      "insurance AI data sharing sandbox lawful access third party model testing privacy preserving regulator"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o12"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o12"
+    ],
+    "findings": "Executed Exa evidence lane found no qualifying public evidence for a measured rightsAccess score; contextual results do not establish the fixed proposition.",
+    "closure": "no_public_evidence",
+    "templateHash": "1679903d3c6be1ce200abe2e6206e5426ce17ed0fc215495d7894aa59a1f4bd6"
+  },
+  {
+    "id": "rr-insurance-operations-rightsaccess-negative",
+    "candidateId": "insurance_operations",
+    "dimensionId": "rightsAccess",
+    "kind": "negative",
+    "queries": [
+      "\"insurance operations\" \"rightsAccess\" counterevidence blocker incumbent no adoption",
+      "insurance claims underwriting data third party AI model training privacy confidentiality access restrictions regulator"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o11"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o11"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for rightsAccess.",
+    "closure": "evidence_found",
+    "templateHash": "4ef395dfed1dfbd0bd8bd601236997614f08ed0f4987641693d75d5de958ddd3"
+  },
+  {
+    "id": "rr-insurance-operations-verifierfeasibility-positive",
+    "candidateId": "insurance_operations",
+    "dimensionId": "verifierFeasibility",
+    "kind": "positive",
+    "queries": [
+      "\"insurance operations\" \"verifierFeasibility\" buyer procurement official evidence",
+      "insurance claims AI model validation testing objective outcomes audit unfair denial regulator standards"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o14"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o14"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded verifierFeasibility score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "e83b53262f98a6d589ec1a234d40876396ca848cd969474f87fcec056c757de4"
+  },
+  {
+    "id": "rr-insurance-operations-verifierfeasibility-negative",
+    "candidateId": "insurance_operations",
+    "dimensionId": "verifierFeasibility",
+    "kind": "negative",
+    "queries": [
+      "\"insurance operations\" \"verifierFeasibility\" counterevidence blocker incumbent no adoption",
+      "insurance claims AI evaluation ground truth ambiguity human judgment model validation limitations"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o16"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o16"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for verifierFeasibility.",
+    "closure": "evidence_found",
+    "templateHash": "519a00a37a31ee8693ef19432e9cf65bcca97e8caa7aaf5b15bbe15a74767486"
+  },
+  {
+    "id": "rr-insurance-operations-expertsupply-positive",
+    "candidateId": "insurance_operations",
+    "dimensionId": "expertSupply",
+    "kind": "positive",
+    "queries": [
+      "\"insurance operations\" \"expertSupply\" buyer procurement official evidence",
+      "insurance claims adjusters underwriters actuaries employment workforce supply official statistics 2025"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "academic_primary",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o18",
+      "src_exa-insurance-operations-o20"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o18",
+      "obs_exa-insurance-operations-o20"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded expertSupply score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "89d5ac204681ebdde2eb6a481e54af95799b98294867e398c0601094022f86b5"
+  },
+  {
+    "id": "rr-insurance-operations-expertsupply-negative",
+    "candidateId": "insurance_operations",
+    "dimensionId": "expertSupply",
+    "kind": "negative",
+    "queries": [
+      "\"insurance operations\" \"expertSupply\" counterevidence blocker incumbent no adoption",
+      "insurance claims adjuster underwriter actuary shortage skills gap AI expertise 2025 2026"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "academic_primary",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o22"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o22"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for expertSupply.",
+    "closure": "evidence_found",
+    "templateHash": "f59ff89aa5903d8708da956b49138a6c279e863ac3221a122e7eed60b4fcffc3"
+  },
+  {
+    "id": "rr-insurance-operations-freshnessburden-positive",
+    "candidateId": "insurance_operations",
+    "dimensionId": "freshnessBurden",
+    "kind": "positive",
+    "queries": [
+      "\"insurance operations\" \"freshnessBurden\" buyer procurement official evidence",
+      "insurance regulation policy forms rates claims procedures ongoing change model monitoring update requirements"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o11",
+      "src_exa-insurance-operations-o14",
+      "src_exa-insurance-operations-o20",
+      "src_exa-insurance-operations-o23"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o11",
+      "obs_exa-insurance-operations-o14",
+      "obs_exa-insurance-operations-o20",
+      "obs_exa-insurance-operations-o23"
+    ],
+    "findings": "Executed Exa evidence lane found no qualifying public evidence for a measured freshnessBurden score; contextual results do not establish the fixed proposition.",
+    "closure": "no_public_evidence",
+    "templateHash": "2c828f22cb863eb8629e8e0bbf8aaf9edad28c6f9d49d90e2f1bd1577f602f97"
+  },
+  {
+    "id": "rr-insurance-operations-freshnessburden-negative",
+    "candidateId": "insurance_operations",
+    "dimensionId": "freshnessBurden",
+    "kind": "negative",
+    "queries": [
+      "\"insurance operations\" \"freshnessBurden\" counterevidence blocker incumbent no adoption",
+      "insurance claims workflows standardized stable automation rules low maintenance evidence"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o24"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o24"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for freshnessBurden.",
+    "closure": "evidence_found",
+    "templateHash": "9eef46d296c2b8bfcdb800e1dc626ce66a96bfa5598784af1ab90b0a88abf966"
+  },
+  {
+    "id": "rr-insurance-operations-incumbentpressure-positive",
+    "candidateId": "insurance_operations",
+    "dimensionId": "incumbentPressure",
+    "kind": "positive",
+    "queries": [
+      "\"insurance operations\" \"incumbentPressure\" buyer procurement official evidence",
+      "insurance AI claims automation assurance incumbents Guidewire Shift CCC Accenture Deloitte market 2025 2026"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "company_first_party",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o25",
+      "src_s59"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o25",
+      "obs_s59"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded incumbentPressure score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "4f9ce91b3a44f6adaae4b123d125ad8ae82902186e2dbd4afa53ff24d233979b"
+  },
+  {
+    "id": "rr-insurance-operations-incumbentpressure-negative",
+    "candidateId": "insurance_operations",
+    "dimensionId": "incumbentPressure",
+    "kind": "negative",
+    "queries": [
+      "\"insurance operations\" \"incumbentPressure\" counterevidence blocker incumbent no adoption",
+      "insurance AI assurance unmet need fragmented market independent evaluation vendor gap"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "company_first_party",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-insurance-operations-o27"
+    ],
+    "observationIds": [
+      "obs_exa-insurance-operations-o27"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for incumbentPressure.",
+    "closure": "evidence_found",
+    "templateHash": "b5379da23c42c8505be14934f10a687847a49f7dc8b552ebc8a8c83b5e750fd4"
+  },
+  {
+    "id": "rr-healthcare-administration-pain-positive",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "pain",
+    "kind": "positive",
+    "queries": [
+      "Healthcare administrative workflows prior authorization claims revenue cycle scheduling coding appeals documented repeated operating cost denial patient delay regulatory impact primary evidence site:cms.gov OR site:oig.hhs.gov OR site:gao.gov OR site:jamanetwork.com OR site:healthaffairs.org before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o01",
+      "src_exa-healthcare-administration-o02"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o01",
+      "obs_exa-healthcare-administration-o02"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded pain score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "16adb68a4f1e20cbfda0a74963b5aac434c459ee1f092528bee07b0b2bd776b0"
+  },
+  {
+    "id": "rr-healthcare-administration-pain-negative",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "pain",
+    "kind": "negative",
+    "queries": [
+      "Healthcare administrative workflows prior authorization claims revenue cycle scheduling coding appeals low burden no material delay reduced denials successful simplification automation primary evidence site:cms.gov OR site:oig.hhs.gov OR site:gao.gov OR site:jamanetwork.com OR site:healthaffairs.org before:2026-07-12",
+      "Prior authorization administrative process generally complied low error rate no recommendations successful oversight official site:oig.hhs.gov OR site:cms.gov before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o03",
+      "src_exa-healthcare-administration-o04"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o03",
+      "obs_exa-healthcare-administration-o04"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for pain.",
+    "closure": "evidence_found",
+    "templateHash": "603cbba94652c045045855fbb225fc5cbb26b64a7c561de26b4d6bdea49d65e2"
+  },
+  {
+    "id": "rr-healthcare-administration-willingnesstopay-positive",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "willingnessToPay",
+    "kind": "positive",
+    "queries": [
+      "\"revenue cycle management\" OR \"medical coding services\" OR \"prior authorization\" hospital health system RFP award contract procurement site:gov OR site:edu before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o05",
+      "src_exa-healthcare-administration-o06"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o05",
+      "obs_exa-healthcare-administration-o06"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded willingnessToPay score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "84b4529b3be40d4d9de721638325d546721dcf6c6fdf4ddd2bd58fd8eda5fa24"
+  },
+  {
+    "id": "rr-healthcare-administration-willingnesstopay-negative",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "willingnessToPay",
+    "kind": "negative",
+    "queries": [
+      "\"revenue cycle management\" OR \"medical coding services\" OR \"prior authorization\" hospital health system RFP cancelled rejected no award no bids budget procurement site:gov OR site:edu before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [],
+    "observationIds": [],
+    "findings": "Executed countersearch found no retained qualifying public evidence for the fixed willingnessToPay proposition; absence is not asserted beyond this bounded search.",
+    "closure": "no_public_evidence",
+    "templateHash": "371700881c1370e40c889cad43360303b9a32b922445ca12eaa17cb0cdcfe49a"
+  },
+  {
+    "id": "rr-healthcare-administration-rightsaccess-positive",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "rightsAccess",
+    "kind": "positive",
+    "queries": [
+      "Healthcare administrative workflow lawful data access HIPAA business associate claims prior authorization FHIR API permitted use deployment safeguards official site:hhs.gov OR site:cms.gov OR site:healthit.gov OR site:hl7.org before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o07",
+      "src_exa-healthcare-administration-o08"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o07",
+      "obs_exa-healthcare-administration-o08"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded rightsAccess score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "a180f40f47cf0178a7a535e511b2b0f7463ed583047bc6e3722fb8dc961734e9"
+  },
+  {
+    "id": "rr-healthcare-administration-rightsaccess-negative",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "rightsAccess",
+    "kind": "negative",
+    "queries": [
+      "Healthcare administrative workflow data access prohibited restricted HIPAA minimum necessary business associate 42 CFR Part 2 consent privacy security prior authorization claims official site:hhs.gov OR site:cms.gov OR site:healthit.gov OR site:hl7.org before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o10",
+      "src_exa-healthcare-administration-o11"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o10",
+      "obs_exa-healthcare-administration-o11"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for rightsAccess.",
+    "closure": "evidence_found",
+    "templateHash": "27ffce2bc4c209915b3d69dcf10c1a5737ce152e034c10566b11405a3b848f4a"
+  },
+  {
+    "id": "rr-healthcare-administration-verifierfeasibility-positive",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "verifierFeasibility",
+    "kind": "positive",
+    "queries": [
+      "Healthcare administrative claims coding prior authorization automated validation objective state outcome checks expert review study error rate FHIR X12 site:cms.gov OR site:healthit.gov OR site:hl7.org OR site:academic.oup.com OR site:jamanetwork.com before:2026-07-12",
+      "Medicare claims administrative coding automated edits National Correct Coding Initiative prepayment review data analysis expert medical review official site:cms.gov OR site:oig.hhs.gov OR site:gao.gov before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o12",
+      "src_exa-healthcare-administration-o13"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o12",
+      "obs_exa-healthcare-administration-o13"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded verifierFeasibility score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "9a6a9e714a894bf039b0ef652114a6cfb7a32cfe64b7baf9654cf778d0b7a923"
+  },
+  {
+    "id": "rr-healthcare-administration-verifierfeasibility-negative",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "verifierFeasibility",
+    "kind": "negative",
+    "queries": [
+      "Healthcare administrative claims coding prior authorization automation unreliable gameable proxy false approval false denial expert judgment inter-rater variability study site:cms.gov OR site:healthit.gov OR site:hl7.org OR site:academic.oup.com OR site:jamanetwork.com before:2026-07-12",
+      "Medicare claims automated edits improper payments false positives errors coding medical review limitations official site:cms.gov OR site:oig.hhs.gov OR site:gao.gov before:2026-07-12",
+      "\"Expert Agreement in Current Procedural Terminology Evaluation and Management Coding\" results agreement kappa"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o14",
+      "src_exa-healthcare-administration-o15"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o14",
+      "obs_exa-healthcare-administration-o15"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for verifierFeasibility.",
+    "closure": "evidence_found",
+    "templateHash": "43adecbc615ab318b2aa309414406c4be819ec68624a685bfd24de0d0ee12f38"
+  },
+  {
+    "id": "rr-healthcare-administration-expertsupply-positive",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "expertSupply",
+    "kind": "positive",
+    "queries": [
+      "Healthcare administration workforce medical records specialists coders billers prior authorization revenue cycle documented training certification recruitment calibration supply official site:bls.gov OR site:cms.gov OR site:ahima.org OR site:aapc.com OR site:jamanetwork.com before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o16"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o16"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded expertSupply score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "c6d199c79f9056825e955e5be7f426bf982790c39aaa3fdb67041658d035780c"
+  },
+  {
+    "id": "rr-healthcare-administration-expertsupply-negative",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "expertSupply",
+    "kind": "negative",
+    "queries": [
+      "Healthcare administration workforce medical records specialists coders billers prior authorization revenue cycle shortage vacancy turnover burnout scarcity official site:bls.gov OR site:cms.gov OR site:ahima.org OR site:aapc.com OR site:jamanetwork.com before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o17"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o17"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for expertSupply.",
+    "closure": "evidence_found",
+    "templateHash": "a96615f0ad1fe7bd8c17bcbd691b1971a72425af1aef98a457bef83cb449d41e"
+  },
+  {
+    "id": "rr-healthcare-administration-freshnessburden-positive",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "freshnessBurden",
+    "kind": "positive",
+    "queries": [
+      "Healthcare administration coding claims prior authorization rules predictable annual update schedule stable notice period official ICD CPT CMS coverage policy site:cms.gov OR site:cdc.gov OR site:ama-assn.org OR site:healthit.gov before:2026-07-12",
+      "Official payer provider prior authorization code list coverage policy predictable update schedule advance notice quarterly monthly UnitedHealthcare Aetna Elevance Cigna before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o18",
+      "src_exa-healthcare-administration-o19"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o18",
+      "obs_exa-healthcare-administration-o19"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded freshnessBurden score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "5ffb221194a8ef39fa5a88aba6807d7bd2cb6d3da35d3b38fd3405c1aabb2edb"
+  },
+  {
+    "id": "rr-healthcare-administration-freshnessburden-negative",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "freshnessBurden",
+    "kind": "negative",
+    "queries": [
+      "Healthcare administration coding claims prior authorization rules frequent monthly weekly daily changes payer coverage policy update burden volatility official site:cms.gov OR site:cdc.gov OR site:ama-assn.org OR site:healthit.gov before:2026-07-12",
+      "Official payer provider prior authorization code list coverage policy frequent immediate weekly daily retroactive changes no advance notice UnitedHealthcare Aetna Elevance Cigna before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o20",
+      "src_exa-healthcare-administration-o21",
+      "src_exa-healthcare-administration-o22"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o20",
+      "obs_exa-healthcare-administration-o21",
+      "obs_exa-healthcare-administration-o22"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for freshnessBurden.",
+    "closure": "evidence_found",
+    "templateHash": "7984b69f30bfd562fb64d1b23ed253002617f75771d4848fdf2d4f08355e43e7"
+  },
+  {
+    "id": "rr-healthcare-administration-incumbentpressure-positive",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "incumbentPressure",
+    "kind": "positive",
+    "queries": [
+      "Healthcare administration prior authorization claims revenue cycle coding scheduling fragmented manual low automation adoption unmet buyer need incumbent gaps site:cms.gov OR site:healthit.gov OR site:aha.org OR site:epic.com OR site:oracle.com OR site:optum.com before:2026-07-12",
+      "Healthcare revenue cycle management claims coding prior authorization fragmented competition no dominant provider customer switching official 10-K site:sec.gov before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o23",
+      "src_exa-healthcare-administration-o24"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o23",
+      "obs_exa-healthcare-administration-o24"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded incumbentPressure score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "28587c24285c15c18ceaf69c2043f5828edde00db0e9ba81c1da91fc85ab9c63"
+  },
+  {
+    "id": "rr-healthcare-administration-incumbentpressure-negative",
+    "candidateId": "healthcare_administration",
+    "dimensionId": "incumbentPressure",
+    "kind": "negative",
+    "queries": [
+      "Healthcare administration prior authorization claims revenue cycle coding scheduling incumbent bundled platform EHR automation internal build major vendor substitute site:cms.gov OR site:healthit.gov OR site:aha.org OR site:epic.com OR site:oracle.com OR site:optum.com before:2026-07-12",
+      "Healthcare revenue cycle management claims coding prior authorization incumbent platform competition official 10-K Epic Optum R1 Waystar site:sec.gov before:2026-07-12",
+      "R1 RCM 2023 2024 annual report revenue cycle management competition healthcare providers site:sec.gov/Archives before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "technical_repository"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-healthcare-administration-o25",
+      "src_exa-healthcare-administration-o26"
+    ],
+    "observationIds": [
+      "obs_exa-healthcare-administration-o25",
+      "obs_exa-healthcare-administration-o26"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for incumbentPressure.",
+    "closure": "evidence_found",
+    "templateHash": "c7cda25d3a603a0447d8e408ad75df631ac9c4f4725102269cce00d0e03b14b9"
+  },
+  {
+    "id": "rr-enterprise-software-support-pain-positive",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "pain",
+    "kind": "positive",
+    "queries": [
+      "Find primary sources published on or before 2026-07-11 from enterprise buyers, public procurement bodies, regulators, government auditors, or academic researchers that document measurable recurring operating cost, ticket backlog, SLA breach, outage, customer-service harm, financial loss, or regulatory impact caused by enterprise software support, IT service management, help-desk, CRM case-resolution, or incident-resolution failures. Prefer concrete metrics and active budgets or procurements; exclude vendor marketing unless clearly labeled."
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o01",
+      "src_exa-enterprise-software-support-o02"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o01",
+      "obs_exa-enterprise-software-support-o02"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded pain score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "974c17c174df27dc06b37343c20fc2a4a627088161335ab1f2fb67d2605d4286"
+  },
+  {
+    "id": "rr-enterprise-software-support-pain-negative",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "pain",
+    "kind": "negative",
+    "queries": [
+      "Countersearch: find primary or independent sources published on or before 2026-07-11 showing enterprise software support, ITSM, help-desk, CRM case resolution, or incident resolution is low-consequence, improving, inexpensive, rarely causes material harm, or lacks measurable recurring buyer pain. Seek buyer metrics, regulator findings, academic evidence, or procurement cancellations that refute severe repeated operating, financial, service, safety, or regulatory impact; exclude unsupported vendor optimism."
+    ],
+    "searchedDomainClasses": [
+      "academic_primary",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [],
+    "observationIds": [],
+    "findings": "Executed countersearch found no retained qualifying public evidence for the fixed pain proposition; absence is not asserted beyond this bounded search.",
+    "closure": "no_public_evidence",
+    "templateHash": "f3766ab162a1e1e8e61458c51550de9d98d423cc8727dd09c77c6a07773836dd"
+  },
+  {
+    "id": "rr-enterprise-software-support-willingnesstopay-positive",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "willingnessToPay",
+    "kind": "positive",
+    "queries": [
+      "Find buyer-controlled procurement notices, contract awards, public spending records, annual reports, or official buyer case materials published on or before 2026-07-11 showing paid pilots, purchases, renewals, expansions, multi-year awards, or disclosed spend for enterprise software support automation, ITSM ticket resolution, CRM service agents, browser/computer-use agents, service-desk AI, or evaluation/assurance of those workflows. Identify distinct buyers and amounts or contract terms; do not treat seller claims as purchaser evidence.",
+      "Find official public procurement notices or contract awards published on or before 2026-07-11 for AI service desks, virtual support agents, automated ITSM ticket resolution, CRM customer-service agents, computer-use agents, or independent testing/evaluation of such agents. Return buyer name, award or estimated value, term, and whether it is an award, renewal, expansion, or only a tender; exclude ordinary software licenses unless they include support automation."
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o03",
+      "src_exa-enterprise-software-support-o04"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o03",
+      "obs_exa-enterprise-software-support-o04"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded willingnessToPay score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "2cd7ba8d5fea0415243e9cd9d2a2bd3f64e9ad9c382fc633c6618816b1f5b382"
+  },
+  {
+    "id": "rr-enterprise-software-support-willingnesstopay-negative",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "willingnessToPay",
+    "kind": "negative",
+    "queries": [
+      "Countersearch: find buyer-controlled, procurement, audit, academic, or independent evidence published on or before 2026-07-11 that enterprises will not pay, have not renewed, cancelled or reduced spend, remain in unpaid pilots, cannot prove ROI, or prefer bundled/no-cost tools for AI support agents, ITSM or CRM ticket automation, browser/computer-use agents, or independent evaluation/assurance. Seek failed procurements and purchaser-side evidence; do not infer unwillingness merely from silence."
+    ],
+    "searchedDomainClasses": [
+      "company_first_party",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_s67"
+    ],
+    "observationIds": [
+      "obs_s67"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for willingnessToPay.",
+    "closure": "evidence_found",
+    "templateHash": "41afb987a5de2c0abd163fff2f7f3ae362440323bea589a52dfc0fb40c8c41c5"
+  },
+  {
+    "id": "rr-enterprise-software-support-rightsaccess-positive",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "rightsAccess",
+    "kind": "positive",
+    "queries": [
+      "Find authoritative or buyer-controlled sources published on or before 2026-07-11 establishing lawful, documented access paths for using enterprise support or service-operations data in AI training, evaluation, or agent testing: ITSM tickets, CRM cases, internal knowledge bases, browser traces, computer-use traces, and production-resolution histories. Look for contractual rights, customer ownership, export/API access, consent or data-processing terms, deployment controls, retention, de-identification, and refresh rights; distinguish public samples or synthetic data from durable production-trace rights."
+    ],
+    "searchedDomainClasses": [
+      "company_first_party"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o06",
+      "src_exa-enterprise-software-support-o07"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o06",
+      "obs_exa-enterprise-software-support-o07"
+    ],
+    "findings": "Executed Exa evidence lane retained claim-specific evidence of a rights blocker for rightsAccess.",
+    "closure": "rights_blocker",
+    "templateHash": "af7a0c6c37a4d2da6b4c18315ed55455e568a992c880b41e3869d311ac313dd0"
+  },
+  {
+    "id": "rr-enterprise-software-support-rightsaccess-negative",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "rightsAccess",
+    "kind": "negative",
+    "queries": [
+      "Countersearch: find regulator, court, standards, buyer-security, procurement, or academic-primary sources published on or before 2026-07-11 showing blockers or unresolved constraints on third-party access to enterprise support traces, ITSM tickets, CRM cases, internal knowledge, browser recordings, credentials, or production-resolution histories for AI training/evaluation. Look for privacy, confidentiality, trade-secret, purpose-limitation, retention, cross-border, security, employee-monitoring, customer-consent, platform-contract, or deletion restrictions; distinguish a blocker from manageable controls."
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o08"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o08"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific evidence of a rights blocker for rightsAccess.",
+    "closure": "rights_blocker",
+    "templateHash": "9c2f8366aa3f4cd4ad58a1290fe9a5e8319c3ce8e1f82289109d531ba9cd3b41"
+  },
+  {
+    "id": "rr-enterprise-software-support-verifierfeasibility-positive",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "verifierFeasibility",
+    "kind": "positive",
+    "queries": [
+      "Find official technical documentation, primary repositories, and academic-primary papers published on or before 2026-07-11 that demonstrate automated verification for enterprise software support, CRM, ITSM, service-desk, browser, or computer-use agent tasks. Prefer benchmarks such as WorkArena, BrowserGym, ITBench, CRM or ticket-resolution environments with database/state assertions, outcome checks, expert review, adversarial tests, false-pass measurement, metamorphic tests, or construct-valid multilayer evaluators."
+    ],
+    "searchedDomainClasses": [
+      "academic_primary",
+      "technical_repository",
+      "company_first_party"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o09",
+      "src_exa-enterprise-software-support-o11"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o09",
+      "obs_exa-enterprise-software-support-o11"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded verifierFeasibility score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "03a2d9cae8a2798c6e2acbd2325212e2e3b35b5dac062b150279769942835ea9"
+  },
+  {
+    "id": "rr-enterprise-software-support-verifierfeasibility-negative",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "verifierFeasibility",
+    "kind": "negative",
+    "queries": [
+      "Countersearch: find academic-primary, official technical, repository, or independent evidence published on or before 2026-07-11 that enterprise-support, CRM, ITSM, browser, or computer-use agent evaluation is subjective, partially observable, gameable, brittle, contaminated, non-reproducible, or weakly correlated with real ticket resolution. Seek false-pass failures, benchmark limitations, dynamic UI drift, hidden-state problems, judge unreliability, and tasks requiring expert judgment that refute strong automated verifier feasibility."
+    ],
+    "searchedDomainClasses": [
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o12"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o12"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for verifierFeasibility.",
+    "closure": "evidence_found",
+    "templateHash": "220a7ac246c94ba7ad21aa4cd486a77eea49bcf7c7244ec43af7a37c7d729bcc"
+  },
+  {
+    "id": "rr-enterprise-software-support-expertsupply-positive",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "expertSupply",
+    "kind": "positive",
+    "queries": [
+      "Find regulator/statistical, buyer-controlled, academic-primary, or official workforce-program evidence published on or before 2026-07-11 showing a recruitable and calibratable supply of enterprise software support experts, service-desk agents, ITSM administrators, CRM administrators, support engineers, or domain SMEs for building and QA-ing support-agent environments. Prefer headcounts, multiple sourcing channels, certification or training pathways, calibration methods, QA, utilization, or repeatable staffing evidence; label vendor-only claims.",
+      "Find official U.S. Bureau of Labor Statistics or other national statistical agency pages, published on or before 2026-07-11, reporting employment counts, occupational outlook, entry pathways, training, and certifications for computer user support specialists, help-desk technicians, software support specialists, IT service management administrators, or CRM administrators; prioritize direct government pages and distinguish general support workers from platform-specific SMEs."
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "academic_primary",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o13",
+      "src_exa-enterprise-software-support-o14"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o13",
+      "obs_exa-enterprise-software-support-o14"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded expertSupply score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "6ad3486052bce1257c73a27682614e1ff54fbbd078d490bdb94cb1fd916373d8"
+  },
+  {
+    "id": "rr-enterprise-software-support-expertsupply-negative",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "expertSupply",
+    "kind": "negative",
+    "queries": [
+      "Countersearch: find government workforce statistics, buyer reports, academic studies, or independent evidence published on or before 2026-07-11 showing shortages, high turnover, scarce platform-specific administrators, limited SME time, difficult calibration, low QA consistency, or costly utilization for enterprise software support, ITSM, CRM, and support-engineering experts. Prefer measured supply constraints over vendor recruiting claims.",
+      "Find direct government, public-sector buyer, or academic-primary evidence published on or before 2026-07-11 measuring shortages, vacancies, turnover, recruitment difficulty, or scarce platform-specific skills among IT support specialists, service-desk workers, ServiceNow administrators, Salesforce administrators, CRM/ITSM experts, or support engineers; exclude staffing-vendor marketing."
+    ],
+    "searchedDomainClasses": [
+      "regulatory_registry",
+      "company_first_party",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o15"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o15"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for expertSupply.",
+    "closure": "evidence_found",
+    "templateHash": "63006f9e991aa50ee8cbc63b35b0e4b14a4810b0137ab4a8c79865b0cb5ceea4"
+  },
+  {
+    "id": "rr-enterprise-software-support-freshnessburden-positive",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "freshnessBurden",
+    "kind": "positive",
+    "queries": [
+      "Find authoritative sources published on or before 2026-07-11 showing that enterprise software support, CRM, or ITSM workflows and evaluation environments can remain stable or be refreshed predictably at low burden. Look for long-term support policies, backwards-compatible APIs, standardized ticket schemas or ITIL workflows, fixed release cadences, version pinning, stable test instances, replayable traces, or maintenance intervals of quarterly or less frequent; distinguish standards stability from changing SaaS user interfaces and knowledge."
+    ],
+    "searchedDomainClasses": [
+      "company_first_party",
+      "technical_repository",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o16"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o16"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded freshnessBurden score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "f1fcbd59da7009479f25594bc3688b8106749ab9bb853111b3e1aa5c3fe37bd6"
+  },
+  {
+    "id": "rr-enterprise-software-support-freshnessburden-negative",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "freshnessBurden",
+    "kind": "negative",
+    "queries": [
+      "Countersearch: find official release documentation, buyer reports, repositories, academic-primary, or independent evidence published on or before 2026-07-11 showing enterprise support-agent environments require frequent or continuous refresh because SaaS UIs, APIs, permissions, knowledge bases, products, tickets, security controls, or browser behavior change. Seek daily/high-operations maintenance, benchmark breakage, release cadence, distribution drift, or lack of reliable replay; distinguish vendor release schedules from observed environment upkeep.",
+      "Find official ServiceNow, Salesforce, Microsoft Dynamics 365, Zendesk, and Atlassian documentation published on or before 2026-07-11 stating release cadence, automatic-update cadence, UI/API deprecations, mandatory upgrades, knowledge refresh requirements, or breaking changes relevant to maintaining browser-based ITSM/CRM/support-agent evaluation environments. Prefer official release notes and lifecycle policies over blogs."
+    ],
+    "searchedDomainClasses": [
+      "company_first_party",
+      "technical_repository",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o17",
+      "src_exa-enterprise-software-support-o18"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o17",
+      "obs_exa-enterprise-software-support-o18"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for freshnessBurden.",
+    "closure": "evidence_found",
+    "templateHash": "6a58892154fb6a753623f5671471942b0476629b76a1f48eff8e9eb344b72476"
+  },
+  {
+    "id": "rr-enterprise-software-support-incumbentpressure-positive",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "incumbentPressure",
+    "kind": "positive",
+    "queries": [
+      "Find buyer-controlled, procurement, regulator, academic, or independent evidence published on or before 2026-07-11 that indicates competitive whitespace or material unmet need for an independent enterprise-software-support agent evaluation and assurance environment. Look for limitations, lock-in concerns, weak cross-platform evaluation, missing independent verification, failed bundled tools, buyer demand for neutral assurance, or procurement requirements not satisfied by ServiceNow, Salesforce, Microsoft, Zendesk, Atlassian, SAP, Oracle, major observability vendors, or internal builds; label vendor-only evidence.",
+      "Find public procurement requirements, regulator guidance, buyer-controlled policies, or academic-primary studies published on or before 2026-07-11 that explicitly require independent, vendor-neutral, cross-platform testing or assurance of AI agents used in enterprise customer support, ITSM, CRM, browser, or computer-use workflows, or document that incumbent-native evaluation is inadequate. Do not count generic responsible-AI principles as buyer demand."
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary",
+      "technical_repository",
+      "company_first_party",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o19"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o19"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded incumbentPressure score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "ca8c93982c5ea17140bed07c011a09fb682cc0f9311437deabb3fd7eba8c62e0"
+  },
+  {
+    "id": "rr-enterprise-software-support-incumbentpressure-negative",
+    "candidateId": "enterprise_software_support",
+    "dimensionId": "incumbentPressure",
+    "kind": "negative",
+    "queries": [
+      "Countersearch: find official product and technical sources, buyer procurements, and independent analysis published on or before 2026-07-11 showing that major incumbents already bundle enterprise-support AI agents, ticket-resolution automation, browser/computer-use capabilities, observability, evaluation, governance, or assurance into ServiceNow, Salesforce, Microsoft, Zendesk, Atlassian, SAP, Oracle, hyperscaler, and observability platforms. Look for existing-distribution advantages, native data access, cross-platform offerings, low incremental price, or near-zero switching friction; label company-first-party evidence as vendor-only.",
+      "Find official product, pricing, and technical pages published on or before 2026-07-11 from ServiceNow, Salesforce, Microsoft, Zendesk, Atlassian, SAP, Oracle, Datadog, and major cloud providers showing bundled AI support agents, autonomous ticket resolution, computer-use/browser automation, native observability, evaluation, governance, or agent-assurance features in existing enterprise platforms. Identify distribution, native data access, and included or incremental pricing; treat all as vendor-only.",
+      "Find official first-party product releases, release notes, pricing updates, or technical documentation dated from 2026-04-12 through 2026-07-11 showing ServiceNow, Salesforce, Microsoft, Zendesk, Atlassian, SAP, Oracle, Datadog, or a hyperscaler bundling AI support agents, autonomous ticket resolution, browser/computer-use, agent observability, evaluation, governance, or assurance into an existing enterprise support/ITSM/CRM platform. Exclude anything published after 2026-07-11 and return exact publication dates."
+    ],
+    "searchedDomainClasses": [
+      "company_first_party",
+      "technical_repository",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-enterprise-software-support-o20",
+      "src_exa-enterprise-software-support-o21"
+    ],
+    "observationIds": [
+      "obs_exa-enterprise-software-support-o20",
+      "obs_exa-enterprise-software-support-o21"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for incumbentPressure.",
+    "closure": "evidence_found",
+    "templateHash": "1e47b860b23ce790fe8a89fe73e76360a560ff481a1c22092150939eba4a6304"
+  },
+  {
+    "id": "rr-public-sector-administration-pain-positive",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "pain",
+    "kind": "positive",
+    "queries": [
+      "public-sector administrative workflows benefits casework citizen services documented repeated operating cost service delay error harm regulator audit government buyer procurement academic study before:2026-07-12 -vendor",
+      "site:gao.gov OR site:oversight.gov OR site:nao.org.uk OR site:oig.ssa.gov public benefits casework citizen service backlog delay processing error improper payments audit before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o01",
+      "src_exa-public-sector-administration-o03"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o01",
+      "obs_exa-public-sector-administration-o03"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded pain score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "f48c098ac0ed0504c31516d7940b82a45a3fb7319ffd0e6f15e3a23cb971506c"
+  },
+  {
+    "id": "rr-public-sector-administration-pain-negative",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "pain",
+    "kind": "negative",
+    "queries": [
+      "public-sector administrative workflows benefits casework citizen services low error rates improving timeliness resolved backlog no material harm regulator audit government buyer procurement academic study before:2026-07-12 -vendor",
+      "site:gao.gov OR site:oversight.gov OR site:nao.org.uk OR site:oig.ssa.gov public benefits casework citizen service backlog reduced processing timeliness target met error rate improved audit before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o04",
+      "src_exa-public-sector-administration-o06"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o04",
+      "obs_exa-public-sector-administration-o06"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for pain.",
+    "closure": "evidence_found",
+    "templateHash": "ac165fbcd67306626ed22947cb9ed76709eedf412994879bd4dd9f735df52336"
+  },
+  {
+    "id": "rr-public-sector-administration-willingnesstopay-positive",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "willingnessToPay",
+    "kind": "positive",
+    "queries": [
+      "public-sector administrative workflow AI automation assurance evaluation benefits casework citizen services contract award procurement paid pilot multi-year government buyer before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "company_first_party",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o07",
+      "src_exa-public-sector-administration-o09"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o07",
+      "obs_exa-public-sector-administration-o09"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded willingnessToPay score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "f571a74e1d7298073ab35a9e21f581c4f3133f2709a13301fb4ce6fb5c1ba897"
+  },
+  {
+    "id": "rr-public-sector-administration-willingnesstopay-negative",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "willingnessToPay",
+    "kind": "negative",
+    "queries": [
+      "public-sector administrative workflow AI automation assurance evaluation benefits casework citizen services cancelled procurement failed pilot no award budget cuts government buyer before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "company_first_party",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o10",
+      "src_exa-public-sector-administration-o11"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o10",
+      "obs_exa-public-sector-administration-o11"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for willingnessToPay.",
+    "closure": "evidence_found",
+    "templateHash": "3cd7563a27ecb9cf6c6bfcd4538115f3e34c94d00eb6f3c68b9725e13af2cbab"
+  },
+  {
+    "id": "rr-public-sector-administration-rightsaccess-positive",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "rightsAccess",
+    "kind": "positive",
+    "queries": [
+      "public-sector administrative data benefits casework citizen services lawful access data sharing agreement secure research environment privacy controls synthetic data government official academic before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o12"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o12"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded rightsAccess score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "e826d4080c2c17753bd7cef9f84a530b1482adfd88e23be1158f32ad27bcda24"
+  },
+  {
+    "id": "rr-public-sector-administration-rightsaccess-negative",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "rightsAccess",
+    "kind": "negative",
+    "queries": [
+      "public-sector administrative data benefits casework citizen services access prohibited privacy security data rights restrictions breach consent regulator official academic before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o15",
+      "src_exa-public-sector-administration-o16"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o15",
+      "obs_exa-public-sector-administration-o16"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for rightsAccess.",
+    "closure": "evidence_found",
+    "templateHash": "2528db789bd9875ca371c62897619e738ecffefa4a78600aab04fb975f61609b"
+  },
+  {
+    "id": "rr-public-sector-administration-verifierfeasibility-positive",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "verifierFeasibility",
+    "kind": "positive",
+    "queries": [
+      "public-sector administrative workflow benefits eligibility casework citizen services automated outcome verification rules as code state checks adversarial evaluation human review government technical repository academic before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o17",
+      "src_exa-public-sector-administration-o19"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o17",
+      "obs_exa-public-sector-administration-o19"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded verifierFeasibility score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "39080f17c1bcd4e9a30549a641b19619856cd4e688ac64659d3660d7251104bd"
+  },
+  {
+    "id": "rr-public-sector-administration-verifierfeasibility-negative",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "verifierFeasibility",
+    "kind": "negative",
+    "queries": [
+      "public-sector administrative workflow benefits eligibility casework citizen services automation verifier failure gameable proxy bias discretion false positive audit academic government before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o21"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o21"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for verifierFeasibility.",
+    "closure": "evidence_found",
+    "templateHash": "d39323130ecdef509017f9ad3f13344700bada427f0545144053c67c1ff7009a"
+  },
+  {
+    "id": "rr-public-sector-administration-expertsupply-positive",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "expertSupply",
+    "kind": "positive",
+    "queries": [
+      "public-sector administration benefits casework citizen services expert workforce recruitment training calibration quality assurance capacity government workforce data academic before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o22",
+      "src_exa-public-sector-administration-o23"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o22",
+      "obs_exa-public-sector-administration-o23"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded expertSupply score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "4b691f4ad37497f69299b7445f9a01ba1fc0ff512889b48fd44384f4edf20753"
+  },
+  {
+    "id": "rr-public-sector-administration-expertsupply-negative",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "expertSupply",
+    "kind": "negative",
+    "queries": [
+      "public-sector administration benefits casework citizen services workforce shortage vacancy attrition skills gap case backlog government audit academic before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "academic_primary",
+      "independent_reporting"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o25",
+      "src_exa-public-sector-administration-o26"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o25",
+      "obs_exa-public-sector-administration-o26"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for expertSupply.",
+    "closure": "evidence_found",
+    "templateHash": "16455aa32f3b1f69f029dac4868e70b30a42300889df433718152efe882a2ce6"
+  },
+  {
+    "id": "rr-public-sector-administration-freshnessburden-positive",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "freshnessBurden",
+    "kind": "positive",
+    "queries": [
+      "public-sector administrative workflow benefits casework citizen services stable rules annual scheduled policy updates change log official government academic before:2026-07-12",
+      "site:gov.uk OR site:dwp.gov.uk OR site:legislation.gov.uk benefits administration annual uprating scheduled policy update guidance change log before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o27",
+      "src_exa-public-sector-administration-o28"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o27",
+      "obs_exa-public-sector-administration-o28"
+    ],
+    "findings": "Executed Exa evidence lane supports the recorded freshnessBurden score boundary; retained excerpts and cutoff metadata are claim-specific.",
+    "closure": "evidence_found",
+    "templateHash": "160df4a1ad2c991e82cfb3711041e854dd842cc7cf5cd22d3c5bd9cb692a1f48"
+  },
+  {
+    "id": "rr-public-sector-administration-freshnessburden-negative",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "freshnessBurden",
+    "kind": "negative",
+    "queries": [
+      "public-sector administrative workflow benefits casework citizen services frequent weekly daily policy guidance changes emergency updates volatile rules official change log government academic before:2026-07-12",
+      "site:gov.uk OR site:dwp.gov.uk OR site:legislation.gov.uk benefits administration frequent guidance updates ADM memo change log weekly monthly emergency policy before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "regulatory_registry",
+      "technical_repository",
+      "academic_primary"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o29"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o29"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for freshnessBurden.",
+    "closure": "evidence_found",
+    "templateHash": "5981211108eaaa923252880ff5f596d2e561b222b3cb85876744fdf074bcba57"
+  },
+  {
+    "id": "rr-public-sector-administration-incumbentpressure-positive",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "incumbentPressure",
+    "kind": "positive",
+    "queries": [
+      "public-sector administrative workflow AI assurance evaluation benefits casework citizen services unmet need fragmented market procurement no incumbent solution government buyer academic before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "company_first_party",
+      "academic_primary",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o32"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o32"
+    ],
+    "findings": "Executed Exa evidence lane found no qualifying public evidence for a measured incumbentPressure score; contextual results do not establish the fixed proposition.",
+    "closure": "no_public_evidence",
+    "templateHash": "f570c59c1a51745e8f7a1ddeafbc8e43f4f975f929407e21784495167146d281"
+  },
+  {
+    "id": "rr-public-sector-administration-incumbentpressure-negative",
+    "candidateId": "public_sector_administration",
+    "dimensionId": "incumbentPressure",
+    "kind": "negative",
+    "queries": [
+      "public-sector administrative workflow AI assurance evaluation benefits casework citizen services major incumbent bundled platform contract Accenture Deloitte IBM Microsoft ServiceNow Palantir procurement before:2026-07-12"
+    ],
+    "searchedDomainClasses": [
+      "buyer_procurement",
+      "company_first_party",
+      "academic_primary",
+      "independent_reporting",
+      "secondary_discovery"
+    ],
+    "searchedAt": "2026-07-12",
+    "cutoffAt": "2026-07-11",
+    "sourceIds": [
+      "src_exa-public-sector-administration-o34",
+      "src_exa-public-sector-administration-o37"
+    ],
+    "observationIds": [
+      "obs_exa-public-sector-administration-o34",
+      "obs_exa-public-sector-administration-o37"
+    ],
+    "findings": "Executed Exa countersearch retained claim-specific limiting or contrary evidence for incumbentPressure.",
+    "closure": "evidence_found",
+    "templateHash": "589f346b61091826df84875cdd1639b341a57807133868dc9f6ed6193e39712d"
+  }
+]

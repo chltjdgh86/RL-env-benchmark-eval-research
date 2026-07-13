@@ -1,0 +1,358 @@
+[
+  {
+    "industryId": "ind_rlhf",
+    "name": "RLHF",
+    "aliases": [
+      "reinforcement learning from human feedback"
+    ],
+    "kind": "reward_regime",
+    "valueChainStage": "signal_data",
+    "definitionClaimId": "clm_rlhf-definition",
+    "boundaryClaimIds": [
+      "clm_rlhf-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_rlhf-buyer-boundary"
+    ],
+    "companyIds": [
+      "co_scale-ai",
+      "co_mercor",
+      "co_micro1",
+      "co_turing",
+      "co_afterquery"
+    ],
+    "adjacentIds": [
+      "adj_appen",
+      "adj_telus-digital-ai-data-solutions",
+      "adj_sama",
+      "adj_imerit",
+      "adj_cloudfactory",
+      "adj_surge-ai",
+      "adj_labelbox",
+      "adj_toloka",
+      "adj_dataannotation",
+      "adj_prolific",
+      "adj_handshake",
+      "adj_invisible-technologies",
+      "adj_outlier",
+      "adj_alignerr",
+      "adj_mindrift",
+      "adj_g2i",
+      "adj_catalant",
+      "adj_glg",
+      "adj_nvidia-nemo",
+      "adj_amazon-bedrock-agentcore",
+      "adj_google-vertex-ai",
+      "adj_microsoft-azure-ai-foundry",
+      "adj_together-ai",
+      "adj_fireworks-ai",
+      "adj_anyscale",
+      "adj_predibase",
+      "adj_openpipe"
+    ]
+  },
+  {
+    "industryId": "ind_rlaif",
+    "name": "RLAIF",
+    "aliases": [
+      "reinforcement learning from AI feedback"
+    ],
+    "kind": "reward_regime",
+    "valueChainStage": "signal_data",
+    "definitionClaimId": "clm_rlaif-definition",
+    "boundaryClaimIds": [
+      "clm_rlaif-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_rlaif-buyer-boundary"
+    ],
+    "companyIds": [],
+    "adjacentIds": []
+  },
+  {
+    "industryId": "ind_dpo",
+    "name": "Direct Preference Optimization",
+    "aliases": [
+      "DPO"
+    ],
+    "kind": "optimization_method",
+    "valueChainStage": "post_training",
+    "definitionClaimId": "clm_dpo-definition",
+    "boundaryClaimIds": [
+      "clm_dpo-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_dpo-buyer-boundary"
+    ],
+    "companyIds": [],
+    "adjacentIds": [
+      "adj_nvidia-nemo",
+      "adj_amazon-bedrock-agentcore",
+      "adj_google-vertex-ai",
+      "adj_microsoft-azure-ai-foundry",
+      "adj_together-ai",
+      "adj_fireworks-ai",
+      "adj_anyscale",
+      "adj_predibase",
+      "adj_openpipe"
+    ]
+  },
+  {
+    "industryId": "ind_rlvr",
+    "name": "RLVR",
+    "aliases": [
+      "reinforcement learning with verifiable rewards"
+    ],
+    "kind": "reward_regime",
+    "valueChainStage": "post_training",
+    "definitionClaimId": "clm_rlvr-definition",
+    "boundaryClaimIds": [
+      "clm_rlvr-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_rlvr-buyer-boundary"
+    ],
+    "companyIds": [
+      "co_afterquery",
+      "co_deeptune",
+      "co_refresh",
+      "co_vibrant-labs",
+      "co_halluminate"
+    ],
+    "adjacentIds": [
+      "adj_browserbase",
+      "adj_e2b",
+      "adj_daytona",
+      "adj_modal",
+      "adj_prime-intellect",
+      "adj_steel",
+      "adj_browser-use",
+      "adj_kernel",
+      "adj_scrapybara",
+      "adj_nvidia-nemo",
+      "adj_amazon-bedrock-agentcore",
+      "adj_google-vertex-ai",
+      "adj_microsoft-azure-ai-foundry",
+      "adj_together-ai",
+      "adj_fireworks-ai",
+      "adj_anyscale",
+      "adj_predibase",
+      "adj_openpipe"
+    ]
+  },
+  {
+    "industryId": "ind_rl-environments",
+    "name": "RL environments",
+    "aliases": [
+      "training gyms",
+      "agent environments"
+    ],
+    "kind": "commercial_layer",
+    "valueChainStage": "environment",
+    "definitionClaimId": "clm_rl-environments-definition",
+    "boundaryClaimIds": [
+      "clm_rl-environments-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_rl-environments-buyer-boundary"
+    ],
+    "companyIds": [
+      "co_scale-ai",
+      "co_mercor",
+      "co_micro1",
+      "co_turing",
+      "co_afterquery",
+      "co_fleet-ai",
+      "co_deeptune",
+      "co_refresh",
+      "co_vibrant-labs",
+      "co_halluminate"
+    ],
+    "adjacentIds": [
+      "adj_browserbase",
+      "adj_e2b",
+      "adj_daytona",
+      "adj_modal",
+      "adj_prime-intellect",
+      "adj_steel",
+      "adj_browser-use",
+      "adj_kernel",
+      "adj_scrapybara"
+    ]
+  },
+  {
+    "industryId": "ind_computer-use",
+    "name": "Computer use",
+    "aliases": [
+      "browser use",
+      "computer-use agents"
+    ],
+    "kind": "commercial_layer",
+    "valueChainStage": "environment",
+    "definitionClaimId": "clm_computer-use-definition",
+    "boundaryClaimIds": [
+      "clm_computer-use-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_computer-use-buyer-boundary"
+    ],
+    "companyIds": [
+      "co_micro1",
+      "co_afterquery",
+      "co_fleet-ai",
+      "co_deeptune",
+      "co_refresh",
+      "co_halluminate"
+    ],
+    "adjacentIds": [
+      "adj_browserbase",
+      "adj_e2b",
+      "adj_daytona",
+      "adj_modal",
+      "adj_prime-intellect",
+      "adj_steel",
+      "adj_browser-use",
+      "adj_kernel",
+      "adj_scrapybara"
+    ]
+  },
+  {
+    "industryId": "ind_evaluations-assurance",
+    "name": "Evaluations and assurance",
+    "aliases": [
+      "evals",
+      "AI assurance"
+    ],
+    "kind": "service_model",
+    "valueChainStage": "evaluation_assurance",
+    "definitionClaimId": "clm_evaluations-assurance-definition",
+    "boundaryClaimIds": [
+      "clm_evaluations-assurance-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_evaluations-assurance-buyer-boundary"
+    ],
+    "companyIds": [
+      "co_scale-ai",
+      "co_mercor",
+      "co_micro1",
+      "co_turing",
+      "co_fleet-ai",
+      "co_vibrant-labs",
+      "co_halluminate"
+    ],
+    "adjacentIds": [
+      "adj_langsmith",
+      "adj_braintrust",
+      "adj_arize-ai",
+      "adj_langfuse",
+      "adj_patronus-ai",
+      "adj_giskard",
+      "adj_galileo",
+      "adj_confident-ai",
+      "adj_maxim-ai",
+      "adj_accenture",
+      "adj_deloitte",
+      "adj_pwc",
+      "adj_quantumblack-ai-by-mckinsey",
+      "adj_bcg-x",
+      "adj_ibm-consulting",
+      "adj_slalom",
+      "adj_thoughtworks",
+      "adj_palantir"
+    ]
+  },
+  {
+    "industryId": "ind_ax",
+    "name": "AX consulting",
+    "aliases": [
+      "agent experience",
+      "agentic transformation"
+    ],
+    "kind": "ambiguous_term",
+    "valueChainStage": "transformation",
+    "definitionClaimId": "clm_ax-definition",
+    "boundaryClaimIds": [
+      "clm_ax-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_ax-buyer-boundary"
+    ],
+    "companyIds": [
+      "co_turing"
+    ],
+    "adjacentIds": [
+      "adj_accenture",
+      "adj_deloitte",
+      "adj_pwc",
+      "adj_quantumblack-ai-by-mckinsey",
+      "adj_bcg-x",
+      "adj_ibm-consulting",
+      "adj_slalom",
+      "adj_thoughtworks",
+      "adj_palantir",
+      "adj_taskus",
+      "adj_concentrix",
+      "adj_genpact",
+      "adj_wipro",
+      "adj_cognizant",
+      "adj_teleperformance",
+      "adj_capgemini",
+      "adj_exl",
+      "adj_ttec"
+    ]
+  },
+  {
+    "industryId": "ind_expert-data-operations",
+    "name": "Expert data operations",
+    "aliases": [
+      "training data",
+      "expert data"
+    ],
+    "kind": "service_model",
+    "valueChainStage": "signal_data",
+    "definitionClaimId": "clm_expert-data-operations-definition",
+    "boundaryClaimIds": [
+      "clm_expert-data-operations-boundary"
+    ],
+    "buyerClaimIds": [
+      "clm_expert-data-operations-buyer-boundary"
+    ],
+    "companyIds": [
+      "co_scale-ai",
+      "co_mercor",
+      "co_micro1",
+      "co_turing",
+      "co_afterquery"
+    ],
+    "adjacentIds": [
+      "adj_appen",
+      "adj_telus-digital-ai-data-solutions",
+      "adj_sama",
+      "adj_imerit",
+      "adj_cloudfactory",
+      "adj_surge-ai",
+      "adj_labelbox",
+      "adj_toloka",
+      "adj_dataannotation",
+      "adj_prolific",
+      "adj_handshake",
+      "adj_invisible-technologies",
+      "adj_outlier",
+      "adj_alignerr",
+      "adj_mindrift",
+      "adj_g2i",
+      "adj_catalant",
+      "adj_glg",
+      "adj_taskus",
+      "adj_concentrix",
+      "adj_genpact",
+      "adj_wipro",
+      "adj_cognizant",
+      "adj_teleperformance",
+      "adj_capgemini",
+      "adj_exl",
+      "adj_ttec"
+    ]
+  }
+]

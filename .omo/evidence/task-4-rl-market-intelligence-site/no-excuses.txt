@@ -1,0 +1,2 @@
+$ node scripts/qa/check-no-excuses.mjs
+NO_EXCUSES_OK:52

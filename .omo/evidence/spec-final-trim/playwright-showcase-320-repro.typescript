@@ -1,0 +1,41 @@
+^D
+Running 1 test using 1 worker
+
+
+(node:88132) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1/1] [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px
+  1) [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px ───────
+
+    Error: expect(received).toBeLessThanOrEqual(expected)
+
+    Expected: <= 320
+    Received:    1032
+
+      18 |
+      19 |     // Then: all content stays inside the document width and fresh evidence is captured.
+    > 20 |     expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.clientWidth)
+         |                                    ^
+      21 |     await page.screenshot({
+      22 |       fullPage: true,
+      23 |       path: `${evidencePath}/showcase-${width}px.png`,
+        at /Users/sung/src/frist/RL-env-benchmark-eval-research/e2e/showcase.spec.ts:20:36
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/showcase-showcase-reflows-without-page-overflow-at-320px-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  1 failed
+    [chromium] › e2e/showcase.spec.ts:7:3 › showcase reflows without page overflow at 320px ────────

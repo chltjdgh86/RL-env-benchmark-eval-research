@@ -1,0 +1,50 @@
+$ tsc -b --pretty false
+$ biome check .
+Checked 129 files in 71ms. No fixes applied.
+$ node scripts/qa/check-no-excuses.mjs
+NO_EXCUSES_OK:87
+$ vitest run
+
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+
+ Test Files  18 passed (18)
+      Tests  145 passed (145)
+   Start at  16:57:20
+   Duration  4.07s (transform 3.76s, setup 3.21s, import 10.74s, tests 5.11s, environment 33.23s)
+
+$ node scripts/qa/check-rendered-claims.mjs
+RENDERED_CLAIMS_OK:companies,overview-industries
+$ node scripts/qa/render-semantic-audit.mjs --check && node scripts/qa/check-semantic-audit.mjs
+SEMANTIC_AUDIT_RENDER_OK relationships=13 receipts=70 independent=false
+SEMANTIC_AUDIT_OK
+$ node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build
+INDEX_SCAFFOLD_OK
+BUN_LOCK_OK:4FFBFD7D319E5632-f91826dbf5c34b4a-42150121871940E9-a216b109e26709d0
+vite v8.1.4 building client environment for production...
+[2Ktransforming...✓ 166 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                               2.03 kB │ gzip:   0.92 kB
+dist/assets/index-Di83AkRt.css               34.12 kB │ gzip:   6.67 kB
+dist/assets/rolldown-runtime-Bh1tDfsg.js      0.56 kB │ gzip:   0.36 kB
+dist/assets/index-BYKxgHFr.js                 3.09 kB │ gzip:   1.52 kB
+dist/assets/react-dom-DWuVlKIp.js             3.57 kB │ gzip:   1.36 kB
+dist/assets/react-CES6V0Ih.js                 7.53 kB │ gzip:   2.88 kB
+dist/assets/client-D4kvggjV.js              178.94 kB │ gzip:  56.50 kB
+dist/assets/App-BlW4Nzie.js               1,140.43 kB │ gzip: 145.95 kB
+
+✓ built in 92ms
+[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.

@@ -1,0 +1,10 @@
+^D1 | import { chromium } from "playwright"
+2 | 
+3 | const assert = (condition, message) => {
+4 |   if (!condition) throw new Error(message)
+                            ^
+error: q did not normalize/canonicalize: #/companies?q=Scale%20AI
+      at assert (/Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/evidence/spec-final-trim/adversarial-browser.mjs:4:25)
+      at /Users/sung/src/frist/RL-env-benchmark-eval-research/.omo/evidence/spec-final-trim/adversarial-browser.mjs:28:1
+
+Bun v1.2.5 (macOS arm64)

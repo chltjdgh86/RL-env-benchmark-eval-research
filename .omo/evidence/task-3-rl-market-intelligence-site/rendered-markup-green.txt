@@ -1,0 +1,20 @@
+TAP version 13
+# Subtest: does not count a claim ID that a fixture module fails to render
+ok 1 - does not count a claim ID that a fixture module fails to render
+  ---
+  duration_ms: 96.782
+  ...
+# Subtest: accepts exact claim IDs from executable rendered markup
+ok 2 - accepts exact claim IDs from executable rendered markup
+  ---
+  duration_ms: 89.05225
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 214.763375

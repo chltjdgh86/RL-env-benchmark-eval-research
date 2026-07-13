@@ -1,0 +1,8 @@
+# Cause Disappearance Ledger
+
+| cause id | expected truth | previous observation | last_seen | disconfirming observation | replacement cause | current status | violation no longer observed |
+|---|---|---|---|---|---|---|---|
+| C-001 | A usable research website exists. | Workspace was empty. | 2026-07-11 | Pending implementation and browser QA. | None. | open | no |
+| CD-002 | A broad Reliability Twin could be a defensible newcomer product. | Wave-1 entrant synthesis proposed expansion across trace clustering, environment, evaluation, and improvement. | Wave 1 | O-026 and O-028 show LangSmith and AWS already bundle most horizontal functions. | The scarce residual is decision-specific domain evidence: rights-cleared states/tasks, valid verifiers, sealed holdouts, experts, and refresh. | Replaced by conditional Domain Assurance Pack thesis. | yes |
+| CD-003 | Independence alone could differentiate a new evaluation firm. | Early specialist-evaluation wedge. | Wave 1 | O-032 shows PwC, Deloitte, and BSI already occupy formal assurance/certification. | Technical/domain specialization plus partnership or white-label distribution; no unauthorized certification claim. | Refuted as a standalone differentiator. | yes |
+| CD-004 | Private workflow data automatically creates a cross-client flywheel. | Initial private Reliability Twin moat hypothesis. | Wave 1 | O-029 and O-031 surface confidentiality/access constraints; no reusable-rights corpus was observed. | Bring code to data, export aggregate evidence, and treat reuse as contract-dependent. | Unproven; removed from confirmed moat. | yes |

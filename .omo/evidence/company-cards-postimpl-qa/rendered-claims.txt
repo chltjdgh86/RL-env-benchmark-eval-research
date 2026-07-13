@@ -1,0 +1,4 @@
+$ node scripts/qa/check-rendered-claims.mjs
+RENDERED_CLAIMS_OK:companies,market-operations,overview-industries,playbook-sources
+
+EXIT_CODE=0

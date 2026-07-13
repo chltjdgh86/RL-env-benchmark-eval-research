@@ -1,0 +1,16 @@
+{
+  "scope": "companies",
+  "modulePaths": ["src/features/companies/CompaniesPage.tsx"],
+  "expectedClaimIds": [
+    "clm_scale-ai-identity",
+    "clm_mercor-identity",
+    "clm_micro1-identity",
+    "clm_turing-identity",
+    "clm_afterquery-identity",
+    "clm_fleet-ai-identity",
+    "clm_deeptune-identity",
+    "clm_refresh-identity",
+    "clm_vibrant-labs-identity",
+    "clm_halluminate-identity"
+  ]
+}

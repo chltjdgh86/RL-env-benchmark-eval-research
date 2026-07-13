@@ -1,0 +1,3060 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-12",
+  "rootSeed": {
+    "originalPath": "SYNTHESIS.md",
+    "seedPath": "research/seeds/SYNTHESIS.pre-canonical.md",
+    "sha256": "b3a7652702e7d08759084eded15f9fdee23c638c122c6862aab791a99a41f001",
+    "immutable": true,
+    "canonicalStatus": "deprecated-provenance-seed"
+  },
+  "rootPointer": {
+    "path": "SYNTHESIS.md",
+    "target": "research/synthesis/SYNTHESIS.md",
+    "sha256": "4304fd6ca84067db99be0dceb2c713ee1a1c8405a39f92d7978dfb08491485e1",
+    "claimFree": true
+  },
+  "inputManifests": [
+    {
+      "path": "research/seeds/SYNTHESIS.pre-canonical.md",
+      "role": "immutable-pre-canonical-seed",
+      "sha256": "b3a7652702e7d08759084eded15f9fdee23c638c122c6862aab791a99a41f001",
+      "bytes": 56774
+    },
+    {
+      "path": "SYNTHESIS.md",
+      "role": "claim-free-canonical-pointer",
+      "sha256": "4304fd6ca84067db99be0dceb2c713ee1a1c8405a39f92d7978dfb08491485e1",
+      "bytes": 282
+    },
+    {
+      "path": "research/migrations/source-locator-snapshots.json",
+      "role": "exact-source-locator-snapshot",
+      "sha256": "c3011105416f7c70073463becfa84a62b51fa4ddb7ed42bc229789a14027454e",
+      "bytes": 147166
+    },
+    {
+      "path": "research/seeds/exa/exa-argilla-research.md",
+      "role": "exa-executed-research-input",
+      "sha256": "03d955cdeafab79da14c49a2e4134b6bfde14cdfcbf3b7d57c8ed2224eeaf4e6",
+      "bytes": 1271
+    },
+    {
+      "path": "research/seeds/exa/exa-competitor-research.md",
+      "role": "exa-executed-research-input",
+      "sha256": "4ff0762ecee5efc7bda13405581d0c27dac0a50f80ad772a9a9644b37516e780",
+      "bytes": 13052
+    },
+    {
+      "path": "research/seeds/exa/exa-receipts-enterprise.md",
+      "role": "exa-executed-research-input",
+      "sha256": "d702362854633e0a0e7bff05367082e6237e9cc75f284b09454b0f6afc7f9524",
+      "bytes": 30139
+    },
+    {
+      "path": "research/seeds/exa/exa-receipts-finance.md",
+      "role": "exa-executed-research-input",
+      "sha256": "b1cb3829616fe4779cc4d8e60ff960404f2a659f77c13a4b305c75af3ba7010d",
+      "bytes": 22559
+    },
+    {
+      "path": "research/seeds/exa/exa-receipts-health.md",
+      "role": "exa-executed-research-input",
+      "sha256": "c8c23f4e1d39aab8b54788527860e4882a99348b21bbeefd2c1d195c45501a31",
+      "bytes": 24944
+    },
+    {
+      "path": "research/seeds/exa/exa-receipts-insurance.md",
+      "role": "exa-executed-research-input",
+      "sha256": "3784add2c0fd35d8a7a9b2dfadd3fa8346ee401d62156f527694985eeb5c1ac7",
+      "bytes": 25555
+    },
+    {
+      "path": "research/seeds/exa/exa-receipts-public.md",
+      "role": "exa-executed-research-input",
+      "sha256": "c9450bf5b116f5d2382180ece3913bc8b2be36a74dc5c32e7c4e9525b7c143e6",
+      "bytes": 25588
+    },
+    {
+      "path": "research/seeds/exa/exa-supplement-a.md",
+      "role": "exa-executed-research-input",
+      "sha256": "9a89e0a031025bed57fb65155ce5e0cd70b6165c1476c3d6f13c810b9e0da939",
+      "bytes": 11328
+    },
+    {
+      "path": "research/seeds/exa/exa-supplement-b.md",
+      "role": "exa-executed-research-input",
+      "sha256": "ea8484c5ab0d52ab6c2763105a812ea1b4c4163608c5eba6ae682f33a2e671f5",
+      "bytes": 17055
+    },
+    {
+      "path": "research/seeds/exa/exa-supplement-c.md",
+      "role": "exa-executed-research-input",
+      "sha256": "d1b1492f94ae33a5444caace5af2b49c679cac9e785ccf265a3a4dc0b3d8d94d",
+      "bytes": 18607
+    },
+    {
+      "path": "research/seeds/exa/exa-supplemental-integration-manifest.md",
+      "role": "exa-executed-research-input",
+      "sha256": "a8e835d9db0a08770730ed443edd3fc7c70aa917dcefded487b50f5bc8107c6a",
+      "bytes": 9164
+    },
+    {
+      "path": "research/migrations/exa-strategy-evidence.json",
+      "role": "normalized-research-input",
+      "sha256": "39c26ecb543484a247195a712eaea6a96e0c03d2675d0428792464d2a2cb8e64",
+      "bytes": 151420
+    },
+    {
+      "path": "research/migrations/supplemental-census-input.json",
+      "role": "normalized-research-input",
+      "sha256": "1ec8110ced1722634cfb33c986bc46b156982c5b8d2836f788aa8d486ae76413",
+      "bytes": 45365
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/cause-disappearance.md",
+      "role": "research-journal-input",
+      "sha256": "79ca457b7ea91269b2de8ca16bd25490d7f9cc7777a595efb75798e1642406c5",
+      "bytes": 1608
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/claim-graph.md",
+      "role": "research-journal-input",
+      "sha256": "8bb4a3f3703570c56c95c78de15332075fd71020c6b717dde78303e9aa29c26b",
+      "bytes": 15606
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/expansion-log.md",
+      "role": "research-journal-input",
+      "sha256": "820d573007d5e8fa1cb57a4c0a8967e6c1b3405fd364ec67fe77bbb0f716e355",
+      "bytes": 4215
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/final-synthesis.md",
+      "role": "research-journal-input",
+      "sha256": "a86412f5826a6f0f81261bb1a961b2d05c7f7a343ce37a2f3fff5beb3ab4a4d1",
+      "bytes": 4034
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/intent-diff.md",
+      "role": "research-journal-input",
+      "sha256": "1a38ae35bac621b01201a9921753a9ea47f2f615f77d5c6f9f2d0056750acc1e",
+      "bytes": 5254
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/observation-manifest.md",
+      "role": "research-journal-input",
+      "sha256": "dda064aa6b2a3419f2345dd6d59c045fd28653d8dc9687feb701c45e6ed454bc",
+      "bytes": 12499
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/research-coverage.md",
+      "role": "research-journal-input",
+      "sha256": "c88bd4bc986b0f830661a7823019577138a7feedb3eb910decdc98b403f0019b",
+      "bytes": 4855
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/verification-economics.md",
+      "role": "research-journal-input",
+      "sha256": "39335eb2637a5e40ca7bc9ff6d4f2ff1fb1d9a158c12257eedd226b3097674f5",
+      "bytes": 1794
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/wave-1-librarian-mercor.md",
+      "role": "research-journal-input",
+      "sha256": "6cbe5bbffcf0092b86802b332602a167c3c25a117978577045dca5b64463a7d8",
+      "bytes": 4899
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/wave-1-live-leads.md",
+      "role": "research-journal-input",
+      "sha256": "413afddd1366fd7f73eadc6c8b955c30ba64d6f69924a0afd01a3d9c7864443c",
+      "bytes": 10483
+    },
+    {
+      "path": ".omo/ulw-research/20260711-034936/wave-2-countersearch.md",
+      "role": "research-journal-input",
+      "sha256": "d0776d0c75fdae7c2f2d875c6bf8c7a83ec7bd773c088d2020d8ad68a0f29478",
+      "bytes": 6749
+    }
+  ],
+  "sourceMappings": [
+    {
+      "seedSourceId": "S01",
+      "canonicalUrl": "https://www.ycombinator.com/blog/scale/",
+      "contentHash": "4a7e4cff56788800703296c1e8a97e6a391c9cb1e1098a2017eeebc328371c0c",
+      "canonicalSourceId": "src_s01",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S02",
+      "canonicalUrl": "https://scale.com/about",
+      "contentHash": "79c8aca45d366ac8e26c82a6a3f903bb572d853e2eaf9eb3e5c0e57cde816101",
+      "canonicalSourceId": "src_s02",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S03",
+      "canonicalUrl": "https://scale.com/rlenvironments",
+      "contentHash": "fbdbfaf59be1f097fce5f09aa765e2ce372114d4b98857f700ed4592ba1ac5c5",
+      "canonicalSourceId": "src_s03",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S04",
+      "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm",
+      "contentHash": "8336cf3006559d39766b30b3ef93c74f1d964bb4f7ffc53e5f3c80afdec611eb",
+      "canonicalSourceId": "src_s04",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S05",
+      "canonicalUrl": "https://scale.com/blog/scale-ai-series-f",
+      "contentHash": "0b2b9aac8a63caf557c255a39d1d7a9783ec00ad4ff165cbf2a36a33af0c2763",
+      "canonicalSourceId": "src_s05",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S06",
+      "canonicalUrl": "https://news.bloomberglaw.com/artificial-intelligence/scale-ai-expects-to-more-than-double-sales-to-2-billion-in-2025",
+      "contentHash": "adb0a198ad5438d290e0fa9fd999e623fe562c11043822c073e4b7f767562cb1",
+      "canonicalSourceId": "src_s06",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S07",
+      "canonicalUrl": "https://www.forbes.com/sites/richardnieva/2026/05/14/scale-meta-deal/",
+      "contentHash": "13d2d364a3ce40fc12760986d68aacaa119055e0f56463f60b154af0e174c8ad",
+      "canonicalSourceId": "src_s07",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S08",
+      "canonicalUrl": "https://www.mercor.com/blog/1/",
+      "contentHash": "fcc9ba12516aeccbb6e28764b27bd3bbe9fe7b5cfdfd732aa1de3b840502962d",
+      "canonicalSourceId": "src_s08",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S09",
+      "canonicalUrl": "https://www.mercor.com/mission/",
+      "contentHash": "0a109ff62ff9b24f88236833cc345d45cd3725dfb2b64626933d5cfbfe326f56",
+      "canonicalSourceId": "src_s09",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S10",
+      "canonicalUrl": "https://www.mercor.com/blog/series-c/",
+      "contentHash": "ec40620576c2094b7af7829ac991fba7e299cff2d87e9545e92113f2fb387a90",
+      "canonicalSourceId": "src_s10",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S11",
+      "canonicalUrl": "https://www.mercor.com/blog/when-you-go-from-2-million-a-month-to-2-million-a-day/",
+      "contentHash": "1c92f3f6631c11affb118f1d7cd319fdbbfc1dc6fca282bb641ade8fc24f6f60",
+      "canonicalSourceId": "src_s11",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S12",
+      "canonicalUrl": "https://www.theinformation.com/briefings/exclusive-mercor-hit-1-billion-annualized-revenue-breach",
+      "contentHash": "bc99e90d41333dd3423d3ab853ebe1e87571c5db8c5e36c07cb56a279b793a88",
+      "canonicalSourceId": "src_s12",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S13",
+      "canonicalUrl": "https://www.mercor.com/blog/mercor-to-acquire-deeptune/",
+      "contentHash": "b8932ce1228b870b563faea326fad4058994ea03d3d6e02e6a13e46efbdfcb19",
+      "canonicalSourceId": "src_s13",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S14",
+      "canonicalUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "contentHash": "86deaed7c14fdd46d66169a0477d51d1a91d62a6a4f8ade6a69e75abb7eb33e1",
+      "canonicalSourceId": "src_s14",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S15",
+      "canonicalUrl": "https://www.micro1.ai/series-a",
+      "contentHash": "999cba97b191884e4d0a276bfa9d3ae2213219d209617349a57da944e4fdf47e",
+      "canonicalSourceId": "src_s15",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S16",
+      "canonicalUrl": "https://www.micro1.ai/",
+      "contentHash": "99ec262d2bf603aac2336cbdb6a8d4cc1886f37b5091db4b525d29af3e85cd13",
+      "canonicalSourceId": "src_s16",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S17",
+      "canonicalUrl": "https://www.micro1.ai/realm",
+      "contentHash": "1eb0ba5755702e91e4218aed3c49ff70bd20e36098991ec61a1cc5b03598f68e",
+      "canonicalSourceId": "src_s17",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S18",
+      "canonicalUrl": "https://www.micro1.ai/cortex",
+      "contentHash": "8b26196914bf96d2dd4e2f0492e7077d1f5bee0d322038aeef89a0cda5fea240",
+      "canonicalSourceId": "src_s18",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S19",
+      "canonicalUrl": "https://www.micro1.ai/robotics",
+      "contentHash": "ba3eef584587db0df125a18ea359fe89601641a428289dbbacb9e5f46bf8982d",
+      "canonicalSourceId": "src_s19",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S20",
+      "canonicalUrl": "https://www.turing.com/pt/company",
+      "contentHash": "b030574f879ce807f4ea3559ecbaacee8e484634292ec08266cac2fcf667139b",
+      "canonicalSourceId": "src_s20",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S21",
+      "canonicalUrl": "https://www.turing.com/advance",
+      "contentHash": "f7701232e4da413fb209b6804ea765a79c5fd04627802956417fd7a0aecc558d",
+      "canonicalSourceId": "src_s21",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S22",
+      "canonicalUrl": "https://www.turing.com/advance/rl-environments",
+      "contentHash": "5681acfe18d08f0bd8ed7f36ad9ab2ae53c3aa9010d1a078e2821a0bfc61c817",
+      "canonicalSourceId": "src_s22",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S23",
+      "canonicalUrl": "https://go.turing.com/llm-data-packs",
+      "contentHash": "437f9f2eb6af4e49e1682ca341c072328982cc7e1375906973e0ca18da707a2e",
+      "canonicalSourceId": "src_s23",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S24",
+      "canonicalUrl": "https://research.turing.com/project-lazarus",
+      "contentHash": "0770d8eeda2ae8d28777913d4328bf127f82a1502d964eb4ed0b707f22175a5a",
+      "canonicalSourceId": "src_s24",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S25",
+      "canonicalUrl": "https://www.ycombinator.com/companies/afterquery",
+      "contentHash": "e02d8bdcb3ffaa19b4eb29ac21c73566cf59d375eac4e101decd32cce66977aa",
+      "canonicalSourceId": "src_s25",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S26",
+      "canonicalUrl": "https://www.afterquery.com/",
+      "contentHash": "42df0e71c2d28f2f6c9c5f0da51e7ab21d5ef38faeb2d56b5f661ad25ae70641",
+      "canonicalSourceId": "src_s26",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S27",
+      "canonicalUrl": "https://www.afterquery.com/blog/human-expertise-reimagined",
+      "contentHash": "fef06a335a7cce88ddc59d33cbba9794cadf0d1f125bbf521f81ad06d04ddd5f",
+      "canonicalSourceId": "src_s27",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S28",
+      "canonicalUrl": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
+      "contentHash": "fd9c3a0f3552857bc0a44b7aa70faf0d96add8764b7f2c6b49ff585dfb4e7e7a",
+      "canonicalSourceId": "src_s28",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S29",
+      "canonicalUrl": "https://pypi.org/project/fleet-context/",
+      "contentHash": "786e3e94988083ae989143883042ab7160d0028e1d6020fa556432fa698b85a0",
+      "canonicalSourceId": "src_s29",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S30",
+      "canonicalUrl": "https://www.fleetai.com/about",
+      "contentHash": "a1a8c240d4185b03b81452d9f045d45e58eb23fe90ac903d63336283f828466d",
+      "canonicalSourceId": "src_s30",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S31",
+      "canonicalUrl": "https://www.micro1.ai/case-study/business-data",
+      "contentHash": "0c89a0ac7e29a6a90d1bf7234cdeaae037392b5015b42249baaa4c512c30f981",
+      "canonicalSourceId": "src_s31",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S32",
+      "canonicalUrl": "https://deeptune.com/blog/series-a/",
+      "contentHash": "edda9fb7e059f51880b703421f8fbe2fd63fb484d8f6c6c8169d9db773ab0395",
+      "canonicalSourceId": "src_s32",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S33",
+      "canonicalUrl": "https://a16z.com/announcement/investing-in-deeptune/",
+      "contentHash": "e4282efb9fff0b0f2ac90fc8313e3c6181caee4417b917caee50cb1c8b411791",
+      "canonicalSourceId": "src_s33",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S34",
+      "canonicalUrl": "https://refresh.dev/",
+      "contentHash": "e8daa1b122707e5589ff63809ca9bf13cb15712c9a8d5086afd46ad85a13b04b",
+      "canonicalSourceId": "src_s34",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S35",
+      "canonicalUrl": "https://www.ycombinator.com/companies/refresh",
+      "contentHash": "5db333301f0b0342c1e15402e96758bd709542c7da8e0b667e92a02747f253b6",
+      "canonicalSourceId": "src_s35",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S36",
+      "canonicalUrl": "https://vibrantlabs.com/research/mining-hard-tasks",
+      "contentHash": "73b74ca1279252aeb3876cc6336307cda2dae2b4b5e665c709cfe2d38d8ed248",
+      "canonicalSourceId": "src_s36",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S37",
+      "canonicalUrl": "https://www.halluminate.ai/experts",
+      "contentHash": "6a33c0841e895f82988d6fc4d74d8330521195abf06712087128c0ab1636099e",
+      "canonicalSourceId": "src_s37",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S38",
+      "canonicalUrl": "https://arxiv.org/abs/2204.05862",
+      "contentHash": "db952ed98b6b6c03279428a3d8297a7679cfcfb99771cb6c8085ad0037f7e8a5",
+      "canonicalSourceId": "src_s38",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S39",
+      "canonicalUrl": "https://arxiv.org/abs/2305.18290",
+      "contentHash": "762862887b1342a687e15c9d8a8bb656582cf43d097f18bbe9231bb82f23d1c3",
+      "canonicalSourceId": "src_s39",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S40",
+      "canonicalUrl": "https://arxiv.org/abs/2307.13854",
+      "contentHash": "a7f9e554d794a9497654c9ef647b0c0039edd41c713023d165732c14d05207a8",
+      "canonicalSourceId": "src_s40",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S41",
+      "canonicalUrl": "https://arxiv.org/abs/2404.07972",
+      "contentHash": "ece66d0dd984206c85a6a0ea7291f7b13aa8a5b0c3e845883ac419ad0f1fd859",
+      "canonicalSourceId": "src_s41",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S42",
+      "canonicalUrl": "https://arxiv.org/abs/2406.12045",
+      "contentHash": "14b99e61554d0c95d8ec383887c3f8272da80e6de22b9f566f101208d6e36d07",
+      "canonicalSourceId": "src_s42",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S43",
+      "canonicalUrl": "https://www.langchain.com/langsmith-platform",
+      "contentHash": "87f07a8bae791db792a92c2c06c5cc3abb679a3dd793c2f56540684c91997d72",
+      "canonicalSourceId": "src_s43",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S44",
+      "canonicalUrl": "https://huggingface.co/openenv",
+      "contentHash": "ce513f1a53b8ad6b525e5965a59cd5b9500911dca06ea355f8a0a527873fd6c3",
+      "canonicalSourceId": "src_s44",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S45",
+      "canonicalUrl": "https://www.browserbase.com/blog/browserenv",
+      "contentHash": "f13aec83b30d22cc21700a793308548889d67fb9a5f3a2a57d18c00429025ea8",
+      "canonicalSourceId": "src_s45",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S46",
+      "canonicalUrl": "https://docs.primeintellect.ai/verifiers/environments",
+      "contentHash": "847d2a262aa4a24000147add6fc9c74041b0927ab9891f03df484e0981c3da1e",
+      "canonicalSourceId": "src_s46",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S47",
+      "canonicalUrl": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+      "contentHash": "07647101818d6408b2ba804fda625b4e430bf48f979c6bbd50852cffa57c5830",
+      "canonicalSourceId": "src_s47",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S48",
+      "canonicalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/",
+      "contentHash": "672f48fe06c050d773315d1641295c2aa2868e37427633f803b8c16d5ea696a1",
+      "canonicalSourceId": "src_s48",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S49",
+      "canonicalUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
+      "contentHash": "9c39f1d1797206239b011d6d619c1bf041ba706405361ede79583e660ba55c40",
+      "canonicalSourceId": "src_s49",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S50",
+      "canonicalUrl": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "contentHash": "5879cd3ee25980cd5b6b21b0b29c797bbd3892ef0fc03d5b00914449fd697895",
+      "canonicalSourceId": "src_s50",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S51",
+      "canonicalUrl": "https://openai.com/index/strengthening-safety-with-external-testing/",
+      "contentHash": "68ccdc9906d21df6001abef1b650d06774ea067b145e75c07caef85f28e23557",
+      "canonicalSourceId": "src_s51",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S52",
+      "canonicalUrl": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq7806yk1ll4.pdf",
+      "contentHash": "dcacb763a553259e06339d22b8679df8a47d1372629bc850688845477ee947fe",
+      "canonicalSourceId": "src_s52",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S53",
+      "canonicalUrl": "https://ir.taskus.com/static-files/b6125cd3-8571-40f2-a8f0-0e7033fff501",
+      "contentHash": "e6a13cfd9386fa01033422a8a8ea2347ab892d1ce520a6cf9ac89dce8e1c0cc8",
+      "canonicalSourceId": "src_s53",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S54",
+      "canonicalUrl": "https://www.gov.uk/government/publications/trusted-third-party-ai-assurance-roadmap/trusted-third-party-ai-assurance-roadmap",
+      "contentHash": "88442d33f357104b03bd30ae4ce31ee8ab1a0fb27d2536d8aeacf8b28ac079bf",
+      "canonicalSourceId": "src_s54",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S55",
+      "canonicalUrl": "https://www.gov.uk/government/publications/assuring-a-responsible-future-for-ai/assuring-a-responsible-future-for-ai",
+      "contentHash": "5ea8f938f89326d89a0df101b527f49f80335f412e22eb6314fb42ce5d364495",
+      "canonicalSourceId": "src_s55",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S56",
+      "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/037042-2025/PDF",
+      "contentHash": "c815c9158e937d23e62d07104c87d0f4eb49e0506d02ad891766e75486292342",
+      "canonicalSourceId": "src_s56",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S57",
+      "canonicalUrl": "https://aws.amazon.com/marketplace/pp/prodview-vmzygmggk4gms",
+      "contentHash": "4c9a8dbc57d4ccd69dbf40ca5479e1886ead85a64431eb70851e38dba18cb2f3",
+      "canonicalSourceId": "src_s57",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S58",
+      "canonicalUrl": "https://www.pwc.com/us/en/services/audit-assurance/digital-assurance-transparency/assurance-ai.html",
+      "contentHash": "467100614596e34c10b0321f5a2d53cf367c847342bb762c5e01561eb475bec6",
+      "canonicalSourceId": "src_s58",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S59",
+      "canonicalUrl": "https://www.deloitte.com/nl/en/services/audit-assurance/services/algorithm-ai-assurance.html",
+      "contentHash": "1363c05b0148be864346877dfee3dda48910a1531f61a01cacf5f89cfda7e8e1",
+      "canonicalSourceId": "src_s59",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S60",
+      "canonicalUrl": "https://www.bsigroup.com/en-GB/products-and-services/standards/iso-42001-ai-management-system/",
+      "contentHash": "d6a97bf82ce6d7d7c273fa33abc8f4e3a57fd0eb571afaa972139401296d902a",
+      "canonicalSourceId": "src_s60",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S61",
+      "canonicalUrl": "https://agentexperience.ax/",
+      "contentHash": "d4efe4d59bfa4d6865e62a5a59c09d1420abfd27af939e921a15c4906f8324bc",
+      "canonicalSourceId": "src_s61",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S62",
+      "canonicalUrl": "https://www.deloitte.com/cbc/en/what-we-do/capabilities/agentic-ai.html",
+      "contentHash": "81763e1a97e08fe5a9815bd2212c818e508585eb72b7f20e566a5613fd22ee11",
+      "canonicalSourceId": "src_s62",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S63",
+      "canonicalUrl": "https://www.prolific.com/pricing",
+      "contentHash": "d3f400d9080b55afe720b8fa8865a2bfcff474d1e22ebaa82626072000a3e30d",
+      "canonicalSourceId": "src_s63",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S64",
+      "canonicalUrl": "https://www.braintrust.dev/pricing",
+      "contentHash": "9a7dd6d68f71a0b81941adbdca47228926281912558a45814059e4e48652c26f",
+      "canonicalSourceId": "src_s64",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S65",
+      "canonicalUrl": "https://www.langchain.com/pricing",
+      "contentHash": "0768b0992899ee854d168346241d4f23a6d8b13e1a2b514456f2349824273630",
+      "canonicalSourceId": "src_s65",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S66",
+      "canonicalUrl": "https://www.browserbase.com/pricing",
+      "contentHash": "e943f0b4ec3ded94dd4668d5eb24608deaaea76cbfab8fa12d78f32f0d3c99b6",
+      "canonicalSourceId": "src_s66",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S67",
+      "canonicalUrl": "https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027",
+      "contentHash": "5330bf15cb3b1181d75a59ccfef3f631261743302477e08a073c35f834d72b20",
+      "canonicalSourceId": "src_s67",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S68",
+      "canonicalUrl": "https://www.halluminate.ai/blog/westworld",
+      "contentHash": "894e602b61c6b195e8aa57d9a7e453aa072222b5ade7413d2c6680e024fe58ae",
+      "canonicalSourceId": "src_s68",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S69",
+      "canonicalUrl": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents",
+      "contentHash": "1c58d9249f617826f3b8563bd342967e0a63b330a4878f9baa130277d00ee84e",
+      "canonicalSourceId": "src_s69",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S70",
+      "canonicalUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html",
+      "contentHash": "5fdc651778b6db282a7dab09760518c28815b5afa2166137ffc6098cd6ef33c1",
+      "canonicalSourceId": "src_s70",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S71",
+      "canonicalUrl": "https://aws.amazon.com/bedrock/agentcore/pricing/",
+      "contentHash": "c5cb08d357aedb8503852ad3a2cca27434b2729facac17dc9d0a3839e2036eba",
+      "canonicalSourceId": "src_s71",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S72",
+      "canonicalUrl": "https://www.fleetai.com/",
+      "contentHash": "c07ec83dd404b64c0f389aaaa728a9b38fd2745062c0875b2a1df8920636aa88",
+      "canonicalSourceId": "src_s72",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S73",
+      "canonicalUrl": "https://vibrantlabs.com/",
+      "contentHash": "c5c9442bc5debe285f4fa0833b080c9d508ffd14f9bff8dbd2b223dc026fa38d",
+      "canonicalSourceId": "src_s73",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S74",
+      "canonicalUrl": "https://research.turing.com/",
+      "contentHash": "de8e05ef7c1d1e5cb51ae29207af0ac107f96c8b18c91c18e1acba368dbd821b",
+      "canonicalSourceId": "src_s74",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S75",
+      "canonicalUrl": "https://www.ycombinator.com/companies/halluminate",
+      "contentHash": "f1a69c833387ce3adc24e7667f829f16027c971372676bfd36d600f6dff3a7bb",
+      "canonicalSourceId": "src_s75",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S76",
+      "canonicalUrl": "https://www.micro1.ai/case-study/competitive-programmers",
+      "contentHash": "8c5529ba029de4ac4826a8b53e25a92627184570f78ce98fa1c3fb8f4b376ea4",
+      "canonicalSourceId": "src_s76",
+      "disposition": null
+    },
+    {
+      "seedSourceId": "S77",
+      "canonicalUrl": "https://www.find-tender.service.gov.uk/Notice/001340-2025",
+      "contentHash": "dac5c9fd273f341a74eb7396695367a1061af0057161dea03ea7c51d00dc4698",
+      "canonicalSourceId": "src_s77",
+      "disposition": null
+    }
+  ],
+  "claimMappings": [
+    {
+      "seedAnchorId": "seed-line-3",
+      "lineNumber": 3,
+      "contentHash": "bb590a092b07740d571ddd15c4402daba7359f461bf38f53423d3030e758df09",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-5",
+      "lineNumber": 5,
+      "contentHash": "57f41e08cb6bf7a2ece6cf101e4624d5762eb2d60ab7ef6e3451036248037ce1",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-9",
+      "lineNumber": 9,
+      "contentHash": "a1d547f73fc191bdc195e7006c28f79ebf53c1843be465c7f6db59e5e41365ea",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-10",
+      "lineNumber": 10,
+      "contentHash": "d3b2840b17d6250aab799181a12b698239db9f5f31e56fcb28ee73433d700aff",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-11",
+      "lineNumber": 11,
+      "contentHash": "36ba5e8a8409c5177443792355fe06324483bbe508100ef27f4dfcc603440b57",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-12",
+      "lineNumber": 12,
+      "contentHash": "c4793416fd46cab0ae71dd2b5c044be05dfa56ae306070cb2b71e9ffc58d3e4f",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-13",
+      "lineNumber": 13,
+      "contentHash": "9dbc55aa946b85b9ad49818cd84c2a96286622d5d35c4b733e5b327b07c2a0d0",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-17",
+      "lineNumber": 17,
+      "contentHash": "602187bb6c899c59bfeb823b130e30c92e3723c85ef216a89220488a004efca5",
+      "citedSeedSourceIds": [
+        "S01",
+        "S09",
+        "S16",
+        "S21",
+        "S26"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-19",
+      "lineNumber": 19,
+      "contentHash": "c95f8adf56230c718fa48ed918fbe55fa3ca3ba448396184483e7c0a4946d4d3",
+      "citedSeedSourceIds": [
+        "S44",
+        "S45",
+        "S46",
+        "S47"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-21",
+      "lineNumber": 21,
+      "contentHash": "71dd25a0cdb2a631af0dd201494cffde4f53620e2f3b1f758cf99f08843e7ce3",
+      "citedSeedSourceIds": [
+        "S11",
+        "S22",
+        "S31",
+        "S52",
+        "S53"
+      ],
+      "canonicalClaimIds": [
+        "clm_analysis-gtm-technical-relationship",
+        "clm_analysis-gtm-diagnostic-or-sample",
+        "clm_analysis-gtm-paid-pilot",
+        "clm_analysis-gtm-acceptance-proof",
+        "clm_analysis-gtm-embedded-expansion"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-23",
+      "lineNumber": 23,
+      "contentHash": "75aea3844f952840b301533aab2e2cf214ebc9ca789c034cd3441f22f0885392",
+      "citedSeedSourceIds": [
+        "S43",
+        "S45",
+        "S48",
+        "S58",
+        "S59",
+        "S60"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-25",
+      "lineNumber": 25,
+      "contentHash": "0c557a84e7103494704ce13db21d44b9365a27a5909098c03e629408477ee7dd",
+      "citedSeedSourceIds": [
+        "S49",
+        "S54",
+        "S55",
+        "S58",
+        "S59",
+        "S60"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-29",
+      "lineNumber": 29,
+      "contentHash": "53ebd054bc9f7f24b2e6717807473ab442fffc28d89ce2d596a403b75c95a9bd",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-31",
+      "lineNumber": 31,
+      "contentHash": "b9d26845e9ac79c19d7cde980a3c2298357cb5e3f3ef8b4acbe2b5e13aa8ee35",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-32",
+      "lineNumber": 32,
+      "contentHash": "8e2a351c883798f8569dd6e4b6883e58eb89348871311461e0aef8f2b3a74c7f",
+      "citedSeedSourceIds": [
+        "S01"
+      ],
+      "canonicalClaimIds": [
+        "clm_scale-ai-initial-wedge",
+        "clm_analysis-history-human-task-api"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-33",
+      "lineNumber": 33,
+      "contentHash": "89bae93915e172413276366a084e99152849150441ada12eb1d536c13d3db74f",
+      "citedSeedSourceIds": [
+        "S38",
+        "S39"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-34",
+      "lineNumber": 34,
+      "contentHash": "e299578e1289a27dffb818a76eff2b718ff32c280c334ddea963e83d1541082b",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-35",
+      "lineNumber": 35,
+      "contentHash": "3432ab28414a390943532cb66b7eca821e6460c88b614f0dad4d9bf7c199419e",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-36",
+      "lineNumber": 36,
+      "contentHash": "5915c876107103e784ed0e4f93bb1da0f908b7f84b8735765fc90c736f294b86",
+      "citedSeedSourceIds": [
+        "S40",
+        "S41",
+        "S42"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-37",
+      "lineNumber": 37,
+      "contentHash": "5572da8dd7ae799d8fe1cc06195113ea7fea3cba6d6c5658f1d1ff292cd72843",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-39",
+      "lineNumber": 39,
+      "contentHash": "31eb184e5202edb72b210bd5c30657768a4da58878b8775b53b6af57269d2df7",
+      "citedSeedSourceIds": [
+        "S40",
+        "S41",
+        "S42"
+      ],
+      "canonicalClaimIds": [
+        "clm_analysis-edge-computer-use-evaluations-assurance"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-45",
+      "lineNumber": 45,
+      "contentHash": "6f6f1cf0f02706d4984e279b2c3d9a4db5972b44e2a80e207d59256626f7ca8d",
+      "citedSeedSourceIds": [
+        "S38"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-46",
+      "lineNumber": 46,
+      "contentHash": "f5983b77c434991667f03a9a48270cfe5f37ffecba41aaffff10e9d9cb14c250",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-47",
+      "lineNumber": 47,
+      "contentHash": "f78e95676428c08062c3af62daf50ad52b149520b1ef26fcf5530244f9c32a93",
+      "citedSeedSourceIds": [
+        "S39"
+      ],
+      "canonicalClaimIds": [
+        "clm_dpo-definition",
+        "clm_analysis-history-dpo-objective"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-48",
+      "lineNumber": 48,
+      "contentHash": "9674886a9a556f787c6ad431e2374058c06da3ced56d5d998aeebe2da9d76b70",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-49",
+      "lineNumber": 49,
+      "contentHash": "35f4a73bc298c4c3d293d964345808049fea9008f8056213eb5c364455926128",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-53",
+      "lineNumber": 53,
+      "contentHash": "d8dd1eb33c71afdd9b87bd35b6a8b4f148a7b20d550d81e4dadb778c1769de70",
+      "citedSeedSourceIds": [
+        "S44",
+        "S46"
+      ],
+      "canonicalClaimIds": [
+        "clm_rl-environments-boundary"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-55",
+      "lineNumber": 55,
+      "contentHash": "b2e6f52ccf2056809aa36a0c5204633be84b7604af75afecbdff53b2e2cbdad0",
+      "citedSeedSourceIds": [
+        "S49"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-57",
+      "lineNumber": 57,
+      "contentHash": "423bdea7120b3684d56ca2f3f39c4eb83b56ba37c0c01cdd05f96f8fb9637f53",
+      "citedSeedSourceIds": [
+        "S58",
+        "S59",
+        "S60"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-61",
+      "lineNumber": 61,
+      "contentHash": "bf689dfb01f9087a40962c9500f3a9e531f02c52402dcb0c43c4021163c69d94",
+      "citedSeedSourceIds": [
+        "S61"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-62",
+      "lineNumber": 62,
+      "contentHash": "0b48b543462e140cb0d12a16888301eaa412073788dd8259f86a71f52aafa7a7",
+      "citedSeedSourceIds": [
+        "S62"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-64",
+      "lineNumber": 64,
+      "contentHash": "ca2a1460d48e22ec34dd8ad925bccb90ba981e80271718adee9a202026ea655e",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-70",
+      "lineNumber": 70,
+      "contentHash": "08e16b8b9dfd31288a5e1dd1f40815acae262229b616a95d143fcd080e1baef9",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-84",
+      "lineNumber": 84,
+      "contentHash": "c8bb59d817386c95bfa4722d4d953b66383f4de26b1ea6a9873e55b42cec8770",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-88",
+      "lineNumber": 88,
+      "contentHash": "e153c4685baf828ce42416487c4abb5a365378c637ca56371ef3c7876c248c2a",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-90",
+      "lineNumber": 90,
+      "contentHash": "9a57c0958d612eda981b9268a072b79fde7b7e35ab271c11de0e9c59d5977829",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-91",
+      "lineNumber": 91,
+      "contentHash": "654ed0325cbb7716d73b2d8e21e80b15867f2ba1dad17ed67b3b7c1192ba424e",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-92",
+      "lineNumber": 92,
+      "contentHash": "41421ca0c46ab25e9ced33d9e187ad9b9c2f1ee7265f8cc2ed1a3326a4ff2525",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-93",
+      "lineNumber": 93,
+      "contentHash": "50292610eaf86f186a6784a098c9353b5b3d5982a1859cf52246259c9e901001",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-94",
+      "lineNumber": 94,
+      "contentHash": "2b1981db7bb046ce3b4f145e96ea1fb900aa6d2c97938e0d331f061d215e23e6",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-95",
+      "lineNumber": 95,
+      "contentHash": "afd6afa86553afdc5b836e58c5511f8bbd924ceaa1dc2dd99b20d139c9f2ab7b",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-96",
+      "lineNumber": 96,
+      "contentHash": "2911dde6eae17c68e23f8601317bde58380a509db409cde63dd3530a81e16a77",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-97",
+      "lineNumber": 97,
+      "contentHash": "5c377d82d3b78d6867872a9213a771023e5c9888c9ae398e66f8a7d91aa4e9cd",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-98",
+      "lineNumber": 98,
+      "contentHash": "8af6acb733ebce57fcc5d6150d3777078354b8af75bb4e1690ff017693ab029a",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-99",
+      "lineNumber": 99,
+      "contentHash": "fc5b2c9d412cec42ab056dfe063fffcd2757df6cc8fab5cf8187e3414d8d6ea4",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-105",
+      "lineNumber": 105,
+      "contentHash": "aea408c3f4f71a2eec87730a21a9d30128a831879b7b5ef8c25a7693d3e21c74",
+      "citedSeedSourceIds": [
+        "S01",
+        "S05"
+      ],
+      "canonicalClaimIds": [
+        "clm_scale-ai-origin",
+        "clm_scale-ai-initial-wedge",
+        "clm_scale-ai-evolution",
+        "clm_analysis-history-human-task-api"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-107",
+      "lineNumber": 107,
+      "contentHash": "2f4043b2433ec0e0ae175174f0bb069db21e57978436caa0eba31afa9a3176dd",
+      "citedSeedSourceIds": [
+        "S02",
+        "S03"
+      ],
+      "canonicalClaimIds": [
+        "clm_scale-ai-current-offer",
+        "clm_scale-ai-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-109",
+      "lineNumber": 109,
+      "contentHash": "85cf7240f9f2ad3642418df835baddd07a81076d3f481b7bef0961514e154050",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_scale-ai-buyers"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-111",
+      "lineNumber": 111,
+      "contentHash": "60776c34ee1c8512d0d25a5932d3c4ab424e80791736715a42d22d704915ae05",
+      "citedSeedSourceIds": [
+        "S04",
+        "S06",
+        "S07"
+      ],
+      "canonicalClaimIds": [
+        "clm_scale-ai-milestone",
+        "clm_scale-ai-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-113",
+      "lineNumber": 113,
+      "contentHash": "d40cfc137b2701b3eaa83cb87b1ab5e7dda7a0db96d533908a215cf859b300aa",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-117",
+      "lineNumber": 117,
+      "contentHash": "52ba5bccbd14932ea0dc5a8a422684dd1f219b492fef685de8cd8601c6487972",
+      "citedSeedSourceIds": [
+        "S08"
+      ],
+      "canonicalClaimIds": [
+        "clm_mercor-origin",
+        "clm_mercor-initial-wedge"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-119",
+      "lineNumber": 119,
+      "contentHash": "43e6f11bd0ff88c5a519b32837ce7609b3e6c00e8dc3c93a2172d706c805d91a",
+      "citedSeedSourceIds": [
+        "S09",
+        "S13"
+      ],
+      "canonicalClaimIds": [
+        "clm_mercor-evolution",
+        "clm_mercor-current-offer"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-121",
+      "lineNumber": 121,
+      "contentHash": "9e350528b76b0a583180f305846e3c4edebbc7bf42b042eaa507ff61d4a1850c",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_mercor-buyers",
+        "clm_mercor-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-123",
+      "lineNumber": 123,
+      "contentHash": "1972ed4916909783cfb685aaac1c26c1bed7dcd747a778564fc3097d971454d9",
+      "citedSeedSourceIds": [
+        "S10",
+        "S11",
+        "S12",
+        "S14"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-125",
+      "lineNumber": 125,
+      "contentHash": "e22d6c52c21a4190846850d7a190858035197f215d94647773e233ec9a02f7a7",
+      "citedSeedSourceIds": [
+        "S13"
+      ],
+      "canonicalClaimIds": [
+        "clm_mercor-milestone",
+        "clm_deeptune-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-129",
+      "lineNumber": 129,
+      "contentHash": "fc6289e0dc4d2eecc5277f61232af12fdbcbabe37bb30a029bdcf56586e2d446",
+      "citedSeedSourceIds": [
+        "S15"
+      ],
+      "canonicalClaimIds": [
+        "clm_micro1-origin",
+        "clm_micro1-initial-wedge"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-131",
+      "lineNumber": 131,
+      "contentHash": "2728a5bdb4cd8e352419c90dc23f8957f553670589f1c597933c3a149543442c",
+      "citedSeedSourceIds": [
+        "S16",
+        "S17",
+        "S18",
+        "S19"
+      ],
+      "canonicalClaimIds": [
+        "clm_micro1-current-offer",
+        "clm_micro1-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-133",
+      "lineNumber": 133,
+      "contentHash": "2abdc45a3af933f50e7e5ed541dfdbdfcbecfc95860fb4e285f91aa016356a46",
+      "citedSeedSourceIds": [
+        "S31",
+        "S76"
+      ],
+      "canonicalClaimIds": [
+        "clm_micro1-buyers",
+        "clm_micro1-gtm"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-135",
+      "lineNumber": 135,
+      "contentHash": "b53848ae96efc13b4a125ac5585e0c01d145eb4bbad277a95c29042396d704e1",
+      "citedSeedSourceIds": [
+        "S15"
+      ],
+      "canonicalClaimIds": [
+        "clm_micro1-milestone",
+        "clm_micro1-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-139",
+      "lineNumber": 139,
+      "contentHash": "f08f1960d8f2c36aefff865bb6a2ede342dc35ee27a37251cebe20ed598a33d6",
+      "citedSeedSourceIds": [
+        "S20"
+      ],
+      "canonicalClaimIds": [
+        "clm_turing-origin",
+        "clm_turing-milestone"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-141",
+      "lineNumber": 141,
+      "contentHash": "623bc6c412c7c1e73c4c3e7dd76486b751663aa8e9b9aeb57b030b1e61fcfa92",
+      "citedSeedSourceIds": [
+        "S21",
+        "S22",
+        "S23",
+        "S24"
+      ],
+      "canonicalClaimIds": [
+        "clm_turing-evolution",
+        "clm_turing-current-offer",
+        "clm_turing-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-143",
+      "lineNumber": 143,
+      "contentHash": "6cdac8e2b4d8e18f4eea4690586d5d47a37f8b350b4fb6c849d176663866abde",
+      "citedSeedSourceIds": [
+        "S22"
+      ],
+      "canonicalClaimIds": [
+        "clm_turing-buyers",
+        "clm_turing-gtm",
+        "clm_turing-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-145",
+      "lineNumber": 145,
+      "contentHash": "11b9542ed45ffb8a1871d15b1f25c06cc7c262e714769b9324ec45a9c72bac48",
+      "citedSeedSourceIds": [
+        "S22"
+      ],
+      "canonicalClaimIds": [
+        "clm_turing-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-149",
+      "lineNumber": 149,
+      "contentHash": "f50929e48d0c093f76da794ecc34da68b6c4752d6f1260d711eb19e486dd8a61",
+      "citedSeedSourceIds": [
+        "S25"
+      ],
+      "canonicalClaimIds": [
+        "clm_afterquery-identity",
+        "clm_afterquery-origin"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-151",
+      "lineNumber": 151,
+      "contentHash": "9a2c9aa127d38beb13c9c784a332a2f50238e639af1b52ecb9973c780dc7941f",
+      "citedSeedSourceIds": [
+        "S26",
+        "S27"
+      ],
+      "canonicalClaimIds": [
+        "clm_afterquery-evolution",
+        "clm_afterquery-current-offer",
+        "clm_afterquery-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-153",
+      "lineNumber": 153,
+      "contentHash": "fdc7ef639491bd9123918029e79b4bc7781c715c9cc81008d185ea129e7bc5d6",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_afterquery-buyers",
+        "clm_afterquery-gtm"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-155",
+      "lineNumber": 155,
+      "contentHash": "fd1b921cef0d12459bd51873995e5bcb9d096d5b8d2cdffe8ec48935c201c354",
+      "citedSeedSourceIds": [
+        "S27",
+        "S28"
+      ],
+      "canonicalClaimIds": [
+        "clm_afterquery-milestone",
+        "clm_afterquery-risk",
+        "clm_afterquery-buyer-nvidia"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-159",
+      "lineNumber": 159,
+      "contentHash": "790075eb4a0e40e689396ecb4e409fd363218c304377ed2eabad4af798f1c68e",
+      "citedSeedSourceIds": [
+        "S29",
+        "S30"
+      ],
+      "canonicalClaimIds": [
+        "clm_fleet-ai-identity",
+        "clm_fleet-ai-origin",
+        "clm_fleet-ai-initial-wedge"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-161",
+      "lineNumber": 161,
+      "contentHash": "444d196558a4e870eeda1cfb7cb6e7e9c181868096198757ef1c2b5653e12bc7",
+      "citedSeedSourceIds": [
+        "S30"
+      ],
+      "canonicalClaimIds": [
+        "clm_fleet-ai-evolution",
+        "clm_fleet-ai-current-offer",
+        "clm_fleet-ai-buyers"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-163",
+      "lineNumber": 163,
+      "contentHash": "00c5619ed8ccf074e5c55138af8ec3d1ce7069df5de4a9da068222eac9e265f7",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_fleet-ai-gtm",
+        "clm_fleet-ai-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-165",
+      "lineNumber": 165,
+      "contentHash": "c86c964882ba152e2534f53fe012456bce5f9534765f96b715c8274709a2f60f",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_fleet-ai-risk",
+        "clm_fleet-ai-unknowns"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-169",
+      "lineNumber": 169,
+      "contentHash": "c66d1dbd1c91250d1c60d24eeb9ad85790156d0e5e3500a99dd2c1f7960d0dcb",
+      "citedSeedSourceIds": [
+        "S32"
+      ],
+      "canonicalClaimIds": [
+        "clm_deeptune-origin",
+        "clm_deeptune-initial-wedge",
+        "clm_deeptune-evolution"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-171",
+      "lineNumber": 171,
+      "contentHash": "5fecbb3548f335e95e0756b26d4c1348fd489494a438120fef3f916f124f2009",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_deeptune-current-offer",
+        "clm_deeptune-buyers",
+        "clm_deeptune-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-173",
+      "lineNumber": 173,
+      "contentHash": "cc18427db423a214f3c22aef1fcaad778d79efd26fa145001530e3cd1f4e6555",
+      "citedSeedSourceIds": [
+        "S32",
+        "S33",
+        "S13"
+      ],
+      "canonicalClaimIds": [
+        "clm_deeptune-milestone",
+        "clm_deeptune-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-177",
+      "lineNumber": 177,
+      "contentHash": "d84263f79d98a11caf0b2a80fd85a8b652093cca88edbbe4d90bc0c3c4e03c2c",
+      "citedSeedSourceIds": [
+        "S34",
+        "S35"
+      ],
+      "canonicalClaimIds": [
+        "clm_refresh-identity",
+        "clm_refresh-origin",
+        "clm_refresh-initial-wedge",
+        "clm_refresh-evolution"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-179",
+      "lineNumber": 179,
+      "contentHash": "203f865272971873fe9257b5676da4d3954da6458927f837d8a40f9ff842867a",
+      "citedSeedSourceIds": [
+        "S34"
+      ],
+      "canonicalClaimIds": [
+        "clm_refresh-current-offer",
+        "clm_refresh-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-181",
+      "lineNumber": 181,
+      "contentHash": "ab39450b2b3f301c50f50ec5b09325b045e31f270f16f14f3c6d71feae8927a6",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_refresh-buyers",
+        "clm_refresh-gtm",
+        "clm_refresh-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-185",
+      "lineNumber": 185,
+      "contentHash": "d51afe63145736bc1de761b0c4cf5b05e967debbbbe9c119a1f1bf24218d5259",
+      "citedSeedSourceIds": [
+        "S36"
+      ],
+      "canonicalClaimIds": [
+        "clm_vibrant-labs-origin",
+        "clm_vibrant-labs-initial-wedge",
+        "clm_vibrant-labs-evolution"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-187",
+      "lineNumber": 187,
+      "contentHash": "e224f9656096f27628114125f9aa4091b07417310da83695fd47a7097d0ab7d1",
+      "citedSeedSourceIds": [
+        "S36"
+      ],
+      "canonicalClaimIds": [
+        "clm_vibrant-labs-current-offer",
+        "clm_vibrant-labs-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-189",
+      "lineNumber": 189,
+      "contentHash": "e4dcfdfa6bae6468b513d3401278c9cae61b4d3a62c2214989c52fc35d8a5573",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_vibrant-labs-gtm",
+        "clm_vibrant-labs-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-193",
+      "lineNumber": 193,
+      "contentHash": "c0068668e6d15cce2ec2e680c295c6b2513022ec3acca44085259964faa747be",
+      "citedSeedSourceIds": [
+        "S75",
+        "S68"
+      ],
+      "canonicalClaimIds": [
+        "clm_halluminate-origin",
+        "clm_halluminate-initial-wedge",
+        "clm_halluminate-evolution"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-195",
+      "lineNumber": 195,
+      "contentHash": "c044be3c537e73e294b99d1dd2cf7b76738b058c8f6c23422b0525aaf07de3d9",
+      "citedSeedSourceIds": [
+        "S37"
+      ],
+      "canonicalClaimIds": [
+        "clm_halluminate-current-offer",
+        "clm_halluminate-buyers"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-197",
+      "lineNumber": 197,
+      "contentHash": "d5ad20c1cacc9f79a0606b8d50be5e4c4aa2f2d9882827afd8da32620c9cc03e",
+      "citedSeedSourceIds": [
+        "S37"
+      ],
+      "canonicalClaimIds": [
+        "clm_halluminate-gtm",
+        "clm_halluminate-operating-model"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-199",
+      "lineNumber": 199,
+      "contentHash": "9b9e19327e63eef2d07637922c7e1c3605831c463b2b25c91e50004c770d22a6",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [
+        "clm_halluminate-risk",
+        "clm_halluminate-unknowns"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-205",
+      "lineNumber": 205,
+      "contentHash": "13a52b14ef1bda5039fa36f5ab8d1f26b6356beed4846b02351340ee4a071826",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-206",
+      "lineNumber": 206,
+      "contentHash": "9bb5c5551c6d929b772a0dc5aa262e6f52f0b8c67ba51cf2be1ec536151911b6",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-207",
+      "lineNumber": 207,
+      "contentHash": "81ee30d9a8667c64a4dc9fc27595747c8e5f92c691a267816a4a56c5acaefd2c",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-208",
+      "lineNumber": 208,
+      "contentHash": "22cefd2e91ad11a63606e272812106c07c7d71eba471d80c16f70b3f1164e6fc",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-209",
+      "lineNumber": 209,
+      "contentHash": "7e52e29c5c9dfdfff9d48427cac54b0767eb7aeeaad227a9f33676fcb52e1f60",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-210",
+      "lineNumber": 210,
+      "contentHash": "024ecbb353356a37f37e07f6cc8bedce2532dfafa52198280c13d8344576de23",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-211",
+      "lineNumber": 211,
+      "contentHash": "8f95855a58077b896875d285055f6516355bab41dec64d7e55c250c5513e87e2",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-212",
+      "lineNumber": 212,
+      "contentHash": "aa0ffe2d334dadcaeb1fe5a4e3f970477417ce8cfad12ced6c4e46b35fabe5be",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-218",
+      "lineNumber": 218,
+      "contentHash": "9e4d55e8868bf365554d8447a0f1dfaaeb686fdb7b31d2e2feeab517d1709acb",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-228",
+      "lineNumber": 228,
+      "contentHash": "bb94fdda858d08bbb7832a03f0154ef5759b31c3ba255914aa94baf82f87eb4b",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-230",
+      "lineNumber": 230,
+      "contentHash": "1ac070f94d44bdf0e44c54dfb1f19d173365e0f7b66ebf413f222bacd82229c5",
+      "citedSeedSourceIds": [
+        "S49",
+        "S50"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-234",
+      "lineNumber": 234,
+      "contentHash": "a373fea54f5cd1da59e0682d46903ca884a03111db56c99c2a06af63df4be481",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-235",
+      "lineNumber": 235,
+      "contentHash": "fa60bd312768cea5c1743a8f26eb8d4285d9253835f8ffb46246a1b3d834ee2e",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-236",
+      "lineNumber": 236,
+      "contentHash": "39ff5ee85ad04628d682b661c0f1b07fbc85b2c747702202321cedf9618eada8",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-237",
+      "lineNumber": 237,
+      "contentHash": "8cc7fec56033b63e28ce1109c43f3fafb17ca1aa29a1bbd9ed1699d90b6cbcd7",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-238",
+      "lineNumber": 238,
+      "contentHash": "ece900e0ad4274008fdef60bd732692b1c3dea4b3a230b0fd8259198e14ede59",
+      "citedSeedSourceIds": [
+        "S57"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-239",
+      "lineNumber": 239,
+      "contentHash": "92901179829cbc4c8c923714b135c364eecf2512cd356cb0ed487da3a3a266ff",
+      "citedSeedSourceIds": [
+        "S56",
+        "S77"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-240",
+      "lineNumber": 240,
+      "contentHash": "88824165dc9f0b5d1630d6d49a8425b4fda93e294571cb39994738bb821d1ce0",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-246",
+      "lineNumber": 246,
+      "contentHash": "b377641e3fe1ce47ff7508eb838e175f699a005fb46d55aac9c57dec2cb6b3af",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-248",
+      "lineNumber": 248,
+      "contentHash": "54cc53513196034105f083cabea6abe6a49bd6d0ca6a3eae6959b645355e0d1c",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-249",
+      "lineNumber": 249,
+      "contentHash": "94a1217e05559fd32da5ef98b3fe153377a4e272e82bc6d4ef7bccf5ed58b5de",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-250",
+      "lineNumber": 250,
+      "contentHash": "d26a30cbf7504a770c4cbd0001a88ca49cd251bf73da6d26e404388eb47081cb",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-251",
+      "lineNumber": 251,
+      "contentHash": "a2f7953547bf6d49b6eb0c3108594f0ded9b74faa0825f2d8fb1023ca2c10d98",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-252",
+      "lineNumber": 252,
+      "contentHash": "dac138a44f3d33c241430ae0009d4fe46a269ef077b934dad06c20ef5d5bf880",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-253",
+      "lineNumber": 253,
+      "contentHash": "818e103e0030d12be793eb7db5de1073671f96887fca3086a1d53e5def30bebf",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-254",
+      "lineNumber": 254,
+      "contentHash": "702f9ff941900bbe8f94dc7e04793185b431029c0b7131b1e4cfd719349c9a04",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-258",
+      "lineNumber": 258,
+      "contentHash": "97fc7a24f95b0d0c737983fb9edcda0f74b7a1279ee64bf4305aaa44e5487a42",
+      "citedSeedSourceIds": [
+        "S52",
+        "S53"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-260",
+      "lineNumber": 260,
+      "contentHash": "63f9d8e243f01d67bd2e2fc9cd43d4a13c68e60bc8947a486643d631d0fd38ba",
+      "citedSeedSourceIds": [
+        "S37",
+        "S63",
+        "S64",
+        "S65",
+        "S66"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-262",
+      "lineNumber": 262,
+      "contentHash": "8788173999947f90791b061b843e9dcd13883a12953603de9b03f08bc3849473",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-264",
+      "lineNumber": 264,
+      "contentHash": "1e1e90dd5418d93edb6bf735cced49db8a1c380e9856bcc7c1269afa12d5cc22",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-266",
+      "lineNumber": 266,
+      "contentHash": "0640748b39216a3aff65163123387d02bcf59561b50d0a5464f76a035685c92d",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-270",
+      "lineNumber": 270,
+      "contentHash": "4cd4cfaeac23dde34fc27ddb6ad9ea6a1e3b1a186524b659c812133be8fd539b",
+      "citedSeedSourceIds": [
+        "S47",
+        "S67"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-274",
+      "lineNumber": 274,
+      "contentHash": "fcadc0b9702a3d7910ee66fc5d2a609813089fc64437c68756eb1376b0d9bdfb",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-276",
+      "lineNumber": 276,
+      "contentHash": "d9d2e7ac47403cb6ed3b2af0ca8bf68bad8567c975df249a415319540215133b",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-278",
+      "lineNumber": 278,
+      "contentHash": "69dec21cdcfc80f8c561e851cc18dfa7f327b5e4b503b2ec3c4ac1a1080abffd",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-279",
+      "lineNumber": 279,
+      "contentHash": "454bd339a77ca86643add36eb197b4f4bd4851b7d30a5f04fbf8791593b4ea9e",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-280",
+      "lineNumber": 280,
+      "contentHash": "9b8addd703cd1a18b93fc81b7d6be5b83bd651aa66d6e1b3d8d22a9a8bdbbb34",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-281",
+      "lineNumber": 281,
+      "contentHash": "8772b27fdd05a030f06fd6880799d9332aa47103eef04f839cf3f3061d0ef46d",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-282",
+      "lineNumber": 282,
+      "contentHash": "72c0bfbaf7137b68aec8acf0405045b3187b8482a7a81621ed5dbc23f1a08a50",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-283",
+      "lineNumber": 283,
+      "contentHash": "763fcf782d336cb32526f27ea12fd9679db7a77c9e578e22405b8e73d0bee527",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-284",
+      "lineNumber": 284,
+      "contentHash": "80baead05f573e9cefc4b9b66f957ddd8fb183dae33e678476c778ccd567284e",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-285",
+      "lineNumber": 285,
+      "contentHash": "a7049ed5f6bb5f5370fe7dbe3c6eb81ba3cc55659ce1ab1b275a93eca519ddd8",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-286",
+      "lineNumber": 286,
+      "contentHash": "589bc034d182e35a7cf0a5e000c84496653875b1b4d48a54b1672ac71e9c07c7",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-288",
+      "lineNumber": 288,
+      "contentHash": "e36e2a9f8fe9505d50a1d13d591da978d74e9bdceb4f00554ce5997a26214374",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-290",
+      "lineNumber": 290,
+      "contentHash": "a416d3f9f0fd3161d21d47bdeb81bb68076cceaedb5d1a7f5f0807b877541915",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-291",
+      "lineNumber": 291,
+      "contentHash": "be19257b82c42d93c66811101ca7731d9175befdf66c3cb9fd936830310a8523",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-292",
+      "lineNumber": 292,
+      "contentHash": "bd5f5560cbc971fd1dc6f478f82fe11a41e0e23053e88d9487c922bd42374f74",
+      "citedSeedSourceIds": [
+        "S13"
+      ],
+      "canonicalClaimIds": [
+        "clm_deeptune-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-293",
+      "lineNumber": 293,
+      "contentHash": "a0bb46033908be1d56b094cb2040c65d67aaaa1cf8901a483e20cf9e9c8d0206",
+      "citedSeedSourceIds": [
+        "S44",
+        "S45",
+        "S48"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-299",
+      "lineNumber": 299,
+      "contentHash": "f12b87706a3b2c1aaf9fde0cda35206f3ddc41121a9bbf8cc3f55ce16b366871",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-300",
+      "lineNumber": 300,
+      "contentHash": "b290df3e6e021ceb9f0a642a793931bee2667bc2229ef990aa3175dc80edd853",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-301",
+      "lineNumber": 301,
+      "contentHash": "d658321bf280e2983130738611356c3dda5d83c8626423b5b929e47d89d88b59",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-302",
+      "lineNumber": 302,
+      "contentHash": "23459c8e33a7f10005482382fa864eba42d3b7379f1a4ed449b4c1bd275378bf",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-303",
+      "lineNumber": 303,
+      "contentHash": "51e7c16ee48be29989a6f7e2c2eb19d9e00e68418cc1a7d714b9bb58cc52f3f1",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-304",
+      "lineNumber": 304,
+      "contentHash": "4b1dcd5948ba2995e61ce070f7a30b6fed820cf18d0c39ead867bbf494d772ed",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-305",
+      "lineNumber": 305,
+      "contentHash": "359e3a4bcfae2dd39c3ea3289f88f5239c8a12840bc08ec410ca086f200ecb71",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-306",
+      "lineNumber": 306,
+      "contentHash": "224d2703c586103f2149528655c371efe335991827df9f753aa09895ebba64d9",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-307",
+      "lineNumber": 307,
+      "contentHash": "d4f698d51094c5757f137c1b0f8d9a4cbf5a016a093ffe173a78a476f58d0ee5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-311",
+      "lineNumber": 311,
+      "contentHash": "95a9c818f6bba68a3c2d98733c6382d5081101b6f6ddaf54a0f06dbe3f7707cb",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-312",
+      "lineNumber": 312,
+      "contentHash": "2b67f0d09bb9f21a998ff71697cc17a1442176ecd3cf7a098c0add02a08d581d",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-313",
+      "lineNumber": 313,
+      "contentHash": "5507bdd5654db0d1ec5872f4679973a64742d62e795ed89894656151d4145f28",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-314",
+      "lineNumber": 314,
+      "contentHash": "4bc4e84a866c1e30fac445c6f3c5f3838d4c44966432ec40baa8a2b45a13ee9a",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-315",
+      "lineNumber": 315,
+      "contentHash": "12821f0d56e4446cc189174be823a9098ec94d1184825662243339de1f97b9df",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-316",
+      "lineNumber": 316,
+      "contentHash": "e96ee6e0424d6c05d36f6e63890ee5101f4b9b89efece1cd61bf3d33bbb5973d",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-317",
+      "lineNumber": 317,
+      "contentHash": "3f0eec6bd0bf71cf0a0a2788a8e6d41be7b8f400a916e6cc63815747b627de40",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-321",
+      "lineNumber": 321,
+      "contentHash": "8306afffed37b0b5a2c29a46499089c1d2753a1b3601c43acab998648060be98",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-323",
+      "lineNumber": 323,
+      "contentHash": "a7e1511ef83ee677c0421d1c32a2990040c96536585feaf0292bb9758a54f62e",
+      "citedSeedSourceIds": [
+        "S43"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-324",
+      "lineNumber": 324,
+      "contentHash": "504bb4b19581e851ba66545f88d230abb0092802739ee97604338bfd1013749a",
+      "citedSeedSourceIds": [
+        "S45"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-325",
+      "lineNumber": 325,
+      "contentHash": "4a7d08506b254f95639fb03f1f06e36f0cca2a56e824b2d4471c5779391d6119",
+      "citedSeedSourceIds": [
+        "S48"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-326",
+      "lineNumber": 326,
+      "contentHash": "17f3dc7279073a2b7d7c72d16b0a13507a4ecc820b7b0b01d62cf781e7986cbf",
+      "citedSeedSourceIds": [
+        "S58",
+        "S59",
+        "S60"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-327",
+      "lineNumber": 327,
+      "contentHash": "698bc7758f737e871eed82fc103ae63744df194e5a8fcf4a1b2b5be3a97a8497",
+      "citedSeedSourceIds": [
+        "S49",
+        "S50",
+        "S51"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-328",
+      "lineNumber": 328,
+      "contentHash": "eb0fdff6f79eb80c2e12b7b23c007433a2ed26cb13e950ea07f05df2bd486629",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "non_atomic",
+      "reason": "The seed line combines multiple propositions or unsupported connective language and is not safely equivalent to one canonical claim."
+    },
+    {
+      "seedAnchorId": "seed-line-332",
+      "lineNumber": 332,
+      "contentHash": "8e8ff5a0140b650497ce1cc395f3290984384664c5f8b6d27eaa73d2949f82cb",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-336",
+      "lineNumber": 336,
+      "contentHash": "7e6421b201f5f821579acddbf23b5efae834dc2eba3fab25cbbd9c4a1d5bc8b5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-338",
+      "lineNumber": 338,
+      "contentHash": "64ff90de32b51767676ea48390fba8bbe300161196ac2d647387acfab290227b",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-339",
+      "lineNumber": 339,
+      "contentHash": "88679ffc1862b893ff10c91164eb3dcfb1dc7022b7377bb9933248b737044151",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-340",
+      "lineNumber": 340,
+      "contentHash": "e93c553691a69e7519bec3df1c7607e09f2c74d0710b88c0463bd9ecafdb05e7",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-341",
+      "lineNumber": 341,
+      "contentHash": "b473300a07a47b40f8ea11f3c78d59cac64d72bf4b0318a2243a4fc182a7ddb9",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-342",
+      "lineNumber": 342,
+      "contentHash": "24ecd49612b7ccb2a0a436af1676dfea48eae9146ddef2bc9be1b128e458089b",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-344",
+      "lineNumber": 344,
+      "contentHash": "993644051461a945a54153395eced2323e32ebe4b9a4fdb5c2ea2e1f137e4cd9",
+      "citedSeedSourceIds": [
+        "S43",
+        "S48",
+        "S67"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-348",
+      "lineNumber": 348,
+      "contentHash": "c57142e075edc8212fcdd54d142122e3c3d0c035d2fdfd7e5d1f728a4357b6f0",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-350",
+      "lineNumber": 350,
+      "contentHash": "196a3434b5208ef6be856cb054f3fe76a3ce9d860d8a136d3fcbeeb6f0b69441",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-351",
+      "lineNumber": 351,
+      "contentHash": "e0f826b7876fa3604075c48cb2b0426d64796fd2f66e93ca6300ed63b743c40b",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-352",
+      "lineNumber": 352,
+      "contentHash": "ec019b4c1edbdb493856086a98d8abdf8a92bbf59a9a6ad7c6a930ee837c0cf5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-353",
+      "lineNumber": 353,
+      "contentHash": "92077188ed015a207dd4b27444f4f3b6d92329e79507332e4ccbe1bb918679e8",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-354",
+      "lineNumber": 354,
+      "contentHash": "597543429e71fa9f107962d370e39a0c7f7b1a3176236f964f9f5dea14b62acc",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-355",
+      "lineNumber": 355,
+      "contentHash": "5372dcb8867feacbf17629d674ef5f668d3fb68a33d8102483cc951e60a263f9",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-356",
+      "lineNumber": 356,
+      "contentHash": "2e950e73e4b58b31eeb84212beaa44d5bdb309a31c849946128051de0bf06e94",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-357",
+      "lineNumber": 357,
+      "contentHash": "bb4d09aad6438f576e42cb11d794bca048779ca496299f55cdbcd788acdaa949",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-358",
+      "lineNumber": 358,
+      "contentHash": "c4e25209e06b6c22ea656cab67e21443363fc012c7508a6520f066d0d0c37d3c",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-359",
+      "lineNumber": 359,
+      "contentHash": "c953336936c059e23552edaa9b860cf869b33bead7becdd81183d1423289d6ad",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-361",
+      "lineNumber": 361,
+      "contentHash": "326151d6d6d78407a71930371f57cfaff39a055c823aeccc3f6a0191d89e99e5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-365",
+      "lineNumber": 365,
+      "contentHash": "c58c4a33ae719d6da290d3f02f079ad4ca8379e2ae8731865651a557f0be5151",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-370",
+      "lineNumber": 370,
+      "contentHash": "a3d27ba5ee895011ffbdc9d1f782a009e5ea4df40a8cdcd7a1346ab3802937c4",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-371",
+      "lineNumber": 371,
+      "contentHash": "c3d80589098b29ef9e55f5375696eea924f3cb64046b20c126f9b89ba5c0e869",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-381",
+      "lineNumber": 381,
+      "contentHash": "a7f305ee419cd0ba4c236b8f0ce872959b700d29857e1788fd128f0ec293764f",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-385",
+      "lineNumber": 385,
+      "contentHash": "1536f017cf4c87cbd4250167222fcd8058db4a0b5da27b11fb582740e32b3cad",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-386",
+      "lineNumber": 386,
+      "contentHash": "7ddcd0282718b99f916eb9d54f48772ddebce6cc6c78e21827c3f160178da4d5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-387",
+      "lineNumber": 387,
+      "contentHash": "b8542baba878b861e9d034fd9952a8f02f14aa36e6dff4e624bd3a2964b771d9",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-388",
+      "lineNumber": 388,
+      "contentHash": "52556b7b162883001959f149fe9562c6fb9d0eb65f64ce1ba7a426401b979b81",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-389",
+      "lineNumber": 389,
+      "contentHash": "dfad53e5b3277d93f1b0e3d129e29bf54d99ccb59c3df918947bae332d8ad131",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-390",
+      "lineNumber": 390,
+      "contentHash": "2f2f83c671cc37374afbb729fa02b3e77103f6ad3866d98fe53df49ee8c694b5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-391",
+      "lineNumber": 391,
+      "contentHash": "e189606008899c7a4785ffb759852004771cbf244f04eb762cefbb55be935206",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-395",
+      "lineNumber": 395,
+      "contentHash": "20534a6afcf19011eb81ea4e24180a284742ba0c3413703fa8bee34611bdefa5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-396",
+      "lineNumber": 396,
+      "contentHash": "092558ca0b388a85a91db1060585a4bfb7f1bb574b1ea821e2b4b280f801f101",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-397",
+      "lineNumber": 397,
+      "contentHash": "6e2ce862ce73f65eb6cbc2cafe83d7eca19101502231305bb9d83bc68eed8e89",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-398",
+      "lineNumber": 398,
+      "contentHash": "48626a8258c19e18e941257d3add67cc2bec08b9f6b577433290c178349d6204",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-399",
+      "lineNumber": 399,
+      "contentHash": "88a886e22611abe622de9883e89d0674e3945fe5a653c31f230db80c4266f8e4",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-400",
+      "lineNumber": 400,
+      "contentHash": "0a9cdf4e904c2164d00f3b00fa8ad127959132557fc191b5c8c6264319465b90",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-404",
+      "lineNumber": 404,
+      "contentHash": "18aa7ab1ffe488818ef771c5e19ddee7f9ad4e0a05101d2f23d9c62ce50eae9c",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-406",
+      "lineNumber": 406,
+      "contentHash": "87e6902d71d17c4d4b04f414c39e7f0d2efeee9e7533794820e5f341f9a824d4",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-407",
+      "lineNumber": 407,
+      "contentHash": "a4edb02d70aeeaae4e0a0a611c4207469f5c683f7be682f97dd23ef97503676f",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-408",
+      "lineNumber": 408,
+      "contentHash": "02691c884c7c8144f51b66adf8d529447212548d224837ac65e5b94630e888c1",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-409",
+      "lineNumber": 409,
+      "contentHash": "3d5ff6f3b3afc4494415d8509ed0eba2644c677bedd967c9185b3a2c6df44056",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-410",
+      "lineNumber": 410,
+      "contentHash": "84a8190cf48bc6621c881c668777f91c8729d003944a8922e4aa17095ef61c4c",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-411",
+      "lineNumber": 411,
+      "contentHash": "67043d6d22e79590e7ddc882e13156296d53c2ac02c2384c9b85b536a34b53af",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-412",
+      "lineNumber": 412,
+      "contentHash": "7cb62311694a10d3f096b31043ad3f420aea6c9885f1b773bbb2568c3708dd46",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "strategy_hypothesis",
+      "reason": "This seed line is a pre-score strategy hypothesis, not a source-backed atomic factual claim."
+    },
+    {
+      "seedAnchorId": "seed-line-416",
+      "lineNumber": 416,
+      "contentHash": "afb0d180035482f32bf0e9181253cc5778250644a53ff3ad2c2e696a333360f5",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "superseded",
+      "reason": "The canonical corpus preserves the supported status while omitting this broader or stale formulation."
+    },
+    {
+      "seedAnchorId": "seed-line-418",
+      "lineNumber": 418,
+      "contentHash": "30663e63cf01139cd1095059437f7ab92c548b1d6c239ddb5d9bbe300abf0170",
+      "citedSeedSourceIds": [
+        "S04"
+      ],
+      "canonicalClaimIds": [
+        "clm_scale-ai-milestone"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-419",
+      "lineNumber": 419,
+      "contentHash": "764f6efe635bcf4e6a5ea1650d8e98944b95e5497f983f27dd89946263bfdc69",
+      "citedSeedSourceIds": [
+        "S06",
+        "S07"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "duplicate",
+      "reason": "The line repeats a factual fragment already migrated from a fuller dossier anchor."
+    },
+    {
+      "seedAnchorId": "seed-line-420",
+      "lineNumber": 420,
+      "contentHash": "8c50801438c56149a7fc9aed9a2100997ef738789c4f7a680077d60c0d8c8e4e",
+      "citedSeedSourceIds": [
+        "S10"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "superseded",
+      "reason": "The canonical corpus preserves the supported status while omitting this broader or stale formulation."
+    },
+    {
+      "seedAnchorId": "seed-line-421",
+      "lineNumber": 421,
+      "contentHash": "db4363bc7c392534d714c49bd874a63491327362a3cb875003f4d84641e53f4b",
+      "citedSeedSourceIds": [
+        "S11",
+        "S12"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "duplicate",
+      "reason": "The line repeats a factual fragment already migrated from a fuller dossier anchor."
+    },
+    {
+      "seedAnchorId": "seed-line-422",
+      "lineNumber": 422,
+      "contentHash": "333cca63c6ca4b8140258abd372d3bb36744ea3b0761510d1138470b253eb8cd",
+      "citedSeedSourceIds": [
+        "S13"
+      ],
+      "canonicalClaimIds": [
+        "clm_deeptune-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-423",
+      "lineNumber": 423,
+      "contentHash": "4ce3371ca32913829023a36cd0b0e242e03ce163b07881953f3a3933a0a800a3",
+      "citedSeedSourceIds": [
+        "S15"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "duplicate",
+      "reason": "The line repeats a factual fragment already migrated from a fuller dossier anchor."
+    },
+    {
+      "seedAnchorId": "seed-line-424",
+      "lineNumber": 424,
+      "contentHash": "a33524bc89f82e129fcdf1a3f15738fd2528404711251e23886b40e3f8b53af1",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "duplicate",
+      "reason": "The line repeats a factual fragment already migrated from a fuller dossier anchor."
+    },
+    {
+      "seedAnchorId": "seed-line-425",
+      "lineNumber": 425,
+      "contentHash": "0b565ab74811c7c60dd664dd39791e23efa0f6d0d3ca93938f316e435f253c56",
+      "citedSeedSourceIds": [
+        "S27",
+        "S28"
+      ],
+      "canonicalClaimIds": [
+        "clm_afterquery-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-426",
+      "lineNumber": 426,
+      "contentHash": "b5e2e34f125e2b95607bacb8aabe844cc9b26eca401adf22629d61a3ac652035",
+      "citedSeedSourceIds": [
+        "S30"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "duplicate",
+      "reason": "The line repeats a factual fragment already migrated from a fuller dossier anchor."
+    },
+    {
+      "seedAnchorId": "seed-line-427",
+      "lineNumber": 427,
+      "contentHash": "dac10582ba7bec5fadfbf7ca4e89d913af0c713e3365766b9f0663876732f52b",
+      "citedSeedSourceIds": [
+        "S35"
+      ],
+      "canonicalClaimIds": [],
+      "disposition": "superseded",
+      "reason": "The canonical corpus preserves the supported status while omitting this broader or stale formulation."
+    },
+    {
+      "seedAnchorId": "seed-line-428",
+      "lineNumber": 428,
+      "contentHash": "9db05434a2f00145d59a434ffc9f3d116be4e245d50f667e427605a327b3e121",
+      "citedSeedSourceIds": [
+        "S36"
+      ],
+      "canonicalClaimIds": [
+        "clm_vibrant-labs-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-429",
+      "lineNumber": 429,
+      "contentHash": "1f2f6e3176f7c59031858b0c382f0b967fb95821ff1bfda87c1a2ef1a4f4ed6b",
+      "citedSeedSourceIds": [
+        "S37"
+      ],
+      "canonicalClaimIds": [
+        "clm_halluminate-risk"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-430",
+      "lineNumber": 430,
+      "contentHash": "86b058d7879c39ef28b6e2a973e39632e3b9c88d2d7b7c36c50e873bdf9b1dc3",
+      "citedSeedSourceIds": [
+        "S47"
+      ],
+      "canonicalClaimIds": [
+        "clm_analysis-history-environment-contracts"
+      ],
+      "disposition": null,
+      "reason": "Mapped only to canonical claims whose full statement is semantically preserved by this seed line."
+    },
+    {
+      "seedAnchorId": "seed-line-431",
+      "lineNumber": 431,
+      "contentHash": "f601b83f90f02951db980b3e7400dee330105d7d0b75d632fa2c556608d1a99c",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "superseded",
+      "reason": "The canonical corpus preserves the supported status while omitting this broader or stale formulation."
+    },
+    {
+      "seedAnchorId": "seed-line-432",
+      "lineNumber": 432,
+      "contentHash": "31a9cbcda20de71bdf445a8d46d4fac6f55733caa14e5592b5aa3e75f633e912",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "superseded",
+      "reason": "The canonical corpus preserves the supported status while omitting this broader or stale formulation."
+    },
+    {
+      "seedAnchorId": "seed-line-436",
+      "lineNumber": 436,
+      "contentHash": "76ca53e7d1c49a919848ba8f18fc6c5354a5a8978b7542b7c80c0ee3a68b1ec8",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "out_of_scope",
+      "reason": "This methodology or limitation line is retained in provenance but is outside the atomic claim graph."
+    },
+    {
+      "seedAnchorId": "seed-line-438",
+      "lineNumber": 438,
+      "contentHash": "8efa2937ce0692d3913e94c876593f7a75b512d84247a430a0bd21fa83371749",
+      "citedSeedSourceIds": [],
+      "canonicalClaimIds": [],
+      "disposition": "out_of_scope",
+      "reason": "This methodology or limitation line is retained in provenance but is outside the atomic claim graph."
+    }
+  ],
+  "summary": {
+    "seedSourceCount": 77,
+    "mappedSeedSourceCount": 77,
+    "seedClaimAnchorCount": 218,
+    "mappedSeedClaimAnchorCount": 49,
+    "rejectedSeedClaimAnchorCount": 169,
+    "openLeadCount": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "entries": 234,
+  "locatorKinds": {
+    "html_heading": 103,
+    "paragraph": 111,
+    "page": 18,
+    "section": 2
+  },
+  "empty": 0,
+  "over25Words": 0,
+  "exaParagraphMismatches": 0,
+  "snapshotSha256": "62ec560caa7a7c8502f9c1b81ad6f058524489b9fe8a376c8848c4f65da1edfb"
+}

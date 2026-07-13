@@ -1,0 +1,28 @@
+Fresh advisory link audit after the second quality repair.
+Command: node scripts/research/check-links.mjs --timeout-ms=15000 --concurrency=10
+Run at: 2026-07-12T08:54:12.748Z
+Corpus cutoff: 2026-07-11
+Checked: 133
+Reachable: 128
+Unavailable: 5
+Advisory mismatches: 14
+Blocked unreviewed or unsafe redirects: 2
+Policy: timeoutMs=15000 maxRedirects=5 headThenGetFallback=true controlsBypassed=false
+
+Redirect policy validates each Location before fetching it. Only HTTPS, public, same-site hops or exact source-scoped reviewed successor origins are followed.
+
+Advisory mismatches:
+- src_s07: stored=paywalled derived=open status=200 final=https://www.forbes.com/sites/richardnieva/2026/05/14/scale-meta-deal/
+- src_s12: stored=paywalled derived=open status=200 final=https://www.theinformation.com/briefings/exclusive-mercor-hit-1-billion-annualized-revenue-breach
+- src_s20: stored=secondary_only derived=open status=200 final=https://www.turing.com/pt/company
+- src_s21: stored=secondary_only derived=open status=200 final=https://www.turing.com/advance
+- src_s22: stored=secondary_only derived=open status=200 final=https://www.turing.com/advance/rl-environments
+- src_s53: stored=secondary_only derived=open status=200 final=https://ir.taskus.com/static-files/b6125cd3-8571-40f2-a8f0-0e7033fff501
+- src_s56: stored=secondary_only derived=unavailable status=403 final=https://www.find-tender.service.gov.uk/Notice/037042-2025/PDF
+- src_s67: stored=unavailable derived=login_gated status=206 final=https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027
+- src_adj-telus-digital-ai-data-solutions: stored=unavailable derived=open status=200 final=https://www.telusdigital.com/solutions/data-for-ai-training
+- src_adj-glg: stored=secondary_only derived=open status=200 final=https://glg.com/ reviewed_redirect=true
+- src_adj-predibase: stored=unavailable derived=unavailable status=301 final=https://www.rubrik.com/products/rubrik-agent-cloud blocked_redirect=true
+- src_adj-quantumblack-ai-by-mckinsey: stored=secondary_only derived=open status=200 final=https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients
+- src_adj-thoughtworks: stored=open derived=unavailable status=301 final=http://www.thoughtworks.com/what-we-do/enterprise-ai blocked_unsafe_http_redirect=true
+- src_adj-ttec: stored=secondary_only derived=open status=200 final=https://www.ttec.com

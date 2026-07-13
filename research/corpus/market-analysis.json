@@ -1,0 +1,360 @@
+[
+  {
+    "analysisId": "ana_history-human-task-api",
+    "analysisType": "history_event",
+    "themes": [
+      "history"
+    ],
+    "date": "2016-01-01",
+    "claimIds": [
+      "clm_analysis-history-human-task-api"
+    ],
+    "companyIds": [
+      "co_scale-ai"
+    ],
+    "industryIds": [
+      "ind_expert-data-operations"
+    ]
+  },
+  {
+    "analysisId": "ana_history-preference-learning",
+    "analysisType": "history_event",
+    "themes": [
+      "history"
+    ],
+    "date": "2022-04-12",
+    "claimIds": [
+      "clm_analysis-history-preference-learning"
+    ],
+    "companyIds": [],
+    "industryIds": [
+      "ind_rlhf"
+    ]
+  },
+  {
+    "analysisId": "ana_history-dpo-objective",
+    "analysisType": "history_event",
+    "themes": [
+      "history"
+    ],
+    "date": "2023-05-29",
+    "claimIds": [
+      "clm_analysis-history-dpo-objective"
+    ],
+    "companyIds": [],
+    "industryIds": [
+      "ind_dpo"
+    ]
+  },
+  {
+    "analysisId": "ana_history-interactive-benchmarks",
+    "analysisType": "history_event",
+    "themes": [
+      "history"
+    ],
+    "date": "2023-07-01",
+    "claimIds": [
+      "clm_analysis-history-interactive-benchmarks"
+    ],
+    "companyIds": [],
+    "industryIds": [
+      "ind_rl-environments",
+      "ind_computer-use"
+    ]
+  },
+  {
+    "analysisId": "ana_history-environment-contracts",
+    "analysisType": "history_event",
+    "themes": [
+      "history"
+    ],
+    "date": "2026-01-01",
+    "claimIds": [
+      "clm_analysis-history-environment-contracts"
+    ],
+    "companyIds": [],
+    "industryIds": [
+      "ind_rl-environments"
+    ]
+  },
+  {
+    "analysisId": "ana_history-assurance-demand",
+    "analysisType": "history_event",
+    "themes": [
+      "history"
+    ],
+    "date": "2026-05-01",
+    "claimIds": [
+      "clm_analysis-history-assurance-demand"
+    ],
+    "companyIds": [],
+    "industryIds": [
+      "ind_evaluations-assurance"
+    ]
+  },
+  {
+    "analysisId": "ana_gtm-technical-relationship",
+    "analysisType": "gtm_motion",
+    "themes": [
+      "gtm",
+      "buyer"
+    ],
+    "name": "Technical relationship",
+    "stageOrder": 1,
+    "claimIds": [
+      "clm_analysis-gtm-technical-relationship"
+    ],
+    "buyerEvidenceIds": [
+      "buy_afterquery"
+    ]
+  },
+  {
+    "analysisId": "ana_gtm-diagnostic-or-sample",
+    "analysisType": "gtm_motion",
+    "themes": [
+      "gtm",
+      "buyer"
+    ],
+    "name": "Diagnostic or sample",
+    "stageOrder": 2,
+    "claimIds": [
+      "clm_analysis-gtm-diagnostic-or-sample"
+    ],
+    "buyerEvidenceIds": [
+      "buy_afterquery"
+    ]
+  },
+  {
+    "analysisId": "ana_gtm-paid-pilot",
+    "analysisType": "gtm_motion",
+    "themes": [
+      "gtm",
+      "buyer"
+    ],
+    "name": "Paid pilot",
+    "stageOrder": 3,
+    "claimIds": [
+      "clm_analysis-gtm-paid-pilot"
+    ],
+    "buyerEvidenceIds": [
+      "buy_afterquery"
+    ]
+  },
+  {
+    "analysisId": "ana_gtm-acceptance-proof",
+    "analysisType": "gtm_motion",
+    "themes": [
+      "gtm",
+      "buyer"
+    ],
+    "name": "Acceptance proof",
+    "stageOrder": 4,
+    "claimIds": [
+      "clm_analysis-gtm-acceptance-proof"
+    ],
+    "buyerEvidenceIds": [
+      "buy_afterquery"
+    ]
+  },
+  {
+    "analysisId": "ana_gtm-embedded-expansion",
+    "analysisType": "gtm_motion",
+    "themes": [
+      "gtm",
+      "buyer"
+    ],
+    "name": "Embedded expansion",
+    "stageOrder": 5,
+    "claimIds": [
+      "clm_analysis-gtm-embedded-expansion"
+    ],
+    "buyerEvidenceIds": [
+      "buy_afterquery"
+    ]
+  },
+  {
+    "analysisId": "ana_economics-managed-data-bpo",
+    "analysisType": "economic_model",
+    "themes": [
+      "economics"
+    ],
+    "businessModelId": "managed_data_bpo",
+    "name": "Managed data / BPO",
+    "formula": "buyer price - creator payout - review - rework - runtime - variable support",
+    "inputClaimIds": [
+      "clm_analysis-economics-managed-data-bpo"
+    ],
+    "comparabilityClass": "accepted artifact"
+  },
+  {
+    "analysisId": "ana_economics-expert-marketplace",
+    "analysisType": "economic_model",
+    "themes": [
+      "economics"
+    ],
+    "businessModelId": "expert_marketplace",
+    "name": "Expert marketplace",
+    "formula": "buyer spend - expert payout - payments - trust and safety",
+    "inputClaimIds": [
+      "clm_analysis-economics-expert-marketplace"
+    ],
+    "comparabilityClass": "gross marketplace spend"
+  },
+  {
+    "analysisId": "ana_economics-employee-bpo",
+    "analysisType": "economic_model",
+    "themes": [
+      "economics"
+    ],
+    "businessModelId": "employee_bpo",
+    "name": "Employee BPO",
+    "formula": "revenue - payroll - facilities - management - idle capacity",
+    "inputClaimIds": [
+      "clm_analysis-economics-employee-bpo"
+    ],
+    "comparabilityClass": "managed employee hour"
+  },
+  {
+    "analysisId": "ana_economics-expert-environment-services",
+    "analysisType": "economic_model",
+    "themes": [
+      "economics"
+    ],
+    "businessModelId": "expert_environment_services",
+    "name": "Expert + environment services",
+    "formula": "milestone revenue - expert time - engineering - review - compute",
+    "inputClaimIds": [
+      "clm_analysis-economics-expert-environment-services"
+    ],
+    "comparabilityClass": "accepted environment milestone"
+  },
+  {
+    "analysisId": "ana_economics-eval-observability-saas",
+    "analysisType": "economic_model",
+    "themes": [
+      "economics"
+    ],
+    "businessModelId": "eval_observability_saas",
+    "name": "Eval / observability SaaS",
+    "formula": "subscription and usage revenue - judge inference - storage - support",
+    "inputClaimIds": [
+      "clm_analysis-economics-eval-observability-saas"
+    ],
+    "comparabilityClass": "trace, run, or seat"
+  },
+  {
+    "analysisId": "ana_economics-runtime-infrastructure",
+    "analysisType": "economic_model",
+    "themes": [
+      "economics"
+    ],
+    "businessModelId": "runtime_infrastructure",
+    "name": "Runtime infrastructure",
+    "formula": "usage revenue - compute - browser - proxy - network - orchestration",
+    "inputClaimIds": [
+      "clm_analysis-economics-runtime-infrastructure"
+    ],
+    "comparabilityClass": "runtime minute or session"
+  },
+  {
+    "analysisId": "ana_economics-proprietary-data-acquisition",
+    "analysisType": "economic_model",
+    "themes": [
+      "economics"
+    ],
+    "businessModelId": "proprietary_data_acquisition",
+    "name": "Proprietary data acquisition",
+    "formula": "license revenue - rights acquisition - cleaning - security - provenance",
+    "inputClaimIds": [
+      "clm_analysis-economics-proprietary-data-acquisition"
+    ],
+    "comparabilityClass": "licensed asset or dataset"
+  },
+  {
+    "analysisId": "ana_risk-metric-conflation",
+    "analysisType": "risk",
+    "themes": [
+      "economics",
+      "risk"
+    ],
+    "name": "Metric denominator conflation",
+    "allegationClaimIds": [],
+    "incidentClaimIds": [],
+    "counterevidenceClaimIds": [
+      "clm_analysis-metric-conflation"
+    ],
+    "unknownClaimIds": []
+  },
+  {
+    "analysisId": "ana_edge-expert-data-operations-rlhf",
+    "analysisType": "value_chain_edge",
+    "themes": [
+      "taxonomy"
+    ],
+    "fromIndustryId": "ind_expert-data-operations",
+    "toIndustryId": "ind_rlhf",
+    "claimIds": [
+      "clm_analysis-edge-expert-data-operations-rlhf"
+    ]
+  },
+  {
+    "analysisId": "ana_edge-rlhf-dpo",
+    "analysisType": "value_chain_edge",
+    "themes": [
+      "taxonomy"
+    ],
+    "fromIndustryId": "ind_rlhf",
+    "toIndustryId": "ind_dpo",
+    "claimIds": [
+      "clm_analysis-edge-rlhf-dpo"
+    ]
+  },
+  {
+    "analysisId": "ana_edge-rl-environments-rlvr",
+    "analysisType": "value_chain_edge",
+    "themes": [
+      "taxonomy"
+    ],
+    "fromIndustryId": "ind_rl-environments",
+    "toIndustryId": "ind_rlvr",
+    "claimIds": [
+      "clm_analysis-edge-rl-environments-rlvr"
+    ]
+  },
+  {
+    "analysisId": "ana_edge-rlvr-evaluations-assurance",
+    "analysisType": "value_chain_edge",
+    "themes": [
+      "taxonomy"
+    ],
+    "fromIndustryId": "ind_rlvr",
+    "toIndustryId": "ind_evaluations-assurance",
+    "claimIds": [
+      "clm_analysis-edge-rlvr-evaluations-assurance"
+    ]
+  },
+  {
+    "analysisId": "ana_edge-computer-use-evaluations-assurance",
+    "analysisType": "value_chain_edge",
+    "themes": [
+      "taxonomy"
+    ],
+    "fromIndustryId": "ind_computer-use",
+    "toIndustryId": "ind_evaluations-assurance",
+    "claimIds": [
+      "clm_analysis-edge-computer-use-evaluations-assurance"
+    ]
+  },
+  {
+    "analysisId": "ana_edge-evaluations-assurance-ax",
+    "analysisType": "value_chain_edge",
+    "themes": [
+      "taxonomy"
+    ],
+    "fromIndustryId": "ind_evaluations-assurance",
+    "toIndustryId": "ind_ax",
+    "claimIds": [
+      "clm_analysis-edge-evaluations-assurance-ax"
+    ]
+  }
+]

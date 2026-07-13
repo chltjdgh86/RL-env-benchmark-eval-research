@@ -1,0 +1,19 @@
+$ vitest run
+
+ RUN  v4.1.10 /Users/sung/src/frist/RL-env-benchmark-eval-research
+
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+Not implemented: Window's scrollTo() method
+
+ Test Files  21 passed (21)
+      Tests  150 passed (150)
+   Start at  15:31:00
+   Duration  2.24s (transform 2.25s, setup 1.31s, import 7.47s, tests 5.71s, environment 14.59s)
+
+
+EXIT_CODE=0

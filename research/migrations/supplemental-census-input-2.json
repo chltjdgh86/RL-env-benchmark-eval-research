@@ -1,0 +1,319 @@
+{
+  "version": 1,
+  "discoveredAt": "2026-07-12",
+  "evidenceCutoff": "2026-07-11",
+  "records": [
+    {
+      "canonicalName": "Vetto",
+      "aliases": ["Vetto AI", "Start Carreiras"],
+      "originDomain": "https://vetto.ai",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://vetto.ai/",
+          "title": "Vetto — Data is an interface",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://graphenevc.com/portfolio/vetto",
+          "title": "Graphene Ventures portfolio: Vetto",
+          "sourceDate": null
+        }
+      ],
+      "observedExcerpt": "A research partner for post-training data — not just an annotation platform.",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": ["expert_environment_services", "expert_marketplace"],
+      "entityStatus": "active",
+      "caveat": "Formerly Start Carreiras (São Paulo, founded 2022; roughly $9.2M reported raised from Graphene Ventures, MAYA Capital, Norte Ventures, and Reach Capital). Sells RL environments, rubrics and verifiers, evaluation benchmarks, and expert data; the TRUSTED BY FRONTIER AI LABS banner names no customers and the DeepMind, Meta, and Mistral logos denote team pedigree, not clients. Distinct from vetto.dev and getvetto.com.",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Traverse",
+      "aliases": ["Traverse.so"],
+      "originDomain": "https://www.traverse.so",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.traverse.so/",
+          "title": "Traverse.so | RL Environments for Frontier AI Labs",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://www.ycombinator.com/companies/traverse",
+          "title": "Traverse: Research lab solving non-verifiable work | Y Combinator",
+          "sourceDate": null
+        }
+      ],
+      "observedExcerpt": "We give frontier AI labs training data that enables their models to acquire taste and handle ambiguous scenarios.",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": ["expert_environment_services", "proprietary_data_acquisition"],
+      "entityStatus": "active",
+      "caveat": "Y Combinator Winter 2026, founded 2025 by Lance Yan; YC lists a team of one and no named customers, so the entry reflects the marketed offer. Distinct from Traversal (traversal.com) and Traverse Technologies (traverse.ai).",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Cartpole",
+      "aliases": [],
+      "originDomain": "https://cartpole.com",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.ycombinator.com/companies/cartpole",
+          "title": "Cartpole: Building reinforcement learning environments | Y Combinator",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://cartpole.com/",
+          "title": "Cartpole",
+          "sourceDate": null
+        }
+      ],
+      "observedExcerpt": "Creating reinforcement learning environments for training frontier models",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": ["expert_environment_services"],
+      "entityStatus": "active",
+      "caveat": "Y Combinator Spring 2025 two-person San Francisco startup (founder Mateo Perez); appears to be a pivot from Jazzberry in the same batch. The first-party site is a minimal landing page.",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Markov",
+      "aliases": ["Markov Studios"],
+      "originDomain": "https://www.markovstudios.com",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.ycombinator.com/companies/markov",
+          "title": "Markov: Data for computer-use ai | Y Combinator",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://www.markovstudios.com/",
+          "title": "Markov | Data for Computer-Use AI",
+          "sourceDate": null
+        }
+      ],
+      "observedExcerpt": "We source high quality tasks and data to train the next generation of computer use AI models.",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": ["proprietary_data_acquisition", "managed_data_bpo"],
+      "entityStatus": "active",
+      "caveat": "Y Combinator Summer 2026 (founders Dev Mandal and Harish Ashok). Evidence is YC-directory and first-party only, and some datasets are released openly on Hugging Face, so paid supply is inferred. Distinct from MarkovML (markovml.com).",
+      "confidence": "medium",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Osmosis",
+      "aliases": ["Gulp AI"],
+      "originDomain": "https://osmosis.ai",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://osmosis.ai/",
+          "title": "Osmosis | Forward Deployed Reinforcement Learning Platform",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://newsletter.semianalysis.com/p/rl-environments-and-rl-for-science",
+          "title": "RL Environments and RL for Science: Data Foundries and Multi-Agent Architectures",
+          "sourceDate": "2026-01-06"
+        }
+      ],
+      "observedExcerpt": "Forward Deployed Reinforcement Learning Platform",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": ["runtime_infrastructure"],
+      "entityStatus": "active",
+      "caveat": "Y Combinator Winter 2025; legal name Gulp AI Inc. with roughly $6.3M reported seed funding from YC, CRV, and angels. Distinct from osmosis.org (medical education).",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "RunRL",
+      "aliases": [],
+      "originDomain": "https://runrl.com",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.ycombinator.com/companies/runrl",
+          "title": "RunRL: Reinforcement learning as a service | Y Combinator",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://newsletter.semianalysis.com/p/rl-environments-and-rl-for-science",
+          "title": "RL Environments and RL for Science: Data Foundries and Multi-Agent Architectures",
+          "sourceDate": "2026-01-06"
+        }
+      ],
+      "observedExcerpt": "Reinforcement learning as a service",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": ["runtime_infrastructure"],
+      "entityStatus": "active",
+      "caveat": "Y Combinator Spring 2025. The first-party domain runrl.com returned origin errors (Cloudflare 522, then connection refused) on the discovery date, so identity rests on the YC directory listing and the SemiAnalysis mention.",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Applied Compute",
+      "aliases": [],
+      "originDomain": "https://appliedcompute.com",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://appliedcompute.com/",
+          "title": "Applied Compute",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://newsletter.semianalysis.com/p/rl-environments-and-rl-for-science",
+          "title": "RL Environments and RL for Science: Data Foundries and Multi-Agent Architectures",
+          "sourceDate": "2026-01-06"
+        }
+      ],
+      "observedExcerpt": "Applied Compute is the cloud for model training, inference, and continuous improvement.",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": ["runtime_infrastructure"],
+      "entityStatus": "active",
+      "caveat": "Founded by ex-OpenAI researchers (Garg, Li, Patil); reported $20M Benchmark-led seed with an $80M follow-on the company credits to Kleiner Perkins, and January 2026 reports of talks at a $1.3B valuation. Funding figures are point-in-time press reports.",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Adaptive ML",
+      "aliases": ["Adaptive"],
+      "originDomain": "https://www.adaptive-ml.com",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.datadoghq.com/about/latest-news/press-releases/datadog-acquires-adaptive-ml-to-accelerate-its-investment-in-ai-research-and-development/",
+          "title": "Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development",
+          "sourceDate": "2026-06-30"
+        },
+        {
+          "canonicalUrl": "https://www.adaptive-ml.com/",
+          "title": "Adaptive ML",
+          "sourceDate": null
+        }
+      ],
+      "observedExcerpt": "world's first Reinforcement Learning Operations (RLOps) platform",
+      "primarySegment": "post_training_rl_infrastructure",
+      "businessModelIds": ["runtime_infrastructure"],
+      "entityStatus": "acquired_closed",
+      "caveat": "Acquisition by Datadog announced 2026-06-30, before the evidence cutoff; the first-party site states \"Adaptive ML has been acquired by Datadog\". Founded by ex-Hugging Face Falcon team members with a reported $20M Index-led seed.",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Veris AI",
+      "aliases": ["Veris", "Veris.ai"],
+      "originDomain": "https://www.veris.ai",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.veris.ai/",
+          "title": "Train your agents like you train your people | Veris AI",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://newsletter.semianalysis.com/p/rl-environments-and-rl-for-science",
+          "title": "RL Environments and RL for Science: Data Foundries and Multi-Agent Architectures",
+          "sourceDate": "2026-01-06"
+        }
+      ],
+      "observedExcerpt": "Build Agents that Learn: Synthetic Feedback, Real Rewards, Safe Sandbox Environments",
+      "primarySegment": "environment_computer_use_runtime",
+      "businessModelIds": ["runtime_infrastructure", "expert_environment_services"],
+      "entityStatus": "active",
+      "caveat": "Reported $8.5M seed (June 2025, Decibel and Acrew Capital; founders Mehdi Jamei and Andi Partovi). Sells simulated sandbox training environments primarily to enterprise agent teams rather than exclusively frontier labs. Distinct from Verita AI.",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Aboda AI",
+      "aliases": ["Aboda", "Aboda.ai"],
+      "originDomain": "https://www.aboda.ai",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.aboda.ai/",
+          "title": "Aboda AI | AI Datasets for Ground Truth",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://newsletter.semianalysis.com/p/rl-environments-and-rl-for-science",
+          "title": "RL Environments and RL for Science: Data Foundries and Multi-Agent Architectures",
+          "sourceDate": "2026-01-06"
+        }
+      ],
+      "observedExcerpt": "We have created huge quantities of data for leading AI labs, solving the world's most difficult tasks.",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": ["managed_data_bpo"],
+      "entityStatus": "active",
+      "caveat": "Managed in-house expert dataset production rather than marketplace mechanics, despite SemiAnalysis co-listing it with talent marketplaces; lab relationships are described on first-party pages without named customers. Distinct from ABODA (Seattle corporate housing).",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "The LLM Data Company",
+      "aliases": ["LLM Data Company"],
+      "originDomain": "https://www.llmdata.com",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://www.llmdata.com/",
+          "title": "The LLM Data Company",
+          "sourceDate": null
+        },
+        {
+          "canonicalUrl": "https://newsletter.semianalysis.com/p/rl-environments-and-rl-for-science",
+          "title": "RL Environments and RL for Science: Data Foundries and Multi-Agent Architectures",
+          "sourceDate": "2026-01-06"
+        }
+      ],
+      "observedExcerpt": "Post-Training Models for Production Agents",
+      "primarySegment": "eval_observability_assurance",
+      "businessModelIds": ["eval_observability_saas"],
+      "entityStatus": "active",
+      "caveat": "Y Combinator Spring 2025 (founders Khazi, Bains, Besgen; roughly $500K reported raised). Sells rubric and reward tooling — the doteval eval workspace and the Curriculum task-and-reward autoresearch platform — not standalone rubric data.",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    },
+    {
+      "canonicalName": "Origin Lab",
+      "aliases": [],
+      "originDomain": "https://originlab.ai",
+      "entityKind": "company",
+      "sources": [
+        {
+          "canonicalUrl": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+          "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+          "sourceDate": "2026-05-13"
+        },
+        {
+          "canonicalUrl": "https://originlab.ai/",
+          "title": "Origin Lab - Premium, Rights-Cleared Multimodal Content for AI Training",
+          "sourceDate": null
+        }
+      ],
+      "observedExcerpt": "Premium, Rights-Cleared Multimodal Content for AI Training",
+      "primarySegment": "training_data_workforce",
+      "businessModelIds": ["proprietary_data_acquisition"],
+      "entityStatus": "active",
+      "caveat": "Licensed marketplace for video-game-world data sold to labs building world models ($8M seed led by Lightspeed Venture Partners; founders Rodde, Gargot, Carrier). World-model labs named in coverage are illustrative buyers, not confirmed customers. Distinct from OriginLab (originlab.com) and from the unresolved Originator lead (originator.inc).",
+      "confidence": "high",
+      "duplicateOf": null,
+      "recordKind": "net_new"
+    }
+  ]
+}

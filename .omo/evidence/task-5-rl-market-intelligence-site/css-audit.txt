@@ -1,0 +1,16 @@
+CSS foundation verification
+Date: 2026-07-12
+
+Command: bunx biome format --write src/styles/tokens.css src/styles/primitives.css
+Output: Formatted 2 files in 2ms. No fixes applied.
+
+Command: node --input-type=module -e <lightningcss parse check for both owned stylesheets>
+Output:
+CSS_PARSE_OK src/styles/tokens.css 5479
+CSS_PARSE_OK src/styles/primitives.css 25624
+
+Command: node .omo/evidence/task-5-rl-market-intelligence-site/css-structural-check.mjs
+Output: CSS_FOUNDATION_OK declarations=62 fragments=27 forbidden=0 orphanColors=0 cssBytes=31103
+
+Command: bunx biome check --max-diagnostics=100 src/styles/tokens.css src/styles/primitives.css
+Output: Checked 2 files in 5ms. No fixes applied.

@@ -1,0 +1,2 @@
+$ node scripts/qa/check-devtools.mjs
+DEVTOOLS_PRODUCTION_CLEAN

@@ -1,0 +1,11 @@
+$ node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build
+INDEX_SCAFFOLD_OK
+BUN_LOCK_OK:4FFBFD7D319E5632-f91826dbf5c34b4a-42150121871940E9-a216b109e26709d0
+vite v8.1.4 building client environment for production...
+[2Ktransforming...✓ 16 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                  0.47 kB │ gzip:  0.31 kB
+dist/assets/index-BItpMTeA.js  190.72 kB │ gzip: 60.12 kB
+
+✓ built in 46ms

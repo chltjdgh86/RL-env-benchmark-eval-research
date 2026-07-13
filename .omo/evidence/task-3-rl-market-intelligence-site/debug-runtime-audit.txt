@@ -1,0 +1,44 @@
+Todo 3 runtime debugging audit
+Recorded: 2026-07-12 America/New_York
+
+Hypothesis 1: Production output leaks react-grab or react-scan through executable JavaScript or a source map.
+Probe: bun run build && bun run check:devtools
+Observed: build completed; check-devtools emitted DEVTOOLS_PRODUCTION_CLEAN. The build emitted no .map artifact.
+Evidence: build.txt, devtools-green.txt, devtools-sourcemap-red.txt, devtools-sourcemap-green.txt
+Verdict: rejected.
+
+Hypothesis 2: with-preview leaves Vite listening when the child command cannot spawn.
+Probe: node scripts/qa/with-preview.mjs --log .omo/evidence/task-3-rl-market-intelligence-site/preview-failure-cleanup.txt -- command-that-does-not-exist
+Observed: command exited 1 after PREVIEW_CHILD_SPAWN_FAILED and PREVIEW_CLEANUP:complete; lsof on TCP 4173 and pgrep for the preview command both exited 1 with no matches.
+Evidence: preview-failure-cleanup.txt
+Verdict: rejected.
+
+Hypothesis 3: Rendered-claim coverage can be satisfied by a claim ID that exists only in fixture source.
+Probe: node --test scripts/qa/check-rendered-claims.fixtures.test.mjs
+Observed: the source-only fixture caused EXPECTED_CLAIM_NOT_RENDERED while the exact rendered data-claim-id fixture passed; 2/2 fixture tests passed.
+Evidence: rendered-markup-green.txt
+Verdict: rejected.
+
+Hypothesis 4: The structural no-excuses gate silently depends on an undeclared global executable.
+Probe: PATH='/usr/bin:/bin' /opt/homebrew/bin/node scripts/qa/check-no-excuses.mjs src scripts/qa e2e vite.config.ts vitest.config.ts playwright.config.ts
+Observed: NO_EXCUSES_OK:16. The scanner imports the exact pinned TypeScript dependency from bun.lock.
+Evidence: no-excuses-minimal-path.txt, lockfile.txt
+Verdict: rejected.
+
+Hypothesis 5: Cancelling a capture or preview wrapper can orphan its managed subprocess tree.
+Probe: node --test scripts/qa/capture-command.fixtures.test.mjs scripts/qa/with-preview.fixtures.test.mjs
+Observed: SIGTERM was preserved as exit 143; both long-running child PIDs terminated and the preview URL stopped accepting connections. Four lifecycle tests passed.
+Evidence: capture-signal-red.txt, preview-signal-red.txt, process-lifecycle-green.txt
+Verdict: rejected after process-group cleanup fix.
+
+Hypothesis 6: An unrelated HTTP 200 listener can be mistaken for the wrapper's Vite preview.
+Probe: the lifecycle fixture occupied TCP 4173 with a decoy before launching with-preview.
+Observed: the wrapper built fresh, launched Vite on its own dynamically reported port, and the child confirmed the generated fallback marker from that owned server. The decoy fixture passed.
+Evidence: preview-decoy-red.txt, process-lifecycle-green.txt
+Verdict: rejected after owned-readiness fix.
+
+Hypothesis 7: DEV tooling loads after React and therefore never instruments the application.
+Probe: launch Vite DEV, open it in provisioned Chromium, wait six seconds, and inspect console plus React Scan roots.
+Observed: main=1, scanRoot=true, errors=[]; the server was stopped and its port released.
+Evidence: devtools-runtime-green.txt
+Verdict: rejected after ordering DEV tools before React imports.

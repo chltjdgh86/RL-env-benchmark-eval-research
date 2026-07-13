@@ -1,0 +1,22 @@
+Claim-specific observation remediation path (required before Task 1 can be called complete).
+
+Current blocker
+- The builder creates one observation per source and reuses it across unrelated claims. Passing structural validation therefore does not prove relationship-level entailment.
+
+Implementation sequence
+1. Replace the one-observation-per-source constructor with an observation seed ledger keyed by observationId, sourceId, exact locator, excerpt, observedAt, and validAt. Multiple observations per source are required.
+2. Inventory every positive evidence relationship first. For each claim/link pair, record an entailment verdict: supports, partially_supports, context_only, contests, or contradicts.
+3. Require supports/partially_supports links to point to a claim-specific excerpt and locator that contains the asserted fact or a direct primary field. Page titles, category headings, generic offer headings, and transport metadata are never positive evidence.
+4. Detach generic context-only links that have no claim-specific contextual relationship, including the 144 blanket src_s47 strategy links. Keep a source in the registry without attaching it to unrelated claims.
+5. Rebuild company dossiers, market analysis, strategy claims, and buyer evidence from the audited relationship ledger. Downgrade or remove any claim with no entailing observation.
+6. Add a deterministic relationship-audit manifest and fixtures for one-to-many source observations, non-entailing title rejection, duplicate observation reuse, and observation/source/claim parity.
+7. Render and manually inspect representative company, economics, taxonomy, and strategy claims before closing the gate.
+
+Parallel dependency
+- The 70 symmetric positive/countersearch receipts must be executed and dated separately. Until then all 35 score cells remain conservative missing values and no vertical can win.
+
+Completion evidence
+- Zero unaudited positive relationships.
+- Zero generic title/transport observations used as support.
+- Every rendered factual assertion maps to an atomic canonical claim and at least one entailing observation locator.
+- Seed claims with semantic equivalents are mapped; only genuinely non-equivalent anchors retain explicit non-mapping dispositions.

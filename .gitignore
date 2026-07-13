@@ -1,0 +1,9 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+.codegraph
+# Visual-QA screenshot evidence; no check reads these and they add ~66MB.
+.omo/**/*.png

@@ -1,0 +1,470 @@
+$ node scripts/qa/check-index-scaffold.mjs && node scripts/qa/check-lockfile.mjs && tsc -b && vite build
+INDEX_SCAFFOLD_OK
+BUN_LOCK_OK:4FFBFD7D319E5632-f91826dbf5c34b4a-42150121871940E9-a216b109e26709d0
+vite v8.1.4 building client environment for production...
+[2Ktransforming...✓ 162 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                               2.03 kB │ gzip:   0.92 kB
+dist/assets/index-CjhcasLh.css               32.01 kB │ gzip:   6.32 kB
+dist/assets/rolldown-runtime-Bh1tDfsg.js      0.56 kB │ gzip:   0.36 kB
+dist/assets/index-BGRLmw7z.js                 3.09 kB │ gzip:   1.52 kB
+dist/assets/react-dom-DWuVlKIp.js             3.57 kB │ gzip:   1.36 kB
+dist/assets/react-CES6V0Ih.js                 7.53 kB │ gzip:   2.88 kB
+dist/assets/client-D4kvggjV.js              178.94 kB │ gzip:  56.50 kB
+dist/assets/App-Dh-gLWkc.js               1,138.70 kB │ gzip: 145.60 kB
+
+✓ built in 70ms
+[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+  ➜  Local:   http://127.0.0.1:57748/
+PREVIEW_READY:http://127.0.0.1:57748
+{
+  "baseUrl": "http://127.0.0.1:57748",
+  "companiesAudit": {
+    "eyebrowTexts": [
+      "Companies"
+    ],
+    "disallowedRoutes": [],
+    "searchboxCount": 0
+  },
+  "failures": [],
+  "guideAudit": {
+    "disallowedRoutes": [],
+    "partFive": [
+      {
+        "href": "https://scale.com",
+        "matches": [
+          {
+            "href": "https://scale.com",
+            "name": "Scale AI",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Scale AI"
+      },
+      {
+        "href": "https://www.turing.com",
+        "matches": [
+          {
+            "href": "https://www.turing.com",
+            "name": "Turing",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Turing"
+      },
+      {
+        "href": "https://www.micro1.ai",
+        "matches": [
+          {
+            "href": "https://www.micro1.ai",
+            "name": "Micro1",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Micro1"
+      },
+      {
+        "href": "https://www.mercor.com",
+        "matches": [
+          {
+            "href": "https://www.mercor.com",
+            "name": "Mercor",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Mercor"
+      },
+      {
+        "href": "https://www.afterquery.com",
+        "matches": [
+          {
+            "href": "https://www.afterquery.com",
+            "name": "AfterQuery",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "AfterQuery"
+      },
+      {
+        "href": "https://snorkel.ai",
+        "matches": [
+          {
+            "href": "https://snorkel.ai",
+            "name": "Snorkel AI",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Snorkel AI"
+      },
+      {
+        "href": "https://deeptune.com",
+        "matches": [
+          {
+            "href": "https://deeptune.com",
+            "name": "Deeptune",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Deeptune"
+      },
+      {
+        "href": "https://www.fleetai.com",
+        "matches": [
+          {
+            "href": "https://www.fleetai.com",
+            "name": "Fleet AI",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Fleet AI"
+      },
+      {
+        "href": "https://refresh.dev",
+        "matches": [
+          {
+            "href": "https://refresh.dev",
+            "name": "Refresh",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Refresh"
+      },
+      {
+        "href": "https://www.halluminate.ai",
+        "matches": [
+          {
+            "href": "https://www.halluminate.ai",
+            "name": "Halluminate",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Halluminate"
+      },
+      {
+        "href": "https://vibrantlabs.com",
+        "matches": [
+          {
+            "href": "https://vibrantlabs.com",
+            "name": "Vibrant Labs",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Vibrant Labs"
+      },
+      {
+        "href": "https://www.primeintellect.ai",
+        "matches": [
+          {
+            "href": "https://www.primeintellect.ai",
+            "name": "Prime Intellect",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Prime Intellect"
+      },
+      {
+        "href": "https://chakra.dev",
+        "matches": [
+          {
+            "href": "https://chakra.dev",
+            "name": "Chakra Labs",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Chakra Labs"
+      },
+      {
+        "href": "https://hud.ai",
+        "matches": [
+          {
+            "href": "https://hud.ai",
+            "name": "HUD",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "HUD"
+      },
+      {
+        "href": "https://plato.so",
+        "matches": [
+          {
+            "href": "https://plato.so",
+            "name": "Plato",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Plato"
+      },
+      {
+        "href": "https://mechanize.work",
+        "matches": [
+          {
+            "href": "https://mechanize.work",
+            "name": "Mechanize",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Mechanize"
+      },
+      {
+        "href": "https://bespokelabs.ai",
+        "matches": [
+          {
+            "href": "https://bespokelabs.ai",
+            "name": "Bespoke Labs",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Bespoke Labs"
+      },
+      {
+        "href": "https://habitat.inc",
+        "matches": [
+          {
+            "href": "https://habitat.inc",
+            "name": "Habitat",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Habitat"
+      },
+      {
+        "href": "https://cua.ai",
+        "matches": [
+          {
+            "href": "https://cua.ai",
+            "name": "Cua",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Cua"
+      },
+      {
+        "href": "https://www.benchflow.ai",
+        "matches": [
+          {
+            "href": "https://www.benchflow.ai",
+            "name": "BenchFlow",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "BenchFlow"
+      },
+      {
+        "href": "https://aviro.ai",
+        "matches": [
+          {
+            "href": "https://aviro.ai",
+            "name": "Aviro",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Aviro"
+      },
+      {
+        "href": "https://thetasoftware.com",
+        "matches": [
+          {
+            "href": "https://thetasoftware.com",
+            "name": "Theta",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Theta"
+      },
+      {
+        "href": "https://quesma.com",
+        "matches": [
+          {
+            "href": "https://quesma.com",
+            "name": "Quesma",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Quesma"
+      },
+      {
+        "href": "https://labs.huzzle.com",
+        "matches": [
+          {
+            "href": "https://labs.huzzle.com",
+            "name": "Huzzle Labs",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Huzzle Labs"
+      },
+      {
+        "href": "https://matrices.ai",
+        "matches": [
+          {
+            "href": "https://matrices.ai",
+            "name": "Matrices",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Matrices"
+      },
+      {
+        "href": "https://www.hillclimb.com",
+        "matches": [
+          {
+            "href": "https://www.hillclimb.com",
+            "name": "hillclimb",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "hillclimb"
+      },
+      {
+        "href": "https://andromede.ai",
+        "matches": [
+          {
+            "href": "https://andromede.ai",
+            "name": "Andromede",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Andromede"
+      },
+      {
+        "href": "https://calaveras.ai",
+        "matches": [
+          {
+            "href": "https://calaveras.ai",
+            "name": "Calaveras AI",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Calaveras AI"
+      },
+      {
+        "href": "https://idler.ai",
+        "matches": [
+          {
+            "href": "https://idler.ai",
+            "name": "Idler",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Idler"
+      },
+      {
+        "href": "https://aichamp.com",
+        "matches": [
+          {
+            "href": "https://aichamp.com",
+            "name": "AIChamp",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "AIChamp"
+      },
+      {
+        "href": "https://gr.inc",
+        "matches": [
+          {
+            "href": "https://gr.inc",
+            "name": "General Reasoning",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "General Reasoning"
+      },
+      {
+        "href": "https://www.preferencemodel.com",
+        "matches": [
+          {
+            "href": "https://www.preferencemodel.com",
+            "name": "Preference Model",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Preference Model"
+      },
+      {
+        "href": "https://goodstartlabs.com",
+        "matches": [
+          {
+            "href": "https://goodstartlabs.com",
+            "name": "Good Start Labs",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Good Start Labs"
+      },
+      {
+        "href": "https://vmax.ai",
+        "matches": [
+          {
+            "href": "https://vmax.ai",
+            "name": "Vmax",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "Vmax"
+      },
+      {
+        "href": "https://www.trainloop.ai",
+        "matches": [
+          {
+            "href": "https://www.trainloop.ai",
+            "name": "TrainLoop",
+            "rel": "noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "name": "TrainLoop"
+      }
+    ],
+    "searchboxCount": 0,
+    "qStillParsed": true,
+    "qHashProbe": "#/guide?q=retained"
+  },
+  "showcaseAudit": {
+    "searchboxCount": 1,
+    "disallowedRoutes": [],
+    "accessibleSearchboxCount": 1
+  },
+  "verdict": "PASS"
+}
+PREVIEW_CLEANUP:complete
