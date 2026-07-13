@@ -1,0 +1,795 @@
+.gitignore
+  s_9b6ac5d4cc4d14::t_8b2d0025f5201e 7-9
+  s_9b6ac5d4cc4d14::t_aba6637d3d551d 4-6
+  s_9b6ac5d4cc4d14::t_cc1d192e4913c5 1-3
+.omo/evidence/SPEC-final-trim-code-review.md
+  s_067aa35b547ee3::t_0eb1b8425a1210 1-107
+.omo/evidence/company-cards-postimpl-qa/browser-inspection.json
+  s_277c48c30123bf::t_0d1bdbdeb63743 1-288
+.omo/evidence/company-cards-postimpl-qa/build.txt
+  s_277c48c30123bf::t_8b7178f9b72fbf 1-24
+.omo/evidence/company-cards-postimpl-qa/http-root.txt
+  s_277c48c30123bf::t_d8709cab5f35e4 1-37
+.omo/evidence/company-cards-postimpl-qa/lint.txt
+  s_277c48c30123bf::t_f859586625b097 1-4
+.omo/evidence/company-cards-postimpl-qa/no-excuses.txt
+  s_277c48c30123bf::t_4cfc8d32cf1bf9 1-4
+.omo/evidence/company-cards-postimpl-qa/playwright-route.txt
+  s_277c48c30123bf::t_0b54a8eb011994 1-16
+.omo/evidence/company-cards-postimpl-qa/rendered-claims.txt
+  s_277c48c30123bf::t_e53376aafed230 1-4
+.omo/evidence/company-cards-postimpl-qa/semantic-audit.txt
+  s_277c48c30123bf::t_1b433f53c70bd6 1-5
+.omo/evidence/company-cards-postimpl-qa/static-shape-audit.txt
+  s_277c48c30123bf::t_4fbec6b72e699e 1-167
+.omo/evidence/company-cards-postimpl-qa/typecheck.txt
+  s_277c48c30123bf::t_bf6b159aeaa137 1-3
+.omo/evidence/company-cards-postimpl-qa/unit.txt
+  s_277c48c30123bf::t_5725cd7a178758 1-19
+.omo/evidence/final-current-state/acceptance-chain.typescript
+  s_067aa35b547ee3::t_b4e7f0bd8b9fe9 1-48
+.omo/evidence/final-current-state/routes-preview.log
+  s_067aa35b547ee3::t_6b1a409fac97cc 1-44
+.omo/evidence/final-current-state/source-contract.typescript
+  s_067aa35b547ee3::t_27ffee03065fe5 1-10
+.omo/evidence/final-trim-current/acceptance-chain.log
+  s_067aa35b547ee3::t_e473047dd7aca8 1-50
+.omo/evidence/final-trim-current/browser-semantic-audit-final.log
+  s_067aa35b547ee3::t_32cd64daf964d2 1-470
+.omo/evidence/final-trim-current/browser-semantic-audit-rerun.log
+  s_067aa35b547ee3::t_25868d7b23c6e1 1-470
+.omo/evidence/final-trim-current/browser-semantic-audit.log
+  s_067aa35b547ee3::t_23464433581727 1-471
+.omo/evidence/final-trim-current/browser-semantic-audit.mjs
+  s_067aa35b547ee3::t_d8acfe730329f7 1-127
+.omo/evidence/final-trim-current/browser-semantic/report.json
+  s_067aa35b547ee3::t_3f2916c120aa9c 1-445
+.omo/evidence/final-trim-current/preview-route-matrix-final.log
+  s_067aa35b547ee3::t_f331463b91acb0 1-44
+.omo/evidence/final-trim-current/preview-route-matrix.log
+  s_067aa35b547ee3::t_aa6fec542cedbf 1-44
+.omo/evidence/final-trim-current/preview-semantic-audit-final.log
+  s_067aa35b547ee3::t_63f7680611cdd6 1-470
+.omo/evidence/final-trim-current/preview-semantic-audit-rerun.log
+  s_067aa35b547ee3::t_b6b8a0c936dde2 1-470
+.omo/evidence/final-trim-current/preview-semantic-audit.log
+  s_067aa35b547ee3::t_59456400943f1d 1-471
+.omo/evidence/final-trim-current/route-matrix-final.log
+  s_067aa35b547ee3::t_9a01a98cd81ed2 1-44
+.omo/evidence/final-trim-current/route-matrix.log
+  s_067aa35b547ee3::t_6b455b256b1ecd 1-44
+.omo/evidence/final-trim-current/static-audit-final.log
+  s_067aa35b547ee3::t_648c3be64d58f1 1-95
+.omo/evidence/final-trim-current/static-audit.log
+  s_067aa35b547ee3::t_2c2abee1291e88 1-104
+.omo/evidence/rendered-claim-semantic-audit.jsonl
+  s_f246f65812e87f::t_a4a29bc396416b 1-10
+.omo/evidence/rl-economy-atlas-final-visual-gate-review.md
+  s_f246f65812e87f::t_9ab9f7dc603e3a 1-106
+.omo/evidence/rl-economy-atlas-visual-gate-review.md
+  s_f246f65812e87f::t_98bb1f4d75c545 1-74
+.omo/evidence/semantic-audit.json
+  s_f246f65812e87f::t_0893b1b72e6941 1-55
+.omo/evidence/spec-final-trim-gate-review.md
+  s_067aa35b547ee3::t_7b2b2ee7bd489d 1-92
+.omo/evidence/spec-final-trim-rereview/acceptance-chain.typescript
+  s_067aa35b547ee3::t_65dbbeb74c8603 1-48
+.omo/evidence/spec-final-trim-rereview/playwright-full-4174.typescript
+  s_067aa35b547ee3::t_b6256e7cef6544 1-34
+.omo/evidence/spec-final-trim-rereview/playwright-routes-4174.typescript
+  s_067aa35b547ee3::t_857b3ba10bc262 1-15
+.omo/evidence/spec-final-trim-rereview/showcase-320.mjs
+  s_067aa35b547ee3::t_00ddbc1c68874f 1-32
+.omo/evidence/spec-final-trim-rereview/showcase-320.typescript
+  s_067aa35b547ee3::t_b713bf5a03109b 1-29
+.omo/evidence/spec-final-trim/acceptance-chain.typescript
+  s_067aa35b547ee3::t_b718025e610903 1-48
+.omo/evidence/spec-final-trim/adversarial-browser-final.typescript
+  s_067aa35b547ee3::t_7b686d34140e00 1-13
+.omo/evidence/spec-final-trim/adversarial-browser-retry.typescript
+  s_067aa35b547ee3::t_1ca793172accb0 1-10
+.omo/evidence/spec-final-trim/adversarial-browser.mjs
+  s_067aa35b547ee3::t_189235398d483d 1-32
+.omo/evidence/spec-final-trim/adversarial-browser.typescript
+  s_067aa35b547ee3::t_56ff4516cb772f 1-10
+.omo/evidence/spec-final-trim/manual-browser-final.typescript
+  s_067aa35b547ee3::t_653aad3f1115a1 1-261
+.omo/evidence/spec-final-trim/manual-browser-retry.typescript
+  s_067aa35b547ee3::t_545eaada8a8a1f 1-261
+.omo/evidence/spec-final-trim/manual-browser.mjs
+  s_067aa35b547ee3::t_7e8ec30b464257 1-113
+.omo/evidence/spec-final-trim/manual-browser.typescript
+  s_067aa35b547ee3::t_7764baf934860a 1-12
+.omo/evidence/spec-final-trim/manualQa.json
+  s_067aa35b547ee3::t_91e92a7bebde25 1-155
+.omo/evidence/spec-final-trim/playwright-guide-companies.typescript
+  s_067aa35b547ee3::t_f2ea3d591f938f 1-12
+.omo/evidence/spec-final-trim/playwright-routes-preview.typescript
+  s_067aa35b547ee3::t_67e4ad3c975f71 1-255
+.omo/evidence/spec-final-trim/playwright-routes.typescript
+  s_067aa35b547ee3::t_1d8b7a3c7d8b49 1-635
+.omo/evidence/spec-final-trim/playwright-showcase-320-repro.typescript
+  s_067aa35b547ee3::t_5d92b3a21cc9ad 1-41
+.omo/evidence/spec-final-trim/static-contract-retry.typescript
+  s_067aa35b547ee3::t_1504737747c3c2 1-7
+.omo/evidence/spec-final-trim/static-contract.typescript
+  s_067aa35b547ee3::t_2bfdc0532d02c7 1-3
+.omo/evidence/spec-trim-sections/current-qa/acceptance-chain.log
+  s_05a1948ee42b22::t_b826b5467d5481 1-50
+.omo/evidence/spec-trim-sections/current-qa/extended-browser.log
+  s_05a1948ee42b22::t_d7b4531a11d0d9 1-56
+.omo/evidence/spec-trim-sections/current-qa/preview-http.log
+  s_05a1948ee42b22::t_fa88f91013c7ba 1-30
+.omo/evidence/strategy-receipt-semantic-audit.jsonl
+  s_f246f65812e87f::t_898fc9d5954cff 1-70
+.omo/evidence/task-1-rl-market-intelligence-site/claim-specific-observation-plan.txt
+  s_82d098ae139e75::t_a9b44e262165cc 1-22
+.omo/evidence/task-1-rl-market-intelligence-site/failure-fixture.txt
+  s_82d098ae139e75::t_faabfdd7fc5c05 1-27
+.omo/evidence/task-1-rl-market-intelligence-site/final-verification.txt
+  s_82d098ae139e75::t_f20ea56a76ddab 1-43
+.omo/evidence/task-1-rl-market-intelligence-site/green.txt
+  s_82d098ae139e75::t_50e0a7eb45b468 1-9
+.omo/evidence/task-1-rl-market-intelligence-site/ledger-reconciliation.txt
+  s_82d098ae139e75::t_bf1980e145eb21 1-15
+.omo/evidence/task-1-rl-market-intelligence-site/link-audit-final.txt
+  s_82d098ae139e75::t_a83524f7dcc82a 1-3059
+.omo/evidence/task-1-rl-market-intelligence-site/link-audit.txt
+  s_82d098ae139e75::t_17a9cec98a22e3 1-28
+.omo/evidence/task-1-rl-market-intelligence-site/quality-red.txt
+  s_82d098ae139e75::t_58a10dd2596904 1-31
+.omo/evidence/task-1-rl-market-intelligence-site/red.txt
+  s_82d098ae139e75::t_fc2bfbc9179d56 1-29
+.omo/evidence/task-2-rl-market-intelligence-site/failure-fixture.txt
+  s_82d098ae139e75::t_01205ce5629ad6 1-25
+.omo/evidence/task-2-rl-market-intelligence-site/green.txt
+  s_82d098ae139e75::t_872a206607af49 1
+.omo/evidence/task-2-rl-market-intelligence-site/red.txt
+  s_82d098ae139e75::t_e3e7b8c1e37b99 1-23
+.omo/evidence/task-3-rl-market-intelligence-site/browser-console-green.txt
+  s_82d098ae139e75::t_dc12083ab005cc 1-16
+.omo/evidence/task-3-rl-market-intelligence-site/browser-console-red.txt
+  s_82d098ae139e75::t_19e4c45a196fda 1-53
+.omo/evidence/task-3-rl-market-intelligence-site/browser-provisioning.txt
+  s_82d098ae139e75::t_d28d777078fd47 1-8
+.omo/evidence/task-3-rl-market-intelligence-site/build.txt
+  s_82d098ae139e75::t_07a7766b437aa3 1-11
+.omo/evidence/task-3-rl-market-intelligence-site/capture-command-test.txt
+  s_82d098ae139e75::t_3c5d35029e68d5 1-15
+.omo/evidence/task-3-rl-market-intelligence-site/capture-exit.txt
+  s_82d098ae139e75::t_4e440ac3f4ff73 1
+.omo/evidence/task-3-rl-market-intelligence-site/capture-marker-red.txt
+  s_82d098ae139e75::t_ff6be5d248bbc7 1-38
+.omo/evidence/task-3-rl-market-intelligence-site/capture-signal-red.txt
+  s_82d098ae139e75::t_b93d6391d128e2 1-31
+.omo/evidence/task-3-rl-market-intelligence-site/devtools-green.txt
+  s_82d098ae139e75::t_96c262eab39083 1-2
+.omo/evidence/task-3-rl-market-intelligence-site/devtools-red.txt
+  s_82d098ae139e75::t_610b54dd9f2487 1
+.omo/evidence/task-3-rl-market-intelligence-site/devtools-runtime-green.txt
+  s_82d098ae139e75::t_662e4627ebb608 1
+.omo/evidence/task-3-rl-market-intelligence-site/devtools-sourcemap-green.txt
+  s_82d098ae139e75::t_fc2ef5da3e81c8 1-20
+.omo/evidence/task-3-rl-market-intelligence-site/devtools-sourcemap-red.txt
+  s_82d098ae139e75::t_7c82dcb81251af 1-38
+.omo/evidence/task-3-rl-market-intelligence-site/doctor.txt
+  s_82d098ae139e75::t_69da21b87477ed 1-12
+.omo/evidence/task-3-rl-market-intelligence-site/e2e-full.txt
+  s_82d098ae139e75::t_d2b7ea3e19eba9 1-32
+.omo/evidence/task-3-rl-market-intelligence-site/green.txt
+  s_82d098ae139e75::t_acf7e2b0f0ff77 1-9
+.omo/evidence/task-3-rl-market-intelligence-site/handoff-sha256.txt
+  s_82d098ae139e75::t_32ee3e27515897 1-54
+.omo/evidence/task-3-rl-market-intelligence-site/install.txt
+  s_82d098ae139e75::t_92e5209725d4b5 1-29
+.omo/evidence/task-3-rl-market-intelligence-site/lockfile.txt
+  s_82d098ae139e75::t_7aea50a8e4e05b 1
+.omo/evidence/task-3-rl-market-intelligence-site/no-excuses-green.txt
+  s_82d098ae139e75::t_01a13eaf372082 1-15
+.omo/evidence/task-3-rl-market-intelligence-site/no-excuses-minimal-path.txt
+  s_82d098ae139e75::t_8e71864f10119a 1
+.omo/evidence/task-3-rl-market-intelligence-site/no-excuses-red.txt
+  s_82d098ae139e75::t_b22c3259823ed0 1-33
+.omo/evidence/task-3-rl-market-intelligence-site/preview-decoy-red.txt
+  s_82d098ae139e75::t_a78ab443569c50 1-33
+.omo/evidence/task-3-rl-market-intelligence-site/preview-failure-cleanup.txt
+  s_82d098ae139e75::t_bc0dc275a90355 1-15
+.omo/evidence/task-3-rl-market-intelligence-site/preview-signal-red.txt
+  s_82d098ae139e75::t_112e69c6d00ecd 1-32
+.omo/evidence/task-3-rl-market-intelligence-site/preview.txt
+  s_82d098ae139e75::t_de59f9e96720d0 1-31
+.omo/evidence/task-3-rl-market-intelligence-site/process-lifecycle-green.txt
+  s_82d098ae139e75::t_ebaad985848335 1-30
+.omo/evidence/task-3-rl-market-intelligence-site/qa-fixtures.txt
+  s_82d098ae139e75::t_3b08f37d4f7954 1-110
+.omo/evidence/task-3-rl-market-intelligence-site/red.txt
+  s_82d098ae139e75::t_943a155b36d3d0 1-41
+.omo/evidence/task-3-rl-market-intelligence-site/rendered-claims-fixtures.txt
+  s_82d098ae139e75::t_13c21d78a024be 1-20
+.omo/evidence/task-3-rl-market-intelligence-site/rendered-claims-green.txt
+  s_82d098ae139e75::t_6eae8ef85f570a 1-15
+.omo/evidence/task-3-rl-market-intelligence-site/rendered-claims-red.txt
+  s_82d098ae139e75::t_1153bdc904281b 1-33
+.omo/evidence/task-3-rl-market-intelligence-site/rendered-markup-green.txt
+  s_82d098ae139e75::t_c3493f8d48aca4 1-20
+.omo/evidence/task-3-rl-market-intelligence-site/rendered-markup-red.txt
+  s_82d098ae139e75::t_07a87eca431d67 1-59
+.omo/evidence/task-3-rl-market-intelligence-site/scope-empty-green.txt
+  s_82d098ae139e75::t_f04cde5b3b4ef1 1-25
+.omo/evidence/task-3-rl-market-intelligence-site/scope-empty-red.txt
+  s_82d098ae139e75::t_13da0b2903ecef 1-45
+.omo/evidence/task-3-rl-market-intelligence-site/scope-fixtures.txt
+  s_82d098ae139e75::t_9d762306f9b9c7 1-20
+.omo/evidence/task-3-rl-market-intelligence-site/static-contract.txt
+  s_82d098ae139e75::t_f08c2f399ad0d4 1
+.omo/evidence/task-3-rl-market-intelligence-site/verify-all.txt
+  s_82d098ae139e75::t_18d5ba8ed40b12 1-37
+.omo/evidence/task-4-rl-market-intelligence-site/corpus-hashes.txt
+  s_82d098ae139e75::t_e680cb44ae2a48 1-11
+.omo/evidence/task-4-rl-market-intelligence-site/fixtures.txt
+  s_82d098ae139e75::t_aa1364d9be86d6 1-9
+.omo/evidence/task-4-rl-market-intelligence-site/green.txt
+  s_82d098ae139e75::t_1108e47680ea60 1-9
+.omo/evidence/task-4-rl-market-intelligence-site/live-parse.txt
+  s_82d098ae139e75::t_c8b1e8d8bb2650 1
+.omo/evidence/task-4-rl-market-intelligence-site/no-excuses.txt
+  s_82d098ae139e75::t_9ba18e628b485f 1-2
+.omo/evidence/task-4-rl-market-intelligence-site/red.txt
+  s_82d098ae139e75::t_f53a5a8051578b 1-26
+.omo/evidence/task-5-rl-market-intelligence-site/browser-red.txt
+  s_82d098ae139e75::t_8b6694b2e5abcd 1-70
+.omo/evidence/task-5-rl-market-intelligence-site/css-audit.txt
+  s_82d098ae139e75::t_66b152462a7017 1-16
+.omo/evidence/task-5-rl-market-intelligence-site/css-structural-check.mjs
+  s_82d098ae139e75::t_531840a95aae4f 1-175
+.omo/evidence/task-5-rl-market-intelligence-site/red-primitives.txt
+  s_82d098ae139e75::t_d678bbda1932c0 1-305
+.omo/evidence/unified-cards-simplify-sweep-gate-review.md
+  s_f246f65812e87f::t_d5ea399a0160fd 1-101
+.omo/execution/ownership.md
+  s_82d098ae139e75::t_5010cb38ad0595 1-24
+.omo/final-review/local-root-review.md
+  s_82d098ae139e75::t_c9b5048ca88614 1-23
+.omo/frontend-design/state.md
+  s_82d098ae139e75::t_dbd6106e9169d6 1-311
+.omo/teams/team-c5edc90b/guide.md
+  s_82d098ae139e75::t_7481769b49cbdf 1-82
+.omo/teams/team-c5edc90b/team.json
+  s_82d098ae139e75::t_fcbd6824166dbf 1-442
+.omo/ulw-research/20260711-034936/wave-1-librarian-mercor.md
+  s_82d098ae139e75::t_20012d18037a42 1-48
+.omo/ulw-research/20260711-034936/wave-1-live-leads.md
+  s_82d098ae139e75::t_810c145831fc16 1-57
+bun.lock
+  s_82d098ae139e75::t_d9fd52c8ee8d7a 1-1295
+e2e/routes.spec.ts
+  s_067aa35b547ee3::t_185558e1ac7452 1-82
+e2e/showcase.spec.ts
+  s_05a1948ee42b22::t_fd3f437fcfeb4d 1-101
+package.json
+  s_c2c89f8ed22b42::t_d4360c93fd8f18 1-53
+public/.keep
+  s_82d098ae139e75::t_7bba89eed730ba 1
+public/research-synthesis.txt
+  s_82d098ae139e75::t_59cec55e3a504f 1-1578
+research/corpus/adjacent.json
+  s_82d098ae139e75::t_22681b644bf657 1-1611
+research/corpus/buyer-evidence.json
+  s_82d098ae139e75::t_e82d8a83571535 1-173
+research/corpus/claims.json
+  s_82d098ae139e75::t_9696babe5331ab 1-18560
+research/corpus/companies.json
+  s_82d098ae139e75::t_cb0554dd47b03a 1-685
+research/corpus/industries.json
+  s_82d098ae139e75::t_c8a8d231f5951c 1-358
+research/corpus/market-analysis.json
+  s_82d098ae139e75::t_b2bf29efa7cb0f 1-360
+research/corpus/observations.json
+  s_82d098ae139e75::t_268736fd2f478c 1-3057
+research/corpus/sources.json
+  s_82d098ae139e75::t_a203dfd7bb7285 1-5237
+research/corpus/strategies.json
+  s_82d098ae139e75::t_5a87af0d6c44fc 1-1648
+research/corpus/strategy-research-receipts.json
+  s_82d098ae139e75::t_e3509607af8c3c 1-1898
+research/corpus/supplemental-adjacent-2.json
+  s_9b6ac5d4cc4d14::t_92900e510c8ee6 1-570
+research/corpus/supplemental-adjacent.json
+  s_82d098ae139e75::t_5d6e1d87f32bd7 1-2136
+research/migrations/exa-strategy-evidence.json
+  s_82d098ae139e75::t_1ac1d3c8a93689 1-3101
+research/migrations/root-synthesis-seed.json
+  s_82d098ae139e75::t_23e2dad24d321b 1-3060
+research/migrations/source-locator-snapshots.json
+  s_82d098ae139e75::t_89f0911feabdec 1-3200
+research/migrations/supplemental-census-input.json
+  s_82d098ae139e75::t_7631938483787e 1-1098
+research/schemas/corpus.schema.json
+  s_82d098ae139e75::t_7d8de35c8b6af0 1-2573
+research/seeds/SYNTHESIS.pre-canonical.md
+  s_82d098ae139e75::t_c1391eff77c002 1-518
+research/seeds/exa/exa-argilla-research.md
+  s_82d098ae139e75::t_4ce33691428f20 1
+research/seeds/exa/exa-competitor-research.md
+  s_82d098ae139e75::t_92c83268a5747b 1-58
+research/seeds/exa/exa-receipts-enterprise.md
+  s_82d098ae139e75::t_3bee4431d20d02 1-369
+research/seeds/exa/exa-receipts-finance.md
+  s_82d098ae139e75::t_bb36a8ab3d5760 1-252
+research/seeds/exa/exa-receipts-health.md
+  s_82d098ae139e75::t_f5136d099a126b 1-252
+research/seeds/exa/exa-receipts-insurance.md
+  s_82d098ae139e75::t_bfffc03dfe61c5 1-231
+research/seeds/exa/exa-receipts-public.md
+  s_82d098ae139e75::t_f2896d2c8dfb8e 1-297
+research/seeds/exa/exa-supplement-a.md
+  s_82d098ae139e75::t_88f532174d8aa5 1-258
+research/seeds/exa/exa-supplement-b.md
+  s_82d098ae139e75::t_6477e93e60781c 1-301
+research/seeds/exa/exa-supplement-c.md
+  s_82d098ae139e75::t_6f3e899766b461 1-330
+research/seeds/exa/exa-supplemental-integration-manifest.md
+  s_82d098ae139e75::t_0c884973c73c3b 1-69
+research/synthesis/SYNTHESIS.md
+  s_9b6ac5d4cc4d14::t_a906e1aa0e496d 1-1598
+scripts/qa/browser-selection.json
+  s_82d098ae139e75::t_eab03023900663 1-5
+scripts/qa/capture-command.fixtures.test.mjs
+  s_82d098ae139e75::t_4c5bbd55f2fba3 1-116
+scripts/qa/check-devtools.fixtures.test.mjs
+  s_82d098ae139e75::t_a199695cb432ae 1-29
+scripts/qa/check-no-excuses.fixtures.test.mjs
+  s_82d098ae139e75::t_a63b2cfa26fb8b 1-81
+scripts/qa/check-rendered-claims.mjs
+  s_82d098ae139e75::t_26046462ee42a5 1-111
+scripts/qa/check-semantic-audit.mjs
+  s_82d098ae139e75::t_845cfd7e0252a5 1-26
+scripts/qa/command-capture.mjs
+  s_82d098ae139e75::t_ad0461985b3d99 1-81
+scripts/qa/fixtures/dist-with-devtools/assets/index.js
+  s_82d098ae139e75::t_22d8f16f13b940 1
+scripts/qa/render-semantic-audit.mjs
+  s_f246f65812e87f::t_39aae690c21ae0 1-287
+scripts/qa/with-preview.fixtures.test.mjs
+  s_82d098ae139e75::t_60667aa34c6863 1-225
+scripts/research/check-links.mjs
+  s_82d098ae139e75::t_b53ad2e4d80e03 1-110
+scripts/research/import-exa-inputs.mjs
+  s_82d098ae139e75::t_869ddf6c0d9744 1-231
+scripts/research/link-audit-policy.mjs
+  s_82d098ae139e75::t_8b1abd839cc060 1-119
+scripts/research/render-utils.mjs
+  s_82d098ae139e75::t_98cdb19ad67ac3 1-67
+scripts/research/snapshot-locators.mjs
+  s_82d098ae139e75::t_c0c7bd1157d86e 1-192
+src/app/AtlasShell.test.tsx
+  s_067aa35b547ee3::t_b00c4b8a989c2f 1-64
+src/app/GlobalFilters.test.tsx
+  s_f246f65812e87f::t_b87c5adfbb53c8 1-32
+src/components/ClaimText.test.tsx
+  s_0cbb1d3352c0b1::t_74ef42d31e5b0e 1-45
+src/components/content.tsx
+  s_82d098ae139e75::t_1fa41c023e71ef 1-70
+src/components/disclosure.tsx
+  s_82d098ae139e75::t_246eb570f58e6f 1-168
+src/components/foundation.tsx
+  s_82d098ae139e75::t_600ef0101f4c29 1-13
+src/components/layout.tsx
+  s_82d098ae139e75::t_71f54a1369676f 1-170
+src/components/showcase-evidence-fixtures.ts
+  s_82d098ae139e75::t_7128cb9f81e3f1 1-203
+src/data/buyer-cross-keys.ts
+  s_82d098ae139e75::t_977ab586292bc8 1-57
+src/data/corpus-schema.ts
+  s_82d098ae139e75::t_ebbe26564e3e90 1-236
+src/data/cross-keys.ts
+  s_82d098ae139e75::t_b55276645c86fa 1-228
+src/data/research-index.ts
+  s_82d098ae139e75::t_70d08fa2bac6ec 1-230
+src/data/research.ts
+  s_82d098ae139e75::t_d28a923d6f99ad 1-78
+src/domain/census.ts
+  s_82d098ae139e75::t_88d4768cb5d001 1-94
+src/domain/entity-enums.ts
+  s_82d098ae139e75::t_ec7aa7e424d08f 1-94
+src/domain/entity-schema.ts
+  s_82d098ae139e75::t_30cbd7e6d7953e 1-145
+src/domain/enums.ts
+  s_82d098ae139e75::t_475fcdf6037bab 1-4
+src/domain/evidence-alignment.ts
+  s_82d098ae139e75::t_25d3a5e9efb577 1-109
+src/domain/evidence-enums.ts
+  s_82d098ae139e75::t_0f6a43e67b7635 1-140
+src/domain/evidence-schema.ts
+  s_82d098ae139e75::t_8cf1bda7666bd5 1-150
+src/domain/evidence.ts
+  s_82d098ae139e75::t_ecf63dc73ff2cc 1-225
+src/domain/hash-codec.ts
+  s_05a1948ee42b22::t_28c45b7b113fcd 1-246
+src/domain/hash-state.test.ts
+  s_067aa35b547ee3::t_566afdffb5e4e6 1-231
+src/domain/hash-types.ts
+  s_067aa35b547ee3::t_8497d6e7806341 1-93
+src/domain/ids.ts
+  s_82d098ae139e75::t_6c9ce5e972f2f5 1-54
+src/domain/research.fixtures.test.ts
+  s_82d098ae139e75::t_559f9dda1f3e4b 1-201
+src/domain/search.ts
+  s_82d098ae139e75::t_b769e6f653fa88 1-16
+src/domain/selectors.fixtures.test.ts
+  s_82d098ae139e75::t_035c46720c30bf 1-172
+src/domain/selectors.test.ts
+  s_82d098ae139e75::t_a25485a2f26c09 1-24
+src/domain/selectors.ts
+  s_82d098ae139e75::t_85055003a85b13 1-249
+src/domain/strategy-enums.ts
+  s_82d098ae139e75::t_717a319ff1bdd3 1-95
+src/domain/strategy-hash.ts
+  s_82d098ae139e75::t_0bc3d4693c440d 1-121
+src/domain/strategy-integrity-cells.ts
+  s_82d098ae139e75::t_46c25edd643497 1-217
+src/domain/strategy-integrity-receipts.ts
+  s_82d098ae139e75::t_79b1e385172a75 1-167
+src/domain/strategy-integrity-types.ts
+  s_82d098ae139e75::t_db8903b1c1d756 1-34
+src/domain/strategy-integrity.ts
+  s_82d098ae139e75::t_05ee4d1f650e78 1-249
+src/domain/strategy-schema.ts
+  s_82d098ae139e75::t_9fdb5a16d4bcc5 1-198
+src/domain/strategy-score.fixtures.test.ts
+  s_82d098ae139e75::t_a2f4713e2fac81 1-297
+src/domain/strategy-score.test.ts
+  s_82d098ae139e75::t_cbafe250d2994a 1-258
+src/domain/strategy-score.ts
+  s_82d098ae139e75::t_c4eedb28136fd6 1-236
+src/features/companies/CompaniesPage.tsx
+  s_9b6ac5d4cc4d14::t_5f98e6f483921c 1-103
+src/features/companies/CompanyCard.tsx
+  s_f246f65812e87f::t_ad97b7f0e4121f 1-56
+src/features/companies/company-descriptions.ts
+  s_f246f65812e87f::t_66e4b44a0650b1 1-91
+src/features/field-guide/FieldGuidePage.tsx
+  s_c3d7e0e8652c06::t_d7860b426af387 1-776
+src/features/shared/CorpusClaim.tsx
+  s_0cbb1d3352c0b1::t_a1b488e7763f05 1-41
+src/features/shared/SectionIntro.tsx
+  s_82d098ae139e75::t_ccf28331ad823f 1-20
+src/test/jest-axe.d.ts
+  s_82d098ae139e75::t_f6fb3c55dd3e8c 1-11
+src/test/setup.ts
+  s_82d098ae139e75::t_846e33869141db 1
+tsconfig.app.json
+  s_82d098ae139e75::t_50855491b9b407 1-27
+tsconfig.json
+  s_82d098ae139e75::t_90af4e5f3d09ee 1-4
+tsconfig.node.json
+  s_82d098ae139e75::t_ba5277d3705551 1-23
+vitest.config.ts
+  s_82d098ae139e75::t_11fea7a816cc20 1-13
+.github/workflows/deploy-pages.yml
+  s_9b6ac5d4cc4d14::t_9bae2aa151ac2f 1-38
+.omo/drafts/react-hook-corrections.md
+  s_9b6ac5d4cc4d14::t_d3c163907897d4 1-108
+.omo/drafts/rl-market-intelligence-site.md
+  s_9b6ac5d4cc4d14::t_fe741bda19b1b4 1-112
+.omo/evidence/SPEC-trim-sections-code-review.md
+  s_9b6ac5d4cc4d14::t_b5bfc1543baa32 1-80
+.omo/evidence/SPEC-trim-sections-qa.md
+  s_9b6ac5d4cc4d14::t_43dfea5e432da3 1-63
+.omo/evidence/company-cards-code-review.md
+  s_9b6ac5d4cc4d14::t_d88f99c6921947 1-93
+.omo/evidence/company-cards-gate-review.md
+  s_9b6ac5d4cc4d14::t_26a5dcdb75e9ad 1-82
+.omo/evidence/company-cards-postimpl-qa/inspect-companies.mjs
+  s_9b6ac5d4cc4d14::t_822c2662e580b6 1-95
+.omo/evidence/company-cards-postimpl-qa/vite-server.txt
+  s_9b6ac5d4cc4d14::t_8a65577b671878 1-7
+.omo/evidence/fact-sheet-gate-review.md
+  s_9b6ac5d4cc4d14::t_57ad3e9e482a36 1-63
+.omo/evidence/task-1-rl-market-intelligence-site/artifact-hashes.txt
+  s_9b6ac5d4cc4d14::t_50a878323936e1 1-15
+.omo/evidence/task-1-rl-market-intelligence-site/build-corpus.txt
+  s_9b6ac5d4cc4d14::t_cb8b9c17cd6bf5 1-13
+.omo/evidence/task-1-rl-market-intelligence-site/census-report.txt
+  s_9b6ac5d4cc4d14::t_5dcfe1c1034148 1-36
+.omo/evidence/task-1-rl-market-intelligence-site/corpus-check.txt
+  s_9b6ac5d4cc4d14::t_98f08b53c1bd24 1-3
+.omo/evidence/task-1-rl-market-intelligence-site/determinism.txt
+  s_9b6ac5d4cc4d14::t_d4eb53ac7bf1f5 1-5
+.omo/evidence/task-1-rl-market-intelligence-site/interstitial-debug-audit.txt
+  s_9b6ac5d4cc4d14::t_77cd451ff034cd 1-44
+.omo/evidence/task-1-rl-market-intelligence-site/locator-audit.txt
+  s_9b6ac5d4cc4d14::t_d823cd05f276e8 1-14
+.omo/evidence/task-1-rl-market-intelligence-site/runtime-debug-audit.txt
+  s_9b6ac5d4cc4d14::t_c3db75070b22bb 1-38
+.omo/evidence/task-1-rl-market-intelligence-site/seed-migration.txt
+  s_9b6ac5d4cc4d14::t_d7ef38fdbc5423 1-10
+.omo/evidence/task-1-rl-market-intelligence-site/self-review.txt
+  s_9b6ac5d4cc4d14::t_9ef51d84c467fa 1
+.omo/evidence/task-1-rl-market-intelligence-site/semantic-entailment-audit.txt
+  s_9b6ac5d4cc4d14::t_cad0c15c170b1a 1-21
+.omo/evidence/task-1-rl-market-intelligence-site/strategy-scores.txt
+  s_9b6ac5d4cc4d14::t_db3718bb364916 1-11
+.omo/evidence/task-1-rl-market-intelligence-site/supplemental-validator.txt
+  s_9b6ac5d4cc4d14::t_95d7827e06c1a3 1-17
+.omo/evidence/task-1-rl-market-intelligence-site/synthesis-drift.txt
+  s_9b6ac5d4cc4d14::t_ed67a455c0c98c 1-3
+.omo/evidence/task-1-rl-market-intelligence-site/synthesis-render.txt
+  s_9b6ac5d4cc4d14::t_cdb1689e23a114 1-3
+.omo/evidence/task-3-rl-market-intelligence-site/debug-runtime-audit.txt
+  s_9b6ac5d4cc4d14::t_89dc78f64a071e 1-44
+.omo/plans/rl-market-intelligence-site.md
+  s_9b6ac5d4cc4d14::t_3ef7495b9edf6e 1-295
+.omo/ulw-research/20260711-034936/cause-disappearance.md
+  s_9b6ac5d4cc4d14::t_424388ee2667c2 1-8
+.omo/ulw-research/20260711-034936/claim-graph.md
+  s_9b6ac5d4cc4d14::t_f44b1de7ebc61a 1-53
+.omo/ulw-research/20260711-034936/expansion-log.md
+  s_9b6ac5d4cc4d14::t_dad15b37ff2a6f 1-51
+.omo/ulw-research/20260711-034936/final-synthesis.md
+  s_9b6ac5d4cc4d14::t_330c8e77f6ff63 1-39
+.omo/ulw-research/20260711-034936/intent-diff.md
+  s_9b6ac5d4cc4d14::t_4a782085dae068 1-29
+.omo/ulw-research/20260711-034936/observation-manifest.md
+  s_9b6ac5d4cc4d14::t_f901fb575fb80c 1-40
+.omo/ulw-research/20260711-034936/research-coverage.md
+  s_9b6ac5d4cc4d14::t_c3b3fb8453d637 1-51
+.omo/ulw-research/20260711-034936/verification-economics.md
+  s_9b6ac5d4cc4d14::t_c1bde65865966d 1-9
+.omo/ulw-research/20260711-034936/wave-2-countersearch.md
+  s_9b6ac5d4cc4d14::t_de76252d9b32df 1-116
+DESIGN.md
+  s_9b6ac5d4cc4d14::t_996b7df7e5f5d1 1-558
+README.md
+  s_9b6ac5d4cc4d14::t_080a86e858240c 1-37
+SPEC-trim-sections.md
+  s_9b6ac5d4cc4d14::t_2e50ffcac1cf42 1-95
+SYNTHESIS.md
+  s_9b6ac5d4cc4d14::t_3dc91abb74e442 1-7
+biome.json
+  s_9b6ac5d4cc4d14::t_99466419d1149f 1-53
+e2e/app-shell.spec.ts
+  s_9b6ac5d4cc4d14::t_6dd7f8f8fb3c39 1-28
+index.html
+  s_9b6ac5d4cc4d14::t_dc68471fdd1e3e 1-15
+playwright.config.ts
+  s_9b6ac5d4cc4d14::t_8e39c992b17e2c 1-35
+research/README.md
+  s_9b6ac5d4cc4d14::t_cc0f44531c0a0a 1-54
+research/migrations/supplemental-census-input-2.json
+  s_9b6ac5d4cc4d14::t_a51a23c1cb924d 1-319
+scripts/qa/README.md
+  s_9b6ac5d4cc4d14::t_d144cd8f1c237f 1-15
+scripts/qa/capture-command.mjs
+  s_9b6ac5d4cc4d14::t_99a758fd5b97e7 1-15
+scripts/qa/capture-test.fixtures.test.mjs
+  s_9b6ac5d4cc4d14::t_a60ddfbdbf9b7a 1-57
+scripts/qa/capture-test.mjs
+  s_9b6ac5d4cc4d14::t_c0fd8b32d373a0 1-64
+scripts/qa/check-claim-scope.fixtures.test.mjs
+  s_9b6ac5d4cc4d14::t_c4c6e2c962cc46 1-31
+scripts/qa/check-claim-scope.mjs
+  s_9b6ac5d4cc4d14::t_eee90c890a6c1b 1-19
+scripts/qa/check-design-contract.fixtures.test.mjs
+  s_9b6ac5d4cc4d14::t_81e0edf53f0040 1-36
+scripts/qa/check-design-contract.mjs
+  s_9b6ac5d4cc4d14::t_e7f1746fe2d6d1 1-20
+scripts/qa/check-devtools.mjs
+  s_9b6ac5d4cc4d14::t_c912755137f7d7 1-42
+scripts/qa/check-index-scaffold.mjs
+  s_9b6ac5d4cc4d14::t_33dfd0127903ee 1-32
+scripts/qa/check-lockfile.mjs
+  s_9b6ac5d4cc4d14::t_f76b2e7e695ca5 1-48
+scripts/qa/check-no-excuses.mjs
+  s_9b6ac5d4cc4d14::t_4012efea0a2d6b 1-204
+scripts/qa/check-rendered-claims.fixtures.test.mjs
+  s_9b6ac5d4cc4d14::t_7b5f00c5be9479 1-87
+scripts/qa/check-seo.fixtures.test.mjs
+  s_9b6ac5d4cc4d14::t_1a9f2dde327597 1-56
+scripts/qa/check-seo.mjs
+  s_9b6ac5d4cc4d14::t_f5380a8fda238e 1-47
+scripts/qa/claim-scope.mjs
+  s_9b6ac5d4cc4d14::t_007b7de24268a3 1-91
+scripts/qa/design-contract.mjs
+  s_9b6ac5d4cc4d14::t_61f4bf79eee89f 1-128
+scripts/qa/fixtures/claim-scope-empty.json
+  s_9b6ac5d4cc4d14::t_ad6aa3ee22995d 1-5
+scripts/qa/fixtures/claim-scope-foreign.json
+  s_9b6ac5d4cc4d14::t_8243273a20383f 1-5
+scripts/qa/fixtures/claim-scope-valid.json
+  s_9b6ac5d4cc4d14::t_af8baa43ae7610 1-5
+scripts/qa/fixtures/design-missing-accessibility.md
+  s_9b6ac5d4cc4d14::t_584eefbde45adb 1-10
+scripts/qa/fixtures/dist-with-devtools-map/assets/index.js
+  s_9b6ac5d4cc4d14::t_a4d1cd84bc3708 1
+scripts/qa/fixtures/dist-with-devtools-map/assets/index.js.map
+  s_9b6ac5d4cc4d14::t_5f07404616a074 1
+scripts/qa/no-excuses-source.mjs
+  s_9b6ac5d4cc4d14::t_20293976b37293 1-110
+scripts/qa/process-lifecycle.mjs
+  s_9b6ac5d4cc4d14::t_38674b43a01fd4 1-115
+scripts/qa/provision-browser.mjs
+  s_9b6ac5d4cc4d14::t_a0d6ae37526e8f 1-81
+scripts/qa/render-claim-scope.mjs
+  s_9b6ac5d4cc4d14::t_cf45c420d8dd1b 1-32
+scripts/qa/with-preview.mjs
+  s_9b6ac5d4cc4d14::t_ff08071e00f833 1-190
+scripts/research/build-corpus.mjs
+  s_9b6ac5d4cc4d14::t_9eee3286fa65c8 1-2282
+scripts/research/check-corpus.fixtures.test.mjs
+  s_9b6ac5d4cc4d14::t_1fcf342626d3f9 1-866
+scripts/research/check-corpus.mjs
+  s_9b6ac5d4cc4d14::t_87c80d531afa7c 1-54
+scripts/research/check-corpus.test.mjs
+  s_9b6ac5d4cc4d14::t_b8035bac2754e7 1-15
+scripts/research/compile-exa-strategy-evidence.mjs
+  s_9b6ac5d4cc4d14::t_309a8107d8dbaa 1-306
+scripts/research/compile-exa-strategy-evidence.test.mjs
+  s_9b6ac5d4cc4d14::t_04304214aaac25 1-47
+scripts/research/corpus-validator.mjs
+  s_9b6ac5d4cc4d14::t_2762a95ca27187 1-1193
+scripts/research/import-sweep-inputs.mjs
+  s_9b6ac5d4cc4d14::t_a05d3f3665e9c3 1-110
+scripts/research/json-schema-validator.mjs
+  s_9b6ac5d4cc4d14::t_03873d625c6c98 1-126
+scripts/research/render-public-fallback.mjs
+  s_9b6ac5d4cc4d14::t_95b3b254af658d 1-68
+scripts/research/render-synthesis.mjs
+  s_9b6ac5d4cc4d14::t_beeab68e65a66b 1-315
+scripts/research/safe-http.mjs
+  s_9b6ac5d4cc4d14::t_ffe97fed0f2278 1-95
+scripts/research/strategy-qualification.mjs
+  s_9b6ac5d4cc4d14::t_604c1c9fce0bee 1-126
+scripts/research/supplemental-census.test.mjs
+  s_9b6ac5d4cc4d14::t_50be5b67cb4873 1-137
+src/App.test.tsx
+  s_9b6ac5d4cc4d14::t_508d0468a8bf6e 1-36
+src/App.tsx
+  s_9b6ac5d4cc4d14::t_b0d39dd09edd5e 1-49
+src/app/AtlasShell.tsx
+  s_9b6ac5d4cc4d14::t_6ceaa9b07a372e 1-85
+src/app/GlobalFilters.tsx
+  s_9b6ac5d4cc4d14::t_2e5ffe36ef6a9e 1-108
+src/app/hash-references.ts
+  s_9b6ac5d4cc4d14::t_1b00d82f644935 1-11
+src/components/ClaimText.tsx
+  s_9b6ac5d4cc4d14::t_114e02eaba7030 1-46
+src/components/PrimitiveShowcase.test.tsx
+  s_9b6ac5d4cc4d14::t_72e0d598d4eb90 1-41
+src/components/PrimitiveShowcase.tsx
+  s_9b6ac5d4cc4d14::t_4be246af3354f4 1-186
+src/components/SourceLink.tsx
+  s_9b6ac5d4cc4d14::t_fada1e3c74b963 1-15
+src/components/controls.tsx
+  s_9b6ac5d4cc4d14::t_0122cc71164059 1-104
+src/components/evidence-components.tsx
+  s_9b6ac5d4cc4d14::t_915e634919a370 1-2
+src/components/index.ts
+  s_9b6ac5d4cc4d14::t_bd8e4c63ba6a79 1-23
+src/components/navigation.tsx
+  s_9b6ac5d4cc4d14::t_4d9680c3519b56 1-113
+src/components/primitives.test.tsx
+  s_9b6ac5d4cc4d14::t_66eed78c1e34f7 1-462
+src/data/hash-cross-keys.ts
+  s_9b6ac5d4cc4d14::t_c5da78fef75732 1-20
+src/data/supplemental.ts
+  s_9b6ac5d4cc4d14::t_1a4e83e2c6c898 1-332
+src/domain/citations.ts
+  s_9b6ac5d4cc4d14::t_aae5c7216cfa49 1-186
+src/domain/display-labels.ts
+  s_9b6ac5d4cc4d14::t_fcd7fb96094b6b 1-188
+src/domain/evidence.test.ts
+  s_9b6ac5d4cc4d14::t_4151e428fab2c8 1-382
+src/domain/hash-state.ts
+  s_9b6ac5d4cc4d14::t_7d7839ecb8b253 1-16
+src/domain/research.test.ts
+  s_9b6ac5d4cc4d14::t_23552d43eff068 1-54
+src/features/companies/claim-scope.json
+  s_9b6ac5d4cc4d14::t_97a672a916e9ee 1-16
+src/features/companies/companies.test.tsx
+  s_9b6ac5d4cc4d14::t_8ce2ddcab8c883 1-124
+src/features/companies/index.ts
+  s_9b6ac5d4cc4d14::t_bebfcd6d4a8d70 1
+src/features/field-guide/FieldGuidePage.test.tsx
+  s_9b6ac5d4cc4d14::t_7fffc9c826eec0 1-82
+src/features/field-guide/index.ts
+  s_9b6ac5d4cc4d14::t_95282d35d16234 1
+src/features/playbook-sources/ShowcasePage.tsx
+  s_9b6ac5d4cc4d14::t_7cf973e48cec16 1-18
+src/features/playbook-sources/index.ts
+  s_9b6ac5d4cc4d14::t_0765f5f40f81ac 1
+src/features/playbook-sources/playbook-sources.test.tsx
+  s_9b6ac5d4cc4d14::t_77f925bc813e20 1-14
+src/features/shared/CorpusClaim.test.tsx
+  s_9b6ac5d4cc4d14::t_87aa1e91197c5c 1-33
+src/main.tsx
+  s_9b6ac5d4cc4d14::t_93cc1b4beab705 1-30
+src/styles/app.css
+  s_9b6ac5d4cc4d14::t_e07f1ca860e593 1-344
+src/styles/primitives.css
+  s_9b6ac5d4cc4d14::t_9a8d33ec7e3806 1-1050
+src/styles/tokens.css
+  s_9b6ac5d4cc4d14::t_62654298cd728e 1-242
+vite.config.ts
+  s_9b6ac5d4cc4d14::t_558608d35ae5d7 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "1ef68c9026b9b194dfebb0e9cdbfee113d13140a",
+  "prompts": {},
+  "sessions": {
+    "s_05a1948ee42b22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5808-f2d0-7e23-a77c-71dea4783ff0",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_067aa35b547ee3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f584f-cadf-7ec2-a786-6010da894d20",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_0cbb1d3352c0b1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f579a-1ee8-7611-bf7a-98709c6bbe8c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_277c48c30123bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f57ca-b01c-78a1-97ff-8c57148fcec2",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_82d098ae139e75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5000-4938-75f1-8d03-5e2f363af7d6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_9b6ac5d4cc4d14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ea4317fe-41e2-4e69-b384-e028ba12fbe7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_c2c89f8ed22b42": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f574d-ef32-72e2-aeb4-ae06b2117f24",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_c3d7e0e8652c06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07a975c1-562a-4ddb-95e4-9c2b14bae27d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    },
+    "s_f246f65812e87f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5825-ecaf-71a3-8e4c-13440130ead1",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Sung <choi.sung.h@gmail.com>"
+    }
+  }
+}
