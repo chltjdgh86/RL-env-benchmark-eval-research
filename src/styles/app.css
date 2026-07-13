@@ -414,12 +414,16 @@ h4 {
 
 .guide-page {
   inline-size: 100%;
-  max-inline-size: var(--reading-max);
+  max-inline-size: var(--reading-max-wide);
   margin-inline: auto;
 }
 
 .guide-page > :where(section, nav) {
   min-inline-size: 0;
+}
+
+.guide-page :where(h1, h2, h3, p) {
+  max-inline-size: var(--reading-max-wide);
 }
 
 .guide-page > section {

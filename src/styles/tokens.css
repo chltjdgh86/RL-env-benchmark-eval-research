@@ -53,6 +53,7 @@
   --focus-width: 3px;
   --page-max: 1600px;
   --reading-max: 70ch;
+  --reading-max-wide: 92ch;
 
   --motion-micro: 120ms;
   --motion-standard: 180ms;
